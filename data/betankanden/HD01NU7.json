@@ -1,0 +1,138 @@
+{
+  "dok_id": "HD01NU7",
+  "titel": "Förbudet mot utvinning av uran tas bort",
+  "utskott": "NU",
+  "nummer": 7,
+  "datum": "2025-10-23 00:00:00",
+  "rm": "2025/26",
+  "kort_sammanfattning": "Beslutet innebär att det inte längre är förbjudet att utvinna uran i Sverige. Det betyder att företag kan ansöka om tillstånd för att bryta uran, vilket kan leda till nya gruvor. Om uranbrytning startar, kan det påverka miljön och skapa jobb i de områden där det sker. Det kan också bidra till Sveriges energiförsörjning.\n",
+  "bakgrund": "",
+  "beslut": "",
+  "roster": {
+    "S": {
+      "ja": 0,
+      "nej": 91,
+      "avstar": 0,
+      "franvarande": 15
+    },
+    "SD": {
+      "ja": 61,
+      "nej": 0,
+      "avstar": 0,
+      "franvarande": 11
+    },
+    "C": {
+      "ja": 0,
+      "nej": 19,
+      "avstar": 0,
+      "franvarande": 5
+    },
+    "M": {
+      "ja": 58,
+      "nej": 0,
+      "avstar": 0,
+      "franvarande": 10
+    },
+    "MP": {
+      "ja": 0,
+      "nej": 15,
+      "avstar": 0,
+      "franvarande": 3
+    },
+    "L": {
+      "ja": 14,
+      "nej": 0,
+      "avstar": 0,
+      "franvarande": 2
+    },
+    "KD": {
+      "ja": 16,
+      "nej": 0,
+      "avstar": 0,
+      "franvarande": 3
+    },
+    "-": {
+      "ja": 0,
+      "nej": 4,
+      "avstar": 0,
+      "franvarande": 0
+    },
+    "V": {
+      "ja": 0,
+      "nej": 19,
+      "avstar": 0,
+      "franvarande": 3
+    }
+  },
+  "tags": [
+    "MILJÖ"
+  ],
+  "status": "NY",
+  "passed": true,
+  "dokument_url": "https://www.riksdagen.se/sv/dokument-och-lagar/dokument/betankande/_HD01NU7",
+  "voteringar": [
+    {
+      "party": "S",
+      "ja": 0,
+      "nej": 91,
+      "avstar": 0,
+      "franvarande": 15
+    },
+    {
+      "party": "SD",
+      "ja": 61,
+      "nej": 0,
+      "avstar": 0,
+      "franvarande": 11
+    },
+    {
+      "party": "C",
+      "ja": 0,
+      "nej": 19,
+      "avstar": 0,
+      "franvarande": 5
+    },
+    {
+      "party": "M",
+      "ja": 58,
+      "nej": 0,
+      "avstar": 0,
+      "franvarande": 10
+    },
+    {
+      "party": "MP",
+      "ja": 0,
+      "nej": 15,
+      "avstar": 0,
+      "franvarande": 3
+    },
+    {
+      "party": "L",
+      "ja": 14,
+      "nej": 0,
+      "avstar": 0,
+      "franvarande": 2
+    },
+    {
+      "party": "KD",
+      "ja": 16,
+      "nej": 0,
+      "avstar": 0,
+      "franvarande": 3
+    },
+    {
+      "party": "-",
+      "ja": 0,
+      "nej": 4,
+      "avstar": 0,
+      "franvarande": 0
+    },
+    {
+      "party": "V",
+      "ja": 0,
+      "nej": 19,
+      "avstar": 0,
+      "franvarande": 3
+    }
+  ]
+}

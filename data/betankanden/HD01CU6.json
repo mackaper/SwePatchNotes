@@ -1,0 +1,139 @@
+{
+  "dok_id": "HD01CU6",
+  "titel": "Ett mer heltäckande straffansvar vid angrepp på företagshemligheter",
+  "utskott": "CU",
+  "nummer": 6,
+  "datum": "2025-11-20 00:00:00",
+  "rm": "2025/26",
+  "kort_sammanfattning": "Detta beslut innebär att det blir strängare straff för de som stjäl eller missbrukar företagshemligheter. Det kan handla om information om exempelvis affärsstrategier, tekniska lösningar eller kundregister. Förändringen innebär att det blir lättare att åtala personer som skadar företag genom att avslöja deras hemligheter, vilket ska skydda företagens konkurrenskraft.\n",
+  "bakgrund": "",
+  "beslut": "",
+  "roster": {
+    "S": {
+      "ja": 93,
+      "nej": 0,
+      "avstar": 0,
+      "franvarande": 13
+    },
+    "SD": {
+      "ja": 61,
+      "nej": 0,
+      "avstar": 0,
+      "franvarande": 11
+    },
+    "C": {
+      "ja": 20,
+      "nej": 0,
+      "avstar": 0,
+      "franvarande": 4
+    },
+    "M": {
+      "ja": 60,
+      "nej": 0,
+      "avstar": 0,
+      "franvarande": 8
+    },
+    "MP": {
+      "ja": 0,
+      "nej": 14,
+      "avstar": 0,
+      "franvarande": 4
+    },
+    "L": {
+      "ja": 12,
+      "nej": 0,
+      "avstar": 0,
+      "franvarande": 4
+    },
+    "KD": {
+      "ja": 16,
+      "nej": 0,
+      "avstar": 0,
+      "franvarande": 3
+    },
+    "-": {
+      "ja": 3,
+      "nej": 0,
+      "avstar": 0,
+      "franvarande": 1
+    },
+    "V": {
+      "ja": 16,
+      "nej": 1,
+      "avstar": 0,
+      "franvarande": 5
+    }
+  },
+  "tags": [
+    "BROTT",
+    "JORDBRUK"
+  ],
+  "status": "NY",
+  "passed": true,
+  "dokument_url": "https://www.riksdagen.se/sv/dokument-och-lagar/dokument/betankande/_HD01CU6",
+  "voteringar": [
+    {
+      "party": "S",
+      "ja": 93,
+      "nej": 0,
+      "avstar": 0,
+      "franvarande": 13
+    },
+    {
+      "party": "SD",
+      "ja": 61,
+      "nej": 0,
+      "avstar": 0,
+      "franvarande": 11
+    },
+    {
+      "party": "C",
+      "ja": 20,
+      "nej": 0,
+      "avstar": 0,
+      "franvarande": 4
+    },
+    {
+      "party": "M",
+      "ja": 60,
+      "nej": 0,
+      "avstar": 0,
+      "franvarande": 8
+    },
+    {
+      "party": "MP",
+      "ja": 0,
+      "nej": 14,
+      "avstar": 0,
+      "franvarande": 4
+    },
+    {
+      "party": "L",
+      "ja": 12,
+      "nej": 0,
+      "avstar": 0,
+      "franvarande": 4
+    },
+    {
+      "party": "KD",
+      "ja": 16,
+      "nej": 0,
+      "avstar": 0,
+      "franvarande": 3
+    },
+    {
+      "party": "-",
+      "ja": 3,
+      "nej": 0,
+      "avstar": 0,
+      "franvarande": 1
+    },
+    {
+      "party": "V",
+      "ja": 16,
+      "nej": 1,
+      "avstar": 0,
+      "franvarande": 5
+    }
+  ]
+}

@@ -1,0 +1,138 @@
+{
+  "dok_id": "HD01UFöU1",
+  "titel": "En tydlig beslutsordning för deltagande i Natos samlade verksamhet för avskräckning och försvar",
+  "utskott": "UFöU",
+  "nummer": 1,
+  "datum": "2025-10-23 00:00:00",
+  "rm": "2025/26",
+  "kort_sammanfattning": "Riksdagen har beslutat om en tydligare ordning för hur Sverige ska fatta beslut om att delta i Natos gemensamma avskräckning och försvar. Det innebär att det blir klarare vilka steg som ska tas och vem som bestämmer om svenska soldater och resurser ska delta i Natos verksamhet. För dig som medborgare betyder det en ökad transparens i hur sådana viktiga beslut fattas, vilket kan påverka Sveriges säkerhet och försvar. Inga direkta förändringar sker i din vardag, men beslutet syftar till att stärka Sveriges roll inom Nato.\n",
+  "bakgrund": "",
+  "beslut": "",
+  "roster": {
+    "S": {
+      "ja": 91,
+      "nej": 0,
+      "avstar": 0,
+      "franvarande": 15
+    },
+    "SD": {
+      "ja": 61,
+      "nej": 0,
+      "avstar": 0,
+      "franvarande": 11
+    },
+    "C": {
+      "ja": 19,
+      "nej": 0,
+      "avstar": 0,
+      "franvarande": 5
+    },
+    "M": {
+      "ja": 58,
+      "nej": 0,
+      "avstar": 0,
+      "franvarande": 10
+    },
+    "MP": {
+      "ja": 14,
+      "nej": 0,
+      "avstar": 0,
+      "franvarande": 4
+    },
+    "L": {
+      "ja": 14,
+      "nej": 0,
+      "avstar": 0,
+      "franvarande": 2
+    },
+    "KD": {
+      "ja": 16,
+      "nej": 0,
+      "avstar": 0,
+      "franvarande": 3
+    },
+    "-": {
+      "ja": 0,
+      "nej": 4,
+      "avstar": 0,
+      "franvarande": 0
+    },
+    "V": {
+      "ja": 0,
+      "nej": 19,
+      "avstar": 0,
+      "franvarande": 3
+    }
+  },
+  "tags": [
+    "FÖRSVAR"
+  ],
+  "status": "NY",
+  "passed": true,
+  "dokument_url": "https://www.riksdagen.se/sv/dokument-och-lagar/dokument/betankande/_HD01UFöU1",
+  "voteringar": [
+    {
+      "party": "S",
+      "ja": 91,
+      "nej": 0,
+      "avstar": 0,
+      "franvarande": 15
+    },
+    {
+      "party": "SD",
+      "ja": 61,
+      "nej": 0,
+      "avstar": 0,
+      "franvarande": 11
+    },
+    {
+      "party": "C",
+      "ja": 19,
+      "nej": 0,
+      "avstar": 0,
+      "franvarande": 5
+    },
+    {
+      "party": "M",
+      "ja": 58,
+      "nej": 0,
+      "avstar": 0,
+      "franvarande": 10
+    },
+    {
+      "party": "MP",
+      "ja": 14,
+      "nej": 0,
+      "avstar": 0,
+      "franvarande": 4
+    },
+    {
+      "party": "L",
+      "ja": 14,
+      "nej": 0,
+      "avstar": 0,
+      "franvarande": 2
+    },
+    {
+      "party": "KD",
+      "ja": 16,
+      "nej": 0,
+      "avstar": 0,
+      "franvarande": 3
+    },
+    {
+      "party": "-",
+      "ja": 0,
+      "nej": 4,
+      "avstar": 0,
+      "franvarande": 0
+    },
+    {
+      "party": "V",
+      "ja": 0,
+      "nej": 19,
+      "avstar": 0,
+      "franvarande": 3
+    }
+  ]
+}

@@ -1,0 +1,1554 @@
+[
+  {
+    "dok_id": "HD01JuU8",
+    "titel": "Skärpta regler för villkorlig frigivning",
+    "utskott": "JuU",
+    "nummer": 8,
+    "datum": "2025-11-28 00:00:00",
+    "rm": "2025/26",
+    "kort_sammanfattning": "De nya reglerna påverkar personer som dömts till fängelse. Det blir svårare att bli villkorligt frigiven, vilket innebär att man får avtjäna en större del av sitt straff i fängelse. Syftet är att öka tryggheten i samhället och minska risken för återfall i brott.\n",
+    "roster": {
+      "S": {
+        "ja": 91,
+        "nej": 0,
+        "avstar": 0,
+        "franvarande": 15
+      },
+      "SD": {
+        "ja": 63,
+        "nej": 0,
+        "avstar": 0,
+        "franvarande": 9
+      },
+      "C": {
+        "ja": 21,
+        "nej": 0,
+        "avstar": 0,
+        "franvarande": 3
+      },
+      "M": {
+        "ja": 59,
+        "nej": 0,
+        "avstar": 0,
+        "franvarande": 9
+      },
+      "MP": {
+        "ja": 0,
+        "nej": 15,
+        "avstar": 0,
+        "franvarande": 3
+      },
+      "L": {
+        "ja": 14,
+        "nej": 0,
+        "avstar": 0,
+        "franvarande": 2
+      },
+      "KD": {
+        "ja": 16,
+        "nej": 0,
+        "avstar": 0,
+        "franvarande": 3
+      },
+      "-": {
+        "ja": 1,
+        "nej": 0,
+        "avstar": 2,
+        "franvarande": 1
+      },
+      "V": {
+        "ja": 19,
+        "nej": 0,
+        "avstar": 0,
+        "franvarande": 3
+      }
+    },
+    "tags": [
+      "BROTT",
+      "JORDBRUK"
+    ],
+    "status": "NY",
+    "passed": true
+  },
+  {
+    "dok_id": "HD01KU1",
+    "titel": "Utgiftsområde 1 Rikets styrelse",
+    "utskott": "KU",
+    "nummer": 1,
+    "datum": "2025-11-28 00:00:00",
+    "rm": "2025/26",
+    "kort_sammanfattning": "Detta betänkande från riksdagen handlar om hur pengar ska fördelas till \"Rikets styrelse\". Det berör finansieringen av olika statliga verksamheter som är viktiga för hur Sverige styrs, exempelvis riksdagens arbete och Statsrådsberedningen. För dig som medborgare innebär det att riksdagen tar ställning till hur skattepengar används för att finansiera dessa funktioner. Beslutet påverkar indirekt hur effektivt och välfungerande den svenska staten är.\n",
+    "roster": {},
+    "tags": [
+      "EKONOMI",
+      "ARBETE"
+    ],
+    "status": "NY",
+    "passed": true
+  },
+  {
+    "dok_id": "HD01KrU1",
+    "titel": "Utgiftsområde 17 Kultur, medier, trossamfund och fritid",
+    "utskott": "KrU",
+    "nummer": 1,
+    "datum": "2025-11-28 00:00:00",
+    "rm": "2025/26",
+    "kort_sammanfattning": "Detta betänkande handlar om statens utgifter för kultur, medier, trossamfund och fritid. Det innebär att det diskuteras hur mycket pengar olika verksamheter inom dessa områden ska få. För dig som medborgare kan det påverka tillgången till exempelvis bibliotek, museer, kulturarrangemang och stöd till trossamfund. Det kan även påverka hur mycket resurser som satsas på medier, som public service.\n",
+    "roster": {},
+    "tags": [
+      "EKONOMI"
+    ],
+    "status": "NY",
+    "passed": true
+  },
+  {
+    "dok_id": "HD01KU15",
+    "titel": "Den årliga revisionen av Stiftelsen Riksbankens Jubileumsfond",
+    "utskott": "KU",
+    "nummer": 15,
+    "datum": "2025-11-27 00:00:00",
+    "rm": "2025/26",
+    "kort_sammanfattning": "Detta är en årlig granskning av hur Stiftelsen Riksbankens Jubileumsfond har skött sin verksamhet. För dig som medborgare innebär det att riksdagen kontrollerar att stiftelsen använder sina pengar på ett bra sätt. Granskningen påverkar inte direkt din vardag, men bidrar till att säkerställa att stiftelsens arbete med forskning och utveckling sköts ansvarsfullt.\n",
+    "roster": {},
+    "tags": [
+      "EKONOMI",
+      "UTBILDNING"
+    ],
+    "status": "NY",
+    "passed": true
+  },
+  {
+    "dok_id": "HD01SkU1",
+    "titel": "Utgiftsområde 3 Skatt, tull och exekution",
+    "utskott": "SkU",
+    "nummer": 1,
+    "datum": "2025-11-27 00:00:00",
+    "rm": "2025/26",
+    "kort_sammanfattning": "Detta dokument handlar om skatter, tullar och hur skulder drivs in. Det påverkar dig som medborgare genom att det styr hur mycket skatt du betalar, vad som gäller när du handlar från utlandet och hur Kronofogden arbetar om du har skulder. Inga konkreta förändringar för medborgare framgår i detta dokument.\n",
+    "roster": {},
+    "tags": [
+      "EKONOMI",
+      "JORDBRUK"
+    ],
+    "status": "NY",
+    "passed": true
+  },
+  {
+    "dok_id": "HD01SkU5",
+    "titel": "Ytterligare kompletteringar till bestämmelserna om tilläggsskatt för företag i stora koncerner",
+    "utskott": "SkU",
+    "nummer": 5,
+    "datum": "2025-11-27 00:00:00",
+    "rm": "2025/26",
+    "kort_sammanfattning": "Detta beslut handlar om skatter för stora företagskoncerner. Det innebär kompletteringar till redan existerande regler om tilläggsskatt. För en vanlig medborgare betyder det indirekt att statens intäkter från stora företag kan påverkas, vilket i sin tur kan påverka finansieringen av offentliga tjänster.\n",
+    "roster": {},
+    "tags": [
+      "EKONOMI",
+      "JORDBRUK"
+    ],
+    "status": "NY",
+    "passed": true
+  },
+  {
+    "dok_id": "HD01SoU10",
+    "titel": "Ett förstärkt högkostnadsskydd för tandvård",
+    "utskott": "SoU",
+    "nummer": 10,
+    "datum": "2025-11-27 00:00:00",
+    "rm": "2025/26",
+    "kort_sammanfattning": "Detta kan innebära att det blir billigare för dig som medborgare att gå till tandläkaren. Högkostnadsskyddet för tandvård förstärks, vilket betyder att du får betala mindre själv när du har höga kostnader för din tandvård. De konkreta förändringarna beror på hur det nuvarande systemet ändras, men målet är att minska den ekonomiska bördan för patienter med omfattande tandvårdsbehov.\n",
+    "roster": {},
+    "tags": [
+      "EKONOMI",
+      "HÄLSA"
+    ],
+    "status": "NY",
+    "passed": true
+  },
+  {
+    "dok_id": "HD01FiU1",
+    "titel": "Statens budget 2026 - Rambeslutet",
+    "utskott": "FiU",
+    "nummer": 1,
+    "datum": "2025-11-21 00:00:00",
+    "rm": "2025/26",
+    "kort_sammanfattning": "Detta är ett beslut om statens budget för 2026. Budgeten fastställer de ekonomiska ramarna för olika områden i samhället. Det innebär att politiker bestämmer hur mycket pengar som ska gå till exempelvis sjukvård, utbildning och infrastruktur. Budgeten kan påverka din vardag genom förändringar i skatter, avgifter eller tillgång till olika tjänster.\n",
+    "roster": {
+      "S": {
+        "ja": 0,
+        "nej": 93,
+        "avstar": 0,
+        "franvarande": 13
+      },
+      "SD": {
+        "ja": 61,
+        "nej": 0,
+        "avstar": 0,
+        "franvarande": 11
+      },
+      "C": {
+        "ja": 0,
+        "nej": 0,
+        "avstar": 20,
+        "franvarande": 4
+      },
+      "M": {
+        "ja": 60,
+        "nej": 0,
+        "avstar": 0,
+        "franvarande": 8
+      },
+      "MP": {
+        "ja": 0,
+        "nej": 0,
+        "avstar": 14,
+        "franvarande": 4
+      },
+      "L": {
+        "ja": 12,
+        "nej": 0,
+        "avstar": 0,
+        "franvarande": 4
+      },
+      "KD": {
+        "ja": 16,
+        "nej": 0,
+        "avstar": 0,
+        "franvarande": 3
+      },
+      "-": {
+        "ja": 1,
+        "nej": 1,
+        "avstar": 1,
+        "franvarande": 1
+      },
+      "V": {
+        "ja": 0,
+        "nej": 0,
+        "avstar": 17,
+        "franvarande": 5
+      }
+    },
+    "tags": [
+      "EKONOMI",
+      "HÄLSA"
+    ],
+    "status": "NY",
+    "passed": true
+  },
+  {
+    "dok_id": "HD01CU6",
+    "titel": "Ett mer heltäckande straffansvar vid angrepp på företagshemligheter",
+    "utskott": "CU",
+    "nummer": 6,
+    "datum": "2025-11-20 00:00:00",
+    "rm": "2025/26",
+    "kort_sammanfattning": "Detta beslut innebär att det blir strängare straff för de som stjäl eller missbrukar företagshemligheter. Det kan handla om information om exempelvis affärsstrategier, tekniska lösningar eller kundregister. Förändringen innebär att det blir lättare att åtala personer som skadar företag genom att avslöja deras hemligheter, vilket ska skydda företagens konkurrenskraft.\n",
+    "roster": {
+      "S": {
+        "ja": 93,
+        "nej": 0,
+        "avstar": 0,
+        "franvarande": 13
+      },
+      "SD": {
+        "ja": 61,
+        "nej": 0,
+        "avstar": 0,
+        "franvarande": 11
+      },
+      "C": {
+        "ja": 20,
+        "nej": 0,
+        "avstar": 0,
+        "franvarande": 4
+      },
+      "M": {
+        "ja": 60,
+        "nej": 0,
+        "avstar": 0,
+        "franvarande": 8
+      },
+      "MP": {
+        "ja": 0,
+        "nej": 14,
+        "avstar": 0,
+        "franvarande": 4
+      },
+      "L": {
+        "ja": 12,
+        "nej": 0,
+        "avstar": 0,
+        "franvarande": 4
+      },
+      "KD": {
+        "ja": 16,
+        "nej": 0,
+        "avstar": 0,
+        "franvarande": 3
+      },
+      "-": {
+        "ja": 3,
+        "nej": 0,
+        "avstar": 0,
+        "franvarande": 1
+      },
+      "V": {
+        "ja": 16,
+        "nej": 1,
+        "avstar": 0,
+        "franvarande": 5
+      }
+    },
+    "tags": [
+      "BROTT",
+      "JORDBRUK"
+    ],
+    "status": "NY",
+    "passed": true
+  },
+  {
+    "dok_id": "HD01CU8",
+    "titel": "Uppskjutet krav på att hållbarhetsrapportera för vissa företag",
+    "utskott": "CU",
+    "nummer": 8,
+    "datum": "2025-11-20 00:00:00",
+    "rm": "2025/26",
+    "kort_sammanfattning": "Vissa företag får längre tid på sig att börja rapportera om sitt hållbarhetsarbete. Det betyder att kraven på att redovisa hur de påverkar miljön och samhället skjuts upp. Förändringen kan påverka hur snabbt vi får information om företagens hållbarhetsarbete. Det kan också påverka takten i företagens omställning till mer hållbara verksamheter.\n",
+    "roster": {},
+    "tags": [
+      "MILJÖ",
+      "ARBETE"
+    ],
+    "status": "NY",
+    "passed": true
+  },
+  {
+    "dok_id": "HD01FiU11",
+    "titel": "Höständringsbudget för 2025",
+    "utskott": "FiU",
+    "nummer": 11,
+    "datum": "2025-11-20 00:00:00",
+    "rm": "2025/26",
+    "kort_sammanfattning": "Höständringsbudgeten för 2025 handlar om hur statens pengar ska användas. Det kan innebära förändringar i anslag till olika verksamheter som påverkar dig, exempelvis sjukvård, utbildning eller infrastruktur. Budgeten kan också innehålla justeringar av skatter och avgifter, vilket direkt påverkar din ekonomi.\n",
+    "roster": {},
+    "tags": [
+      "EKONOMI",
+      "HÄLSA"
+    ],
+    "status": "NY",
+    "passed": true
+  },
+  {
+    "dok_id": "HD01FiU13",
+    "titel": "Finansiering av BIS Innovation Hub Nordic Centre",
+    "utskott": "FiU",
+    "nummer": 13,
+    "datum": "2025-11-20 00:00:00",
+    "rm": "2025/26",
+    "kort_sammanfattning": "Detta beslut handlar om att Sverige ska vara med och finansiera ett center som kallas BIS Innovation Hub Nordic Centre. Centret ska utforska ny teknik inom finansvärlden. Det kan på sikt påverka hur vi betalar och hanterar pengar, men de direkta effekterna för dig som medborgare är små.\n",
+    "roster": {},
+    "tags": [
+      "EKONOMI",
+      "DIGITALT"
+    ],
+    "status": "NY",
+    "passed": true
+  },
+  {
+    "dok_id": "HD01JuU6",
+    "titel": "Skärpta krav för offentliga biträden och höjda kompetenskrav för tolkar i migrationsärenden",
+    "utskott": "JuU",
+    "nummer": 6,
+    "datum": "2025-11-20 00:00:00",
+    "rm": "2025/26",
+    "kort_sammanfattning": "Detta beslut innebär att det blir högre krav på de jurister som hjälper personer i migrationsärenden, så kallade offentliga biträden. Dessutom ställs högre krav på de tolkar som används i dessa ärenden. Syftet är att säkerställa att de som söker asyl eller uppehållstillstånd får bättre juridisk hjälp och att tolkningen är korrekt. För dig som berörs av migrationsprocessen kan det alltså innebära en högre kvalitet på den hjälp du får.\n",
+    "roster": {},
+    "tags": [
+      "MIGRATION",
+      "JORDBRUK"
+    ],
+    "status": "NY",
+    "passed": true
+  },
+  {
+    "dok_id": "HD01NU10",
+    "titel": "Regelverket för framtidens el- och gasnät",
+    "utskott": "NU",
+    "nummer": 10,
+    "datum": "2025-11-20 00:00:00",
+    "rm": "2025/26",
+    "kort_sammanfattning": "Detta regelverk kan påverka hur el och gas levereras till ditt hem i framtiden. Nya regler kan komma att påverka hur el- och gasnät byggs och underhålls. Det kan leda till förändringar i priset på el och gas, samt hur pålitlig leveransen är. Regelverket syftar till att skapa ett mer hållbart och effektivt system för distribution av energi.\n",
+    "roster": {},
+    "tags": [
+      "MILJÖ",
+      "JORDBRUK"
+    ],
+    "status": "NY",
+    "passed": true
+  },
+  {
+    "dok_id": "HD01SkU4",
+    "titel": "Rapportering och utbyte av information om kryptotillgångar",
+    "utskott": "SkU",
+    "nummer": 4,
+    "datum": "2025-11-20 00:00:00",
+    "rm": "2025/26",
+    "kort_sammanfattning": "Beslutet innebär att företag som hanterar kryptotillgångar, som exempelvis Bitcoin, måste rapportera information om sina användare och deras transaktioner till Skatteverket. Denna information kommer sedan att utbytas med andra länder. För dig som medborgare betyder det att dina kryptotransaktioner blir mer synliga för myndigheterna, vilket kan påverka hur du beskattas. Syftet är att förhindra skatteflykt och öka transparensen kring kryptovalutor.\n",
+    "roster": {},
+    "tags": [
+      "EKONOMI",
+      "JORDBRUK"
+    ],
+    "status": "NY",
+    "passed": true
+  },
+  {
+    "dok_id": "HD01SfU7",
+    "titel": "Anpassning av vissa skatte- och avgiftsnedsättningar till EU:s regler om statsstöd",
+    "utskott": "SfU",
+    "nummer": 7,
+    "datum": "2025-11-18 00:00:00",
+    "rm": "2025/26",
+    "kort_sammanfattning": "Detta beslut handlar om att anpassa vissa skatte- och avgiftsnedsättningar till EU:s regler om statsstöd. Förändringen kan påverka företag som idag har dessa nedsättningar, eftersom reglerna för vilka som får ta del av dem kan ändras. Det är ännu oklart exakt vilka företag som påverkas och hur stora förändringarna blir, men syftet är att följa EU:s lagstiftning. Detta kan i sin tur påverka konkurrensen mellan företag inom EU.\n",
+    "roster": {},
+    "tags": [
+      "EKONOMI",
+      "JORDBRUK"
+    ],
+    "status": "NY",
+    "passed": true
+  },
+  {
+    "dok_id": "HD01MJU5",
+    "titel": "Straff för överträdelser av EU:s nya förordningar om f-gaser och ozonnedbrytande ämnen",
+    "utskott": "MJU",
+    "nummer": 5,
+    "datum": "2025-11-17 00:00:00",
+    "rm": "2025/26",
+    "kort_sammanfattning": "Beslutet innebär att det blir straff om företag och privatpersoner bryter mot EU:s regler om f-gaser och ämnen som skadar ozonskiktet. De konkreta förändringarna är att det nu blir tydligare vilka konsekvenser det får om man till exempel använder förbjudna gaser i kylskåp eller klimatanläggningar. Detta ska hjälpa till att skydda miljön och minska utsläppen av skadliga ämnen.\n",
+    "roster": {},
+    "tags": [
+      "MILJÖ",
+      "BROTT"
+    ],
+    "status": "NY",
+    "passed": true
+  },
+  {
+    "dok_id": "HD01CU4",
+    "titel": "Utvidgade möjligheter att meddela näringsförbud på grund av brott",
+    "utskott": "CU",
+    "nummer": 4,
+    "datum": "2025-11-14 00:00:00",
+    "rm": "2025/26",
+    "kort_sammanfattning": "Detta beslut innebär att det blir lättare att förbjuda personer som begår brott från att driva företag. En person kan få näringsförbud om de har begått brott i sin företagsverksamhet. Detta kan leda till att färre personer som missbrukar företag för kriminell verksamhet kan fortsätta göra det.\n",
+    "roster": {},
+    "tags": [
+      "BROTT"
+    ],
+    "status": "NY",
+    "passed": true
+  },
+  {
+    "dok_id": "HD01CU5",
+    "titel": "En förbättrad modell för presumtionshyra",
+    "utskott": "CU",
+    "nummer": 5,
+    "datum": "2025-11-14 00:00:00",
+    "rm": "2025/26",
+    "kort_sammanfattning": "Detta betänkande handlar om hur hyran för nybyggda lägenheter sätts. Målet är att göra systemet tydligare och mer rättvist för både hyresgäster och hyresvärdar. Det kan påverka hur mycket du betalar i hyra om du flyttar in i en nyproducerad lägenhet.\n",
+    "roster": {
+      "S": {
+        "ja": 93,
+        "nej": 0,
+        "avstar": 0,
+        "franvarande": 13
+      },
+      "SD": {
+        "ja": 61,
+        "nej": 0,
+        "avstar": 0,
+        "franvarande": 11
+      },
+      "C": {
+        "ja": 19,
+        "nej": 0,
+        "avstar": 0,
+        "franvarande": 5
+      },
+      "M": {
+        "ja": 60,
+        "nej": 0,
+        "avstar": 0,
+        "franvarande": 8
+      },
+      "MP": {
+        "ja": 0,
+        "nej": 15,
+        "avstar": 0,
+        "franvarande": 3
+      },
+      "L": {
+        "ja": 13,
+        "nej": 0,
+        "avstar": 0,
+        "franvarande": 3
+      },
+      "KD": {
+        "ja": 16,
+        "nej": 0,
+        "avstar": 0,
+        "franvarande": 3
+      },
+      "-": {
+        "ja": 1,
+        "nej": 2,
+        "avstar": 0,
+        "franvarande": 1
+      },
+      "V": {
+        "ja": 0,
+        "nej": 18,
+        "avstar": 0,
+        "franvarande": 4
+      }
+    },
+    "tags": [
+      "BOSTAD"
+    ],
+    "status": "NY",
+    "passed": true
+  },
+  {
+    "dok_id": "HD01KU8",
+    "titel": "Stärkt konstitutionell beredskap",
+    "utskott": "KU",
+    "nummer": 8,
+    "datum": "2025-11-14 00:00:00",
+    "rm": "2025/26",
+    "kort_sammanfattning": "Detta beslut handlar om att stärka skyddet för Sveriges grundlagar. Det kan innebära att det blir svårare att ändra grundlagarna i framtiden, även i situationer som kriser. För dig som medborgare betyder det att grundläggande rättigheter och friheter kan få ett starkare skydd mot snabba politiska förändringar.\n",
+    "roster": {
+      "S": {
+        "ja": 92,
+        "nej": 0,
+        "avstar": 0,
+        "franvarande": 14
+      },
+      "SD": {
+        "ja": 63,
+        "nej": 0,
+        "avstar": 0,
+        "franvarande": 9
+      },
+      "C": {
+        "ja": 21,
+        "nej": 0,
+        "avstar": 0,
+        "franvarande": 3
+      },
+      "M": {
+        "ja": 59,
+        "nej": 0,
+        "avstar": 0,
+        "franvarande": 9
+      },
+      "MP": {
+        "ja": 0,
+        "nej": 15,
+        "avstar": 0,
+        "franvarande": 3
+      },
+      "L": {
+        "ja": 14,
+        "nej": 0,
+        "avstar": 0,
+        "franvarande": 2
+      },
+      "KD": {
+        "ja": 16,
+        "nej": 0,
+        "avstar": 0,
+        "franvarande": 3
+      },
+      "-": {
+        "ja": 0,
+        "nej": 2,
+        "avstar": 1,
+        "franvarande": 1
+      },
+      "V": {
+        "ja": 19,
+        "nej": 0,
+        "avstar": 0,
+        "franvarande": 3
+      }
+    },
+    "tags": [
+      "JORDBRUK"
+    ],
+    "status": "NY",
+    "passed": true
+  },
+  {
+    "dok_id": "HD01KU9",
+    "titel": "Förbättrade förutsättningar för Sverige i Nato – en kompletterande sekretessbestämmelse för Natoinformation",
+    "utskott": "KU",
+    "nummer": 9,
+    "datum": "2025-11-14 00:00:00",
+    "rm": "2025/26",
+    "kort_sammanfattning": "Detta beslut handlar om att stärka skyddet av information som Sverige får från Nato. Det innebär att vissa uppgifter om Sveriges samarbete med Nato kan hållas hemliga för att skydda landets säkerhet. För dig som medborgare betyder det här att viss information om försvaret och samarbetet med andra länder kan vara svårare att få tillgång till.\n",
+    "roster": {},
+    "tags": [
+      "ARBETE",
+      "FÖRSVAR"
+    ],
+    "status": "NY",
+    "passed": true
+  },
+  {
+    "dok_id": "HD01SoU8",
+    "titel": "Skarpare verktyg till Inspektionen för vård och omsorg",
+    "utskott": "SoU",
+    "nummer": 8,
+    "datum": "2025-11-14 00:00:00",
+    "rm": "2025/26",
+    "kort_sammanfattning": "Detta beslut ger Inspektionen för vård och omsorg (IVO) större möjligheter att kontrollera och agera mot de som bedriver vård och omsorg. Det innebär att IVO kan utföra fler oanmälda inspektioner och snabbare stänga verksamheter som missköts. För dig som patient eller brukare kan det betyda en tryggare och säkrare vård och omsorg.\n",
+    "roster": {},
+    "tags": [
+      "HÄLSA",
+      "JORDBRUK"
+    ],
+    "status": "NY",
+    "passed": true
+  },
+  {
+    "dok_id": "HD01FiU12",
+    "titel": "Ett effektivt straffrättsligt skydd för statliga stöd till företag",
+    "utskott": "FiU",
+    "nummer": 12,
+    "datum": "2025-11-13 00:00:00",
+    "rm": "2025/26",
+    "kort_sammanfattning": "Detta beslut innebär att det blir strängare straff för brott som rör statliga stöd till företag. Syftet är att skydda skattepengar och se till att de används korrekt. Förändringen kan leda till att personer som missbrukar eller stjäl statliga stöd döms till hårdare straff än tidigare.\n",
+    "roster": {},
+    "tags": [
+      "EKONOMI",
+      "BROTT"
+    ],
+    "status": "NY",
+    "passed": true
+  },
+  {
+    "dok_id": "HD01KU13",
+    "titel": "Kompletterande bestämmelser till EU:s förordning om politisk reklam",
+    "utskott": "KU",
+    "nummer": 13,
+    "datum": "2025-11-13 00:00:00",
+    "rm": "2025/26",
+    "kort_sammanfattning": "Detta är ett tillägg till en EU-förordning som handlar om politisk reklam. Förslaget syftar till att komplettera EU-reglerna på nationell nivå. Detaljerna om vad detta innebär i praktiken för en vanlig medborgare framgår inte av texten.\n",
+    "roster": {
+      "S": {
+        "ja": 93,
+        "nej": 0,
+        "avstar": 0,
+        "franvarande": 13
+      },
+      "SD": {
+        "ja": 0,
+        "nej": 61,
+        "avstar": 0,
+        "franvarande": 11
+      },
+      "C": {
+        "ja": 19,
+        "nej": 0,
+        "avstar": 0,
+        "franvarande": 5
+      },
+      "M": {
+        "ja": 60,
+        "nej": 0,
+        "avstar": 0,
+        "franvarande": 8
+      },
+      "MP": {
+        "ja": 15,
+        "nej": 0,
+        "avstar": 0,
+        "franvarande": 3
+      },
+      "L": {
+        "ja": 13,
+        "nej": 0,
+        "avstar": 0,
+        "franvarande": 3
+      },
+      "KD": {
+        "ja": 16,
+        "nej": 0,
+        "avstar": 0,
+        "franvarande": 3
+      },
+      "-": {
+        "ja": 3,
+        "nej": 0,
+        "avstar": 0,
+        "franvarande": 1
+      },
+      "V": {
+        "ja": 18,
+        "nej": 0,
+        "avstar": 0,
+        "franvarande": 4
+      }
+    },
+    "tags": [
+      "JORDBRUK"
+    ],
+    "status": "NY",
+    "passed": true
+  },
+  {
+    "dok_id": "HD01SoU4",
+    "titel": "Redovisning av fördelning av medel från Allmänna arvsfonden under budgetåret 2024",
+    "utskott": "SoU",
+    "nummer": 4,
+    "datum": "2025-11-13 00:00:00",
+    "rm": "2025/26",
+    "kort_sammanfattning": "Allmänna arvsfonden har fördelat pengar under 2024. Det innebär att olika projekt och organisationer som arbetar för barn, ungdomar och personer med funktionsnedsättning har fått ekonomiskt stöd. Dessa pengar kan användas till exempelvis fritidsaktiviteter, stödgrupper eller andra insatser som förbättrar deras livssituation. För dig som medborgare betyder det att det finns fler möjligheter och resurser för dessa grupper i samhället.\n",
+    "roster": {},
+    "tags": [
+      "EKONOMI",
+      "BARN"
+    ],
+    "status": "NY",
+    "passed": true
+  },
+  {
+    "dok_id": "HD01SoU7",
+    "titel": "Stärkt kontroll över tandvårdssektorn",
+    "utskott": "SoU",
+    "nummer": 7,
+    "datum": "2025-11-13 00:00:00",
+    "rm": "2025/26",
+    "kort_sammanfattning": "Detta beslut innebär att staten kommer att ha större möjligheter att granska och kontrollera hur tandvårdskliniker fungerar. Det kan innebära att det blir lättare att upptäcka felaktigheter eller oegentligheter inom tandvården. För dig som patient kan det potentiellt leda till en tryggare och mer rättvis tandvård.\n",
+    "roster": {},
+    "tags": [
+      "HÄLSA",
+      "JORDBRUK"
+    ],
+    "status": "NY",
+    "passed": true
+  },
+  {
+    "dok_id": "HD01SoU9",
+    "titel": "Stärkta förutsättningar för stöd ur Allmänna arvsfonden till förmån för äldre personer",
+    "utskott": "SoU",
+    "nummer": 9,
+    "datum": "2025-11-13 00:00:00",
+    "rm": "2025/26",
+    "kort_sammanfattning": "Detta beslut handlar om att göra det lättare för organisationer att få pengar från Allmänna arvsfonden för projekt som hjälper äldre. Det innebär att det kan bli fler projekt och aktiviteter som riktar sig till äldre personer i samhället, till exempel stödgrupper eller kulturella evenemang. Förhoppningen är att detta ska bidra till ökad välfärd och bättre levnadsvillkor för äldre.\n",
+    "roster": {},
+    "tags": [
+      "EKONOMI",
+      "ÄLDRE"
+    ],
+    "status": "NY",
+    "passed": true
+  },
+  {
+    "dok_id": "HD01NU8",
+    "titel": "Förbättrad utformning av EU:s elmarknad",
+    "utskott": "NU",
+    "nummer": 8,
+    "datum": "2025-11-12 00:00:00",
+    "rm": "2025/26",
+    "kort_sammanfattning": "Detta beslut syftar till att göra EU:s elmarknad mer stabil och bättre rustad för framtiden. För dig som medborgare kan det innebära att elpriserna blir mindre svängiga och att tillgången på el blir säkrare, även under perioder med hög efterfrågan eller störningar i elproduktionen. Genom att stödja mer långsiktiga avtal och investeringar i förnybar energi kan detta bidra till en grönare och mer prisvärd elförsörjning på sikt.\n",
+    "roster": {},
+    "tags": [
+      "MILJÖ",
+      "TRANSPORT"
+    ],
+    "status": "NY",
+    "passed": true
+  },
+  {
+    "dok_id": "HD01UbU4",
+    "titel": "Skärpta krav i kommunal vuxenutbildning i svenska för invandrare (sfi)",
+    "utskott": "UbU",
+    "nummer": 4,
+    "datum": "2025-11-12 00:00:00",
+    "rm": "2025/26",
+    "kort_sammanfattning": "De nya kraven i sfi kan påverka hur snabbt och effektivt du lär dig svenska. Kommunerna kan komma att ställa högre krav på närvaro och aktivitet under kurserna. Detta kan innebära att du behöver lägga mer tid på dina studier för att klara kraven. Syftet är att förbättra kvaliteten på utbildningen och hjälpa dig att snabbare integreras i samhället.\n",
+    "roster": {},
+    "tags": [
+      "UTBILDNING",
+      "TRANSPORT"
+    ],
+    "status": "NY",
+    "passed": true
+  },
+  {
+    "dok_id": "HD01SkU8",
+    "titel": "Anpassningar av ränteavdragsreglerna till EU-rätten",
+    "utskott": "SkU",
+    "nummer": 8,
+    "datum": "2025-11-11 00:00:00",
+    "rm": "2025/26",
+    "kort_sammanfattning": "Detta beslut handlar om att ändra reglerna för hur mycket ränteavdrag du kan göra på dina lån, för att följa EU-lagstiftningen. Förändringen kan påverka hur mycket skatt du betalar om du har lån, till exempel bolån. Exakt hur det påverkar dig beror på storleken på dina lån och din totala ekonomi.\n",
+    "roster": {},
+    "tags": [
+      "EKONOMI",
+      "JORDBRUK"
+    ],
+    "status": "NY",
+    "passed": true
+  },
+  {
+    "dok_id": "HD01KU12",
+    "titel": "Kompletterande bestämmelser till EU:s mediefrihetsförordning",
+    "utskott": "KU",
+    "nummer": 12,
+    "datum": "2025-11-07 00:00:00",
+    "rm": "2025/26",
+    "kort_sammanfattning": "Detta är ett förslag om lagar som kompletterar EU:s nya regler för medier. De nya lagarna kan påverka hur medier i Sverige arbetar och vad de får publicera. Det kan också påverka hur du som medborgare får tillgång till information och hur fria medier är att granska makten.\n",
+    "roster": {},
+    "tags": [
+      "JORDBRUK"
+    ],
+    "status": "NY",
+    "passed": true
+  },
+  {
+    "dok_id": "HD01FiU6",
+    "titel": "Redovisning av AP-fondernas verksamhet t.o.m. 2024",
+    "utskott": "FiU",
+    "nummer": 6,
+    "datum": "2025-11-06 00:00:00",
+    "rm": "2025/26",
+    "kort_sammanfattning": "Rapporten redovisar hur AP-fonderna har presterat fram till 2024. AP-fonderna är en del av det allmänna pensionssystemet, vilket betyder att rapporten ger en bild av hur dina pensionspengar förvaltas. Det handlar om att granska hur väl fonderna har lyckats öka i värde, vilket i sin tur kan påverka framtida pensioner. Inga direkta förändringar sker i din pension nu, men rapporten ger information om hur pensionssystemet fungerar.\n",
+    "roster": {},
+    "tags": [
+      "EKONOMI",
+      "TRANSPORT"
+    ],
+    "status": "NY",
+    "passed": true
+  },
+  {
+    "dok_id": "HD01SoU6",
+    "titel": "Hälso- och sjukvårdens beredskap",
+    "utskott": "SoU",
+    "nummer": 6,
+    "datum": "2025-11-06 00:00:00",
+    "rm": "2025/26",
+    "kort_sammanfattning": "Detta beslut handlar om att stärka hälso- och sjukvårdens förmåga att hantera kriser och större olyckor. För dig som medborgare innebär det att samhället arbetar för att säkerställa att du får den vård du behöver även i svåra situationer. Det kan innebära att sjukhus och vårdcentraler är bättre förberedda med material, personal och rutiner för att hantera oväntade händelser.\n",
+    "roster": {},
+    "tags": [
+      "HÄLSA",
+      "JORDBRUK"
+    ],
+    "status": "NY",
+    "passed": true
+  },
+  {
+    "dok_id": "HD01SkU3",
+    "titel": "Kompletterande bestämmelser om flexiblare regler för utbetalning från pensionsförsäkring",
+    "utskott": "SkU",
+    "nummer": 3,
+    "datum": "2025-11-05 00:00:00",
+    "rm": "2025/26",
+    "kort_sammanfattning": "Detta betänkande handlar om att göra det lättare att ta ut pengar från din pensionsförsäkring. För dig som har en pensionsförsäkring kan detta innebära att du får större möjlighet att anpassa dina utbetalningar efter dina behov. De konkreta förändringarna kan vara att reglerna för hur och när du kan ta ut dina pengar blir mer flexibla.\n",
+    "roster": {},
+    "tags": [
+      "EKONOMI",
+      "ÄLDRE"
+    ],
+    "status": "NY",
+    "passed": true
+  },
+  {
+    "dok_id": "HD01UbU3",
+    "titel": "Riksrevisionens rapport om lärosätenas arbete mot avhopp på bristyrkesutbildningar",
+    "utskott": "UbU",
+    "nummer": 3,
+    "datum": "2025-11-04 00:00:00",
+    "rm": "2025/26",
+    "kort_sammanfattning": "Denna rapport från Riksrevisionen handlar om hur universitet och högskolor arbetar för att minska antalet studenter som hoppar av utbildningar inom yrken där det är brist på arbetskraft. För dig som är student eller funderar på att studera, kan det innebära att lärosätena blir bättre på att ge stöd och anpassa utbildningarna så att fler klarar av att slutföra dem. Det kan leda till att fler utbildade personer finns tillgängliga inom viktiga yrken i framtiden.\n",
+    "roster": {},
+    "tags": [
+      "UTBILDNING",
+      "ARBETE"
+    ],
+    "status": "NY",
+    "passed": true
+  },
+  {
+    "dok_id": "HD01TU4",
+    "titel": "Effektiva sanktioner inom luftfarten",
+    "utskott": "TU",
+    "nummer": 4,
+    "datum": "2025-10-29 00:00:00",
+    "rm": "2025/26",
+    "kort_sammanfattning": "Detta betänkande handlar om hur sanktioner inom luftfarten kan bli mer effektiva. För dig som resenär kan det innebära att flygbolag som bryter mot regler straffas hårdare, vilket i teorin ska leda till säkrare och mer rättvisa flygresor. Konkreta förändringar kan vara högre böter eller andra åtgärder mot flygbolag som exempelvis inte följer säkerhetsföreskrifter eller diskriminerar passagerare.\n",
+    "roster": {},
+    "tags": [
+      "BROTT",
+      "FÖRSVAR"
+    ],
+    "status": "NY",
+    "passed": true
+  },
+  {
+    "dok_id": "HD01CU3",
+    "titel": "Riksrevisionens rapport om tillgången till kommunalt vatten och avlopp",
+    "utskott": "CU",
+    "nummer": 3,
+    "datum": "2025-10-24 00:00:00",
+    "rm": "2025/26",
+    "kort_sammanfattning": "Riksrevisionen har granskat hur kommunerna sköter tillgången till vatten och avlopp. Detta kan påverka dig som medborgare genom att det lyfter frågor om hur väl din kommun säkerställer att du har tillgång till rent vatten och fungerande avlopp. Granskningen kan leda till förändringar i hur kommunerna planerar och investerar i sin vatten- och avloppsinfrastruktur, vilket i sin tur kan påverka kvaliteten och priset på dessa tjänster. Rapporten kan också påverka lagstiftningen och reglerna kring kommunalt vatten och avlopp.\n",
+    "roster": {
+      "S": {
+        "ja": 91,
+        "nej": 0,
+        "avstar": 0,
+        "franvarande": 15
+      },
+      "SD": {
+        "ja": 61,
+        "nej": 0,
+        "avstar": 0,
+        "franvarande": 11
+      },
+      "C": {
+        "ja": 19,
+        "nej": 0,
+        "avstar": 0,
+        "franvarande": 5
+      },
+      "M": {
+        "ja": 58,
+        "nej": 0,
+        "avstar": 0,
+        "franvarande": 10
+      },
+      "MP": {
+        "ja": 0,
+        "nej": 0,
+        "avstar": 15,
+        "franvarande": 3
+      },
+      "L": {
+        "ja": 14,
+        "nej": 0,
+        "avstar": 0,
+        "franvarande": 2
+      },
+      "KD": {
+        "ja": 16,
+        "nej": 0,
+        "avstar": 0,
+        "franvarande": 3
+      },
+      "-": {
+        "ja": 2,
+        "nej": 2,
+        "avstar": 0,
+        "franvarande": 0
+      },
+      "V": {
+        "ja": 0,
+        "nej": 19,
+        "avstar": 0,
+        "franvarande": 3
+      }
+    },
+    "tags": [
+      "TRANSPORT",
+      "JORDBRUK"
+    ],
+    "status": "NY",
+    "passed": true
+  },
+  {
+    "dok_id": "HD01AU4",
+    "titel": "Regler om avstängning av statligt anställda",
+    "utskott": "AU",
+    "nummer": 4,
+    "datum": "2025-10-23 00:00:00",
+    "rm": "2025/26",
+    "kort_sammanfattning": "Detta betänkande handlar om vad som gäller om en statligt anställd person stängs av från sin tjänst. Det kan påverka statligt anställda om de misstänks för något allvarligt fel eller brott. De kan då bli avstängda från jobbet under tiden som utredningen pågår.\n",
+    "roster": {},
+    "tags": [
+      "BROTT"
+    ],
+    "status": "NY",
+    "passed": true
+  },
+  {
+    "dok_id": "HD01FöU4",
+    "titel": "Myndigheten för civilt försvar – ett nytt namn för Myndigheten för samhällsskydd och beredskap",
+    "utskott": "FöU",
+    "nummer": 4,
+    "datum": "2025-10-23 00:00:00",
+    "rm": "2025/26",
+    "kort_sammanfattning": "Myndigheten för samhällsskydd och beredskap (MSB) byter namn till Myndigheten för civilt försvar. Förändringen innebär i praktiken att myndigheten får ett tydligare fokus på att stärka Sveriges civila försvar. Detta kan innebära att myndigheten kommer att arbeta mer med frågor som rör skyddsrum, beredskapslager och information till allmänheten om hur man ska agera i krissituationer. Det nya namnet ska spegla myndighetens viktiga roll i att skydda samhället och dess invånare vid kriser och krig.\n",
+    "roster": {},
+    "tags": [
+      "FÖRSVAR",
+      "JORDBRUK"
+    ],
+    "status": "NY",
+    "passed": true
+  },
+  {
+    "dok_id": "HD01MJU4",
+    "titel": "Kompletterande bestämmelser till EU-förordningen om batterier",
+    "utskott": "MJU",
+    "nummer": 4,
+    "datum": "2025-10-23 00:00:00",
+    "rm": "2025/26",
+    "kort_sammanfattning": "Detta beslut handlar om hur EU:s regler om batterier ska fungera i Sverige. Det kan påverka hur batterier tillverkas, används och återvinns. De konkreta förändringarna beror på detaljerna i EU-förordningen och hur Sverige väljer att anpassa sina egna lagar.\n",
+    "roster": {},
+    "tags": [
+      "JORDBRUK"
+    ],
+    "status": "NY",
+    "passed": true
+  },
+  {
+    "dok_id": "HD01NU7",
+    "titel": "Förbudet mot utvinning av uran tas bort",
+    "utskott": "NU",
+    "nummer": 7,
+    "datum": "2025-10-23 00:00:00",
+    "rm": "2025/26",
+    "kort_sammanfattning": "Beslutet innebär att det inte längre är förbjudet att utvinna uran i Sverige. Det betyder att företag kan ansöka om tillstånd för att bryta uran, vilket kan leda till nya gruvor. Om uranbrytning startar, kan det påverka miljön och skapa jobb i de områden där det sker. Det kan också bidra till Sveriges energiförsörjning.\n",
+    "roster": {
+      "S": {
+        "ja": 0,
+        "nej": 91,
+        "avstar": 0,
+        "franvarande": 15
+      },
+      "SD": {
+        "ja": 61,
+        "nej": 0,
+        "avstar": 0,
+        "franvarande": 11
+      },
+      "C": {
+        "ja": 0,
+        "nej": 19,
+        "avstar": 0,
+        "franvarande": 5
+      },
+      "M": {
+        "ja": 58,
+        "nej": 0,
+        "avstar": 0,
+        "franvarande": 10
+      },
+      "MP": {
+        "ja": 0,
+        "nej": 15,
+        "avstar": 0,
+        "franvarande": 3
+      },
+      "L": {
+        "ja": 14,
+        "nej": 0,
+        "avstar": 0,
+        "franvarande": 2
+      },
+      "KD": {
+        "ja": 16,
+        "nej": 0,
+        "avstar": 0,
+        "franvarande": 3
+      },
+      "-": {
+        "ja": 0,
+        "nej": 4,
+        "avstar": 0,
+        "franvarande": 0
+      },
+      "V": {
+        "ja": 0,
+        "nej": 19,
+        "avstar": 0,
+        "franvarande": 3
+      }
+    },
+    "tags": [
+      "MILJÖ"
+    ],
+    "status": "NY",
+    "passed": true
+  },
+  {
+    "dok_id": "HD01UFöU1",
+    "titel": "En tydlig beslutsordning för deltagande i Natos samlade verksamhet för avskräckning och försvar",
+    "utskott": "UFöU",
+    "nummer": 1,
+    "datum": "2025-10-23 00:00:00",
+    "rm": "2025/26",
+    "kort_sammanfattning": "Riksdagen har beslutat om en tydligare ordning för hur Sverige ska fatta beslut om att delta i Natos gemensamma avskräckning och försvar. Det innebär att det blir klarare vilka steg som ska tas och vem som bestämmer om svenska soldater och resurser ska delta i Natos verksamhet. För dig som medborgare betyder det en ökad transparens i hur sådana viktiga beslut fattas, vilket kan påverka Sveriges säkerhet och försvar. Inga direkta förändringar sker i din vardag, men beslutet syftar till att stärka Sveriges roll inom Nato.\n",
+    "roster": {
+      "S": {
+        "ja": 91,
+        "nej": 0,
+        "avstar": 0,
+        "franvarande": 15
+      },
+      "SD": {
+        "ja": 61,
+        "nej": 0,
+        "avstar": 0,
+        "franvarande": 11
+      },
+      "C": {
+        "ja": 19,
+        "nej": 0,
+        "avstar": 0,
+        "franvarande": 5
+      },
+      "M": {
+        "ja": 58,
+        "nej": 0,
+        "avstar": 0,
+        "franvarande": 10
+      },
+      "MP": {
+        "ja": 14,
+        "nej": 0,
+        "avstar": 0,
+        "franvarande": 4
+      },
+      "L": {
+        "ja": 14,
+        "nej": 0,
+        "avstar": 0,
+        "franvarande": 2
+      },
+      "KD": {
+        "ja": 16,
+        "nej": 0,
+        "avstar": 0,
+        "franvarande": 3
+      },
+      "-": {
+        "ja": 0,
+        "nej": 4,
+        "avstar": 0,
+        "franvarande": 0
+      },
+      "V": {
+        "ja": 0,
+        "nej": 19,
+        "avstar": 0,
+        "franvarande": 3
+      }
+    },
+    "tags": [
+      "FÖRSVAR"
+    ],
+    "status": "NY",
+    "passed": true
+  },
+  {
+    "dok_id": "HD01JuU7",
+    "titel": "Utökade möjligheter att verkställa fängelsestraff med elektronisk övervakning",
+    "utskott": "JuU",
+    "nummer": 7,
+    "datum": "2025-10-22 00:00:00",
+    "rm": "2025/26",
+    "kort_sammanfattning": "Detta beslut innebär att fler personer kan avtjäna sitt fängelsestraff hemma med fotboja istället för i fängelse. Det kan gälla personer som dömts till kortare straff eller som har en liten del av sitt straff kvar att avtjäna. Förändringen kan frigöra platser i fängelser och ge dömda personer möjlighet att behålla arbete och familjerelationer i större utsträckning.\n",
+    "roster": {},
+    "tags": [
+      "BROTT",
+      "ARBETE"
+    ],
+    "status": "NY",
+    "passed": true
+  },
+  {
+    "dok_id": "HD01NU6",
+    "titel": "Uppgiftsskyldighet för vissa stödåtgärder som faller under EU:s statsstödsregler",
+    "utskott": "NU",
+    "nummer": 6,
+    "datum": "2025-10-22 00:00:00",
+    "rm": "2025/26",
+    "kort_sammanfattning": "Detta beslut handlar om att vissa typer av ekonomiskt stöd som företag får från staten ska rapporteras in på ett tydligare sätt. Det kan till exempel gälla stöd som ges för att skydda miljön eller för att utveckla nya tekniker. För dig som medborgare innebär det att staten får bättre kontroll över hur skattepengar används till stöd, vilket ska säkerställa att stöden används effektivt och rättvist. Det blir alltså en ökad transparens kring hur statliga stöd fördelas.\n",
+    "roster": {},
+    "tags": [
+      "MILJÖ",
+      "EKONOMI"
+    ],
+    "status": "NY",
+    "passed": true
+  },
+  {
+    "dok_id": "HD01JuU5",
+    "titel": "Polisens användning av skjutvapen",
+    "utskott": "JuU",
+    "nummer": 5,
+    "datum": "2025-10-21 00:00:00",
+    "rm": "2025/26",
+    "kort_sammanfattning": "Detta betänkande handlar om polisens användning av skjutvapen. Det kan påverka hur och när polisen får använda sina vapen i olika situationer. Det kan innebära förändringar i vilka regler som gäller och hur polisen tränas.\n",
+    "roster": {},
+    "tags": [
+      "BROTT"
+    ],
+    "status": "NY",
+    "passed": true
+  },
+  {
+    "dok_id": "HD01CU2",
+    "titel": "Ett nytt regelverk för bygglov",
+    "utskott": "CU",
+    "nummer": 2,
+    "datum": "2025-10-17 00:00:00",
+    "rm": "2025/26",
+    "kort_sammanfattning": "Det nya regelverket för bygglov kan påverka hur du får bygga på dinFastighet. Vissa byggprojekt kan bli enklare att få godkända, medan andra kan kräva mer dokumentation. Det är viktigt att du kontrollerar de nya reglerna hos din kommun innan du planerar ett byggprojekt, för att säkerställa att du följer de aktuella bestämmelserna.\n",
+    "roster": {
+      "S": {
+        "ja": 93,
+        "nej": 0,
+        "avstar": 0,
+        "franvarande": 13
+      },
+      "SD": {
+        "ja": 63,
+        "nej": 0,
+        "avstar": 0,
+        "franvarande": 9
+      },
+      "C": {
+        "ja": 21,
+        "nej": 0,
+        "avstar": 0,
+        "franvarande": 3
+      },
+      "M": {
+        "ja": 59,
+        "nej": 0,
+        "avstar": 0,
+        "franvarande": 9
+      },
+      "MP": {
+        "ja": 15,
+        "nej": 0,
+        "avstar": 0,
+        "franvarande": 3
+      },
+      "L": {
+        "ja": 13,
+        "nej": 0,
+        "avstar": 0,
+        "franvarande": 3
+      },
+      "KD": {
+        "ja": 17,
+        "nej": 0,
+        "avstar": 0,
+        "franvarande": 2
+      },
+      "-": {
+        "ja": 1,
+        "nej": 2,
+        "avstar": 0,
+        "franvarande": 1
+      },
+      "V": {
+        "ja": 0,
+        "nej": 18,
+        "avstar": 0,
+        "franvarande": 4
+      }
+    },
+    "tags": [
+      "BOSTAD",
+      "JORDBRUK"
+    ],
+    "status": "NY",
+    "passed": true
+  },
+  {
+    "dok_id": "HD01JuU3",
+    "titel": "Kriminalisering av oskuldskontroller, oskuldsintyg och oskuldsingrepp",
+    "utskott": "JuU",
+    "nummer": 3,
+    "datum": "2025-10-17 00:00:00",
+    "rm": "2025/26",
+    "kort_sammanfattning": "Det blir nu olagligt att utföra oskuldskontroller, utfärda oskuldsintyg och göra ingrepp i underlivet i syfte att bevisa eller motbevisa en persons oskuld. Denna lagändring innebär att personer som utför dessa handlingar kan straffas. Syftet är att skydda individers rätt till kroppslig integritet och motverka hedersrelaterat våld. För en vanlig medborgare betyder det att samhället tar tydligare avstånd från dessa praktiker.\n",
+    "roster": {},
+    "tags": [
+      "BROTT",
+      "JORDBRUK"
+    ],
+    "status": "NY",
+    "passed": true
+  },
+  {
+    "dok_id": "HD01JuU4",
+    "titel": "Ökade möjligheter att dela uppgifter inom Polismyndigheten",
+    "utskott": "JuU",
+    "nummer": 4,
+    "datum": "2025-10-17 00:00:00",
+    "rm": "2025/26",
+    "kort_sammanfattning": "Polismyndigheten får större flexibilitet att fördela arbetsuppgifter internt. Detta kan innebära att poliser kan fokusera mer på kärnverksamheten, medan andra medarbetare kan hantera exempelvis administrativa uppgifter. Förändringen syftar till att effektivisera polisens arbete.\n",
+    "roster": {},
+    "tags": [
+      "BROTT",
+      "ARBETE"
+    ],
+    "status": "NY",
+    "passed": true
+  },
+  {
+    "dok_id": "HD01KU6",
+    "titel": "Ökat informationsutbyte mellan myndigheter – en ny sekretessbrytande bestämmelse",
+    "utskott": "KU",
+    "nummer": 6,
+    "datum": "2025-10-16 00:00:00",
+    "rm": "2025/26",
+    "kort_sammanfattning": "Den nya bestämmelsen innebär att myndigheter kan dela mer information med varandra än tidigare, även om det finns sekretessregler. Detta görs för att effektivisera myndigheternas arbete. För dig som medborgare kan det innebära att information om dig delas mellan olika myndigheter i större utsträckning än tidigare. Det kan exempelvis handla om information som används för att bekämpa brott eller för att samordna insatser.\n",
+    "roster": {
+      "S": {
+        "ja": 93,
+        "nej": 0,
+        "avstar": 0,
+        "franvarande": 13
+      },
+      "SD": {
+        "ja": 63,
+        "nej": 0,
+        "avstar": 0,
+        "franvarande": 9
+      },
+      "C": {
+        "ja": 21,
+        "nej": 0,
+        "avstar": 0,
+        "franvarande": 3
+      },
+      "M": {
+        "ja": 59,
+        "nej": 0,
+        "avstar": 0,
+        "franvarande": 9
+      },
+      "MP": {
+        "ja": 15,
+        "nej": 0,
+        "avstar": 0,
+        "franvarande": 3
+      },
+      "L": {
+        "ja": 13,
+        "nej": 0,
+        "avstar": 0,
+        "franvarande": 3
+      },
+      "KD": {
+        "ja": 17,
+        "nej": 0,
+        "avstar": 0,
+        "franvarande": 2
+      },
+      "-": {
+        "ja": 1,
+        "nej": 2,
+        "avstar": 0,
+        "franvarande": 1
+      },
+      "V": {
+        "ja": 0,
+        "nej": 18,
+        "avstar": 0,
+        "franvarande": 4
+      }
+    },
+    "tags": [
+      "BROTT",
+      "ARBETE"
+    ],
+    "status": "NY",
+    "passed": true
+  },
+  {
+    "dok_id": "HD01KrU2",
+    "titel": "En lag om public service och riktlinjer för verksamheten 2026–2033",
+    "utskott": "KrU",
+    "nummer": 2,
+    "datum": "2025-10-16 00:00:00",
+    "rm": "2025/26",
+    "kort_sammanfattning": "Denna lag fastställer ramarna för public service-verksamheten i Sverige under perioden 2026-2033. Det innebär att det definierar vad public service-bolagen (SVT, SR, UR) ska göra och hur de ska finansieras. Förändringarna kan påverka utbudet av program och tjänster inom radio, TV och webb, samt hur dessa finansieras via exempelvis public service-avgiften.\n",
+    "roster": {},
+    "tags": [
+      "EKONOMI"
+    ],
+    "status": "NY",
+    "passed": true
+  },
+  {
+    "dok_id": "HD01SkU7",
+    "titel": "Riksrevisionens rapport om tillfälliga anstånd med inbetalning av skatt",
+    "utskott": "SkU",
+    "nummer": 7,
+    "datum": "2025-10-16 00:00:00",
+    "rm": "2025/26",
+    "kort_sammanfattning": "Riksrevisionen har granskat hur tillfälliga anstånd med skatteinbetalningar har fungerat. För dig som medborgare innebär det att staten kan ha gett företag och privatpersoner extra tid att betala sin skatt. Granskningen kan leda till förändringar i hur Skatteverket hanterar anstånd, vilket i sin tur kan påverka möjligheten för dig att få anstånd i framtiden om du har ekonomiska svårigheter. Syftet är att säkerställa att systemet är rättvist och effektivt.\n",
+    "roster": {},
+    "tags": [
+      "EKONOMI",
+      "JORDBRUK"
+    ],
+    "status": "NY",
+    "passed": true
+  },
+  {
+    "dok_id": "HD01SoU5",
+    "titel": "Åtgärder för en effektiv och patientsäker anslutning till den nationella läkemedelslistan",
+    "utskott": "SoU",
+    "nummer": 5,
+    "datum": "2025-10-16 00:00:00",
+    "rm": "2025/26",
+    "kort_sammanfattning": "Detta beslut handlar om att förbättra hur vårdpersonal ansluter sig till den nationella läkemedelslistan. Målet är att det ska bli enklare och säkrare för dem att få tillgång till information om dina läkemedel. För dig som patient innebär det att vårdpersonalen snabbare och mer effektivt kan se vilka mediciner du tar, vilket minskar risken för felbehandling och ökar patientsäkerheten. I praktiken kan det innebära att läkare och apotekspersonal får smidigare tillgång till din läkemedelsinformation via ett gemensamt system.\n",
+    "roster": {},
+    "tags": [
+      "HÄLSA",
+      "FÖRSVAR"
+    ],
+    "status": "NY",
+    "passed": true
+  },
+  {
+    "dok_id": "HD01FöU3",
+    "titel": "Försvarsindustristrategi för ett starkare Sverige – innovation, produktion och samarbete",
+    "utskott": "FöU",
+    "nummer": 3,
+    "datum": "2025-10-15 00:00:00",
+    "rm": "2025/26",
+    "kort_sammanfattning": "Strategin syftar till att stärka Sveriges försvarsindustri. Det kan innebära att staten investerar mer i svenska företag som utvecklar och tillverkar försvarsmateriel. Detta kan leda till fler jobb inom försvarsindustrin och potentiellt öka Sveriges säkerhet genom en starkare inhemsk produktion av försvarsmaterial. För medborgare kan det innebära en ökad trygghet och fler jobbmöjligheter inom relaterade områden.\n",
+    "roster": {},
+    "tags": [
+      "ARBETE",
+      "FÖRSVAR"
+    ],
+    "status": "NY",
+    "passed": true
+  },
+  {
+    "dok_id": "HD01TU2",
+    "titel": "Förenklad in- och uthyrning av skepp",
+    "utskott": "TU",
+    "nummer": 2,
+    "datum": "2025-10-15 00:00:00",
+    "rm": "2025/26",
+    "kort_sammanfattning": "Detta betänkande syftar till att göra det lättare att hyra ut och hyra in skepp. För en vanlig medborgare kan det innebära enklare regler och mindre byråkrati om man vill hyra ett skepp för fritidsbruk eller om man äger ett skepp och vill hyra ut det. De konkreta förändringarna kan inkludera minskade administrativa krav och tydligare avtal. Detta kan potentiellt öka tillgängligheten och minska kostnaderna för att nyttja eller hyra ut skepp.\n",
+    "roster": {},
+    "tags": [
+      "EKONOMI",
+      "BOSTAD"
+    ],
+    "status": "NY",
+    "passed": true
+  },
+  {
+    "dok_id": "HD01TU5",
+    "titel": "Intelligenta transportsystem – genomförande av ändringsdirektiv",
+    "utskott": "TU",
+    "nummer": 5,
+    "datum": "2025-10-15 00:00:00",
+    "rm": "2025/26",
+    "kort_sammanfattning": "Detta beslut handlar om att anpassa svenska lagar till ett nytt EU-direktiv om intelligenta transportsystem. Det innebär att transportsystemen i Sverige, som vägar och kollektivtrafik, ska bli smartare och mer samordnade. För dig som medborgare kan det leda till bättre trafikinformation, säkrare resor och effektivare kollektivtrafik i framtiden. De konkreta förändringarna kan vara nya digitala tjänster som hjälper dig planera din resa eller system som varnar för farliga situationer på vägen.\n",
+    "roster": {},
+    "tags": [
+      "TRANSPORT",
+      "DIGITALT"
+    ],
+    "status": "NY",
+    "passed": true
+  },
+  {
+    "dok_id": "HD01FiU16",
+    "titel": "Subsidiaritetsprövning av kommissionens förslag till nytt system för Europeiska unionens egna medel för perioden 2028 och framåt",
+    "utskott": "FiU",
+    "nummer": 16,
+    "datum": "2025-10-14 00:00:00",
+    "rm": "2025/26",
+    "kort_sammanfattning": "Detta är en granskning av ett EU-förslag om hur EU ska finansieras från och med 2028. Granskningen undersöker om förslaget följer principen om subsidiaritet, vilket betyder att beslut ska tas på lägsta möjliga nivå. Förslaget handlar om hur EU ska få in sina egna pengar, vilket kan påverka medlemsländernas ekonomier och därmed indirekt påverka dig som medborgare.\n",
+    "roster": {},
+    "tags": [
+      "EKONOMI",
+      "JORDBRUK"
+    ],
+    "status": "NY",
+    "passed": true
+  },
+  {
+    "dok_id": "HD01FiU9",
+    "titel": "Riksrevisorns årliga rapport 2025",
+    "utskott": "FiU",
+    "nummer": 9,
+    "datum": "2025-10-14 00:00:00",
+    "rm": "2025/26",
+    "kort_sammanfattning": "Riksrevisorns årliga rapport är en granskning av hur statens pengar används. Denna rapport kan leda till att regeringen och myndigheter ändrar hur de arbetar och använder skattepengar. Det kan i sin tur påverka de tjänster och den service som erbjuds medborgarna, till exempel inom sjukvård, utbildning och infrastruktur. Resultatet av rapporten kan alltså leda till förändringar i hur våra gemensamma resurser fördelas och används.\n",
+    "roster": {},
+    "tags": [
+      "EKONOMI",
+      "HÄLSA"
+    ],
+    "status": "NY",
+    "passed": true
+  },
+  {
+    "dok_id": "HD01SfU6",
+    "titel": "Bättre verktyg för kontroll – uppgiftsinhämtning inom socialförsäkringen och ekonomiskt bistånd",
+    "utskott": "SfU",
+    "nummer": 6,
+    "datum": "2025-10-14 00:00:00",
+    "rm": "2025/26",
+    "kort_sammanfattning": "Detta beslut handlar om att ge myndigheter bättre möjligheter att kontrollera uppgifter inom socialförsäkringen och ekonomiskt bistånd. Det innebär att myndigheterna kan få enklare tillgång till information om dig för att se om du har rätt till bidrag eller andra förmåner. Förändringen kan innebära att fler kontroller görs för att förhindra felaktiga utbetalningar. Detta kan påverka dig som får eller söker bidrag, eftersom dina uppgifter kan komma att granskas noggrannare.\n",
+    "roster": {},
+    "tags": [
+      "EKONOMI",
+      "JORDBRUK"
+    ],
+    "status": "NY",
+    "passed": true
+  },
+  {
+    "dok_id": "HD01UbU5",
+    "titel": "Subsidiaritetsprövning av kommissionens förslag till förordning om säkerhet, resiliens och hållbarhet i rymdverksamhet i Europeiska unionen",
+    "utskott": "UbU",
+    "nummer": 5,
+    "datum": "2025-10-14 00:00:00",
+    "rm": "2025/26",
+    "kort_sammanfattning": "EU vill skapa en förordning för att göra rymdverksamhet säkrare, mer motståndskraftig och hållbar. Detta kan påverka företag och organisationer i Sverige som arbetar med rymden, eftersom de kan behöva anpassa sig till nya regler och standarder. Förslaget innebär inga direkta förändringar för privatpersoner, men kan på sikt bidra till säkrare och mer hållbara rymdaktiviteter. Det underliggande syftet är att skydda rymdinfrastruktur som vi alla är beroende av, till exempel satelliter som används för kommunikation och navigation.\n",
+    "roster": {},
+    "tags": [
+      "MILJÖ",
+      "FÖRSVAR"
+    ],
+    "status": "NY",
+    "passed": true
+  },
+  {
+    "dok_id": "HD01TU3",
+    "titel": "Skärpt kontroll av styrelsen i besiktningsorgan",
+    "utskott": "TU",
+    "nummer": 3,
+    "datum": "2025-10-01 00:00:00",
+    "rm": "2025/26",
+    "kort_sammanfattning": "Detta beslut innebär att det kommer att bli strängare krav på de som sitter i styrelsen för företag som utför besiktningar. Detta kan påverka dig som konsument genom att öka tilliten till besiktningsprocessen, eftersom det säkerställer att de som ansvarar för besiktningsorganen är lämpliga och kompetenta. Syftet är att minska risken för felaktiga eller partiska besiktningar. De konkreta förändringarna handlar om att det blir noggrannare kontroller av styrelsemedlemmarnas bakgrund och kompetens.\n",
+    "roster": {},
+    "tags": [
+      "JORDBRUK"
+    ],
+    "status": "NY",
+    "passed": true
+  }
+]

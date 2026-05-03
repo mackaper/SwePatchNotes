@@ -1,0 +1,126 @@
+[
+  {
+    "id": "DUMMY_TU05",
+    "title": "Sänkt fordonsskatt för elbilar",
+    "summary": "Riksdagen har beslutat att sänka fordonsskatten för elbilar med 50 procent under de kommande tre åren. Det innebär att du som äger eller planerar att köpa en elbil får lägre årliga kostnader. Syftet är att påskynda omställningen till fossilfria fordon.",
+    "date": "2026-05-02",
+    "votes": [
+      { "party": "S", "vote": "Yes" },
+      { "party": "S", "vote": "Yes" },
+      { "party": "S", "vote": "Yes" },
+      { "party": "M", "vote": "Yes" },
+      { "party": "M", "vote": "Yes" },
+      { "party": "SD", "vote": "No" },
+      { "party": "SD", "vote": "No" },
+      { "party": "C", "vote": "Yes" },
+      { "party": "V", "vote": "Yes" },
+      { "party": "KD", "vote": "Yes" },
+      { "party": "L", "vote": "Yes" },
+      { "party": "MP", "vote": "Yes" },
+      { "party": "MP", "vote": "Yes" }
+    ],
+    "voteFetchError": false,
+    "passed": true
+  },
+  {
+    "id": "DUMMY_UbU12",
+    "title": "Utökat statsbidrag till lärarutbildningen",
+    "summary": "Staten skjuter till 800 miljoner kronor extra till lärarutbildningen för att öka antalet utbildningsplatser och förbättra lärarlönerna. För dig som är lärare eller student kan det innebära fler antagningsplatser och bättre arbetsvillkor. Reformen träder i kraft vid nästa läsår.",
+    "date": "2026-04-28",
+    "votes": [
+      { "party": "S", "vote": "Yes" },
+      { "party": "S", "vote": "Yes" },
+      { "party": "M", "vote": "No" },
+      { "party": "M", "vote": "No" },
+      { "party": "SD", "vote": "No" },
+      { "party": "C", "vote": "Yes" },
+      { "party": "V", "vote": "Yes" },
+      { "party": "V", "vote": "Yes" },
+      { "party": "KD", "vote": "No" },
+      { "party": "L", "vote": "Yes" },
+      { "party": "MP", "vote": "Yes" }
+    ],
+    "voteFetchError": false,
+    "passed": true
+  },
+  {
+    "id": "DUMMY_JuU08",
+    "title": "Skärpta straff för gängbrott",
+    "summary": "Riksdagen har röstat igenom hårdare minimistraff för brott begångna inom ramen för kriminella nätverk. Minimistraffet för grovt vapenbrott höjs från ett till två år. Förändringen påverkar i första hand rättsväsendet och gäller brott begångna från och med 1 juli 2026.",
+    "date": "2026-04-15",
+    "votes": [
+      { "party": "S", "vote": "Yes" },
+      { "party": "M", "vote": "Yes" },
+      { "party": "M", "vote": "Yes" },
+      { "party": "SD", "vote": "Yes" },
+      { "party": "SD", "vote": "Yes" },
+      { "party": "C", "vote": "No" },
+      { "party": "V", "vote": "No" },
+      { "party": "KD", "vote": "Yes" },
+      { "party": "L", "vote": "Yes" },
+      { "party": "MP", "vote": "No" }
+    ],
+    "voteFetchError": false,
+    "passed": true
+  },
+  {
+    "id": "DUMMY_SoU03",
+    "title": "Höjd garantipension",
+    "summary": "Garantipensionen höjs med 400 kronor per månad för alla som har låg eller ingen inkomstpension. Det berör ungefär 700 000 pensionärer i Sverige och innebär en direkt förbättring av ekonomin för landets lägst avlönade pensionärer. Höjningen gäller från 1 januari 2027.",
+    "date": "2026-04-10",
+    "votes": [
+      { "party": "S", "vote": "Yes" },
+      { "party": "S", "vote": "Yes" },
+      { "party": "M", "vote": "Abstain" },
+      { "party": "SD", "vote": "No" },
+      { "party": "C", "vote": "Yes" },
+      { "party": "V", "vote": "Yes" },
+      { "party": "V", "vote": "Yes" },
+      { "party": "KD", "vote": "Yes" },
+      { "party": "L", "vote": "Yes" },
+      { "party": "MP", "vote": "Yes" }
+    ],
+    "voteFetchError": false,
+    "passed": true
+  },
+  {
+    "id": "HD01FiU11",
+    "title": "Höständringsbudget för 2025",
+    "summary": "Höständringsbudgeten för 2025 handlar om hur statens pengar ska användas. Det kan innebära förändringar i anslag till olika verksamheter som påverkar dig, exempelvis sjukvård, utbildning eller infrastruktur. Budgeten kan också innehålla justeringar av skatter och avgifter, vilket direkt påverkar din ekonomi.\n",
+    "date": "2025-12-08",
+    "votes": [],
+    "voteFetchError": false,
+    "passed": true,
+    "rm": "2025/26"
+  },
+  {
+    "id": "HD01KU15",
+    "title": "Den årliga revisionen av Stiftelsen Riksbankens Jubileumsfond",
+    "summary": "Detta är en årlig granskning av hur Stiftelsen Riksbankens Jubileumsfond har skött sin verksamhet. För dig som medborgare innebär det att riksdagen kontrollerar att stiftelsen använder sina pengar på ett bra sätt. Granskningen påverkar inte direkt din vardag, men bidrar till att säkerställa att stiftelsens arbete med forskning och utveckling sköts ansvarsfullt.\n",
+    "date": "2025-12-03",
+    "votes": [],
+    "voteFetchError": false,
+    "passed": true,
+    "rm": "2025/26"
+  },
+  {
+    "id": "HD01KU1",
+    "title": "Utgiftsområde 1 Rikets styrelse",
+    "summary": "Detta betänkande från riksdagen handlar om hur pengar ska fördelas till \"Rikets styrelse\". Det berör finansieringen av olika statliga verksamheter som är viktiga för hur Sverige styrs, exempelvis riksdagens arbete och Statsrådsberedningen. För dig som medborgare innebär det att riksdagen tar ställning till hur skattepengar används för att finansiera dessa funktioner. Beslutet påverkar indirekt hur effektivt och välfungerande den svenska staten är.\n",
+    "date": "2025-12-03",
+    "votes": [],
+    "voteFetchError": false,
+    "passed": true,
+    "rm": "2025/26"
+  },
+  {
+    "id": "HD01SkU5",
+    "title": "Ytterligare kompletteringar till bestämmelserna om tilläggsskatt för företag i stora koncerner",
+    "summary": "Detta beslut handlar om skatter för stora företagskoncerner. Det innebär kompletteringar till redan existerande regler om tilläggsskatt. För en vanlig medborgare betyder det indirekt att statens intäkter från stora företag kan påverkas, vilket i sin tur kan påverka finansieringen av offentliga tjänster.\n",
+    "date": "2025-12-03",
+    "votes": [],
+    "voteFetchError": false,
+    "passed": true,
+    "rm": "2025/26"
+  }
+]

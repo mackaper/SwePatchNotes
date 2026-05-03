@@ -1,0 +1,139 @@
+{
+  "dok_id": "HD01JuU8",
+  "titel": "Skärpta regler för villkorlig frigivning",
+  "utskott": "JuU",
+  "nummer": 8,
+  "datum": "2025-11-28 00:00:00",
+  "rm": "2025/26",
+  "kort_sammanfattning": "De nya reglerna påverkar personer som dömts till fängelse. Det blir svårare att bli villkorligt frigiven, vilket innebär att man får avtjäna en större del av sitt straff i fängelse. Syftet är att öka tryggheten i samhället och minska risken för återfall i brott.\n",
+  "bakgrund": "",
+  "beslut": "",
+  "roster": {
+    "S": {
+      "ja": 91,
+      "nej": 0,
+      "avstar": 0,
+      "franvarande": 15
+    },
+    "SD": {
+      "ja": 63,
+      "nej": 0,
+      "avstar": 0,
+      "franvarande": 9
+    },
+    "C": {
+      "ja": 21,
+      "nej": 0,
+      "avstar": 0,
+      "franvarande": 3
+    },
+    "M": {
+      "ja": 59,
+      "nej": 0,
+      "avstar": 0,
+      "franvarande": 9
+    },
+    "MP": {
+      "ja": 0,
+      "nej": 15,
+      "avstar": 0,
+      "franvarande": 3
+    },
+    "L": {
+      "ja": 14,
+      "nej": 0,
+      "avstar": 0,
+      "franvarande": 2
+    },
+    "KD": {
+      "ja": 16,
+      "nej": 0,
+      "avstar": 0,
+      "franvarande": 3
+    },
+    "-": {
+      "ja": 1,
+      "nej": 0,
+      "avstar": 2,
+      "franvarande": 1
+    },
+    "V": {
+      "ja": 19,
+      "nej": 0,
+      "avstar": 0,
+      "franvarande": 3
+    }
+  },
+  "tags": [
+    "BROTT",
+    "JORDBRUK"
+  ],
+  "status": "NY",
+  "passed": true,
+  "dokument_url": "https://www.riksdagen.se/sv/dokument-och-lagar/dokument/betankande/_HD01JuU8",
+  "voteringar": [
+    {
+      "party": "S",
+      "ja": 91,
+      "nej": 0,
+      "avstar": 0,
+      "franvarande": 15
+    },
+    {
+      "party": "SD",
+      "ja": 63,
+      "nej": 0,
+      "avstar": 0,
+      "franvarande": 9
+    },
+    {
+      "party": "C",
+      "ja": 21,
+      "nej": 0,
+      "avstar": 0,
+      "franvarande": 3
+    },
+    {
+      "party": "M",
+      "ja": 59,
+      "nej": 0,
+      "avstar": 0,
+      "franvarande": 9
+    },
+    {
+      "party": "MP",
+      "ja": 0,
+      "nej": 15,
+      "avstar": 0,
+      "franvarande": 3
+    },
+    {
+      "party": "L",
+      "ja": 14,
+      "nej": 0,
+      "avstar": 0,
+      "franvarande": 2
+    },
+    {
+      "party": "KD",
+      "ja": 16,
+      "nej": 0,
+      "avstar": 0,
+      "franvarande": 3
+    },
+    {
+      "party": "-",
+      "ja": 1,
+      "nej": 0,
+      "avstar": 2,
+      "franvarande": 1
+    },
+    {
+      "party": "V",
+      "ja": 19,
+      "nej": 0,
+      "avstar": 0,
+      "franvarande": 3
+    }
+  ]
+}

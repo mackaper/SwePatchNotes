@@ -1,0 +1,138 @@
+{
+  "dok_id": "HD01KU13",
+  "titel": "Kompletterande bestämmelser till EU:s förordning om politisk reklam",
+  "utskott": "KU",
+  "nummer": 13,
+  "datum": "2025-11-13 00:00:00",
+  "rm": "2025/26",
+  "kort_sammanfattning": "Detta är ett tillägg till en EU-förordning som handlar om politisk reklam. Förslaget syftar till att komplettera EU-reglerna på nationell nivå. Detaljerna om vad detta innebär i praktiken för en vanlig medborgare framgår inte av texten.\n",
+  "bakgrund": "",
+  "beslut": "",
+  "roster": {
+    "S": {
+      "ja": 93,
+      "nej": 0,
+      "avstar": 0,
+      "franvarande": 13
+    },
+    "SD": {
+      "ja": 0,
+      "nej": 61,
+      "avstar": 0,
+      "franvarande": 11
+    },
+    "C": {
+      "ja": 19,
+      "nej": 0,
+      "avstar": 0,
+      "franvarande": 5
+    },
+    "M": {
+      "ja": 60,
+      "nej": 0,
+      "avstar": 0,
+      "franvarande": 8
+    },
+    "MP": {
+      "ja": 15,
+      "nej": 0,
+      "avstar": 0,
+      "franvarande": 3
+    },
+    "L": {
+      "ja": 13,
+      "nej": 0,
+      "avstar": 0,
+      "franvarande": 3
+    },
+    "KD": {
+      "ja": 16,
+      "nej": 0,
+      "avstar": 0,
+      "franvarande": 3
+    },
+    "-": {
+      "ja": 3,
+      "nej": 0,
+      "avstar": 0,
+      "franvarande": 1
+    },
+    "V": {
+      "ja": 18,
+      "nej": 0,
+      "avstar": 0,
+      "franvarande": 4
+    }
+  },
+  "tags": [
+    "JORDBRUK"
+  ],
+  "status": "NY",
+  "passed": true,
+  "dokument_url": "https://www.riksdagen.se/sv/dokument-och-lagar/dokument/betankande/_HD01KU13",
+  "voteringar": [
+    {
+      "party": "S",
+      "ja": 93,
+      "nej": 0,
+      "avstar": 0,
+      "franvarande": 13
+    },
+    {
+      "party": "SD",
+      "ja": 0,
+      "nej": 61,
+      "avstar": 0,
+      "franvarande": 11
+    },
+    {
+      "party": "C",
+      "ja": 19,
+      "nej": 0,
+      "avstar": 0,
+      "franvarande": 5
+    },
+    {
+      "party": "M",
+      "ja": 60,
+      "nej": 0,
+      "avstar": 0,
+      "franvarande": 8
+    },
+    {
+      "party": "MP",
+      "ja": 15,
+      "nej": 0,
+      "avstar": 0,
+      "franvarande": 3
+    },
+    {
+      "party": "L",
+      "ja": 13,
+      "nej": 0,
+      "avstar": 0,
+      "franvarande": 3
+    },
+    {
+      "party": "KD",
+      "ja": 16,
+      "nej": 0,
+      "avstar": 0,
+      "franvarande": 3
+    },
+    {
+      "party": "-",
+      "ja": 3,
+      "nej": 0,
+      "avstar": 0,
+      "franvarande": 1
+    },
+    {
+      "party": "V",
+      "ja": 18,
+      "nej": 0,
+      "avstar": 0,
+      "franvarande": 4
+    }
+  ]
+}
