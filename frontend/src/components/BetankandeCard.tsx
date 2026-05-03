@@ -26,10 +26,20 @@ export function BetankandeCard({ item }: Props) {
         </div>
 
         <div className="mb-6">
-          <h3 className="text-sm font-semibold text-gray-900 mb-1">Vad betyder detta för dig?</h3>
-          <p className="text-gray-700 leading-relaxed bg-yellow-50 p-4 rounded-lg border-l-4 border-yellow-400">
-            {item.kort_sammanfattning}
-          </p>
+          {item.kort_sammanfattning.includes('\n') ? (
+            <ul className="bg-yellow-50 p-4 rounded-lg border-l-4 border-yellow-400 space-y-1">
+              {item.kort_sammanfattning.split('\n').filter(s => s.trim().length > 0).map((line, i) => (
+                <li key={i} className="flex gap-2 text-gray-700 leading-relaxed">
+                  <span className="text-yellow-500 mt-1 shrink-0">•</span>
+                  <span>{line.trim()}</span>
+                </li>
+              ))}
+            </ul>
+          ) : (
+            <p className="text-gray-700 leading-relaxed bg-yellow-50 p-4 rounded-lg border-l-4 border-yellow-400">
+              {item.kort_sammanfattning}
+            </p>
+          )}
         </div>
 
         <VoteChart roster={item.roster} />
