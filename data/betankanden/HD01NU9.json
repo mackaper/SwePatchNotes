@@ -1,0 +1,138 @@
+{
+  "dok_id": "HD01NU9",
+  "titel": "Riksrevisionens rapport om LKAB:s omställning",
+  "utskott": "NU",
+  "nummer": 9,
+  "datum": "2026-01-28",
+  "rm": "2025/26",
+  "kort_sammanfattning": "Riksdagen har behandlat en rapport om hur statliga LKAB ställer om sin verksamhet. Detta kan påverka jobben i norra Sverige och hur miljövänlig gruvindustrin är framöver.",
+  "bakgrund": "Riksrevisionen har granskat LKAB:s omställningsarbete och lämnat en rapport till riksdagen.",
+  "beslut": "Utskottet har tagit del av rapporten.",
+  "roster": {
+    "S": {
+      "ja": 92,
+      "nej": 0,
+      "avstar": 0,
+      "franvarande": 14
+    },
+    "SD": {
+      "ja": 58,
+      "nej": 0,
+      "avstar": 0,
+      "franvarande": 13
+    },
+    "C": {
+      "ja": 18,
+      "nej": 0,
+      "avstar": 0,
+      "franvarande": 6
+    },
+    "M": {
+      "ja": 59,
+      "nej": 0,
+      "avstar": 0,
+      "franvarande": 9
+    },
+    "MP": {
+      "ja": 0,
+      "nej": 16,
+      "avstar": 0,
+      "franvarande": 2
+    },
+    "L": {
+      "ja": 14,
+      "nej": 0,
+      "avstar": 0,
+      "franvarande": 2
+    },
+    "KD": {
+      "ja": 17,
+      "nej": 0,
+      "avstar": 0,
+      "franvarande": 2
+    },
+    "-": {
+      "ja": 2,
+      "nej": 2,
+      "avstar": 0,
+      "franvarande": 1
+    },
+    "V": {
+      "ja": 0,
+      "nej": 19,
+      "avstar": 0,
+      "franvarande": 3
+    }
+  },
+  "tags": [
+    "MILJÖ"
+  ],
+  "status": "NY",
+  "passed": true,
+  "dokument_url": "https://www.riksdagen.se/sv/dokument-och-lagar/dokument/betankande/_HD01NU9",
+  "voteringar": [
+    {
+      "party": "S",
+      "ja": 92,
+      "nej": 0,
+      "avstar": 0,
+      "franvarande": 14
+    },
+    {
+      "party": "SD",
+      "ja": 58,
+      "nej": 0,
+      "avstar": 0,
+      "franvarande": 13
+    },
+    {
+      "party": "C",
+      "ja": 18,
+      "nej": 0,
+      "avstar": 0,
+      "franvarande": 6
+    },
+    {
+      "party": "M",
+      "ja": 59,
+      "nej": 0,
+      "avstar": 0,
+      "franvarande": 9
+    },
+    {
+      "party": "MP",
+      "ja": 0,
+      "nej": 16,
+      "avstar": 0,
+      "franvarande": 2
+    },
+    {
+      "party": "L",
+      "ja": 14,
+      "nej": 0,
+      "avstar": 0,
+      "franvarande": 2
+    },
+    {
+      "party": "KD",
+      "ja": 17,
+      "nej": 0,
+      "avstar": 0,
+      "franvarande": 2
+    },
+    {
+      "party": "-",
+      "ja": 2,
+      "nej": 2,
+      "avstar": 0,
+      "franvarande": 1
+    },
+    {
+      "party": "V",
+      "ja": 0,
+      "nej": 19,
+      "avstar": 0,
+      "franvarande": 3
+    }
+  ]
+}

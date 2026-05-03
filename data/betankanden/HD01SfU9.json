@@ -1,0 +1,138 @@
+{
+  "dok_id": "HD01SfU9",
+  "titel": "Arbetsprövning med bibehållen sjukpenning",
+  "utskott": "SfU",
+  "nummer": 9,
+  "datum": "2026-01-28",
+  "rm": "2025/26",
+  "kort_sammanfattning": "Beslutet innebär att personer som är sjukskrivna kan få möjlighet att pröva ett arbete och samtidigt behålla sin sjukpenning. Detta kan underlätta återgången till arbetslivet efter en sjukdom.",
+  "bakgrund": "Riksdagen behandlade frågan för att undersöka om det fanns behov av att skapa bättre förutsättningar för personer att återgå till arbete efter en sjukskrivning.",
+  "beslut": "Riksdagen beslutade om arbetsprövning med bibehållen sjukpenning.",
+  "roster": {
+    "S": {
+      "ja": 92,
+      "nej": 0,
+      "avstar": 0,
+      "franvarande": 14
+    },
+    "SD": {
+      "ja": 58,
+      "nej": 0,
+      "avstar": 0,
+      "franvarande": 13
+    },
+    "C": {
+      "ja": 18,
+      "nej": 0,
+      "avstar": 0,
+      "franvarande": 6
+    },
+    "M": {
+      "ja": 59,
+      "nej": 0,
+      "avstar": 0,
+      "franvarande": 9
+    },
+    "MP": {
+      "ja": 0,
+      "nej": 16,
+      "avstar": 0,
+      "franvarande": 2
+    },
+    "L": {
+      "ja": 14,
+      "nej": 0,
+      "avstar": 0,
+      "franvarande": 2
+    },
+    "KD": {
+      "ja": 17,
+      "nej": 0,
+      "avstar": 0,
+      "franvarande": 2
+    },
+    "-": {
+      "ja": 2,
+      "nej": 2,
+      "avstar": 0,
+      "franvarande": 1
+    },
+    "V": {
+      "ja": 0,
+      "nej": 19,
+      "avstar": 0,
+      "franvarande": 3
+    }
+  },
+  "tags": [
+    "ARBETE"
+  ],
+  "status": "NY",
+  "passed": true,
+  "dokument_url": "https://www.riksdagen.se/sv/dokument-och-lagar/dokument/betankande/_HD01SfU9",
+  "voteringar": [
+    {
+      "party": "S",
+      "ja": 92,
+      "nej": 0,
+      "avstar": 0,
+      "franvarande": 14
+    },
+    {
+      "party": "SD",
+      "ja": 58,
+      "nej": 0,
+      "avstar": 0,
+      "franvarande": 13
+    },
+    {
+      "party": "C",
+      "ja": 18,
+      "nej": 0,
+      "avstar": 0,
+      "franvarande": 6
+    },
+    {
+      "party": "M",
+      "ja": 59,
+      "nej": 0,
+      "avstar": 0,
+      "franvarande": 9
+    },
+    {
+      "party": "MP",
+      "ja": 0,
+      "nej": 16,
+      "avstar": 0,
+      "franvarande": 2
+    },
+    {
+      "party": "L",
+      "ja": 14,
+      "nej": 0,
+      "avstar": 0,
+      "franvarande": 2
+    },
+    {
+      "party": "KD",
+      "ja": 17,
+      "nej": 0,
+      "avstar": 0,
+      "franvarande": 2
+    },
+    {
+      "party": "-",
+      "ja": 2,
+      "nej": 2,
+      "avstar": 0,
+      "franvarande": 1
+    },
+    {
+      "party": "V",
+      "ja": 0,
+      "nej": 19,
+      "avstar": 0,
+      "franvarande": 3
+    }
+  ]
+}

@@ -1,0 +1,139 @@
+{
+  "dok_id": "HD01FiU26",
+  "titel": "Kommunala frågor",
+  "utskott": "FiU",
+  "nummer": 26,
+  "datum": "2026-03-18",
+  "rm": "2025/26",
+  "kort_sammanfattning": "Detta betänkande handlar om frågor som rör kommunerna, men utan mer information är det svårt att säga exakt vad det innebär för dig som medborgare. Det kan handla om allt från kommunalskatt till skolor och äldreomsorg.",
+  "bakgrund": "Riksdagen behandlar regelbundet frågor som påverkar kommunernas verksamhet och ekonomi för att säkerställa att de kan utföra sina uppdrag.",
+  "beslut": "Riksdagen har behandlat betänkandet FiU26 om kommunala frågor.",
+  "roster": {
+    "S": {
+      "ja": 0,
+      "nej": 0,
+      "avstar": 93,
+      "franvarande": 13
+    },
+    "SD": {
+      "ja": 62,
+      "nej": 0,
+      "avstar": 0,
+      "franvarande": 9
+    },
+    "C": {
+      "ja": 0,
+      "nej": 21,
+      "avstar": 0,
+      "franvarande": 3
+    },
+    "M": {
+      "ja": 60,
+      "nej": 0,
+      "avstar": 0,
+      "franvarande": 8
+    },
+    "MP": {
+      "ja": 16,
+      "nej": 0,
+      "avstar": 0,
+      "franvarande": 2
+    },
+    "L": {
+      "ja": 10,
+      "nej": 0,
+      "avstar": 0,
+      "franvarande": 6
+    },
+    "KD": {
+      "ja": 17,
+      "nej": 0,
+      "avstar": 0,
+      "franvarande": 2
+    },
+    "-": {
+      "ja": 2,
+      "nej": 0,
+      "avstar": 3,
+      "franvarande": 0
+    },
+    "V": {
+      "ja": 0,
+      "nej": 0,
+      "avstar": 15,
+      "franvarande": 7
+    }
+  },
+  "tags": [
+    "EKONOMI",
+    "ÄLDRE"
+  ],
+  "status": "NY",
+  "passed": true,
+  "dokument_url": "https://www.riksdagen.se/sv/dokument-och-lagar/dokument/betankande/_HD01FiU26",
+  "voteringar": [
+    {
+      "party": "S",
+      "ja": 0,
+      "nej": 0,
+      "avstar": 93,
+      "franvarande": 13
+    },
+    {
+      "party": "SD",
+      "ja": 62,
+      "nej": 0,
+      "avstar": 0,
+      "franvarande": 9
+    },
+    {
+      "party": "C",
+      "ja": 0,
+      "nej": 21,
+      "avstar": 0,
+      "franvarande": 3
+    },
+    {
+      "party": "M",
+      "ja": 60,
+      "nej": 0,
+      "avstar": 0,
+      "franvarande": 8
+    },
+    {
+      "party": "MP",
+      "ja": 16,
+      "nej": 0,
+      "avstar": 0,
+      "franvarande": 2
+    },
+    {
+      "party": "L",
+      "ja": 10,
+      "nej": 0,
+      "avstar": 0,
+      "franvarande": 6
+    },
+    {
+      "party": "KD",
+      "ja": 17,
+      "nej": 0,
+      "avstar": 0,
+      "franvarande": 2
+    },
+    {
+      "party": "-",
+      "ja": 2,
+      "nej": 0,
+      "avstar": 3,
+      "franvarande": 0
+    },
+    {
+      "party": "V",
+      "ja": 0,
+      "nej": 0,
+      "avstar": 15,
+      "franvarande": 7
+    }
+  ]
+}

@@ -1,5 +1,3011 @@
 [
   {
+    "dok_id": "HD01CU29",
+    "titel": "Ökade möjligheter till hemmaladdning av elfordon",
+    "utskott": "CU",
+    "nummer": 29,
+    "datum": "2026-04-29",
+    "rm": "2025/26",
+    "kort_sammanfattning": "Beslutet kan göra det enklare för personer som bor i bostadsrätt eller hyresrätt att installera laddboxar för elbilar hemma, vilket underlättar övergången till elfordon. Detta kan innebära att fler får möjlighet att ladda sin elbil bekvämt och billigare hemma istället för att förlita sig på publika laddstationer.",
+    "roster": {},
+    "tags": [
+      "TRANSPORT"
+    ],
+    "status": "NY",
+    "passed": true
+  },
+  {
+    "dok_id": "HD01FiU23",
+    "titel": "Riksbankens verksamhet och förvaltning 2025",
+    "utskott": "FiU",
+    "nummer": 23,
+    "datum": "2026-04-29",
+    "rm": "2025/26",
+    "kort_sammanfattning": "Detta betänkande handlar om hur Riksbanken har skött sitt uppdrag under 2025, vilket påverkar landets ekonomi och därmed indirekt alla medborgare. Det berör bland annat hur Riksbanken har hanterat inflationen och förvaltat Sveriges valutareserv.",
+    "roster": {},
+    "tags": [],
+    "status": "NY",
+    "passed": true
+  },
+  {
+    "dok_id": "HD01FöU12",
+    "titel": "Ett starkare skydd för civilbefolkningen vid höjd beredskap",
+    "utskott": "FöU",
+    "nummer": 12,
+    "datum": "2026-04-29",
+    "rm": "2025/26",
+    "kort_sammanfattning": "Riksdagen har beslutat om åtgärder för att stärka skyddet av civilbefolkningen i händelse av höjd beredskap, vilket kan innebära att du som medborgare får tillgång till bättre information och stöd från myndigheterna i en krissituation.",
+    "roster": {},
+    "tags": [],
+    "status": "NY",
+    "passed": true
+  },
+  {
+    "dok_id": "HD01JuU10",
+    "titel": "En ny vapenlag",
+    "utskott": "JuU",
+    "nummer": 10,
+    "datum": "2026-04-29",
+    "rm": "2025/26",
+    "kort_sammanfattning": "Riksdagen har beslutat om en ny vapenlag. Det kan påverka dig som äger eller vill äga vapen, till exempel genom ändrade regler för licenser eller förvaring.",
+    "roster": {
+      "S": {
+        "ja": 92,
+        "nej": 0,
+        "avstar": 0,
+        "franvarande": 14
+      },
+      "SD": {
+        "ja": 60,
+        "nej": 0,
+        "avstar": 0,
+        "franvarande": 10
+      },
+      "C": {
+        "ja": 0,
+        "nej": 20,
+        "avstar": 0,
+        "franvarande": 4
+      },
+      "M": {
+        "ja": 57,
+        "nej": 0,
+        "avstar": 0,
+        "franvarande": 9
+      },
+      "MP": {
+        "ja": 15,
+        "nej": 0,
+        "avstar": 0,
+        "franvarande": 3
+      },
+      "L": {
+        "ja": 9,
+        "nej": 0,
+        "avstar": 0,
+        "franvarande": 7
+      },
+      "KD": {
+        "ja": 16,
+        "nej": 0,
+        "avstar": 0,
+        "franvarande": 3
+      },
+      "-": {
+        "ja": 8,
+        "nej": 0,
+        "avstar": 1,
+        "franvarande": 0
+      },
+      "V": {
+        "ja": 13,
+        "nej": 0,
+        "avstar": 0,
+        "franvarande": 8
+      }
+    },
+    "tags": [],
+    "status": "NY",
+    "passed": true
+  },
+  {
+    "dok_id": "HD01MJU18",
+    "titel": "Förbättrat genomförande av UTP-direktivets förbud mot sena annulleringar",
+    "utskott": "MJU",
+    "nummer": 18,
+    "datum": "2026-04-29",
+    "rm": "2025/26",
+    "kort_sammanfattning": "Beslutet innebär att reglerna som skyddar leverantörer av jordbruks- och livsmedelsprodukter från att stora köpare, som exempelvis butikskedjor, ställer in beställningar sent skärps. Detta ska ge leverantörerna bättre förutsättningar och minska risken för ekonomisk förlust.",
+    "roster": {},
+    "tags": [],
+    "status": "NY",
+    "passed": true
+  },
+  {
+    "dok_id": "HD01MJU19",
+    "titel": "Reformering av avfallslagstiftningen för ökad materialåtervinning",
+    "utskott": "MJU",
+    "nummer": 19,
+    "datum": "2026-04-29",
+    "rm": "2025/26",
+    "kort_sammanfattning": "Riksdagen har beslutat om nya lagar för att förbättra återvinningen av material. Detta kan innebära förändringar i hur vi sorterar vårt avfall och vilka typer av material som kan återvinnas.",
+    "roster": {},
+    "tags": [],
+    "status": "NY",
+    "passed": true
+  },
+  {
+    "dok_id": "HD01MJU20",
+    "titel": "Riksrevisionens rapport om statens arbete med underlag och utvärdering inom det klimatpolitiska ramverket",
+    "utskott": "MJU",
+    "nummer": 20,
+    "datum": "2026-04-29",
+    "rm": "2025/26",
+    "kort_sammanfattning": "Riksdagen har behandlat en rapport om hur staten arbetar med att ta fram underlag och utvärdera åtgärder inom klimatpolitiken. Detta påverkar medborgarna genom att säkerställa att klimatmålen nås på ett effektivt sätt. En tydligare utvärdering kan leda till bättre och mer träffsäkra klimatåtgärder.",
+    "roster": {
+      "S": {
+        "ja": 91,
+        "nej": 1,
+        "avstar": 0,
+        "franvarande": 14
+      },
+      "SD": {
+        "ja": 60,
+        "nej": 0,
+        "avstar": 0,
+        "franvarande": 10
+      },
+      "C": {
+        "ja": 0,
+        "nej": 20,
+        "avstar": 0,
+        "franvarande": 4
+      },
+      "M": {
+        "ja": 57,
+        "nej": 0,
+        "avstar": 0,
+        "franvarande": 9
+      },
+      "MP": {
+        "ja": 0,
+        "nej": 15,
+        "avstar": 0,
+        "franvarande": 3
+      },
+      "L": {
+        "ja": 9,
+        "nej": 0,
+        "avstar": 0,
+        "franvarande": 7
+      },
+      "KD": {
+        "ja": 16,
+        "nej": 0,
+        "avstar": 0,
+        "franvarande": 3
+      },
+      "-": {
+        "ja": 5,
+        "nej": 4,
+        "avstar": 0,
+        "franvarande": 0
+      },
+      "V": {
+        "ja": 0,
+        "nej": 13,
+        "avstar": 0,
+        "franvarande": 8
+      }
+    },
+    "tags": [
+      "MILJÖ",
+      "ARBETE"
+    ],
+    "status": "NY",
+    "passed": true
+  },
+  {
+    "dok_id": "HD01MJU21",
+    "titel": "Riksrevisionens rapport om statens insatser för jordbrukets klimatomställning",
+    "utskott": "MJU",
+    "nummer": 21,
+    "datum": "2026-04-29",
+    "rm": "2025/26",
+    "kort_sammanfattning": "Riksdagen har behandlat en rapport om hur staten arbetar med att minska klimatpåverkan från jordbruket. Detta kan påverka vilka stöd och regler som gäller för jordbrukare, vilket i sin tur kan påverka priset och tillgängligheten på mat.",
+    "roster": {
+      "S": {
+        "ja": 0,
+        "nej": 92,
+        "avstar": 0,
+        "franvarande": 14
+      },
+      "SD": {
+        "ja": 60,
+        "nej": 0,
+        "avstar": 0,
+        "franvarande": 10
+      },
+      "C": {
+        "ja": 0,
+        "nej": 20,
+        "avstar": 0,
+        "franvarande": 4
+      },
+      "M": {
+        "ja": 57,
+        "nej": 0,
+        "avstar": 0,
+        "franvarande": 9
+      },
+      "MP": {
+        "ja": 0,
+        "nej": 15,
+        "avstar": 0,
+        "franvarande": 3
+      },
+      "L": {
+        "ja": 9,
+        "nej": 0,
+        "avstar": 0,
+        "franvarande": 7
+      },
+      "KD": {
+        "ja": 16,
+        "nej": 0,
+        "avstar": 0,
+        "franvarande": 3
+      },
+      "-": {
+        "ja": 5,
+        "nej": 4,
+        "avstar": 0,
+        "franvarande": 0
+      },
+      "V": {
+        "ja": 0,
+        "nej": 13,
+        "avstar": 0,
+        "franvarande": 8
+      }
+    },
+    "tags": [
+      "MILJÖ",
+      "JORDBRUK"
+    ],
+    "status": "NY",
+    "passed": true
+  },
+  {
+    "dok_id": "HD01SfU23",
+    "titel": "Bättre migrationsrättsliga regler för forskare och doktorander samt åtgärder för att motverka missbruk av uppehållstillstånd för studier",
+    "utskott": "SfU",
+    "nummer": 23,
+    "datum": "2026-04-29",
+    "rm": "2025/26",
+    "kort_sammanfattning": "Riksdagen har beslutat om nya regler för uppehållstillstånd för forskare och doktorander från länder utanför EU, samt åtgärder för att förhindra att uppehållstillstånd för studier missbrukas. Detta kan påverka möjligheterna för utländska forskare och studenter att komma till Sverige, samt kontrollen av att de som kommer hit för att studera faktiskt gör det.",
+    "roster": {},
+    "tags": [
+      "UTBILDNING",
+      "MIGRATION"
+    ],
+    "status": "NY",
+    "passed": true
+  },
+  {
+    "dok_id": "HD01SfU28",
+    "titel": "Skärpta krav för svenskt medborgarskap",
+    "utskott": "SfU",
+    "nummer": 28,
+    "datum": "2026-04-29",
+    "rm": "2025/26",
+    "kort_sammanfattning": "Det blir svårare att bli svensk medborgare eftersom kraven på exempelvis språkkunskaper och samhällskunskap ökar. Detta kan påverka personer som planerar att ansöka om medborgarskap i framtiden.",
+    "roster": {
+      "S": {
+        "ja": 91,
+        "nej": 1,
+        "avstar": 0,
+        "franvarande": 14
+      },
+      "SD": {
+        "ja": 60,
+        "nej": 0,
+        "avstar": 0,
+        "franvarande": 10
+      },
+      "C": {
+        "ja": 20,
+        "nej": 0,
+        "avstar": 0,
+        "franvarande": 4
+      },
+      "M": {
+        "ja": 57,
+        "nej": 0,
+        "avstar": 0,
+        "franvarande": 9
+      },
+      "MP": {
+        "ja": 0,
+        "nej": 15,
+        "avstar": 0,
+        "franvarande": 3
+      },
+      "L": {
+        "ja": 9,
+        "nej": 0,
+        "avstar": 0,
+        "franvarande": 7
+      },
+      "KD": {
+        "ja": 16,
+        "nej": 0,
+        "avstar": 0,
+        "franvarande": 3
+      },
+      "-": {
+        "ja": 5,
+        "nej": 4,
+        "avstar": 0,
+        "franvarande": 0
+      },
+      "V": {
+        "ja": 0,
+        "nej": 13,
+        "avstar": 0,
+        "franvarande": 8
+      }
+    },
+    "tags": [
+      "MIGRATION"
+    ],
+    "status": "NY",
+    "passed": true
+  },
+  {
+    "dok_id": "HD01CU22",
+    "titel": "Ett ställföreträdarskap att lita på",
+    "utskott": "CU",
+    "nummer": 22,
+    "datum": "2026-04-22",
+    "rm": "2025/26",
+    "kort_sammanfattning": "Riksdagen har beslutat om nya regler för ställföreträdarskap, vilket innebär att det blir tydligare och säkrare hur någon annan kan hjälpa till med beslut om ekonomi och personliga angelägenheter om du själv inte kan. Detta kan påverka dig om du behöver hjälp av en ställföreträdare eller om du är ställföreträdare för någon annan.",
+    "roster": {},
+    "tags": [
+      "EKONOMI",
+      "JORDBRUK"
+    ],
+    "status": "NY",
+    "passed": true
+  },
+  {
+    "dok_id": "HD01CU27",
+    "titel": "Identitetskrav vid lagfart och åtgärder mot kringgåenden av bostadsrättslagen",
+    "utskott": "CU",
+    "nummer": 27,
+    "datum": "2026-04-22",
+    "rm": "2025/26",
+    "kort_sammanfattning": "Riksdagen har beslutat om åtgärder för att stärka identifieringen vid köp av fastigheter och förhindra fusk med bostadsrättslagen, vilket kan påverka hur fastighetsaffärer genomförs och vilka krav som ställs på köpare och säljare.",
+    "roster": {},
+    "tags": [
+      "BOSTAD"
+    ],
+    "status": "NY",
+    "passed": true
+  },
+  {
+    "dok_id": "HD01CU28",
+    "titel": "Ett register för alla bostadsrätter",
+    "utskott": "CU",
+    "nummer": 28,
+    "datum": "2026-04-22",
+    "rm": "2025/26",
+    "kort_sammanfattning": "Riksdagen har beslutat att skapa ett register över alla bostadsrätter. Detta kan göra det enklare och säkrare att köpa och sälja bostadsrätter, samt ge en bättre överblick över bostadsrättsmarknaden.",
+    "roster": {},
+    "tags": [
+      "BOSTAD"
+    ],
+    "status": "NY",
+    "passed": true
+  },
+  {
+    "dok_id": "HD01CU42",
+    "titel": "Riksrevisionens rapport om statens insatser vid hantering av dödsbon",
+    "utskott": "CU",
+    "nummer": 42,
+    "datum": "2026-04-22",
+    "rm": "2025/26",
+    "kort_sammanfattning": "Detta betänkande handlar om hur staten hanterar dödsbon, vilket kan påverka dig om du ärver något eller behöver hjälp med att ta hand om en avliden persons ägodelar. Betänkandet kan leda till förändringar i hur myndigheter arbetar med dödsbon.",
+    "roster": {},
+    "tags": [],
+    "status": "NY",
+    "passed": true
+  },
+  {
+    "dok_id": "HD01FiU48",
+    "titel": "Extra ändringsbudget för 2026 - Sänkt skatt på drivmedel samt el- och gasprisstöd",
+    "utskott": "FiU",
+    "nummer": 48,
+    "datum": "2026-04-22",
+    "rm": "2025/26",
+    "kort_sammanfattning": "Beslutet innebär att skatten på drivmedel sänks och att ett stöd för höga el- och gaspriser införs. Detta kan leda till lägre kostnader för transporter och uppvärmning för hushåll och företag.",
+    "roster": {
+      "S": {
+        "ja": 90,
+        "nej": 0,
+        "avstar": 0,
+        "franvarande": 16
+      },
+      "SD": {
+        "ja": 60,
+        "nej": 0,
+        "avstar": 0,
+        "franvarande": 10
+      },
+      "C": {
+        "ja": 20,
+        "nej": 0,
+        "avstar": 0,
+        "franvarande": 4
+      },
+      "M": {
+        "ja": 55,
+        "nej": 0,
+        "avstar": 0,
+        "franvarande": 11
+      },
+      "MP": {
+        "ja": 0,
+        "nej": 13,
+        "avstar": 0,
+        "franvarande": 5
+      },
+      "L": {
+        "ja": 11,
+        "nej": 0,
+        "avstar": 0,
+        "franvarande": 5
+      },
+      "KD": {
+        "ja": 14,
+        "nej": 0,
+        "avstar": 0,
+        "franvarande": 5
+      },
+      "-": {
+        "ja": 5,
+        "nej": 3,
+        "avstar": 0,
+        "franvarande": 0
+      },
+      "V": {
+        "ja": 0,
+        "nej": 16,
+        "avstar": 0,
+        "franvarande": 6
+      }
+    },
+    "tags": [
+      "EKONOMI"
+    ],
+    "status": "NY",
+    "passed": true
+  },
+  {
+    "dok_id": "HD01KU32",
+    "titel": "Tillgänglighetskrav för vissa medier",
+    "utskott": "KU",
+    "nummer": 32,
+    "datum": "2026-04-22",
+    "rm": "2025/26",
+    "kort_sammanfattning": "Riksdagen har beslutat om nya krav för att göra vissa medier mer tillgängliga, vilket kan innebära att fler personer med funktionsnedsättningar kan ta del av exempelvis tv-program och filmer. Det kan handla om krav på textning, syntolkning eller andra anpassningar.",
+    "roster": {},
+    "tags": [],
+    "status": "NY",
+    "passed": true
+  },
+  {
+    "dok_id": "HD01KU33",
+    "titel": "Insyn i handlingar som inhämtas genom beslag och kopiering vid husrannsakan",
+    "utskott": "KU",
+    "nummer": 33,
+    "datum": "2026-04-22",
+    "rm": "2025/26",
+    "kort_sammanfattning": "Detta betänkande handlar om huruvida allmänheten ska ha rätt att ta del av handlingar som polisen har beslagtagit eller kopierat vid en husrannsakan. Beslutet kan påverka möjligheten för medborgare att få insyn i polisens arbete och de bevis som samlas in under brottsutredningar.",
+    "roster": {},
+    "tags": [
+      "JORDBRUK"
+    ],
+    "status": "NY",
+    "passed": true
+  },
+  {
+    "dok_id": "HD01NU18",
+    "titel": "Tillståndsprövning enligt förnybartdirektivet",
+    "utskott": "NU",
+    "nummer": 18,
+    "datum": "2026-04-22",
+    "rm": "2025/26",
+    "kort_sammanfattning": "Riksdagen har behandlat frågan om tillståndsprövning för projekt som rör förnybar energi. Detta kan påverka hur snabbt och enkelt det blir att bygga ut exempelvis vindkraft och solenergi.",
+    "roster": {},
+    "tags": [],
+    "status": "NY",
+    "passed": true
+  },
+  {
+    "dok_id": "HD01SfU20",
+    "titel": "Ett slopat krav på anmälan före ansökan om föräldrapenning",
+    "utskott": "SfU",
+    "nummer": 20,
+    "datum": "2026-04-22",
+    "rm": "2025/26",
+    "kort_sammanfattning": "Det tidigare kravet på att anmäla till Försäkringskassan innan man ansöker om föräldrapenning tas bort, vilket förenklar processen för föräldrar.",
+    "roster": {},
+    "tags": [],
+    "status": "NY",
+    "passed": true
+  },
+  {
+    "dok_id": "HD01SfU22",
+    "titel": "Inhibition av verkställigheten - en ny ordning för vissa utlänningar vid tillfälliga verkställighetshinder",
+    "utskott": "SfU",
+    "nummer": 22,
+    "datum": "2026-04-22",
+    "rm": "2025/26",
+    "kort_sammanfattning": "Riksdagen har beslutat om en ny ordning för att tillfälligt stoppa (inhibera) beslut om utvisning för vissa utlänningar, vilket kan påverka enskilda personers rätt att stanna i Sverige under en begränsad tid.",
+    "roster": {
+      "S": {
+        "ja": 90,
+        "nej": 0,
+        "avstar": 0,
+        "franvarande": 16
+      },
+      "SD": {
+        "ja": 60,
+        "nej": 0,
+        "avstar": 0,
+        "franvarande": 10
+      },
+      "C": {
+        "ja": 20,
+        "nej": 0,
+        "avstar": 0,
+        "franvarande": 4
+      },
+      "M": {
+        "ja": 55,
+        "nej": 0,
+        "avstar": 0,
+        "franvarande": 11
+      },
+      "MP": {
+        "ja": 0,
+        "nej": 13,
+        "avstar": 0,
+        "franvarande": 5
+      },
+      "L": {
+        "ja": 11,
+        "nej": 0,
+        "avstar": 0,
+        "franvarande": 5
+      },
+      "KD": {
+        "ja": 14,
+        "nej": 0,
+        "avstar": 0,
+        "franvarande": 5
+      },
+      "-": {
+        "ja": 5,
+        "nej": 3,
+        "avstar": 0,
+        "franvarande": 0
+      },
+      "V": {
+        "ja": 0,
+        "nej": 16,
+        "avstar": 0,
+        "franvarande": 6
+      }
+    },
+    "tags": [
+      "MIGRATION"
+    ],
+    "status": "NY",
+    "passed": true
+  },
+  {
+    "dok_id": "HD01SkU23",
+    "titel": "Permanent skattefrihet för förmån av laddel på arbetsplatsen och utvidgad rätt till avdrag för drivmedelsutgifter",
+    "utskott": "SkU",
+    "nummer": 23,
+    "datum": "2026-04-22",
+    "rm": "2025/26",
+    "kort_sammanfattning": "Detta beslut innebär att du som får betald laddel av din arbetsgivare för din elbil inte behöver betala skatt för detta. Dessutom kan du få större avdrag för dina utgifter för drivmedel om du använder din privata bil i tjänsten.",
+    "roster": {},
+    "tags": [
+      "EKONOMI"
+    ],
+    "status": "NY",
+    "passed": true
+  },
+  {
+    "dok_id": "HD01SkU32",
+    "titel": "Uppsägning av sparandeavtal",
+    "utskott": "SkU",
+    "nummer": 32,
+    "datum": "2026-04-22",
+    "rm": "2025/26",
+    "kort_sammanfattning": "Detta betänkande handlar om möjligheten att säga upp ett sparandeavtal. Beslutet påverkar de som har ett sparandeavtal och vill avsluta det i förtid.",
+    "roster": {},
+    "tags": [],
+    "status": "NY",
+    "passed": true
+  },
+  {
+    "dok_id": "HD01TU16",
+    "titel": "Slopat krav på introduktionsutbildning för övningskörning",
+    "utskott": "TU",
+    "nummer": 16,
+    "datum": "2026-04-22",
+    "rm": "2025/26",
+    "kort_sammanfattning": "Kravet på att gå en introduktionsutbildning innan man får övningsköra privat tas bort. Detta innebär att du som handledare och elev inte längre behöver gå denna utbildning innan ni börjar övningsköra.",
+    "roster": {},
+    "tags": [
+      "UTBILDNING",
+      "TRANSPORT"
+    ],
+    "status": "NY",
+    "passed": true
+  },
+  {
+    "dok_id": "HD01CU23",
+    "titel": "Sysselsättning och boende på landsbygden",
+    "utskott": "CU",
+    "nummer": 23,
+    "datum": "2026-04-15",
+    "rm": "2025/26",
+    "kort_sammanfattning": "Detta betänkande handlar om hur sysselsättning och boende på landsbygden kan påverkas. Det kan innebära förändringar i hur staten stöttar jobb och bostäder utanför storstäderna.",
+    "roster": {},
+    "tags": [
+      "ARBETE"
+    ],
+    "status": "NY",
+    "passed": true
+  },
+  {
+    "dok_id": "HD01FöU11",
+    "titel": "Riksrevisionens rapport om miljöräddning vid stora olyckor till sjöss",
+    "utskott": "FöU",
+    "nummer": 11,
+    "datum": "2026-04-15",
+    "rm": "2025/26",
+    "kort_sammanfattning": "Beslutet innebär att riksdagen har tagit ställning till en rapport om hur väl Sverige är förberett för att hantera miljöräddningsinsatser vid stora olyckor till sjöss, vilket kan påverka hur snabbt och effektivt staten kan agera vid framtida utsläpp eller andra miljöhot till havs.",
+    "roster": {},
+    "tags": [
+      "MILJÖ",
+      "DIGITALT"
+    ],
+    "status": "NY",
+    "passed": true
+  },
+  {
+    "dok_id": "HD01FiU33",
+    "titel": "Uppgiftsskyldighet för vissa e-legitimationsföretag",
+    "utskott": "FiU",
+    "nummer": 33,
+    "datum": "2026-04-01",
+    "rm": "2025/26",
+    "kort_sammanfattning": "Vissa företag som erbjuder e-legitimation kan bli skyldiga att lämna ut uppgifter till myndigheter. Detta kan påverka hur dina personuppgifter hanteras av dessa företag.",
+    "roster": {},
+    "tags": [],
+    "status": "NY",
+    "passed": true
+  },
+  {
+    "dok_id": "HD01FöU6",
+    "titel": "Integritetsskydd vid signalspaning i försvarsunderrättelseverksamhet",
+    "utskott": "FöU",
+    "nummer": 6,
+    "datum": "2026-04-01",
+    "rm": "2025/26",
+    "kort_sammanfattning": "Riksdagen har behandlat frågan om hur signalspaning som utförs av Försvarets radioanstalt (FRA) ska ske med hänsyn till individers privatliv. Beslutet innebär att riksdagen har tagit ställning till hur integritetsskyddet ska balanseras mot behovet av försvarsunderrättelseverksamhet.",
+    "roster": {},
+    "tags": [
+      "FÖRSVAR",
+      "DIGITALT"
+    ],
+    "status": "NY",
+    "passed": true
+  },
+  {
+    "dok_id": "HD01JuU29",
+    "titel": "Stärkt säkerhetsskydd vid överlåtelse av fast egendom",
+    "utskott": "JuU",
+    "nummer": 29,
+    "datum": "2026-04-01",
+    "rm": "2025/26",
+    "kort_sammanfattning": "Riksdagen har beslutat om åtgärder för att stärka skyddet av fastigheter som är viktiga för Sveriges säkerhet vid en försäljning. Detta kan innebära att det blir svårare att sälja vissa fastigheter till utländska aktörer eller personer som kan utgöra en säkerhetsrisk.",
+    "roster": {},
+    "tags": [
+      "FÖRSVAR",
+      "BOSTAD"
+    ],
+    "status": "NY",
+    "passed": true
+  },
+  {
+    "dok_id": "HD01KU31",
+    "titel": "Riksrevisionens rapport om statens främjande av de nationella minoritetsspråken",
+    "utskott": "KU",
+    "nummer": 31,
+    "datum": "2026-04-01",
+    "rm": "2025/26",
+    "kort_sammanfattning": "Riksdagen har behandlat en rapport om hur staten arbetar för att stödja de nationella minoritetsspråken. Detta kan påverka möjligheten för personer som talar dessa språk att använda dem i kontakt med myndigheter och få tillgång till service på sitt språk.",
+    "roster": {},
+    "tags": [
+      "JORDBRUK"
+    ],
+    "status": "NY",
+    "passed": true
+  },
+  {
+    "dok_id": "HD01SoU26",
+    "titel": "Ett språkkrav inom äldreomsorgen",
+    "utskott": "SoU",
+    "nummer": 26,
+    "datum": "2026-04-01",
+    "rm": "2025/26",
+    "kort_sammanfattning": "Riksdagen har beslutat om ett språkkrav inom äldreomsorgen, vilket kan påverka vilka personer som kan anställas och arbeta inom detta område. Detta kan potentiellt påverka kvaliteten och tillgängligheten av äldreomsorgen.",
+    "roster": {},
+    "tags": [
+      "ÄLDRE"
+    ],
+    "status": "NY",
+    "passed": true
+  },
+  {
+    "dok_id": "HD01SoU37",
+    "titel": "Subsidiaritetsprövning av kommissionens förslag till direktiv om hantering av genetiskt modifierade mikroorganismer och bearbetning av organ",
+    "utskott": "SoU",
+    "nummer": 37,
+    "datum": "2026-04-01",
+    "rm": "2025/26",
+    "kort_sammanfattning": "Riksdagen har granskat ett förslag från EU-kommissionen om regler för hantering av genetiskt modifierade mikroorganismer och bearbetning av organ, för att se om det är lämpligt att besluta om detta på EU-nivå eller om det bör hanteras av varje medlemsland själv. Detta påverkar indirekt medborgare genom att säkerställa att beslut fattas på rätt nivå för att vara så effektiva och proportionerliga som möjligt.",
+    "roster": {},
+    "tags": [
+      "JORDBRUK"
+    ],
+    "status": "NY",
+    "passed": true
+  },
+  {
+    "dok_id": "HD01FiU28",
+    "titel": "Riksrevisionens rapport om arbetsrättsliga villkor i offentlig upphandling",
+    "utskott": "FiU",
+    "nummer": 28,
+    "datum": "2026-03-26",
+    "rm": "2025/26",
+    "kort_sammanfattning": "Detta betänkande handlar om hur staten ser till att företag som vinner offentliga upphandlingar följer arbetsrättsliga regler, vilket kan påverka anställningsvillkor och löner för de som arbetar inom dessa företag. Det kan också påverka konkurrensen mellan företag.",
+    "roster": {},
+    "tags": [
+      "ARBETE",
+      "JORDBRUK"
+    ],
+    "status": "NY",
+    "passed": true
+  },
+  {
+    "dok_id": "HD01FiU35",
+    "titel": "Utlämnande av uppgifter ur registret över verkliga huvudmän",
+    "utskott": "FiU",
+    "nummer": 35,
+    "datum": "2026-03-26",
+    "rm": "2025/26",
+    "kort_sammanfattning": "Detta betänkande handlar om hur information från registret över verkliga huvudmän (de personer som ytterst äger eller kontrollerar ett företag) kan lämnas ut. Det påverkar allmänhetens och myndigheters möjlighet att få insyn i vem som står bakom företag.",
+    "roster": {},
+    "tags": [
+      "JORDBRUK"
+    ],
+    "status": "NY",
+    "passed": true
+  },
+  {
+    "dok_id": "HD01SfU19",
+    "titel": "Skyndsamhet och preklusionsfrister vid överprövning av upphandling av fonder till premiepensionens fondtorg",
+    "utskott": "SfU",
+    "nummer": 19,
+    "datum": "2026-03-26",
+    "rm": "2025/26",
+    "kort_sammanfattning": "Riksdagen har beslutat om snabbare hantering av överklaganden gällande upphandling av fonder till premiepensionen. Detta kan påverka vilka fonder som blir tillgängliga för sparare och hur snabbt förändringar kan genomföras.",
+    "roster": {},
+    "tags": [
+      "ÄLDRE"
+    ],
+    "status": "NY",
+    "passed": true
+  },
+  {
+    "dok_id": "HD01SfU10",
+    "titel": "Riksrevisionens rapport om socialförsäkringsskyddet vid internationell rörlighet",
+    "utskott": "SfU",
+    "nummer": 10,
+    "datum": "2026-03-25",
+    "rm": "2025/26",
+    "kort_sammanfattning": "Detta betänkande handlar om hur väl socialförsäkringen fungerar för personer som flyttar eller arbetar i olika länder. Det kan påverka rätten till exempelvis sjukpenning eller pension om du bor eller jobbar utomlands.",
+    "roster": {},
+    "tags": [
+      "ÄLDRE"
+    ],
+    "status": "NY",
+    "passed": true
+  },
+  {
+    "dok_id": "HD01SkU11",
+    "titel": "Modernisering av Skatteverkets kontrollverktyg",
+    "utskott": "SkU",
+    "nummer": 11,
+    "datum": "2026-03-25",
+    "rm": "2025/26",
+    "kort_sammanfattning": "Detta betänkande handlar om att uppdatera de verktyg som Skatteverket använder för att kontrollera att alla betalar rätt skatt. Moderniseringen syftar till att effektivisera skattekontrollen.",
+    "roster": {},
+    "tags": [
+      "EKONOMI",
+      "JORDBRUK"
+    ],
+    "status": "NY",
+    "passed": true
+  },
+  {
+    "dok_id": "HD01SkU20",
+    "titel": "Utbyte av uppgifter i tilläggsskatterapport och kompletteringar av förfarandet av tilläggsskatt för företag i stora koncerner",
+    "utskott": "SkU",
+    "nummer": 20,
+    "datum": "2026-03-25",
+    "rm": "2025/26",
+    "kort_sammanfattning": "Beslutet handlar om att Sverige ska utbyta information om tilläggsskatter för stora företagskoncerner med andra länder, samt komplettera hur tilläggsskatten hanteras i Sverige. Detta kan påverka stora företag som är verksamma i flera länder, genom att säkerställa att de betalar en miniminivå av skatt.",
+    "roster": {},
+    "tags": [
+      "EKONOMI",
+      "JORDBRUK"
+    ],
+    "status": "NY",
+    "passed": true
+  },
+  {
+    "dok_id": "HD01SkU33",
+    "titel": "Riksrevisionens rapport om Skatteverkets åtgärder mot svartarbete",
+    "utskott": "SkU",
+    "nummer": 33,
+    "datum": "2026-03-25",
+    "rm": "2025/26",
+    "kort_sammanfattning": "Riksdagen har behandlat en rapport om Skatteverkets arbete mot svartarbete. Detta kan påverka medborgare genom att minskat svartarbete kan leda till ökad skatteintäkt och därmed potentiellt bättre finansiering av samhällstjänster.",
+    "roster": {},
+    "tags": [
+      "EKONOMI",
+      "ARBETE"
+    ],
+    "status": "NY",
+    "passed": true
+  },
+  {
+    "dok_id": "HD01TU13",
+    "titel": "Cykelfrågor",
+    "utskott": "TU",
+    "nummer": 13,
+    "datum": "2026-03-25",
+    "rm": "2025/26",
+    "kort_sammanfattning": "Detta betänkande handlar om olika aspekter av cykling, men utan mer information om specifika beslut är det svårt att säga exakt hur det påverkar dig som cyklist eller medborgare. Det kan röra sig om allt från nya cykelvägar till regler för cykeltrafik.",
+    "roster": {
+      "S": {
+        "ja": 0,
+        "nej": 92,
+        "avstar": 0,
+        "franvarande": 14
+      },
+      "SD": {
+        "ja": 57,
+        "nej": 0,
+        "avstar": 0,
+        "franvarande": 13
+      },
+      "C": {
+        "ja": 0,
+        "nej": 17,
+        "avstar": 0,
+        "franvarande": 7
+      },
+      "M": {
+        "ja": 59,
+        "nej": 0,
+        "avstar": 0,
+        "franvarande": 9
+      },
+      "MP": {
+        "ja": 0,
+        "nej": 15,
+        "avstar": 0,
+        "franvarande": 3
+      },
+      "L": {
+        "ja": 14,
+        "nej": 0,
+        "avstar": 0,
+        "franvarande": 2
+      },
+      "KD": {
+        "ja": 17,
+        "nej": 0,
+        "avstar": 0,
+        "franvarande": 2
+      },
+      "-": {
+        "ja": 2,
+        "nej": 3,
+        "avstar": 0,
+        "franvarande": 1
+      },
+      "V": {
+        "ja": 0,
+        "nej": 19,
+        "avstar": 0,
+        "franvarande": 3
+      }
+    },
+    "tags": [
+      "TRANSPORT"
+    ],
+    "status": "NY",
+    "passed": true
+  },
+  {
+    "dok_id": "HD01AU6",
+    "titel": "Riksrevisionens rapport om Arbetsförmedlingens stöd till personer med funktionsnedsättning, m.m.",
+    "utskott": "AU",
+    "nummer": 6,
+    "datum": "2026-03-19",
+    "rm": "2025/26",
+    "kort_sammanfattning": "Riksdagen har behandlat en rapport från Riksrevisionen som granskat hur Arbetsförmedlingen stöttar personer med funktionsnedsättning. Beslutet påverkar indirekt personer med funktionsnedsättning genom att det kan leda till förändringar i hur Arbetsförmedlingen arbetar.",
+    "roster": {
+      "S": {
+        "ja": 0,
+        "nej": 92,
+        "avstar": 1,
+        "franvarande": 13
+      },
+      "SD": {
+        "ja": 0,
+        "nej": 0,
+        "avstar": 61,
+        "franvarande": 10
+      },
+      "C": {
+        "ja": 21,
+        "nej": 0,
+        "avstar": 0,
+        "franvarande": 3
+      },
+      "M": {
+        "ja": 60,
+        "nej": 0,
+        "avstar": 0,
+        "franvarande": 8
+      },
+      "MP": {
+        "ja": 0,
+        "nej": 0,
+        "avstar": 13,
+        "franvarande": 5
+      },
+      "L": {
+        "ja": 12,
+        "nej": 0,
+        "avstar": 0,
+        "franvarande": 4
+      },
+      "KD": {
+        "ja": 14,
+        "nej": 0,
+        "avstar": 0,
+        "franvarande": 5
+      },
+      "-": {
+        "ja": 0,
+        "nej": 1,
+        "avstar": 2,
+        "franvarande": 2
+      },
+      "V": {
+        "ja": 0,
+        "nej": 0,
+        "avstar": 17,
+        "franvarande": 5
+      }
+    },
+    "tags": [],
+    "status": "NY",
+    "passed": true
+  },
+  {
+    "dok_id": "HD01MJU13",
+    "titel": "Skärpningar av regelverket för invasiva främmande arter och naturvård",
+    "utskott": "MJU",
+    "nummer": 13,
+    "datum": "2026-03-19",
+    "rm": "2025/26",
+    "kort_sammanfattning": "Riksdagen har beslutat om skärpta regler för att hantera invasiva främmande arter, vilket kan påverka hur du som privatperson hanterar växter och djur i din trädgård eller i naturen. Det kan innebära att du behöver vara mer uppmärksam på vilka arter du planterar eller släpper ut i naturen.",
+    "roster": {},
+    "tags": [
+      "MILJÖ",
+      "HÄLSA"
+    ],
+    "status": "NY",
+    "passed": true
+  },
+  {
+    "dok_id": "HD01MJU15",
+    "titel": "Hund under kontroll",
+    "utskott": "MJU",
+    "nummer": 15,
+    "datum": "2026-03-19",
+    "rm": "2025/26",
+    "kort_sammanfattning": "Detta betänkande handlar om lagstiftning som syftar till att säkerställa att hundar hålls under kontroll, vilket kan påverka hundägare genom eventuella nya krav eller skyldigheter.",
+    "roster": {},
+    "tags": [
+      "JORDBRUK"
+    ],
+    "status": "NY",
+    "passed": true
+  },
+  {
+    "dok_id": "HD01FiU22",
+    "titel": "Finansiell stabilitet och finansmarknadsfrågor",
+    "utskott": "FiU",
+    "nummer": 22,
+    "datum": "2026-03-18",
+    "rm": "2025/26",
+    "kort_sammanfattning": "Detta betänkande handlar om frågor som rör hur stabilt det finansiella systemet är och hur finansmarknaderna fungerar, vilket indirekt påverkar alla medborgare eftersom det kan påverka ekonomin.",
+    "roster": {},
+    "tags": [
+      "EKONOMI",
+      "TRANSPORT"
+    ],
+    "status": "NY",
+    "passed": true
+  },
+  {
+    "dok_id": "HD01FiU26",
+    "titel": "Kommunala frågor",
+    "utskott": "FiU",
+    "nummer": 26,
+    "datum": "2026-03-18",
+    "rm": "2025/26",
+    "kort_sammanfattning": "Detta betänkande handlar om frågor som rör kommunerna, men utan mer information är det svårt att säga exakt vad det innebär för dig som medborgare. Det kan handla om allt från kommunalskatt till skolor och äldreomsorg.",
+    "roster": {
+      "S": {
+        "ja": 0,
+        "nej": 0,
+        "avstar": 93,
+        "franvarande": 13
+      },
+      "SD": {
+        "ja": 62,
+        "nej": 0,
+        "avstar": 0,
+        "franvarande": 9
+      },
+      "C": {
+        "ja": 0,
+        "nej": 21,
+        "avstar": 0,
+        "franvarande": 3
+      },
+      "M": {
+        "ja": 60,
+        "nej": 0,
+        "avstar": 0,
+        "franvarande": 8
+      },
+      "MP": {
+        "ja": 16,
+        "nej": 0,
+        "avstar": 0,
+        "franvarande": 2
+      },
+      "L": {
+        "ja": 10,
+        "nej": 0,
+        "avstar": 0,
+        "franvarande": 6
+      },
+      "KD": {
+        "ja": 17,
+        "nej": 0,
+        "avstar": 0,
+        "franvarande": 2
+      },
+      "-": {
+        "ja": 2,
+        "nej": 0,
+        "avstar": 3,
+        "franvarande": 0
+      },
+      "V": {
+        "ja": 0,
+        "nej": 0,
+        "avstar": 15,
+        "franvarande": 7
+      }
+    },
+    "tags": [
+      "EKONOMI",
+      "ÄLDRE"
+    ],
+    "status": "NY",
+    "passed": true
+  },
+  {
+    "dok_id": "HD01JuU27",
+    "titel": "Säkerhetsförvaring - en ny tidsobestämd frihetsberövande påföljd",
+    "utskott": "JuU",
+    "nummer": 27,
+    "datum": "2026-03-18",
+    "rm": "2025/26",
+    "kort_sammanfattning": "Riksdagen har beslutat om en ny påföljd, säkerhetsförvaring, som innebär att vissa personer kan frihetsberövas på obestämd tid om de anses utgöra en allvarlig fara för samhället. Detta kan påverka enskilda individer som döms till denna påföljd, samt potentiellt öka tryggheten för allmänheten.",
+    "roster": {
+      "S": {
+        "ja": 93,
+        "nej": 0,
+        "avstar": 0,
+        "franvarande": 13
+      },
+      "SD": {
+        "ja": 62,
+        "nej": 0,
+        "avstar": 0,
+        "franvarande": 9
+      },
+      "C": {
+        "ja": 0,
+        "nej": 21,
+        "avstar": 0,
+        "franvarande": 3
+      },
+      "M": {
+        "ja": 60,
+        "nej": 0,
+        "avstar": 0,
+        "franvarande": 8
+      },
+      "MP": {
+        "ja": 0,
+        "nej": 0,
+        "avstar": 16,
+        "franvarande": 2
+      },
+      "L": {
+        "ja": 10,
+        "nej": 0,
+        "avstar": 0,
+        "franvarande": 6
+      },
+      "KD": {
+        "ja": 17,
+        "nej": 0,
+        "avstar": 0,
+        "franvarande": 2
+      },
+      "-": {
+        "ja": 2,
+        "nej": 0,
+        "avstar": 2,
+        "franvarande": 1
+      },
+      "V": {
+        "ja": 15,
+        "nej": 0,
+        "avstar": 0,
+        "franvarande": 7
+      }
+    },
+    "tags": [
+      "BROTT",
+      "FÖRSVAR"
+    ],
+    "status": "NY",
+    "passed": true
+  },
+  {
+    "dok_id": "HD01MJU14",
+    "titel": "En ny lag om tillhandahållande på marknaden av EU-gödselprodukter",
+    "utskott": "MJU",
+    "nummer": 14,
+    "datum": "2026-03-18",
+    "rm": "2025/26",
+    "kort_sammanfattning": "Den nya lagen innebär att det blir nya regler för hur gödselprodukter som säljs inom EU ska vara märkta och innehålla vissa ämnen. Detta kan påverka priset och tillgängligheten av gödsel i butikerna.",
+    "roster": {},
+    "tags": [],
+    "status": "NY",
+    "passed": true
+  },
+  {
+    "dok_id": "HD01SfU12",
+    "titel": "Nya regler för arbetskraftsinvandring",
+    "utskott": "SfU",
+    "nummer": 12,
+    "datum": "2026-03-18",
+    "rm": "2025/26",
+    "kort_sammanfattning": "Riksdagen har beslutat om nya regler för arbetskraftsinvandring, vilket kan påverka möjligheten för personer från länder utanför EU/EES att få arbete i Sverige. Det kan också påverka företag som anställer arbetskraft från dessa länder.",
+    "roster": {
+      "S": {
+        "ja": 93,
+        "nej": 0,
+        "avstar": 0,
+        "franvarande": 13
+      },
+      "SD": {
+        "ja": 62,
+        "nej": 0,
+        "avstar": 0,
+        "franvarande": 9
+      },
+      "C": {
+        "ja": 0,
+        "nej": 21,
+        "avstar": 0,
+        "franvarande": 3
+      },
+      "M": {
+        "ja": 60,
+        "nej": 0,
+        "avstar": 0,
+        "franvarande": 8
+      },
+      "MP": {
+        "ja": 0,
+        "nej": 16,
+        "avstar": 0,
+        "franvarande": 2
+      },
+      "L": {
+        "ja": 10,
+        "nej": 0,
+        "avstar": 0,
+        "franvarande": 6
+      },
+      "KD": {
+        "ja": 17,
+        "nej": 0,
+        "avstar": 0,
+        "franvarande": 2
+      },
+      "-": {
+        "ja": 2,
+        "nej": 3,
+        "avstar": 0,
+        "franvarande": 0
+      },
+      "V": {
+        "ja": 0,
+        "nej": 15,
+        "avstar": 0,
+        "franvarande": 7
+      }
+    },
+    "tags": [
+      "ARBETE",
+      "MIGRATION"
+    ],
+    "status": "NY",
+    "passed": true
+  },
+  {
+    "dok_id": "HD01UbU16",
+    "titel": "Riksrevisionens rapport om systemet för lärarlegitimation",
+    "utskott": "UbU",
+    "nummer": 16,
+    "datum": "2026-03-18",
+    "rm": "2025/26",
+    "kort_sammanfattning": "Riksdagen har behandlat en rapport om hur systemet med lärarlegitimation fungerar. Detta kan påverka kvaliteten på undervisningen dina barn får i skolan.",
+    "roster": {
+      "S": {
+        "ja": 0,
+        "nej": 93,
+        "avstar": 0,
+        "franvarande": 13
+      },
+      "SD": {
+        "ja": 62,
+        "nej": 0,
+        "avstar": 0,
+        "franvarande": 9
+      },
+      "C": {
+        "ja": 0,
+        "nej": 21,
+        "avstar": 0,
+        "franvarande": 3
+      },
+      "M": {
+        "ja": 60,
+        "nej": 0,
+        "avstar": 0,
+        "franvarande": 8
+      },
+      "MP": {
+        "ja": 0,
+        "nej": 16,
+        "avstar": 0,
+        "franvarande": 2
+      },
+      "L": {
+        "ja": 10,
+        "nej": 0,
+        "avstar": 0,
+        "franvarande": 6
+      },
+      "KD": {
+        "ja": 17,
+        "nej": 0,
+        "avstar": 0,
+        "franvarande": 2
+      },
+      "-": {
+        "ja": 2,
+        "nej": 3,
+        "avstar": 0,
+        "franvarande": 0
+      },
+      "V": {
+        "ja": 0,
+        "nej": 15,
+        "avstar": 0,
+        "franvarande": 7
+      }
+    },
+    "tags": [
+      "UTBILDNING",
+      "BARN"
+    ],
+    "status": "NY",
+    "passed": true
+  },
+  {
+    "dok_id": "HD01UbU6",
+    "titel": "Förskolan",
+    "utskott": "UbU",
+    "nummer": 6,
+    "datum": "2026-03-12",
+    "rm": "2025/26",
+    "kort_sammanfattning": "Detta betänkande handlar om frågor som rör förskolan, vilket kan påverka kvaliteten och tillgängligheten för barnomsorg för familjer.",
+    "roster": {},
+    "tags": [
+      "UTBILDNING",
+      "BARN"
+    ],
+    "status": "NY",
+    "passed": true
+  },
+  {
+    "dok_id": "HD01CU11",
+    "titel": "Ett stärkt konsumentskydd vid distansavtal",
+    "utskott": "CU",
+    "nummer": 11,
+    "datum": "2026-03-11",
+    "rm": "2025/26",
+    "kort_sammanfattning": "Detta betänkande handlar om att stärka skyddet för dig som konsument när du handlar på distans, till exempel via internet. Det kan innebära tydligare information eller nya regler för hur företag får agera.",
+    "roster": {},
+    "tags": [
+      "DIGITALT",
+      "JORDBRUK"
+    ],
+    "status": "NY",
+    "passed": true
+  },
+  {
+    "dok_id": "HD01CU21",
+    "titel": "Elektronisk inlämning av bouppteckningar",
+    "utskott": "CU",
+    "nummer": 21,
+    "datum": "2026-03-11",
+    "rm": "2025/26",
+    "kort_sammanfattning": "Beslutet innebär att det blir möjligt att skicka in bouppteckningar digitalt till Skatteverket, vilket kan göra processen smidigare och snabbare för de som hanterar dödsbon.",
+    "roster": {},
+    "tags": [
+      "EKONOMI",
+      "DIGITALT"
+    ],
+    "status": "NY",
+    "passed": true
+  },
+  {
+    "dok_id": "HD01CU9",
+    "titel": "Juridiska personers förvärv av lantbruksegendom genom testamente",
+    "utskott": "CU",
+    "nummer": 9,
+    "datum": "2026-03-11",
+    "rm": "2025/26",
+    "kort_sammanfattning": "Riksdagen har beslutat om regler för hur företag och andra juridiska personer kan ärva lantbruksegendom genom testamente. Detta kan påverka möjligheten för exempelvis stiftelser eller bolag att äga och förvalta jordbruksmark.",
+    "roster": {},
+    "tags": [
+      "JORDBRUK"
+    ],
+    "status": "NY",
+    "passed": true
+  },
+  {
+    "dok_id": "HD01FiU15",
+    "titel": "Riksrevisionens rapport om avgiftsbelagda tjänster",
+    "utskott": "FiU",
+    "nummer": 15,
+    "datum": "2026-03-11",
+    "rm": "2025/26",
+    "kort_sammanfattning": "Detta betänkande handlar om en granskning av hur statliga myndigheter tar betalt för sina tjänster. Det kan påverka dig som medborgare om du använder någon avgiftsbelagd tjänst från en statlig myndighet, till exempel tillstånd eller registerutdrag.",
+    "roster": {},
+    "tags": [
+      "EKONOMI"
+    ],
+    "status": "NY",
+    "passed": true
+  },
+  {
+    "dok_id": "HD01FiU18",
+    "titel": "Riksrevisionens rapport om statens användning och anskaffning av kontorslokaler",
+    "utskott": "FiU",
+    "nummer": 18,
+    "datum": "2026-03-11",
+    "rm": "2025/26",
+    "kort_sammanfattning": "Riksdagen har behandlat en rapport om hur staten använder och skaffar kontorslokaler, vilket kan påverka hur skattepengar används för statliga myndigheters lokaler. Detta kan i förlängningen påverka statens kostnader och därmed indirekt medborgarnas skattebörda.",
+    "roster": {},
+    "tags": [
+      "EKONOMI",
+      "JORDBRUK"
+    ],
+    "status": "NY",
+    "passed": true
+  },
+  {
+    "dok_id": "HD01FiU19",
+    "titel": "Riksrevisionens rapport om statens arbete med Agenda 2030",
+    "utskott": "FiU",
+    "nummer": 19,
+    "datum": "2026-03-11",
+    "rm": "2025/26",
+    "kort_sammanfattning": "Riksdagen har behandlat en rapport om hur staten arbetar med Agenda 2030, vilket är ett globalt mål för hållbar utveckling. Detta kan påverka dig genom att statens åtgärder för att uppnå dessa mål kan leda till förändringar inom miljö, ekonomi och sociala frågor.",
+    "roster": {},
+    "tags": [
+      "MILJÖ",
+      "EKONOMI"
+    ],
+    "status": "NY",
+    "passed": true
+  },
+  {
+    "dok_id": "HD01FiU46",
+    "titel": "Extra ändringsbudget för 2026 - Stöd till Ukraina och vaccinberedskap",
+    "utskott": "FiU",
+    "nummer": 46,
+    "datum": "2026-03-11",
+    "rm": "2025/26",
+    "kort_sammanfattning": "Riksdagen har beslutat om en extra budgetändring för att ge stöd till Ukraina och stärka Sveriges beredskap för framtida vaccinbehov. Detta kan påverka dig genom att bidra till internationell stabilitet och säkerställa att Sverige är bättre förberett för eventuella framtida pandemier.",
+    "roster": {},
+    "tags": [
+      "EKONOMI",
+      "TRANSPORT"
+    ],
+    "status": "NY",
+    "passed": true
+  },
+  {
+    "dok_id": "HD01JuU24",
+    "titel": "2025 års redogörelse för tillämpningen av lagen om särskild kontroll av vissa utlänningar",
+    "utskott": "JuU",
+    "nummer": 24,
+    "datum": "2026-03-11",
+    "rm": "2025/26",
+    "kort_sammanfattning": "Detta betänkande handlar om hur lagen om särskild kontroll av vissa utlänningar har använts under 2025. Lagen ger staten möjlighet att övervaka och begränsa vissa utlänningars aktiviteter i Sverige, om de anses vara en säkerhetsrisk.",
+    "roster": {},
+    "tags": [
+      "FÖRSVAR",
+      "MIGRATION"
+    ],
+    "status": "NY",
+    "passed": true
+  },
+  {
+    "dok_id": "HD01JuU25",
+    "titel": "Redovisning av användningen av hemliga tvångsmedel under 2024",
+    "utskott": "JuU",
+    "nummer": 25,
+    "datum": "2026-03-11",
+    "rm": "2025/26",
+    "kort_sammanfattning": "Detta betänkande sammanfattar hur hemliga tvångsmedel, som exempelvis telefonavlyssning, har använts under 2024. Informationen kan ge en bild av hur brottsbekämpande myndigheter arbetar, men innehåller inga direkta förändringar för enskilda medborgare.",
+    "roster": {},
+    "tags": [
+      "BROTT",
+      "TRANSPORT"
+    ],
+    "status": "NY",
+    "passed": true
+  },
+  {
+    "dok_id": "HD01UbU15",
+    "titel": "Riksrevisionens rapport om urval till högskolan - urvalsgrunder, platsfördelning och tillämpning",
+    "utskott": "UbU",
+    "nummer": 15,
+    "datum": "2026-03-11",
+    "rm": "2025/26",
+    "kort_sammanfattning": "Riksdagen har behandlat en rapport om hur studenter väljs ut till högskolan, vilket kan påverka dina möjligheter att komma in på en utbildning. Betänkandet berör de regler och metoder som används för att fördela platserna.",
+    "roster": {},
+    "tags": [
+      "UTBILDNING",
+      "TRANSPORT"
+    ],
+    "status": "NY",
+    "passed": true
+  },
+  {
+    "dok_id": "HD01FiU32",
+    "titel": "Kompletterande bestämmelser till EU:s förordning om hållbarhetsbetyg",
+    "utskott": "FiU",
+    "nummer": 32,
+    "datum": "2026-03-04",
+    "rm": "2025/26",
+    "kort_sammanfattning": "Riksdagen har beslutat om lagar som kompletterar EU:s regler för hållbarhetsbetyg. Detta kan påverka hur företag redovisar sitt hållbarhetsarbete och hur investerare bedömer företagens miljöpåverkan och sociala ansvar.",
+    "roster": {},
+    "tags": [
+      "MILJÖ",
+      "ARBETE"
+    ],
+    "status": "NY",
+    "passed": true
+  },
+  {
+    "dok_id": "HD01FiU36",
+    "titel": "Utveckling av makrotillsynsområdet",
+    "utskott": "FiU",
+    "nummer": 36,
+    "datum": "2026-03-04",
+    "rm": "2025/26",
+    "kort_sammanfattning": "Riksdagen har behandlat frågan om utvecklingen av makrotillsynen, vilket syftar till att övervaka och motverka risker i det finansiella systemet. Detta kan påverka vanliga medborgare genom att bidra till en stabilare ekonomi och minska risken för finanskriser.",
+    "roster": {},
+    "tags": [
+      "EKONOMI",
+      "TRANSPORT"
+    ],
+    "status": "NY",
+    "passed": true
+  },
+  {
+    "dok_id": "HD01FöU7",
+    "titel": "Riksrevisionens rapport om den statliga styrningen av det civila försvarets uppbyggnad",
+    "utskott": "FöU",
+    "nummer": 7,
+    "datum": "2026-03-04",
+    "rm": "2025/26",
+    "kort_sammanfattning": "Riksdagen har behandlat en rapport om hur staten styr uppbyggnaden av det civila försvaret, vilket är viktigt för att samhället ska fungera även i kriser och krig.",
+    "roster": {},
+    "tags": [
+      "FÖRSVAR"
+    ],
+    "status": "NY",
+    "passed": true
+  },
+  {
+    "dok_id": "HD01JuU23",
+    "titel": "Genomförande av direktivet om skydd för personer som deltar i den offentliga debatten samt införande av en ny tredskodomssanktion",
+    "utskott": "JuU",
+    "nummer": 23,
+    "datum": "2026-03-04",
+    "rm": "2025/26",
+    "kort_sammanfattning": "Riksdagen har beslutat om nya regler för att bättre skydda personer som deltar i den offentliga debatten, samt infört en ny typ av påföljd (tredskodomssanktion) i vissa juridiska processer. Detta kan påverka hur rättsprocesser genomförs och ge ett starkare skydd för de som engagerar sig i samhällsfrågor.",
+    "roster": {},
+    "tags": [
+      "BROTT",
+      "JORDBRUK"
+    ],
+    "status": "NY",
+    "passed": true
+  },
+  {
+    "dok_id": "HD01NU26",
+    "titel": "Subsidiaritetsprövning av kommissionens förslag om riktlinjer för transeuropeisk energiinfrastruktur och påskyndandet av tillståndsförfaranden",
+    "utskott": "NU",
+    "nummer": 26,
+    "datum": "2026-03-04",
+    "rm": "2025/26",
+    "kort_sammanfattning": "Riksdagen har granskat ett EU-förslag om energiinfrastruktur och tillståndsprocesser för att se om det bäst hanteras på EU-nivå eller av medlemsländerna själva. Detta kan påverka hur snabbt nya energiprojekt kan genomföras och hur mycket inflytande Sverige har över sin egen energiförsörjning.",
+    "roster": {},
+    "tags": [
+      "MILJÖ",
+      "TRANSPORT"
+    ],
+    "status": "NY",
+    "passed": true
+  },
+  {
+    "dok_id": "HD01CU10",
+    "titel": "Ett förbättrat resegarantisystem",
+    "utskott": "CU",
+    "nummer": 10,
+    "datum": "2026-02-25",
+    "rm": "2025/26",
+    "kort_sammanfattning": "Riksdagen har beslutat om ett förbättrat resegarantisystem, vilket innebär att resenärer får ett starkare skydd om researrangören går i konkurs eller om resan ställs in. Detta kan inkludera rätt till återbetalning eller hjälp att fullfölja resan.",
+    "roster": {},
+    "tags": [
+      "JORDBRUK"
+    ],
+    "status": "NY",
+    "passed": true
+  },
+  {
+    "dok_id": "HD01FiU14",
+    "titel": "Det finanspolitiska ramverket",
+    "utskott": "FiU",
+    "nummer": 14,
+    "datum": "2026-02-25",
+    "rm": "2025/26",
+    "kort_sammanfattning": "Det finanspolitiska ramverket hjälper till att hålla ordning på statens ekonomi, vilket i sin tur påverkar skatter, välfärd och andra offentliga tjänster. Genom att ha tydliga regler för hur staten får spendera pengar, kan man undvika stora ekonomiska problem i framtiden.",
+    "roster": {},
+    "tags": [
+      "EKONOMI",
+      "JORDBRUK"
+    ],
+    "status": "NY",
+    "passed": true
+  },
+  {
+    "dok_id": "HD01FiU29",
+    "titel": "Nya regler för att underlätta noteringar av värdepapper",
+    "utskott": "FiU",
+    "nummer": 29,
+    "datum": "2026-02-25",
+    "rm": "2025/26",
+    "kort_sammanfattning": "Riksdagen har beslutat om nya regler som ska göra det enklare för företag att få sina värdepapper, som aktier och obligationer, noterade på en marknadsplats. Detta kan på sikt leda till fler investeringsmöjligheter och en mer dynamisk aktiemarknad.",
+    "roster": {},
+    "tags": [],
+    "status": "NY",
+    "passed": true
+  },
+  {
+    "dok_id": "HD01JuU19",
+    "titel": "Ett utvidgat straffansvar för försök, förberedelse och stämpling till brott",
+    "utskott": "JuU",
+    "nummer": 19,
+    "datum": "2026-02-25",
+    "rm": "2025/26",
+    "kort_sammanfattning": "Beslutet innebär att det blir straffbart att planera, förbereda eller försöka begå fler brott än tidigare. Detta kan påverka personer som är involverade i kriminella aktiviteter genom att öka risken för åtal även i tidiga stadier av brottsplanering.",
+    "roster": {},
+    "tags": [
+      "BROTT"
+    ],
+    "status": "NY",
+    "passed": true
+  },
+  {
+    "dok_id": "HD01JuU20",
+    "titel": "En modern lagstiftning för Kriminalvårdens personuppgiftsbehandling",
+    "utskott": "JuU",
+    "nummer": 20,
+    "datum": "2026-02-25",
+    "rm": "2025/26",
+    "kort_sammanfattning": "Den nya lagstiftningen påverkar hur Kriminalvården hanterar personuppgifter, vilket kan påverka hur information om personer som är eller har varit i kontakt med Kriminalvården behandlas och skyddas.",
+    "roster": {},
+    "tags": [
+      "HÄLSA",
+      "BROTT"
+    ],
+    "status": "NY",
+    "passed": true
+  },
+  {
+    "dok_id": "HD01JuU21",
+    "titel": "Riksrevisionens rapport om antagningen till polisutbildningen",
+    "utskott": "JuU",
+    "nummer": 21,
+    "datum": "2026-02-25",
+    "rm": "2025/26",
+    "kort_sammanfattning": "Riksdagen har behandlat en rapport om hur antagningen till polisutbildningen fungerar. Detta kan påverka vilka som blir poliser i framtiden och därmed hur polisen arbetar.",
+    "roster": {},
+    "tags": [
+      "BROTT",
+      "UTBILDNING"
+    ],
+    "status": "NY",
+    "passed": true
+  },
+  {
+    "dok_id": "HD01KU16",
+    "titel": "Vissa sekretessfrågor som avser vapentransaktioner och Schengens informationssystem",
+    "utskott": "KU",
+    "nummer": 16,
+    "datum": "2026-02-25",
+    "rm": "2025/26",
+    "kort_sammanfattning": "Riksdagen har beslutat om ändringar i sekretesslagstiftningen gällande information om vapentransaktioner och uppgifter i Schengens informationssystem. Detta kan påverka allmänhetens insyn i dessa typer av information, då vissa uppgifter kan komma att skyddas ytterligare.",
+    "roster": {},
+    "tags": [
+      "JORDBRUK"
+    ],
+    "status": "NY",
+    "passed": true
+  },
+  {
+    "dok_id": "HD01MJU17",
+    "titel": "Anpassning av svensk rätt till EU:s nya förordning om skyddade beteckningar på jordbruksprodukter och livsmedel samt livsmedelspolitik",
+    "utskott": "MJU",
+    "nummer": 17,
+    "datum": "2026-02-25",
+    "rm": "2025/26",
+    "kort_sammanfattning": "Riksdagen har beslutat om nya lagar för att anpassa svensk rätt till EU:s regler om skyddade beteckningar för vissa jordbruksprodukter och livsmedel. Detta kan påverka vilka produkter som får säljas under vissa namn och hur de marknadsförs, vilket i sin tur kan påverka konsumenters valmöjligheter och tillgång till lokala produkter.",
+    "roster": {},
+    "tags": [
+      "JORDBRUK"
+    ],
+    "status": "NY",
+    "passed": true
+  },
+  {
+    "dok_id": "HD01SfU11",
+    "titel": "Tillfälligt nedsatta arbetsgivaravgifter för 19-23-åringar",
+    "utskott": "SfU",
+    "nummer": 11,
+    "datum": "2026-02-25",
+    "rm": "2025/26",
+    "kort_sammanfattning": "Beslutet innebär att arbetsgivare kan få betala lägre arbetsgivaravgifter för anställda som är mellan 19 och 23 år. Detta kan göra det billigare för företag att anställa unga personer.",
+    "roster": {
+      "S": {
+        "ja": 3,
+        "nej": 0,
+        "avstar": 90,
+        "franvarande": 13
+      },
+      "SD": {
+        "ja": 62,
+        "nej": 0,
+        "avstar": 0,
+        "franvarande": 9
+      },
+      "C": {
+        "ja": 21,
+        "nej": 0,
+        "avstar": 0,
+        "franvarande": 3
+      },
+      "M": {
+        "ja": 60,
+        "nej": 0,
+        "avstar": 0,
+        "franvarande": 8
+      },
+      "MP": {
+        "ja": 0,
+        "nej": 16,
+        "avstar": 0,
+        "franvarande": 2
+      },
+      "L": {
+        "ja": 13,
+        "nej": 0,
+        "avstar": 0,
+        "franvarande": 3
+      },
+      "KD": {
+        "ja": 17,
+        "nej": 0,
+        "avstar": 0,
+        "franvarande": 2
+      },
+      "-": {
+        "ja": 2,
+        "nej": 1,
+        "avstar": 0,
+        "franvarande": 2
+      },
+      "V": {
+        "ja": 0,
+        "nej": 18,
+        "avstar": 0,
+        "franvarande": 4
+      }
+    },
+    "tags": [
+      "EKONOMI",
+      "ARBETE"
+    ],
+    "status": "NY",
+    "passed": true
+  },
+  {
+    "dok_id": "HD01SkU10",
+    "titel": "Framtidens dataskydd vid Skatteverket, Tullverket och Kronofogdemyndigheten",
+    "utskott": "SkU",
+    "nummer": 10,
+    "datum": "2026-02-25",
+    "rm": "2025/26",
+    "kort_sammanfattning": "Riksdagen har tagit ställning till hur Skatteverket, Tullverket och Kronofogdemyndigheten ska hantera dataskydd i framtiden, vilket påverkar hur myndigheterna får behandla personuppgifter och därmed den enskildes rätt till privatliv.",
+    "roster": {},
+    "tags": [
+      "EKONOMI",
+      "DIGITALT"
+    ],
+    "status": "NY",
+    "passed": true
+  },
+  {
+    "dok_id": "HD01SkU18",
+    "titel": "Förbättrat regelverk om beskattning av skog",
+    "utskott": "SkU",
+    "nummer": 18,
+    "datum": "2026-02-25",
+    "rm": "2025/26",
+    "kort_sammanfattning": "Riksdagen har beslutat om ett förbättrat regelverk för hur skog beskattas, vilket kan påverka skogsägare genom ändrade skatteregler. Detaljerna i de nya reglerna kan påverka hur lönsamt det är att äga och bruka skog.",
+    "roster": {},
+    "tags": [
+      "EKONOMI",
+      "ARBETE"
+    ],
+    "status": "NY",
+    "passed": true
+  },
+  {
+    "dok_id": "HD01SkU19",
+    "titel": "Kontroller av kontanta medel vid den inre gränsen",
+    "utskott": "SkU",
+    "nummer": 19,
+    "datum": "2026-02-25",
+    "rm": "2025/26",
+    "kort_sammanfattning": "Riksdagen har beslutat om kontroller av kontanta medel vid Sveriges inre gränser, vilket kan innebära att resenärer kan behöva redovisa större summor pengar de för in eller ut ur landet. Detta syftar till att förhindra brottslighet som penningtvätt och finansiering av terrorism.",
+    "roster": {},
+    "tags": [
+      "EKONOMI",
+      "BROTT"
+    ],
+    "status": "NY",
+    "passed": true
+  },
+  {
+    "dok_id": "HD01SkU6",
+    "titel": "Kompletteringar och förtydliganden i fråga om sanktioner vid skatteundandragande och bedrägerier",
+    "utskott": "SkU",
+    "nummer": 6,
+    "datum": "2026-02-25",
+    "rm": "2025/26",
+    "kort_sammanfattning": "Riksdagen har beslutat om kompletteringar och förtydliganden gällande lagstiftningen kring sanktioner för skatteundandragande och bedrägerier, vilket kan påverka de som döms för sådana brott.",
+    "roster": {},
+    "tags": [
+      "EKONOMI",
+      "BROTT"
+    ],
+    "status": "NY",
+    "passed": true
+  },
+  {
+    "dok_id": "HD01SkU9",
+    "titel": "Tillfälligt sänkt mervärdesskatt på livsmedel",
+    "utskott": "SkU",
+    "nummer": 9,
+    "datum": "2026-02-25",
+    "rm": "2025/26",
+    "kort_sammanfattning": "Beslutet innebär att momsen på mat sänks tillfälligt, vilket kan göra maten billigare i affären för dig.",
+    "roster": {},
+    "tags": [
+      "EKONOMI",
+      "TRANSPORT"
+    ],
+    "status": "NY",
+    "passed": true
+  },
+  {
+    "dok_id": "HD01SoU23",
+    "titel": "Nästa steg för en god och nära vård",
+    "utskott": "SoU",
+    "nummer": 23,
+    "datum": "2026-02-25",
+    "rm": "2025/26",
+    "kort_sammanfattning": "Detta betänkande handlar om hur vården kan bli mer tillgänglig och bättre samordnad för patienter. Det kan innebära förändringar i hur du kontaktar vården, hur information delas mellan vårdgivare och hur vården planeras.",
+    "roster": {},
+    "tags": [
+      "HÄLSA",
+      "JORDBRUK"
+    ],
+    "status": "NY",
+    "passed": true
+  },
+  {
+    "dok_id": "HD01TU8",
+    "titel": "Digitaliserings- och postfrågor",
+    "utskott": "TU",
+    "nummer": 8,
+    "datum": "2026-02-25",
+    "rm": "2025/26",
+    "kort_sammanfattning": "Detta betänkande handlar om frågor som rör digitalisering och posttjänster i Sverige. Besluten kan påverka hur vi använder digitala tjänster och hur posten fungerar i framtiden.",
+    "roster": {
+      "S": {
+        "ja": 0,
+        "nej": 93,
+        "avstar": 0,
+        "franvarande": 13
+      },
+      "SD": {
+        "ja": 62,
+        "nej": 0,
+        "avstar": 0,
+        "franvarande": 9
+      },
+      "C": {
+        "ja": 21,
+        "nej": 0,
+        "avstar": 0,
+        "franvarande": 3
+      },
+      "M": {
+        "ja": 60,
+        "nej": 0,
+        "avstar": 0,
+        "franvarande": 8
+      },
+      "MP": {
+        "ja": 16,
+        "nej": 0,
+        "avstar": 0,
+        "franvarande": 2
+      },
+      "L": {
+        "ja": 13,
+        "nej": 0,
+        "avstar": 0,
+        "franvarande": 3
+      },
+      "KD": {
+        "ja": 17,
+        "nej": 0,
+        "avstar": 0,
+        "franvarande": 2
+      },
+      "-": {
+        "ja": 2,
+        "nej": 1,
+        "avstar": 0,
+        "franvarande": 2
+      },
+      "V": {
+        "ja": 18,
+        "nej": 0,
+        "avstar": 0,
+        "franvarande": 4
+      }
+    },
+    "tags": [
+      "DIGITALT"
+    ],
+    "status": "NY",
+    "passed": true
+  },
+  {
+    "dok_id": "HD01KrU3",
+    "titel": "Ett nytt förbud mot spel på kredit",
+    "utskott": "KrU",
+    "nummer": 3,
+    "datum": "2026-02-17",
+    "rm": "2025/26",
+    "kort_sammanfattning": "Det blir förbjudet att använda kredit för att spela. Detta innebär att du inte kan låna pengar, till exempel via kreditkort eller faktura, för att satsa på spel.",
+    "roster": {},
+    "tags": [
+      "EKONOMI",
+      "DIGITALT"
+    ],
+    "status": "NY",
+    "passed": true
+  },
+  {
+    "dok_id": "HD01SoU24",
+    "titel": "Specialiseringstjänstgöring för sjukhusfysiker",
+    "utskott": "SoU",
+    "nummer": 24,
+    "datum": "2026-02-17",
+    "rm": "2025/26",
+    "kort_sammanfattning": "Riksdagen har beslutat om specialiseringstjänstgöring för sjukhusfysiker, vilket kan leda till högre kvalitet och mer specialiserad kompetens inom medicinsk fysik på sjukhus. Detta kan i sin tur påverka diagnostik och behandling med strålning, till exempel vid cancer.",
+    "roster": {},
+    "tags": [
+      "HÄLSA",
+      "JORDBRUK"
+    ],
+    "status": "NY",
+    "passed": true
+  },
+  {
+    "dok_id": "HD01TU11",
+    "titel": "Avvikande från bestämmelserna om tyst godkännande i EU:s förordning om gigabitinfrastruktur",
+    "utskott": "TU",
+    "nummer": 11,
+    "datum": "2026-02-04",
+    "rm": "2025/26",
+    "kort_sammanfattning": "Riksdagen har beslutat att Sverige ska kunna göra undantag från EU:s regler om automatiskt godkännande av tillstånd för utbyggnad av gigabitinfrastruktur, vilket kan påverka hur snabbt bredband byggs ut i landet.",
+    "roster": {},
+    "tags": [
+      "TRANSPORT"
+    ],
+    "status": "NY",
+    "passed": true
+  },
+  {
+    "dok_id": "HD01TU7",
+    "titel": "Åtgärder mot körkortsturism",
+    "utskott": "TU",
+    "nummer": 7,
+    "datum": "2026-02-04",
+    "rm": "2025/26",
+    "kort_sammanfattning": "Beslutet innebär att det blir svårare att skaffa körkort i Sverige om man inte bor här permanent, vilket syftar till att minska missbruk av systemet.",
+    "roster": {},
+    "tags": [
+      "JORDBRUK"
+    ],
+    "status": "NY",
+    "passed": true
+  },
+  {
+    "dok_id": "HD01CU7",
+    "titel": "Anpassningar till EU:s nya byggproduktförordning",
+    "utskott": "CU",
+    "nummer": 7,
+    "datum": "2026-01-28",
+    "rm": "2025/26",
+    "kort_sammanfattning": "Riksdagen har beslutat om anpassningar i svensk lagstiftning för att följa EU:s nya regler för byggprodukter. Detta kan påverka vilka krav som ställs på byggmaterial och hur de kontrolleras, vilket i sin tur kan påverka byggkostnader och säkerhet.",
+    "roster": {},
+    "tags": [
+      "EKONOMI",
+      "FÖRSVAR"
+    ],
+    "status": "NY",
+    "passed": true
+  },
+  {
+    "dok_id": "HD01FöU5",
+    "titel": "Kustbevakningens sjöövervakning",
+    "utskott": "FöU",
+    "nummer": 5,
+    "datum": "2026-01-28",
+    "rm": "2025/26",
+    "kort_sammanfattning": "Detta betänkande handlar om Kustbevakningens arbete med att övervaka sjöfarten och miljön till havs, vilket är viktigt för säkerheten och för att skydda havsmiljön. Beslutet påverkar indirekt medborgare genom att bidra till säkrare sjöfart och en renare havsmiljö.",
+    "roster": {},
+    "tags": [
+      "MILJÖ",
+      "ARBETE"
+    ],
+    "status": "NY",
+    "passed": true
+  },
+  {
+    "dok_id": "HD01JuU22",
+    "titel": "Utökade registerkontroller vid anställning i kommun",
+    "utskott": "JuU",
+    "nummer": 22,
+    "datum": "2026-01-28",
+    "rm": "2025/26",
+    "kort_sammanfattning": "Beslutet innebär att det kan bli vanligare med registerkontroller för personer som söker jobb i kommunen. Detta görs för att öka tryggheten och säkerheten inom kommunal verksamhet.",
+    "roster": {},
+    "tags": [
+      "ARBETE",
+      "FÖRSVAR"
+    ],
+    "status": "NY",
+    "passed": true
+  },
+  {
+    "dok_id": "HD01NU4",
+    "titel": "2025 års redogörelse för företag med statligt ägande",
+    "utskott": "NU",
+    "nummer": 4,
+    "datum": "2026-01-28",
+    "rm": "2025/26",
+    "kort_sammanfattning": "Riksdagen har tagit del av och godkänt regeringens redovisning av hur staten har skött sina bolag under 2025. Detta kan påverka medborgare indirekt genom att statliga bolag förväntas bidra till samhällsnytta och en väl fungerande ekonomi.",
+    "roster": {},
+    "tags": [
+      "EKONOMI",
+      "DIGITALT"
+    ],
+    "status": "NY",
+    "passed": true
+  },
+  {
+    "dok_id": "HD01NU9",
+    "titel": "Riksrevisionens rapport om LKAB:s omställning",
+    "utskott": "NU",
+    "nummer": 9,
+    "datum": "2026-01-28",
+    "rm": "2025/26",
+    "kort_sammanfattning": "Riksdagen har behandlat en rapport om hur statliga LKAB ställer om sin verksamhet. Detta kan påverka jobben i norra Sverige och hur miljövänlig gruvindustrin är framöver.",
+    "roster": {
+      "S": {
+        "ja": 92,
+        "nej": 0,
+        "avstar": 0,
+        "franvarande": 14
+      },
+      "SD": {
+        "ja": 58,
+        "nej": 0,
+        "avstar": 0,
+        "franvarande": 13
+      },
+      "C": {
+        "ja": 18,
+        "nej": 0,
+        "avstar": 0,
+        "franvarande": 6
+      },
+      "M": {
+        "ja": 59,
+        "nej": 0,
+        "avstar": 0,
+        "franvarande": 9
+      },
+      "MP": {
+        "ja": 0,
+        "nej": 16,
+        "avstar": 0,
+        "franvarande": 2
+      },
+      "L": {
+        "ja": 14,
+        "nej": 0,
+        "avstar": 0,
+        "franvarande": 2
+      },
+      "KD": {
+        "ja": 17,
+        "nej": 0,
+        "avstar": 0,
+        "franvarande": 2
+      },
+      "-": {
+        "ja": 2,
+        "nej": 2,
+        "avstar": 0,
+        "franvarande": 1
+      },
+      "V": {
+        "ja": 0,
+        "nej": 19,
+        "avstar": 0,
+        "franvarande": 3
+      }
+    },
+    "tags": [
+      "MILJÖ"
+    ],
+    "status": "NY",
+    "passed": true
+  },
+  {
+    "dok_id": "HD01SfU8",
+    "titel": "Riksrevisionens rapport om Migrationsverkets hantering av medborgarskapsärenden",
+    "utskott": "SfU",
+    "nummer": 8,
+    "datum": "2026-01-28",
+    "rm": "2025/26",
+    "kort_sammanfattning": "Riksdagen har behandlat en rapport från Riksrevisionen som granskat hur Migrationsverket hanterar ansökningar om medborgarskap. Detta kan påverka väntetider och rättssäkerheten för de som ansöker om svenskt medborgarskap.",
+    "roster": {},
+    "tags": [
+      "FÖRSVAR",
+      "MIGRATION"
+    ],
+    "status": "NY",
+    "passed": true
+  },
+  {
+    "dok_id": "HD01SfU9",
+    "titel": "Arbetsprövning med bibehållen sjukpenning",
+    "utskott": "SfU",
+    "nummer": 9,
+    "datum": "2026-01-28",
+    "rm": "2025/26",
+    "kort_sammanfattning": "Beslutet innebär att personer som är sjukskrivna kan få möjlighet att pröva ett arbete och samtidigt behålla sin sjukpenning. Detta kan underlätta återgången till arbetslivet efter en sjukdom.",
+    "roster": {
+      "S": {
+        "ja": 92,
+        "nej": 0,
+        "avstar": 0,
+        "franvarande": 14
+      },
+      "SD": {
+        "ja": 58,
+        "nej": 0,
+        "avstar": 0,
+        "franvarande": 13
+      },
+      "C": {
+        "ja": 18,
+        "nej": 0,
+        "avstar": 0,
+        "franvarande": 6
+      },
+      "M": {
+        "ja": 59,
+        "nej": 0,
+        "avstar": 0,
+        "franvarande": 9
+      },
+      "MP": {
+        "ja": 0,
+        "nej": 16,
+        "avstar": 0,
+        "franvarande": 2
+      },
+      "L": {
+        "ja": 14,
+        "nej": 0,
+        "avstar": 0,
+        "franvarande": 2
+      },
+      "KD": {
+        "ja": 17,
+        "nej": 0,
+        "avstar": 0,
+        "franvarande": 2
+      },
+      "-": {
+        "ja": 2,
+        "nej": 2,
+        "avstar": 0,
+        "franvarande": 1
+      },
+      "V": {
+        "ja": 0,
+        "nej": 19,
+        "avstar": 0,
+        "franvarande": 3
+      }
+    },
+    "tags": [
+      "ARBETE"
+    ],
+    "status": "NY",
+    "passed": true
+  },
+  {
+    "dok_id": "HD01AU5",
+    "titel": "Riksrevisionens rapport om statens insatser mot ekonomiskt våld i nära relationer",
+    "utskott": "AU",
+    "nummer": 5,
+    "datum": "2026-01-14",
+    "rm": "2025/26",
+    "kort_sammanfattning": "Riksdagen har behandlat en rapport om hur staten arbetar för att motverka ekonomiskt våld i nära relationer. Ekonomiskt våld kan innebära att en person kontrollerar en annans ekonomi, vilket kan påverka den personens möjlighet att lämna en våldsam relation.",
+    "roster": {},
+    "tags": [
+      "EKONOMI",
+      "JORDBRUK"
+    ],
+    "status": "NY",
+    "passed": true
+  },
+  {
+    "dok_id": "HD01FiU17",
+    "titel": "Straffansvar för olovlig finansiell verksamhet",
+    "utskott": "FiU",
+    "nummer": 17,
+    "datum": "2026-01-14",
+    "rm": "2025/26",
+    "kort_sammanfattning": "Riksdagen har beslutat om strängare straff för de som bedriver finansiell verksamhet utan tillstånd, vilket ska skydda allmänheten från oseriösa aktörer på finansmarknaden.",
+    "roster": {},
+    "tags": [
+      "EKONOMI",
+      "BROTT"
+    ],
+    "status": "NY",
+    "passed": true
+  },
+  {
+    "dok_id": "HD01SkU2",
+    "titel": "Förenklad hantering av skattefritt bränsle och vissa andra punktskattefrågor",
+    "utskott": "SkU",
+    "nummer": 2,
+    "datum": "2026-01-14",
+    "rm": "2025/26",
+    "kort_sammanfattning": "Riksdagen har beslutat om enklare regler för företag och organisationer som använder skattebefriat bränsle, vilket kan minska den administrativa bördan för dem. Detta kan indirekt påverka priset på vissa varor och tjänster. ",
+    "roster": {},
+    "tags": [
+      "EKONOMI"
+    ],
+    "status": "NY",
+    "passed": true
+  },
+  {
+    "dok_id": "hd01fiu10",
+    "titel": "Statens budget för 2026",
+    "utskott": "FiU",
+    "nummer": 10,
+    "datum": "2025-12-18",
+    "rm": "2025/26",
+    "kort_sammanfattning": "Riksdagen har beslutat om statens budget för 2026, vilket påverkar hur skattepengar fördelas till olika verksamheter som sjukvård, utbildning och infrastruktur. Det innebär att vissa områden kan få mer resurser medan andra kan få mindre, vilket i sin tur kan påverka kvaliteten och tillgängligheten i dessa verksamheter.",
+    "roster": {},
+    "tags": [
+      "EKONOMI",
+      "HÄLSA"
+    ],
+    "status": "NY",
+    "passed": true
+  },
+  {
+    "dok_id": "HD01FiU2",
+    "titel": "Utgiftsområde 2 Samhällsekonomi och finansförvaltning",
+    "utskott": "FiU",
+    "nummer": 2,
+    "datum": "2025-12-17",
+    "rm": "2025/26",
+    "kort_sammanfattning": "Detta betänkande handlar om hur statens pengar ska användas inom samhällsekonomi och finansförvaltning. Det påverkar bland annat hur staten sköter sin ekonomi och hur resurser fördelas till olika verksamheter.",
+    "roster": {},
+    "tags": [
+      "EKONOMI",
+      "JORDBRUK"
+    ],
+    "status": "NY",
+    "passed": true
+  },
+  {
+    "dok_id": "HD01FiU3",
+    "titel": "Utgiftsområde 25 Allmänna bidrag till kommuner",
+    "utskott": "FiU",
+    "nummer": 3,
+    "datum": "2025-12-17",
+    "rm": "2025/26",
+    "kort_sammanfattning": "Detta betänkande handlar om hur mycket pengar kommunerna får från staten i form av generella bidrag. Dessa bidrag påverkar kommunernas möjlighet att finansiera skola, vård och omsorg.",
+    "roster": {},
+    "tags": [
+      "EKONOMI",
+      "HÄLSA"
+    ],
+    "status": "NY",
+    "passed": true
+  },
+  {
+    "dok_id": "HD01FiU4",
+    "titel": "Utgiftsområde 26 Statsskuldsräntor m.m.",
+    "utskott": "FiU",
+    "nummer": 4,
+    "datum": "2025-12-17",
+    "rm": "2025/26",
+    "kort_sammanfattning": "Detta betänkande handlar om hur mycket pengar staten behöver betala i ränta på sina lån. Det påverkar indirekt medborgarna eftersom statens utgifter för räntor kan påverka andra budgetområden som skola, vård och infrastruktur.",
+    "roster": {},
+    "tags": [
+      "EKONOMI",
+      "HÄLSA"
+    ],
+    "status": "NY",
+    "passed": true
+  },
+  {
+    "dok_id": "HD01FiU5",
+    "titel": "Utgiftsområde 27 Avgiften till Europeiska unionen",
+    "utskott": "FiU",
+    "nummer": 5,
+    "datum": "2025-12-17",
+    "rm": "2025/26",
+    "kort_sammanfattning": "Riksdagen har beslutat om storleken på Sveriges årliga avgift till Europeiska unionen. Denna avgift påverkar indirekt medborgarna genom att den är en del av statsbudgeten, vilken finansierar olika samhällstjänster.",
+    "roster": {},
+    "tags": [
+      "EKONOMI"
+    ],
+    "status": "NY",
+    "passed": true
+  },
+  {
+    "dok_id": "HD01NU1",
+    "titel": "Utgiftsområde 24 Näringsliv",
+    "utskott": "NU",
+    "nummer": 1,
+    "datum": "2025-12-17",
+    "rm": "2025/26",
+    "kort_sammanfattning": "Detta betänkande handlar om hur statens pengar ska fördelas till olika näringslivsrelaterade områden, vilket kan påverka företags möjligheter att växa och utvecklas, samt skapa jobb.",
+    "roster": {
+      "S": {
+        "ja": 3,
+        "nej": 74,
+        "avstar": 71,
+        "franvarande": 18
+      },
+      "SD": {
+        "ja": 80,
+        "nej": 0,
+        "avstar": 0,
+        "franvarande": 12
+      },
+      "C": {
+        "ja": 25,
+        "nej": 1,
+        "avstar": 0,
+        "franvarande": 6
+      },
+      "M": {
+        "ja": 85,
+        "nej": 0,
+        "avstar": 0,
+        "franvarande": 13
+      },
+      "MP": {
+        "ja": 1,
+        "nej": 0,
+        "avstar": 17,
+        "franvarande": 2
+      },
+      "L": {
+        "ja": 16,
+        "nej": 0,
+        "avstar": 0,
+        "franvarande": 6
+      },
+      "KD": {
+        "ja": 26,
+        "nej": 0,
+        "avstar": 0,
+        "franvarande": 2
+      },
+      "-": {
+        "ja": 2,
+        "nej": 1,
+        "avstar": 5,
+        "franvarande": 0
+      },
+      "V": {
+        "ja": 4,
+        "nej": 14,
+        "avstar": 10,
+        "franvarande": 6
+      }
+    },
+    "tags": [
+      "EKONOMI"
+    ],
+    "status": "NY",
+    "passed": true
+  },
+  {
+    "dok_id": "HD01NU2",
+    "titel": "Utgiftsområde 19 Regional utveckling",
+    "utskott": "NU",
+    "nummer": 2,
+    "datum": "2025-12-17",
+    "rm": "2025/26",
+    "kort_sammanfattning": "Detta betänkande handlar om hur pengar ska fördelas till regional utveckling i Sverige. Det kan påverka tillgången till jobb, utbildning och service beroende på var du bor.",
+    "roster": {},
+    "tags": [
+      "EKONOMI",
+      "UTBILDNING"
+    ],
+    "status": "NY",
+    "passed": true
+  },
+  {
+    "dok_id": "HD01AU1",
+    "titel": "Utgiftsområde 13 Integration och jämställdhet",
+    "utskott": "AU",
+    "nummer": 1,
+    "datum": "2025-12-16",
+    "rm": "2025/26",
+    "kort_sammanfattning": "Detta betänkande handlar om hur pengar inom integrations- och jämställdhetsområdet ska användas. Besluten kan påverka till exempel stöd till organisationer som arbetar med integration eller insatser för att främja jämställdhet.",
+    "roster": {},
+    "tags": [
+      "EKONOMI",
+      "MIGRATION"
+    ],
+    "status": "NY",
+    "passed": true
+  },
+  {
+    "dok_id": "HD01AU2",
+    "titel": "Utgiftsområde 14 Arbetsmarknad och arbetsliv",
+    "utskott": "AU",
+    "nummer": 2,
+    "datum": "2025-12-16",
+    "rm": "2025/26",
+    "kort_sammanfattning": "Detta betänkande handlar om hur pengar ska fördelas inom arbetsmarknads- och arbetslivspolitiken. Det påverkar bland annat anslagen till Arbetsförmedlingen och olika program för att hjälpa människor att hitta eller behålla jobb.",
+    "roster": {},
+    "tags": [
+      "EKONOMI",
+      "ARBETE"
+    ],
+    "status": "NY",
+    "passed": true
+  },
+  {
+    "dok_id": "HD01JuU26",
+    "titel": "Polisens arbete mot sexuella övergrepp mot barn i digitala miljöer",
+    "utskott": "JuU",
+    "nummer": 26,
+    "datum": "2025-12-16",
+    "rm": "2025/26",
+    "kort_sammanfattning": "Riksdagen har behandlat frågan om polisens arbete mot sexuella övergrepp mot barn på internet. Detta kan påverka hur polisen prioriterar och arbetar med dessa brott, vilket i sin tur kan påverka tryggheten för barn som använder digitala miljöer.",
+    "roster": {},
+    "tags": [
+      "MILJÖ",
+      "BROTT"
+    ],
+    "status": "NY",
+    "passed": true
+  },
+  {
+    "dok_id": "HD01MJU1",
+    "titel": "Utgiftsområde 20 Klimat, miljö och natur",
+    "utskott": "MJU",
+    "nummer": 1,
+    "datum": "2025-12-16",
+    "rm": "2025/26",
+    "kort_sammanfattning": "Detta betänkande handlar om hur pengar ska fördelas inom utgiftsområdet klimat, miljö och natur. Det påverkar bland annat satsningar på naturvård, klimatomställning och miljöskydd, vilket i sin tur kan påverka miljön vi lever i och de åtgärder som tas för att minska klimatförändringarna.",
+    "roster": {},
+    "tags": [
+      "MILJÖ",
+      "EKONOMI"
+    ],
+    "status": "NY",
+    "passed": true
+  },
+  {
+    "dok_id": "HD01MJU2",
+    "titel": "Utgiftsområde 23 Areella näringar, landsbygd och livsmedel",
+    "utskott": "MJU",
+    "nummer": 2,
+    "datum": "2025-12-16",
+    "rm": "2025/26",
+    "kort_sammanfattning": "Detta betänkande handlar om hur pengar ska fördelas till områden som rör jordbruk, skogsbruk, fiske, landsbygdsutveckling och livsmedelsproduktion. Besluten kan påverka förutsättningarna för företagare inom dessa näringar och hur landsbygden utvecklas, vilket i sin tur kan påverka tillgången till lokalt producerad mat och sysselsättning på landsbygden.",
+    "roster": {},
+    "tags": [
+      "EKONOMI",
+      "ARBETE"
+    ],
+    "status": "NY",
+    "passed": true
+  },
+  {
+    "dok_id": "HD01NU3",
+    "titel": "Utgiftsområde 21 Energi",
+    "utskott": "NU",
+    "nummer": 3,
+    "datum": "2025-12-16",
+    "rm": "2025/26",
+    "kort_sammanfattning": "Detta betänkande handlar om hur statens pengar ska användas inom energiområdet, vilket påverkar utvecklingen av energiproduktion, energieffektivisering och forskning inom området. Besluten kan påverka energipriser, tillgång till olika energikällor och miljöpåverkan.",
+    "roster": {},
+    "tags": [
+      "MILJÖ",
+      "EKONOMI"
+    ],
+    "status": "NY",
+    "passed": true
+  },
+  {
+    "dok_id": "HD01SoU1",
+    "titel": "Utgiftsområde 9 Hälsovård, sjukvård och social omsorg",
+    "utskott": "SoU",
+    "nummer": 1,
+    "datum": "2025-12-16",
+    "rm": "2025/26",
+    "kort_sammanfattning": "Detta betänkande handlar om hur pengar ska fördelas inom hälsovård, sjukvård och social omsorg. Det påverkar tillgången till vård och omsorgstjänster, samt kvaliteten på dessa tjänster.",
+    "roster": {},
+    "tags": [
+      "EKONOMI",
+      "HÄLSA"
+    ],
+    "status": "NY",
+    "passed": true
+  },
+  {
+    "dok_id": "HD01TU1",
+    "titel": "Utgiftsområde 22 Kommunikationer",
+    "utskott": "TU",
+    "nummer": 1,
+    "datum": "2025-12-16",
+    "rm": "2025/26",
+    "kort_sammanfattning": "Riksdagen har beslutat om budgeten för utgiftsområdet kommunikationer, vilket påverkar investeringar i vägar, järnvägar, kollektivtrafik och andra kommunikationsinfrastrukturer. Detta kan påverka hur lätt det är att resa och transportera gods i landet.",
+    "roster": {},
+    "tags": [
+      "EKONOMI",
+      "TRANSPORT"
+    ],
+    "status": "NY",
+    "passed": true
+  },
+  {
+    "dok_id": "HD01UU2",
+    "titel": "Utgiftsområde 7 Internationellt bistånd",
+    "utskott": "UU",
+    "nummer": 2,
+    "datum": "2025-12-16",
+    "rm": "2025/26",
+    "kort_sammanfattning": "Detta betänkande handlar om hur Sveriges internationella bistånd ska användas. Det påverkar vilka länder och projekt som får ekonomiskt stöd från Sverige, vilket i sin tur kan påverka utvecklingen och levnadsvillkoren i andra delar av världen.",
+    "roster": {},
+    "tags": [
+      "EKONOMI",
+      "JORDBRUK"
+    ],
+    "status": "NY",
+    "passed": true
+  },
+  {
+    "dok_id": "HD01UbU1",
+    "titel": "Utgiftsområde 16 Utbildning och universitetsforskning",
+    "utskott": "UbU",
+    "nummer": 1,
+    "datum": "2025-12-16",
+    "rm": "2025/26",
+    "kort_sammanfattning": "Riksdagen har tagit beslut om budgeten för utbildning och universitetsforskning, vilket påverkar hur mycket pengar som går till skolor, universitet och forskningsprojekt. Detta kan påverka kvaliteten på utbildningen och forskningen som bedrivs.",
+    "roster": {},
+    "tags": [
+      "EKONOMI",
+      "UTBILDNING"
+    ],
+    "status": "NY",
+    "passed": true
+  },
+  {
+    "dok_id": "HD01UbU2",
+    "titel": "Utgiftsområde 15 Studiestöd",
+    "utskott": "UbU",
+    "nummer": 2,
+    "datum": "2025-12-16",
+    "rm": "2025/26",
+    "kort_sammanfattning": "Detta betänkande handlar om hur studiestödet, det vill säga pengar för studier, ska användas. Beslutet påverkar studenter och de som planerar att studera, eftersom det bestämmer hur mycket pengar som finns tillgängligt för studier.",
+    "roster": {
+      "S": {
+        "ja": 0,
+        "nej": 93,
+        "avstar": 0,
+        "franvarande": 13
+      },
+      "SD": {
+        "ja": 63,
+        "nej": 0,
+        "avstar": 0,
+        "franvarande": 9
+      },
+      "C": {
+        "ja": 0,
+        "nej": 21,
+        "avstar": 0,
+        "franvarande": 3
+      },
+      "M": {
+        "ja": 60,
+        "nej": 0,
+        "avstar": 0,
+        "franvarande": 8
+      },
+      "MP": {
+        "ja": 0,
+        "nej": 15,
+        "avstar": 0,
+        "franvarande": 3
+      },
+      "L": {
+        "ja": 14,
+        "nej": 0,
+        "avstar": 0,
+        "franvarande": 2
+      },
+      "KD": {
+        "ja": 17,
+        "nej": 0,
+        "avstar": 0,
+        "franvarande": 2
+      },
+      "-": {
+        "ja": 1,
+        "nej": 3,
+        "avstar": 0,
+        "franvarande": 0
+      },
+      "V": {
+        "ja": 0,
+        "nej": 19,
+        "avstar": 0,
+        "franvarande": 3
+      }
+    },
+    "tags": [
+      "EKONOMI",
+      "UTBILDNING"
+    ],
+    "status": "NY",
+    "passed": true
+  },
+  {
+    "dok_id": "HD01CU1",
+    "titel": "Utgiftsområde 18 Samhällsplanering, bostadsförsörjning och byggande samt konsumentpolitik",
+    "utskott": "CU",
+    "nummer": 1,
+    "datum": "2025-12-10",
+    "rm": "2025/26",
+    "kort_sammanfattning": "Detta betänkande handlar om hur riksdagen ser på statens utgifter inom samhällsplanering, bostadsbyggande och konsumentpolitik. Besluten kan påverka till exempel bostadspriser, planeringen av nya bostadsområden och konsumenters rättigheter.",
+    "roster": {
+      "S": {
+        "ja": 91,
+        "nej": 1,
+        "avstar": 0,
+        "franvarande": 14
+      },
+      "SD": {
+        "ja": 61,
+        "nej": 0,
+        "avstar": 0,
+        "franvarande": 11
+      },
+      "C": {
+        "ja": 19,
+        "nej": 0,
+        "avstar": 0,
+        "franvarande": 5
+      },
+      "M": {
+        "ja": 59,
+        "nej": 0,
+        "avstar": 0,
+        "franvarande": 9
+      },
+      "MP": {
+        "ja": 14,
+        "nej": 0,
+        "avstar": 0,
+        "franvarande": 4
+      },
+      "L": {
+        "ja": 13,
+        "nej": 0,
+        "avstar": 0,
+        "franvarande": 3
+      },
+      "KD": {
+        "ja": 15,
+        "nej": 0,
+        "avstar": 0,
+        "franvarande": 4
+      },
+      "-": {
+        "ja": 1,
+        "nej": 2,
+        "avstar": 0,
+        "franvarande": 1
+      },
+      "V": {
+        "ja": 0,
+        "nej": 18,
+        "avstar": 0,
+        "franvarande": 4
+      }
+    },
+    "tags": [
+      "BOSTAD",
+      "JORDBRUK"
+    ],
+    "status": "NY",
+    "passed": true
+  },
+  {
+    "dok_id": "HD01FöU1",
+    "titel": "Utgiftsområde 6 Försvar och samhällets krisberedskap",
+    "utskott": "FöU",
+    "nummer": 1,
+    "datum": "2025-12-10",
+    "rm": "2025/26",
+    "kort_sammanfattning": "Detta betänkande handlar om hur pengar ska fördelas till försvaret och samhällets krisberedskap. Det påverkar hur väl förberedda vi är på olika typer av kriser och hur starkt vårt försvar är.",
+    "roster": {},
+    "tags": [
+      "EKONOMI",
+      "FÖRSVAR"
+    ],
+    "status": "NY",
+    "passed": true
+  },
+  {
+    "dok_id": "HD01FöU2",
+    "titel": "Ett starkt skydd för nätverks- och informationssystem - en ny cybersäkerhetslag",
+    "utskott": "FöU",
+    "nummer": 2,
+    "datum": "2025-12-10",
+    "rm": "2025/26",
+    "kort_sammanfattning": "Den nya cybersäkerhetslagen syftar till att stärka skyddet av viktiga digitala system och nätverk i Sverige, vilket kan minska risken för störningar i samhällsviktiga tjänster som elförsörjning, sjukvård och kommunikation. Detta kan innebära ökad trygghet och tillförlitlighet i vardagen för medborgarna.",
+    "roster": {},
+    "tags": [
+      "HÄLSA",
+      "FÖRSVAR"
+    ],
+    "status": "NY",
+    "passed": true
+  },
+  {
+    "dok_id": "HD01JuU1",
+    "titel": "Utgiftsområde 4 Rättsväsendet",
+    "utskott": "JuU",
+    "nummer": 1,
+    "datum": "2025-12-10",
+    "rm": "2025/26",
+    "kort_sammanfattning": "Detta betänkande handlar om hur pengarna till rättsväsendet ska fördelas, vilket påverkar polisens, domstolarnas och kriminalvårdens arbete. Det kan påverka hur snabbt brott utreds, hur långa domstolsprocesser är och hur väl fångar rehabiliteras.",
+    "roster": {},
+    "tags": [
+      "EKONOMI",
+      "HÄLSA"
+    ],
+    "status": "NY",
+    "passed": true
+  },
+  {
+    "dok_id": "HD01KU14",
+    "titel": "Ytterligare en avdelning i Lagrådet",
+    "utskott": "KU",
+    "nummer": 14,
+    "datum": "2025-12-10",
+    "rm": "2025/26",
+    "kort_sammanfattning": "Riksdagen har beslutat att inrätta en extra avdelning i Lagrådet. Detta kan på sikt påverka hur snabbt och effektivt lagar granskas innan de träder i kraft.",
+    "roster": {},
+    "tags": [],
+    "status": "NY",
+    "passed": true
+  },
+  {
+    "dok_id": "HD01SfU1",
+    "titel": "Utgiftsområde 10 Ekonomisk trygghet vid sjukdom och funktionsnedsättning",
+    "utskott": "SfU",
+    "nummer": 1,
+    "datum": "2025-12-10",
+    "rm": "2025/26",
+    "kort_sammanfattning": "Detta betänkande handlar om ekonomisk trygghet för personer som är sjuka eller har en funktionsnedsättning. Det påverkar de som får ersättning eller stöd på grund av sjukdom eller funktionsnedsättning, till exempel sjukpenning eller aktivitetsersättning.",
+    "roster": {
+      "S": {
+        "ja": 92,
+        "nej": 0,
+        "avstar": 0,
+        "franvarande": 14
+      },
+      "SD": {
+        "ja": 61,
+        "nej": 0,
+        "avstar": 0,
+        "franvarande": 11
+      },
+      "C": {
+        "ja": 19,
+        "nej": 0,
+        "avstar": 0,
+        "franvarande": 5
+      },
+      "M": {
+        "ja": 59,
+        "nej": 0,
+        "avstar": 0,
+        "franvarande": 9
+      },
+      "MP": {
+        "ja": 14,
+        "nej": 0,
+        "avstar": 0,
+        "franvarande": 4
+      },
+      "L": {
+        "ja": 13,
+        "nej": 0,
+        "avstar": 0,
+        "franvarande": 3
+      },
+      "KD": {
+        "ja": 15,
+        "nej": 0,
+        "avstar": 0,
+        "franvarande": 4
+      },
+      "-": {
+        "ja": 1,
+        "nej": 2,
+        "avstar": 0,
+        "franvarande": 1
+      },
+      "V": {
+        "ja": 0,
+        "nej": 18,
+        "avstar": 0,
+        "franvarande": 4
+      }
+    },
+    "tags": [
+      "EKONOMI",
+      "JORDBRUK"
+    ],
+    "status": "NY",
+    "passed": true
+  },
+  {
+    "dok_id": "HD01SfU2",
+    "titel": "Utgiftsområde 11 Ekonomisk trygghet vid ålderdom",
+    "utskott": "SfU",
+    "nummer": 2,
+    "datum": "2025-12-10",
+    "rm": "2025/26",
+    "kort_sammanfattning": "Detta betänkande handlar om hur statens pengar ska fördelas till pensioner och andra förmåner för äldre. Beslutet påverkar den ekonomiska tryggheten för pensionärer.",
+    "roster": {},
+    "tags": [
+      "EKONOMI",
+      "ÄLDRE"
+    ],
+    "status": "NY",
+    "passed": true
+  },
+  {
+    "dok_id": "HD01SfU3",
+    "titel": "Utgiftsområde 12 Ekonomisk trygghet för familjer och barn",
+    "utskott": "SfU",
+    "nummer": 3,
+    "datum": "2025-12-10",
+    "rm": "2025/26",
+    "kort_sammanfattning": "Detta betänkande handlar om hur statens pengar ska användas för att stödja familjer och barn ekonomiskt, till exempel genom barnbidrag och föräldrapenning. Beslutet påverkar direkt de som är föräldrar eller planerar att bli det, samt barnfamiljer som är beroende av ekonomiskt stöd från staten.",
+    "roster": {},
+    "tags": [
+      "EKONOMI",
+      "BARN"
+    ],
+    "status": "NY",
+    "passed": true
+  },
+  {
+    "dok_id": "HD01SfU4",
+    "titel": "Utgiftsområde 8 Migration",
+    "utskott": "SfU",
+    "nummer": 4,
+    "datum": "2025-12-10",
+    "rm": "2025/26",
+    "kort_sammanfattning": "Detta betänkande handlar om hur statens pengar ska användas inom migrationsområdet, vilket påverkar asylprocesser, integration och stöd till de som flyttar till eller från Sverige. Beslutet kan påverka väntetider, tillgång till stödprogram och resurser för kommuner.",
+    "roster": {},
+    "tags": [
+      "EKONOMI",
+      "MIGRATION"
+    ],
+    "status": "NY",
+    "passed": true
+  },
+  {
+    "dok_id": "HD01SoU11",
+    "titel": "Stärkt skydd för barn som riskerar att fara illa",
+    "utskott": "SoU",
+    "nummer": 11,
+    "datum": "2025-12-10",
+    "rm": "2025/26",
+    "kort_sammanfattning": "Detta betänkande handlar om att stärka skyddet för barn som riskerar att fara illa, vilket kan innebära att socialtjänsten får större möjligheter att ingripa för att hjälpa barn i utsatta situationer. För dig som medborgare kan det innebära att barn i din omgivning får bättre hjälp om de behöver det.",
+    "roster": {},
+    "tags": [
+      "BARN"
+    ],
+    "status": "NY",
+    "passed": true
+  },
+  {
+    "dok_id": "HD01UFöU2",
+    "titel": "Svenskt bidrag till Natos avskräckning och försvar under 2026",
+    "utskott": "UFöU",
+    "nummer": 2,
+    "datum": "2025-12-10",
+    "rm": "2025/26",
+    "kort_sammanfattning": "Riksdagen har beslutat om Sveriges bidrag till Natos avskräckning och försvar under 2026. Detta kan innebära att svenska resurser, som personal och materiel, används i Natos verksamhet för att stärka säkerheten i och runt Sverige.",
+    "roster": {},
+    "tags": [
+      "EKONOMI",
+      "FÖRSVAR"
+    ],
+    "status": "NY",
+    "passed": true
+  },
+  {
+    "dok_id": "HD01UU1",
+    "titel": "Utgiftsområde 5 Internationell samverkan",
+    "utskott": "UU",
+    "nummer": 1,
+    "datum": "2025-12-10",
+    "rm": "2025/26",
+    "kort_sammanfattning": "Detta betänkande handlar om hur Sveriges pengar för internationellt samarbete ska användas. Det påverkar Sveriges engagemang i globala frågor som fred, säkerhet, utveckling och humanitärt bistånd.",
+    "roster": {},
+    "tags": [
+      "EKONOMI",
+      "ARBETE"
+    ],
+    "status": "NY",
+    "passed": true
+  },
+  {
     "dok_id": "HD01JuU8",
     "titel": "Skärpta regler för villkorlig frigivning",
     "utskott": "JuU",

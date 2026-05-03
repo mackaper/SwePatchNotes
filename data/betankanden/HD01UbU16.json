@@ -1,0 +1,139 @@
+{
+  "dok_id": "HD01UbU16",
+  "titel": "Riksrevisionens rapport om systemet för lärarlegitimation",
+  "utskott": "UbU",
+  "nummer": 16,
+  "datum": "2026-03-18",
+  "rm": "2025/26",
+  "kort_sammanfattning": "Riksdagen har behandlat en rapport om hur systemet med lärarlegitimation fungerar. Detta kan påverka kvaliteten på undervisningen dina barn får i skolan.",
+  "bakgrund": "Riksrevisionen har granskat systemet för lärarlegitimation och lämnat en rapport till riksdagen.",
+  "beslut": "Riksdagen har behandlat Riksrevisionens rapport om systemet för lärarlegitimation.",
+  "roster": {
+    "S": {
+      "ja": 0,
+      "nej": 93,
+      "avstar": 0,
+      "franvarande": 13
+    },
+    "SD": {
+      "ja": 62,
+      "nej": 0,
+      "avstar": 0,
+      "franvarande": 9
+    },
+    "C": {
+      "ja": 0,
+      "nej": 21,
+      "avstar": 0,
+      "franvarande": 3
+    },
+    "M": {
+      "ja": 60,
+      "nej": 0,
+      "avstar": 0,
+      "franvarande": 8
+    },
+    "MP": {
+      "ja": 0,
+      "nej": 16,
+      "avstar": 0,
+      "franvarande": 2
+    },
+    "L": {
+      "ja": 10,
+      "nej": 0,
+      "avstar": 0,
+      "franvarande": 6
+    },
+    "KD": {
+      "ja": 17,
+      "nej": 0,
+      "avstar": 0,
+      "franvarande": 2
+    },
+    "-": {
+      "ja": 2,
+      "nej": 3,
+      "avstar": 0,
+      "franvarande": 0
+    },
+    "V": {
+      "ja": 0,
+      "nej": 15,
+      "avstar": 0,
+      "franvarande": 7
+    }
+  },
+  "tags": [
+    "UTBILDNING",
+    "BARN"
+  ],
+  "status": "NY",
+  "passed": true,
+  "dokument_url": "https://www.riksdagen.se/sv/dokument-och-lagar/dokument/betankande/_HD01UbU16",
+  "voteringar": [
+    {
+      "party": "S",
+      "ja": 0,
+      "nej": 93,
+      "avstar": 0,
+      "franvarande": 13
+    },
+    {
+      "party": "SD",
+      "ja": 62,
+      "nej": 0,
+      "avstar": 0,
+      "franvarande": 9
+    },
+    {
+      "party": "C",
+      "ja": 0,
+      "nej": 21,
+      "avstar": 0,
+      "franvarande": 3
+    },
+    {
+      "party": "M",
+      "ja": 60,
+      "nej": 0,
+      "avstar": 0,
+      "franvarande": 8
+    },
+    {
+      "party": "MP",
+      "ja": 0,
+      "nej": 16,
+      "avstar": 0,
+      "franvarande": 2
+    },
+    {
+      "party": "L",
+      "ja": 10,
+      "nej": 0,
+      "avstar": 0,
+      "franvarande": 6
+    },
+    {
+      "party": "KD",
+      "ja": 17,
+      "nej": 0,
+      "avstar": 0,
+      "franvarande": 2
+    },
+    {
+      "party": "-",
+      "ja": 2,
+      "nej": 3,
+      "avstar": 0,
+      "franvarande": 0
+    },
+    {
+      "party": "V",
+      "ja": 0,
+      "nej": 15,
+      "avstar": 0,
+      "franvarande": 7
+    }
+  ]
+}

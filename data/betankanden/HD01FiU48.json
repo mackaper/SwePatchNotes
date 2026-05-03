@@ -1,0 +1,138 @@
+{
+  "dok_id": "HD01FiU48",
+  "titel": "Extra ändringsbudget för 2026 - Sänkt skatt på drivmedel samt el- och gasprisstöd",
+  "utskott": "FiU",
+  "nummer": 48,
+  "datum": "2026-04-22",
+  "rm": "2025/26",
+  "kort_sammanfattning": "Beslutet innebär att skatten på drivmedel sänks och att ett stöd för höga el- och gaspriser införs. Detta kan leda till lägre kostnader för transporter och uppvärmning för hushåll och företag.",
+  "bakgrund": "Riksdagen behandlade frågan på grund av höga energipriser och en önskan att minska kostnaderna för medborgare och företag.",
+  "beslut": "Riksdagen godkände den extra ändringsbudgeten för 2026 med förslag om sänkt skatt på drivmedel samt el- och gasprisstöd.",
+  "roster": {
+    "S": {
+      "ja": 90,
+      "nej": 0,
+      "avstar": 0,
+      "franvarande": 16
+    },
+    "SD": {
+      "ja": 60,
+      "nej": 0,
+      "avstar": 0,
+      "franvarande": 10
+    },
+    "C": {
+      "ja": 20,
+      "nej": 0,
+      "avstar": 0,
+      "franvarande": 4
+    },
+    "M": {
+      "ja": 55,
+      "nej": 0,
+      "avstar": 0,
+      "franvarande": 11
+    },
+    "MP": {
+      "ja": 0,
+      "nej": 13,
+      "avstar": 0,
+      "franvarande": 5
+    },
+    "L": {
+      "ja": 11,
+      "nej": 0,
+      "avstar": 0,
+      "franvarande": 5
+    },
+    "KD": {
+      "ja": 14,
+      "nej": 0,
+      "avstar": 0,
+      "franvarande": 5
+    },
+    "-": {
+      "ja": 5,
+      "nej": 3,
+      "avstar": 0,
+      "franvarande": 0
+    },
+    "V": {
+      "ja": 0,
+      "nej": 16,
+      "avstar": 0,
+      "franvarande": 6
+    }
+  },
+  "tags": [
+    "EKONOMI"
+  ],
+  "status": "NY",
+  "passed": true,
+  "dokument_url": "https://www.riksdagen.se/sv/dokument-och-lagar/dokument/betankande/_HD01FiU48",
+  "voteringar": [
+    {
+      "party": "S",
+      "ja": 90,
+      "nej": 0,
+      "avstar": 0,
+      "franvarande": 16
+    },
+    {
+      "party": "SD",
+      "ja": 60,
+      "nej": 0,
+      "avstar": 0,
+      "franvarande": 10
+    },
+    {
+      "party": "C",
+      "ja": 20,
+      "nej": 0,
+      "avstar": 0,
+      "franvarande": 4
+    },
+    {
+      "party": "M",
+      "ja": 55,
+      "nej": 0,
+      "avstar": 0,
+      "franvarande": 11
+    },
+    {
+      "party": "MP",
+      "ja": 0,
+      "nej": 13,
+      "avstar": 0,
+      "franvarande": 5
+    },
+    {
+      "party": "L",
+      "ja": 11,
+      "nej": 0,
+      "avstar": 0,
+      "franvarande": 5
+    },
+    {
+      "party": "KD",
+      "ja": 14,
+      "nej": 0,
+      "avstar": 0,
+      "franvarande": 5
+    },
+    {
+      "party": "-",
+      "ja": 5,
+      "nej": 3,
+      "avstar": 0,
+      "franvarande": 0
+    },
+    {
+      "party": "V",
+      "ja": 0,
+      "nej": 16,
+      "avstar": 0,
+      "franvarande": 6
+    }
+  ]
+}

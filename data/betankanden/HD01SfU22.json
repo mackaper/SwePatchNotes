@@ -1,0 +1,138 @@
+{
+  "dok_id": "HD01SfU22",
+  "titel": "Inhibition av verkställigheten - en ny ordning för vissa utlänningar vid tillfälliga verkställighetshinder",
+  "utskott": "SfU",
+  "nummer": 22,
+  "datum": "2026-04-22",
+  "rm": "2025/26",
+  "kort_sammanfattning": "Riksdagen har beslutat om en ny ordning för att tillfälligt stoppa (inhibera) beslut om utvisning för vissa utlänningar, vilket kan påverka enskilda personers rätt att stanna i Sverige under en begränsad tid.",
+  "bakgrund": "Frågan behandlades för att se över och förbättra processen för att hantera tillfälliga hinder för verkställighet av utvisningsbeslut.",
+  "beslut": "Riksdagen har beslutat om en ny ordning för inhibition av verkställigheten för vissa utlänningar vid tillfälliga verkställighetshinder.",
+  "roster": {
+    "S": {
+      "ja": 90,
+      "nej": 0,
+      "avstar": 0,
+      "franvarande": 16
+    },
+    "SD": {
+      "ja": 60,
+      "nej": 0,
+      "avstar": 0,
+      "franvarande": 10
+    },
+    "C": {
+      "ja": 20,
+      "nej": 0,
+      "avstar": 0,
+      "franvarande": 4
+    },
+    "M": {
+      "ja": 55,
+      "nej": 0,
+      "avstar": 0,
+      "franvarande": 11
+    },
+    "MP": {
+      "ja": 0,
+      "nej": 13,
+      "avstar": 0,
+      "franvarande": 5
+    },
+    "L": {
+      "ja": 11,
+      "nej": 0,
+      "avstar": 0,
+      "franvarande": 5
+    },
+    "KD": {
+      "ja": 14,
+      "nej": 0,
+      "avstar": 0,
+      "franvarande": 5
+    },
+    "-": {
+      "ja": 5,
+      "nej": 3,
+      "avstar": 0,
+      "franvarande": 0
+    },
+    "V": {
+      "ja": 0,
+      "nej": 16,
+      "avstar": 0,
+      "franvarande": 6
+    }
+  },
+  "tags": [
+    "MIGRATION"
+  ],
+  "status": "NY",
+  "passed": true,
+  "dokument_url": "https://www.riksdagen.se/sv/dokument-och-lagar/dokument/betankande/_HD01SfU22",
+  "voteringar": [
+    {
+      "party": "S",
+      "ja": 90,
+      "nej": 0,
+      "avstar": 0,
+      "franvarande": 16
+    },
+    {
+      "party": "SD",
+      "ja": 60,
+      "nej": 0,
+      "avstar": 0,
+      "franvarande": 10
+    },
+    {
+      "party": "C",
+      "ja": 20,
+      "nej": 0,
+      "avstar": 0,
+      "franvarande": 4
+    },
+    {
+      "party": "M",
+      "ja": 55,
+      "nej": 0,
+      "avstar": 0,
+      "franvarande": 11
+    },
+    {
+      "party": "MP",
+      "ja": 0,
+      "nej": 13,
+      "avstar": 0,
+      "franvarande": 5
+    },
+    {
+      "party": "L",
+      "ja": 11,
+      "nej": 0,
+      "avstar": 0,
+      "franvarande": 5
+    },
+    {
+      "party": "KD",
+      "ja": 14,
+      "nej": 0,
+      "avstar": 0,
+      "franvarande": 5
+    },
+    {
+      "party": "-",
+      "ja": 5,
+      "nej": 3,
+      "avstar": 0,
+      "franvarande": 0
+    },
+    {
+      "party": "V",
+      "ja": 0,
+      "nej": 16,
+      "avstar": 0,
+      "franvarande": 6
+    }
+  ]
+}

@@ -1,0 +1,138 @@
+{
+  "dok_id": "HD01SfU28",
+  "titel": "Skärpta krav för svenskt medborgarskap",
+  "utskott": "SfU",
+  "nummer": 28,
+  "datum": "2026-04-29",
+  "rm": "2025/26",
+  "kort_sammanfattning": "Det blir svårare att bli svensk medborgare eftersom kraven på exempelvis språkkunskaper och samhällskunskap ökar. Detta kan påverka personer som planerar att ansöka om medborgarskap i framtiden.",
+  "bakgrund": "Riksdagen behandlade frågan om medborgarskap efter förslag om att skärpa kraven för att bättre spegla integration och anknytning till Sverige.",
+  "beslut": "Riksdagen beslutade att godkänna de skärpta kraven för svenskt medborgarskap.",
+  "roster": {
+    "S": {
+      "ja": 91,
+      "nej": 1,
+      "avstar": 0,
+      "franvarande": 14
+    },
+    "SD": {
+      "ja": 60,
+      "nej": 0,
+      "avstar": 0,
+      "franvarande": 10
+    },
+    "C": {
+      "ja": 20,
+      "nej": 0,
+      "avstar": 0,
+      "franvarande": 4
+    },
+    "M": {
+      "ja": 57,
+      "nej": 0,
+      "avstar": 0,
+      "franvarande": 9
+    },
+    "MP": {
+      "ja": 0,
+      "nej": 15,
+      "avstar": 0,
+      "franvarande": 3
+    },
+    "L": {
+      "ja": 9,
+      "nej": 0,
+      "avstar": 0,
+      "franvarande": 7
+    },
+    "KD": {
+      "ja": 16,
+      "nej": 0,
+      "avstar": 0,
+      "franvarande": 3
+    },
+    "-": {
+      "ja": 5,
+      "nej": 4,
+      "avstar": 0,
+      "franvarande": 0
+    },
+    "V": {
+      "ja": 0,
+      "nej": 13,
+      "avstar": 0,
+      "franvarande": 8
+    }
+  },
+  "tags": [
+    "MIGRATION"
+  ],
+  "status": "NY",
+  "passed": true,
+  "dokument_url": "https://www.riksdagen.se/sv/dokument-och-lagar/dokument/betankande/_HD01SfU28",
+  "voteringar": [
+    {
+      "party": "S",
+      "ja": 91,
+      "nej": 1,
+      "avstar": 0,
+      "franvarande": 14
+    },
+    {
+      "party": "SD",
+      "ja": 60,
+      "nej": 0,
+      "avstar": 0,
+      "franvarande": 10
+    },
+    {
+      "party": "C",
+      "ja": 20,
+      "nej": 0,
+      "avstar": 0,
+      "franvarande": 4
+    },
+    {
+      "party": "M",
+      "ja": 57,
+      "nej": 0,
+      "avstar": 0,
+      "franvarande": 9
+    },
+    {
+      "party": "MP",
+      "ja": 0,
+      "nej": 15,
+      "avstar": 0,
+      "franvarande": 3
+    },
+    {
+      "party": "L",
+      "ja": 9,
+      "nej": 0,
+      "avstar": 0,
+      "franvarande": 7
+    },
+    {
+      "party": "KD",
+      "ja": 16,
+      "nej": 0,
+      "avstar": 0,
+      "franvarande": 3
+    },
+    {
+      "party": "-",
+      "ja": 5,
+      "nej": 4,
+      "avstar": 0,
+      "franvarande": 0
+    },
+    {
+      "party": "V",
+      "ja": 0,
+      "nej": 13,
+      "avstar": 0,
+      "franvarande": 8
+    }
+  ]
+}

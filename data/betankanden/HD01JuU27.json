@@ -1,0 +1,139 @@
+{
+  "dok_id": "HD01JuU27",
+  "titel": "Säkerhetsförvaring - en ny tidsobestämd frihetsberövande påföljd",
+  "utskott": "JuU",
+  "nummer": 27,
+  "datum": "2026-03-18",
+  "rm": "2025/26",
+  "kort_sammanfattning": "Riksdagen har beslutat om en ny påföljd, säkerhetsförvaring, som innebär att vissa personer kan frihetsberövas på obestämd tid om de anses utgöra en allvarlig fara för samhället. Detta kan påverka enskilda individer som döms till denna påföljd, samt potentiellt öka tryggheten för allmänheten.",
+  "bakgrund": "Frågan behandlades i riksdagen för att diskutera och besluta om en ny form av frihetsberövande påföljd för de farligaste brottslingarna.",
+  "beslut": "Riksdagen beslutade att införa säkerhetsförvaring som en ny tidsobestämd frihetsberövande påföljd.",
+  "roster": {
+    "S": {
+      "ja": 93,
+      "nej": 0,
+      "avstar": 0,
+      "franvarande": 13
+    },
+    "SD": {
+      "ja": 62,
+      "nej": 0,
+      "avstar": 0,
+      "franvarande": 9
+    },
+    "C": {
+      "ja": 0,
+      "nej": 21,
+      "avstar": 0,
+      "franvarande": 3
+    },
+    "M": {
+      "ja": 60,
+      "nej": 0,
+      "avstar": 0,
+      "franvarande": 8
+    },
+    "MP": {
+      "ja": 0,
+      "nej": 0,
+      "avstar": 16,
+      "franvarande": 2
+    },
+    "L": {
+      "ja": 10,
+      "nej": 0,
+      "avstar": 0,
+      "franvarande": 6
+    },
+    "KD": {
+      "ja": 17,
+      "nej": 0,
+      "avstar": 0,
+      "franvarande": 2
+    },
+    "-": {
+      "ja": 2,
+      "nej": 0,
+      "avstar": 2,
+      "franvarande": 1
+    },
+    "V": {
+      "ja": 15,
+      "nej": 0,
+      "avstar": 0,
+      "franvarande": 7
+    }
+  },
+  "tags": [
+    "BROTT",
+    "FÖRSVAR"
+  ],
+  "status": "NY",
+  "passed": true,
+  "dokument_url": "https://www.riksdagen.se/sv/dokument-och-lagar/dokument/betankande/_HD01JuU27",
+  "voteringar": [
+    {
+      "party": "S",
+      "ja": 93,
+      "nej": 0,
+      "avstar": 0,
+      "franvarande": 13
+    },
+    {
+      "party": "SD",
+      "ja": 62,
+      "nej": 0,
+      "avstar": 0,
+      "franvarande": 9
+    },
+    {
+      "party": "C",
+      "ja": 0,
+      "nej": 21,
+      "avstar": 0,
+      "franvarande": 3
+    },
+    {
+      "party": "M",
+      "ja": 60,
+      "nej": 0,
+      "avstar": 0,
+      "franvarande": 8
+    },
+    {
+      "party": "MP",
+      "ja": 0,
+      "nej": 0,
+      "avstar": 16,
+      "franvarande": 2
+    },
+    {
+      "party": "L",
+      "ja": 10,
+      "nej": 0,
+      "avstar": 0,
+      "franvarande": 6
+    },
+    {
+      "party": "KD",
+      "ja": 17,
+      "nej": 0,
+      "avstar": 0,
+      "franvarande": 2
+    },
+    {
+      "party": "-",
+      "ja": 2,
+      "nej": 0,
+      "avstar": 2,
+      "franvarande": 1
+    },
+    {
+      "party": "V",
+      "ja": 15,
+      "nej": 0,
+      "avstar": 0,
+      "franvarande": 7
+    }
+  ]
+}

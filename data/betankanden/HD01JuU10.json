@@ -1,0 +1,136 @@
+{
+  "dok_id": "HD01JuU10",
+  "titel": "En ny vapenlag",
+  "utskott": "JuU",
+  "nummer": 10,
+  "datum": "2026-04-29",
+  "rm": "2025/26",
+  "kort_sammanfattning": "Riksdagen har beslutat om en ny vapenlag. Det kan påverka dig som äger eller vill äga vapen, till exempel genom ändrade regler för licenser eller förvaring.",
+  "bakgrund": "Regeringen föreslog en ny vapenlag och riksdagen har behandlat förslaget.",
+  "beslut": "Riksdagen har beslutat om en ny vapenlag (JuU10).",
+  "roster": {
+    "S": {
+      "ja": 92,
+      "nej": 0,
+      "avstar": 0,
+      "franvarande": 14
+    },
+    "SD": {
+      "ja": 60,
+      "nej": 0,
+      "avstar": 0,
+      "franvarande": 10
+    },
+    "C": {
+      "ja": 0,
+      "nej": 20,
+      "avstar": 0,
+      "franvarande": 4
+    },
+    "M": {
+      "ja": 57,
+      "nej": 0,
+      "avstar": 0,
+      "franvarande": 9
+    },
+    "MP": {
+      "ja": 15,
+      "nej": 0,
+      "avstar": 0,
+      "franvarande": 3
+    },
+    "L": {
+      "ja": 9,
+      "nej": 0,
+      "avstar": 0,
+      "franvarande": 7
+    },
+    "KD": {
+      "ja": 16,
+      "nej": 0,
+      "avstar": 0,
+      "franvarande": 3
+    },
+    "-": {
+      "ja": 8,
+      "nej": 0,
+      "avstar": 1,
+      "franvarande": 0
+    },
+    "V": {
+      "ja": 13,
+      "nej": 0,
+      "avstar": 0,
+      "franvarande": 8
+    }
+  },
+  "tags": [],
+  "status": "NY",
+  "passed": true,
+  "dokument_url": "https://www.riksdagen.se/sv/dokument-och-lagar/dokument/betankande/_HD01JuU10",
+  "voteringar": [
+    {
+      "party": "S",
+      "ja": 92,
+      "nej": 0,
+      "avstar": 0,
+      "franvarande": 14
+    },
+    {
+      "party": "SD",
+      "ja": 60,
+      "nej": 0,
+      "avstar": 0,
+      "franvarande": 10
+    },
+    {
+      "party": "C",
+      "ja": 0,
+      "nej": 20,
+      "avstar": 0,
+      "franvarande": 4
+    },
+    {
+      "party": "M",
+      "ja": 57,
+      "nej": 0,
+      "avstar": 0,
+      "franvarande": 9
+    },
+    {
+      "party": "MP",
+      "ja": 15,
+      "nej": 0,
+      "avstar": 0,
+      "franvarande": 3
+    },
+    {
+      "party": "L",
+      "ja": 9,
+      "nej": 0,
+      "avstar": 0,
+      "franvarande": 7
+    },
+    {
+      "party": "KD",
+      "ja": 16,
+      "nej": 0,
+      "avstar": 0,
+      "franvarande": 3
+    },
+    {
+      "party": "-",
+      "ja": 8,
+      "nej": 0,
+      "avstar": 1,
+      "franvarande": 0
+    },
+    {
+      "party": "V",
+      "ja": 13,
+      "nej": 0,
+      "avstar": 0,
+      "franvarande": 8
+    }
+  ]
+}

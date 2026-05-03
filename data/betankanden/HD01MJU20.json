@@ -1,0 +1,139 @@
+{
+  "dok_id": "HD01MJU20",
+  "titel": "Riksrevisionens rapport om statens arbete med underlag och utvärdering inom det klimatpolitiska ramverket",
+  "utskott": "MJU",
+  "nummer": 20,
+  "datum": "2026-04-29",
+  "rm": "2025/26",
+  "kort_sammanfattning": "Riksdagen har behandlat en rapport om hur staten arbetar med att ta fram underlag och utvärdera åtgärder inom klimatpolitiken. Detta påverkar medborgarna genom att säkerställa att klimatmålen nås på ett effektivt sätt. En tydligare utvärdering kan leda till bättre och mer träffsäkra klimatåtgärder.",
+  "bakgrund": "Riksrevisionen har granskat statens arbete med underlag och utvärdering inom det klimatpolitiska ramverket, vilket föranlett riksdagens behandling av frågan.",
+  "beslut": "Riksdagen har behandlat Riksrevisionens rapport om statens arbete med underlag och utvärdering inom det klimatpolitiska ramverket.",
+  "roster": {
+    "S": {
+      "ja": 91,
+      "nej": 1,
+      "avstar": 0,
+      "franvarande": 14
+    },
+    "SD": {
+      "ja": 60,
+      "nej": 0,
+      "avstar": 0,
+      "franvarande": 10
+    },
+    "C": {
+      "ja": 0,
+      "nej": 20,
+      "avstar": 0,
+      "franvarande": 4
+    },
+    "M": {
+      "ja": 57,
+      "nej": 0,
+      "avstar": 0,
+      "franvarande": 9
+    },
+    "MP": {
+      "ja": 0,
+      "nej": 15,
+      "avstar": 0,
+      "franvarande": 3
+    },
+    "L": {
+      "ja": 9,
+      "nej": 0,
+      "avstar": 0,
+      "franvarande": 7
+    },
+    "KD": {
+      "ja": 16,
+      "nej": 0,
+      "avstar": 0,
+      "franvarande": 3
+    },
+    "-": {
+      "ja": 5,
+      "nej": 4,
+      "avstar": 0,
+      "franvarande": 0
+    },
+    "V": {
+      "ja": 0,
+      "nej": 13,
+      "avstar": 0,
+      "franvarande": 8
+    }
+  },
+  "tags": [
+    "MILJÖ",
+    "ARBETE"
+  ],
+  "status": "NY",
+  "passed": true,
+  "dokument_url": "https://www.riksdagen.se/sv/dokument-och-lagar/dokument/betankande/_HD01MJU20",
+  "voteringar": [
+    {
+      "party": "S",
+      "ja": 91,
+      "nej": 1,
+      "avstar": 0,
+      "franvarande": 14
+    },
+    {
+      "party": "SD",
+      "ja": 60,
+      "nej": 0,
+      "avstar": 0,
+      "franvarande": 10
+    },
+    {
+      "party": "C",
+      "ja": 0,
+      "nej": 20,
+      "avstar": 0,
+      "franvarande": 4
+    },
+    {
+      "party": "M",
+      "ja": 57,
+      "nej": 0,
+      "avstar": 0,
+      "franvarande": 9
+    },
+    {
+      "party": "MP",
+      "ja": 0,
+      "nej": 15,
+      "avstar": 0,
+      "franvarande": 3
+    },
+    {
+      "party": "L",
+      "ja": 9,
+      "nej": 0,
+      "avstar": 0,
+      "franvarande": 7
+    },
+    {
+      "party": "KD",
+      "ja": 16,
+      "nej": 0,
+      "avstar": 0,
+      "franvarande": 3
+    },
+    {
+      "party": "-",
+      "ja": 5,
+      "nej": 4,
+      "avstar": 0,
+      "franvarande": 0
+    },
+    {
+      "party": "V",
+      "ja": 0,
+      "nej": 13,
+      "avstar": 0,
+      "franvarande": 8
+    }
+  ]
+}

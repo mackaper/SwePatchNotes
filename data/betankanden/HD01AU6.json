@@ -1,0 +1,136 @@
+{
+  "dok_id": "HD01AU6",
+  "titel": "Riksrevisionens rapport om Arbetsförmedlingens stöd till personer med funktionsnedsättning, m.m.",
+  "utskott": "AU",
+  "nummer": 6,
+  "datum": "2026-03-19",
+  "rm": "2025/26",
+  "kort_sammanfattning": "Riksdagen har behandlat en rapport från Riksrevisionen som granskat hur Arbetsförmedlingen stöttar personer med funktionsnedsättning. Beslutet påverkar indirekt personer med funktionsnedsättning genom att det kan leda till förändringar i hur Arbetsförmedlingen arbetar.",
+  "bakgrund": "Riksrevisionen genomförde en granskning av Arbetsförmedlingens insatser för att hjälpa personer med funktionsnedsättning att komma in på arbetsmarknaden, och presenterade sina resultat i en rapport.",
+  "beslut": "Riksdagen har behandlat Riksrevisionens rapport om Arbetsförmedlingens stöd till personer med funktionsnedsättning.",
+  "roster": {
+    "S": {
+      "ja": 0,
+      "nej": 92,
+      "avstar": 1,
+      "franvarande": 13
+    },
+    "SD": {
+      "ja": 0,
+      "nej": 0,
+      "avstar": 61,
+      "franvarande": 10
+    },
+    "C": {
+      "ja": 21,
+      "nej": 0,
+      "avstar": 0,
+      "franvarande": 3
+    },
+    "M": {
+      "ja": 60,
+      "nej": 0,
+      "avstar": 0,
+      "franvarande": 8
+    },
+    "MP": {
+      "ja": 0,
+      "nej": 0,
+      "avstar": 13,
+      "franvarande": 5
+    },
+    "L": {
+      "ja": 12,
+      "nej": 0,
+      "avstar": 0,
+      "franvarande": 4
+    },
+    "KD": {
+      "ja": 14,
+      "nej": 0,
+      "avstar": 0,
+      "franvarande": 5
+    },
+    "-": {
+      "ja": 0,
+      "nej": 1,
+      "avstar": 2,
+      "franvarande": 2
+    },
+    "V": {
+      "ja": 0,
+      "nej": 0,
+      "avstar": 17,
+      "franvarande": 5
+    }
+  },
+  "tags": [],
+  "status": "NY",
+  "passed": true,
+  "dokument_url": "https://www.riksdagen.se/sv/dokument-och-lagar/dokument/betankande/_HD01AU6",
+  "voteringar": [
+    {
+      "party": "S",
+      "ja": 0,
+      "nej": 92,
+      "avstar": 1,
+      "franvarande": 13
+    },
+    {
+      "party": "SD",
+      "ja": 0,
+      "nej": 0,
+      "avstar": 61,
+      "franvarande": 10
+    },
+    {
+      "party": "C",
+      "ja": 21,
+      "nej": 0,
+      "avstar": 0,
+      "franvarande": 3
+    },
+    {
+      "party": "M",
+      "ja": 60,
+      "nej": 0,
+      "avstar": 0,
+      "franvarande": 8
+    },
+    {
+      "party": "MP",
+      "ja": 0,
+      "nej": 0,
+      "avstar": 13,
+      "franvarande": 5
+    },
+    {
+      "party": "L",
+      "ja": 12,
+      "nej": 0,
+      "avstar": 0,
+      "franvarande": 4
+    },
+    {
+      "party": "KD",
+      "ja": 14,
+      "nej": 0,
+      "avstar": 0,
+      "franvarande": 5
+    },
+    {
+      "party": "-",
+      "ja": 0,
+      "nej": 1,
+      "avstar": 2,
+      "franvarande": 2
+    },
+    {
+      "party": "V",
+      "ja": 0,
+      "nej": 0,
+      "avstar": 17,
+      "franvarande": 5
+    }
+  ]
+}

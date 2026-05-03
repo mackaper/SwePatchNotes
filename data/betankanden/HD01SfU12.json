@@ -1,0 +1,139 @@
+{
+  "dok_id": "HD01SfU12",
+  "titel": "Nya regler för arbetskraftsinvandring",
+  "utskott": "SfU",
+  "nummer": 12,
+  "datum": "2026-03-18",
+  "rm": "2025/26",
+  "kort_sammanfattning": "Riksdagen har beslutat om nya regler för arbetskraftsinvandring, vilket kan påverka möjligheten för personer från länder utanför EU/EES att få arbete i Sverige. Det kan också påverka företag som anställer arbetskraft från dessa länder.",
+  "bakgrund": "Frågan om arbetskraftsinvandring behandlades av riksdagen för att se över och eventuellt anpassa de nuvarande reglerna.",
+  "beslut": "Riksdagen beslutade om nya regler för arbetskraftsinvandring.",
+  "roster": {
+    "S": {
+      "ja": 93,
+      "nej": 0,
+      "avstar": 0,
+      "franvarande": 13
+    },
+    "SD": {
+      "ja": 62,
+      "nej": 0,
+      "avstar": 0,
+      "franvarande": 9
+    },
+    "C": {
+      "ja": 0,
+      "nej": 21,
+      "avstar": 0,
+      "franvarande": 3
+    },
+    "M": {
+      "ja": 60,
+      "nej": 0,
+      "avstar": 0,
+      "franvarande": 8
+    },
+    "MP": {
+      "ja": 0,
+      "nej": 16,
+      "avstar": 0,
+      "franvarande": 2
+    },
+    "L": {
+      "ja": 10,
+      "nej": 0,
+      "avstar": 0,
+      "franvarande": 6
+    },
+    "KD": {
+      "ja": 17,
+      "nej": 0,
+      "avstar": 0,
+      "franvarande": 2
+    },
+    "-": {
+      "ja": 2,
+      "nej": 3,
+      "avstar": 0,
+      "franvarande": 0
+    },
+    "V": {
+      "ja": 0,
+      "nej": 15,
+      "avstar": 0,
+      "franvarande": 7
+    }
+  },
+  "tags": [
+    "ARBETE",
+    "MIGRATION"
+  ],
+  "status": "NY",
+  "passed": true,
+  "dokument_url": "https://www.riksdagen.se/sv/dokument-och-lagar/dokument/betankande/_HD01SfU12",
+  "voteringar": [
+    {
+      "party": "S",
+      "ja": 93,
+      "nej": 0,
+      "avstar": 0,
+      "franvarande": 13
+    },
+    {
+      "party": "SD",
+      "ja": 62,
+      "nej": 0,
+      "avstar": 0,
+      "franvarande": 9
+    },
+    {
+      "party": "C",
+      "ja": 0,
+      "nej": 21,
+      "avstar": 0,
+      "franvarande": 3
+    },
+    {
+      "party": "M",
+      "ja": 60,
+      "nej": 0,
+      "avstar": 0,
+      "franvarande": 8
+    },
+    {
+      "party": "MP",
+      "ja": 0,
+      "nej": 16,
+      "avstar": 0,
+      "franvarande": 2
+    },
+    {
+      "party": "L",
+      "ja": 10,
+      "nej": 0,
+      "avstar": 0,
+      "franvarande": 6
+    },
+    {
+      "party": "KD",
+      "ja": 17,
+      "nej": 0,
+      "avstar": 0,
+      "franvarande": 2
+    },
+    {
+      "party": "-",
+      "ja": 2,
+      "nej": 3,
+      "avstar": 0,
+      "franvarande": 0
+    },
+    {
+      "party": "V",
+      "ja": 0,
+      "nej": 15,
+      "avstar": 0,
+      "franvarande": 7
+    }
+  ]
+}

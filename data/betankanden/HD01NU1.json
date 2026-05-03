@@ -1,0 +1,138 @@
+{
+  "dok_id": "HD01NU1",
+  "titel": "Utgiftsområde 24 Näringsliv",
+  "utskott": "NU",
+  "nummer": 1,
+  "datum": "2025-12-17",
+  "rm": "2025/26",
+  "kort_sammanfattning": "Detta betänkande handlar om hur statens pengar ska fördelas till olika näringslivsrelaterade områden, vilket kan påverka företags möjligheter att växa och utvecklas, samt skapa jobb.",
+  "bakgrund": "Riksdagen behandlar årligen budgetpropositionen och beslutar om hur statens medel ska fördelas mellan olika utgiftsområden, inklusive näringslivet.",
+  "beslut": "Riksdagen har tagit ställning till fördelningen av medel inom utgiftsområde 24, Näringsliv.",
+  "roster": {
+    "S": {
+      "ja": 3,
+      "nej": 74,
+      "avstar": 71,
+      "franvarande": 18
+    },
+    "SD": {
+      "ja": 80,
+      "nej": 0,
+      "avstar": 0,
+      "franvarande": 12
+    },
+    "C": {
+      "ja": 25,
+      "nej": 1,
+      "avstar": 0,
+      "franvarande": 6
+    },
+    "M": {
+      "ja": 85,
+      "nej": 0,
+      "avstar": 0,
+      "franvarande": 13
+    },
+    "MP": {
+      "ja": 1,
+      "nej": 0,
+      "avstar": 17,
+      "franvarande": 2
+    },
+    "L": {
+      "ja": 16,
+      "nej": 0,
+      "avstar": 0,
+      "franvarande": 6
+    },
+    "KD": {
+      "ja": 26,
+      "nej": 0,
+      "avstar": 0,
+      "franvarande": 2
+    },
+    "-": {
+      "ja": 2,
+      "nej": 1,
+      "avstar": 5,
+      "franvarande": 0
+    },
+    "V": {
+      "ja": 4,
+      "nej": 14,
+      "avstar": 10,
+      "franvarande": 6
+    }
+  },
+  "tags": [
+    "EKONOMI"
+  ],
+  "status": "NY",
+  "passed": true,
+  "dokument_url": "https://www.riksdagen.se/sv/dokument-och-lagar/dokument/betankande/_HD01NU1",
+  "voteringar": [
+    {
+      "party": "S",
+      "ja": 3,
+      "nej": 74,
+      "avstar": 71,
+      "franvarande": 18
+    },
+    {
+      "party": "SD",
+      "ja": 80,
+      "nej": 0,
+      "avstar": 0,
+      "franvarande": 12
+    },
+    {
+      "party": "C",
+      "ja": 25,
+      "nej": 1,
+      "avstar": 0,
+      "franvarande": 6
+    },
+    {
+      "party": "M",
+      "ja": 85,
+      "nej": 0,
+      "avstar": 0,
+      "franvarande": 13
+    },
+    {
+      "party": "MP",
+      "ja": 1,
+      "nej": 0,
+      "avstar": 17,
+      "franvarande": 2
+    },
+    {
+      "party": "L",
+      "ja": 16,
+      "nej": 0,
+      "avstar": 0,
+      "franvarande": 6
+    },
+    {
+      "party": "KD",
+      "ja": 26,
+      "nej": 0,
+      "avstar": 0,
+      "franvarande": 2
+    },
+    {
+      "party": "-",
+      "ja": 2,
+      "nej": 1,
+      "avstar": 5,
+      "franvarande": 0
+    },
+    {
+      "party": "V",
+      "ja": 4,
+      "nej": 14,
+      "avstar": 10,
+      "franvarande": 6
+    }
+  ]
+}

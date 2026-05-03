@@ -1,0 +1,139 @@
+{
+  "dok_id": "HD01SfU11",
+  "titel": "Tillfälligt nedsatta arbetsgivaravgifter för 19-23-åringar",
+  "utskott": "SfU",
+  "nummer": 11,
+  "datum": "2026-02-25",
+  "rm": "2025/26",
+  "kort_sammanfattning": "Beslutet innebär att arbetsgivare kan få betala lägre arbetsgivaravgifter för anställda som är mellan 19 och 23 år. Detta kan göra det billigare för företag att anställa unga personer.",
+  "bakgrund": "Riksdagen behandlade frågan för att eventuellt stimulera sysselsättningen bland unga vuxna.",
+  "beslut": "Riksdagen beslutade om tillfälligt nedsatta arbetsgivaravgifter för personer i åldern 19-23 år.",
+  "roster": {
+    "S": {
+      "ja": 3,
+      "nej": 0,
+      "avstar": 90,
+      "franvarande": 13
+    },
+    "SD": {
+      "ja": 62,
+      "nej": 0,
+      "avstar": 0,
+      "franvarande": 9
+    },
+    "C": {
+      "ja": 21,
+      "nej": 0,
+      "avstar": 0,
+      "franvarande": 3
+    },
+    "M": {
+      "ja": 60,
+      "nej": 0,
+      "avstar": 0,
+      "franvarande": 8
+    },
+    "MP": {
+      "ja": 0,
+      "nej": 16,
+      "avstar": 0,
+      "franvarande": 2
+    },
+    "L": {
+      "ja": 13,
+      "nej": 0,
+      "avstar": 0,
+      "franvarande": 3
+    },
+    "KD": {
+      "ja": 17,
+      "nej": 0,
+      "avstar": 0,
+      "franvarande": 2
+    },
+    "-": {
+      "ja": 2,
+      "nej": 1,
+      "avstar": 0,
+      "franvarande": 2
+    },
+    "V": {
+      "ja": 0,
+      "nej": 18,
+      "avstar": 0,
+      "franvarande": 4
+    }
+  },
+  "tags": [
+    "EKONOMI",
+    "ARBETE"
+  ],
+  "status": "NY",
+  "passed": true,
+  "dokument_url": "https://www.riksdagen.se/sv/dokument-och-lagar/dokument/betankande/_HD01SfU11",
+  "voteringar": [
+    {
+      "party": "S",
+      "ja": 3,
+      "nej": 0,
+      "avstar": 90,
+      "franvarande": 13
+    },
+    {
+      "party": "SD",
+      "ja": 62,
+      "nej": 0,
+      "avstar": 0,
+      "franvarande": 9
+    },
+    {
+      "party": "C",
+      "ja": 21,
+      "nej": 0,
+      "avstar": 0,
+      "franvarande": 3
+    },
+    {
+      "party": "M",
+      "ja": 60,
+      "nej": 0,
+      "avstar": 0,
+      "franvarande": 8
+    },
+    {
+      "party": "MP",
+      "ja": 0,
+      "nej": 16,
+      "avstar": 0,
+      "franvarande": 2
+    },
+    {
+      "party": "L",
+      "ja": 13,
+      "nej": 0,
+      "avstar": 0,
+      "franvarande": 3
+    },
+    {
+      "party": "KD",
+      "ja": 17,
+      "nej": 0,
+      "avstar": 0,
+      "franvarande": 2
+    },
+    {
+      "party": "-",
+      "ja": 2,
+      "nej": 1,
+      "avstar": 0,
+      "franvarande": 2
+    },
+    {
+      "party": "V",
+      "ja": 0,
+      "nej": 18,
+      "avstar": 0,
+      "franvarande": 4
+    }
+  ]
+}

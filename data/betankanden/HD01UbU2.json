@@ -1,0 +1,139 @@
+{
+  "dok_id": "HD01UbU2",
+  "titel": "Utgiftsområde 15 Studiestöd",
+  "utskott": "UbU",
+  "nummer": 2,
+  "datum": "2025-12-16",
+  "rm": "2025/26",
+  "kort_sammanfattning": "Detta betänkande handlar om hur studiestödet, det vill säga pengar för studier, ska användas. Beslutet påverkar studenter och de som planerar att studera, eftersom det bestämmer hur mycket pengar som finns tillgängligt för studier.",
+  "bakgrund": "Riksdagen behandlar årligen frågor om studiestöd för att se till att det finns tillräckliga resurser för studenter och för att anpassa stödet efter samhällets behov.",
+  "beslut": "Riksdagen har beslutat om utgiftsområde 15, Studiestöd.",
+  "roster": {
+    "S": {
+      "ja": 0,
+      "nej": 93,
+      "avstar": 0,
+      "franvarande": 13
+    },
+    "SD": {
+      "ja": 63,
+      "nej": 0,
+      "avstar": 0,
+      "franvarande": 9
+    },
+    "C": {
+      "ja": 0,
+      "nej": 21,
+      "avstar": 0,
+      "franvarande": 3
+    },
+    "M": {
+      "ja": 60,
+      "nej": 0,
+      "avstar": 0,
+      "franvarande": 8
+    },
+    "MP": {
+      "ja": 0,
+      "nej": 15,
+      "avstar": 0,
+      "franvarande": 3
+    },
+    "L": {
+      "ja": 14,
+      "nej": 0,
+      "avstar": 0,
+      "franvarande": 2
+    },
+    "KD": {
+      "ja": 17,
+      "nej": 0,
+      "avstar": 0,
+      "franvarande": 2
+    },
+    "-": {
+      "ja": 1,
+      "nej": 3,
+      "avstar": 0,
+      "franvarande": 0
+    },
+    "V": {
+      "ja": 0,
+      "nej": 19,
+      "avstar": 0,
+      "franvarande": 3
+    }
+  },
+  "tags": [
+    "EKONOMI",
+    "UTBILDNING"
+  ],
+  "status": "NY",
+  "passed": true,
+  "dokument_url": "https://www.riksdagen.se/sv/dokument-och-lagar/dokument/betankande/_HD01UbU2",
+  "voteringar": [
+    {
+      "party": "S",
+      "ja": 0,
+      "nej": 93,
+      "avstar": 0,
+      "franvarande": 13
+    },
+    {
+      "party": "SD",
+      "ja": 63,
+      "nej": 0,
+      "avstar": 0,
+      "franvarande": 9
+    },
+    {
+      "party": "C",
+      "ja": 0,
+      "nej": 21,
+      "avstar": 0,
+      "franvarande": 3
+    },
+    {
+      "party": "M",
+      "ja": 60,
+      "nej": 0,
+      "avstar": 0,
+      "franvarande": 8
+    },
+    {
+      "party": "MP",
+      "ja": 0,
+      "nej": 15,
+      "avstar": 0,
+      "franvarande": 3
+    },
+    {
+      "party": "L",
+      "ja": 14,
+      "nej": 0,
+      "avstar": 0,
+      "franvarande": 2
+    },
+    {
+      "party": "KD",
+      "ja": 17,
+      "nej": 0,
+      "avstar": 0,
+      "franvarande": 2
+    },
+    {
+      "party": "-",
+      "ja": 1,
+      "nej": 3,
+      "avstar": 0,
+      "franvarande": 0
+    },
+    {
+      "party": "V",
+      "ja": 0,
+      "nej": 19,
+      "avstar": 0,
+      "franvarande": 3
+    }
+  ]
+}

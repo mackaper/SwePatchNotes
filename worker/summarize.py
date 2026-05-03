@@ -18,40 +18,43 @@ Svara ALLTID i JSON med exakt dessa tre nycklar:
 
 
 def summarize(titel: str, text: str, dok_id: str) -> dict:
-    api_key = os.environ.get('ANTHROPIC_API_KEY')
+    api_key = os.environ.get('GEMINI_API_KEY')
     if not api_key:
-        print(f"  No ANTHROPIC_API_KEY — using Lorem ipsum for {dok_id}")
+        print(f"  No GEMINI_API_KEY — using Lorem ipsum for {dok_id}")
         return LOREM
 
-    import anthropic
-    client = anthropic.Anthropic(api_key=api_key)
+    from google import genai
+    from google.genai import types
 
-    prompt = f"Titel: {titel}\n\nText:\n{text[:10000]}"
+    client = genai.Client(api_key=api_key)
+    prompt = f"{SYSTEM_PROMPT}\n\nTitel: {titel}\n\nText:\n{text[:10000]}"
 
-    for attempt in range(5):
+    raw = ''
+    for attempt in range(3):
         try:
-            msg = client.messages.create(
-                model="claude-sonnet-4-20250514",
-                max_tokens=1024,
-                system=SYSTEM_PROMPT,
-                messages=[{"role": "user", "content": prompt}],
+            response = client.models.generate_content(
+                model='gemini-2.0-flash',
+                contents=prompt,
+                config=types.GenerateContentConfig(temperature=0.2),
             )
-            raw = msg.content[0].text.strip()
+            raw = response.text.strip()
             if raw.startswith('```'):
                 parts = raw.split('```')
                 raw = parts[1]
                 if raw.startswith('json'):
                     raw = raw[4:]
             return json.loads(raw.strip())
-        except anthropic.RateLimitError:
-            wait = 2 ** attempt
-            print(f"  Rate limit for {dok_id}, waiting {wait}s (attempt {attempt + 1}/5)")
-            time.sleep(wait)
-        except json.JSONDecodeError as e:
-            print(f"  JSON parse error for {dok_id}: {e}")
-            return {'kort': raw, 'bakgrund': '', 'beslut': ''}
         except Exception as e:
-            print(f"  Summarize error for {dok_id}: {e}")
-            return LOREM
+            err = str(e)
+            if '429' in err or 'quota' in err.lower() or 'rate' in err.lower():
+                wait = 15 * (attempt + 1)
+                print(f"  Rate limit for {dok_id}, waiting {wait}s (attempt {attempt + 1}/3)")
+                time.sleep(wait)
+            else:
+                print(f"  Error for {dok_id}: {e}")
+                try:
+                    return json.loads(raw.strip())
+                except Exception:
+                    return {'kort': raw, 'bakgrund': '', 'beslut': ''}
 
     return {'kort': 'Kunde inte generera sammanfattning.', 'bakgrund': '', 'beslut': ''}
