@@ -5,9 +5,9 @@
   "nummer": 29,
   "datum": "2026-04-01",
   "rm": "2025/26",
-  "kort_sammanfattning": "Riksdagen har beslutat om åtgärder för att stärka skyddet av fastigheter som är viktiga för Sveriges säkerhet vid en försäljning. Detta kan innebära att det blir svårare att sälja vissa fastigheter till utländska aktörer eller personer som kan utgöra en säkerhetsrisk.",
-  "bakgrund": "Det har funnits en oro för att fastigheter av betydelse för Sveriges säkerhet kan hamna i fel händer, vilket skulle kunna äventyra landets säkerhet.",
-  "beslut": "Riksdagen godkände utskottets förslag om stärkt säkerhetsskydd vid överlåtelse av fast egendom.",
+  "kort_sammanfattning": "Överlåtelser av fast egendom som är av betydelse för Sveriges säkerhet omfattas av säkerhetsskyddslagens regler om överlåtelse.\nDetta innebär att den som bedriver säkerhetskänslig verksamhet måste göra en säkerhetsskyddsbedömning och lämplighetsprövning innan överlåtelsen.\nTillsynsmyndigheten kan förbjuda olämpliga överlåtelser.\nReglerna gäller även överföring av äganderätt genom fastighetsbildning, men ett förbud påverkar inte giltigheten av lantmäterimyndighetens beslut om fastighetsbildning.",
+  "bakgrund": "Det har identifierats en brist i skyddet av Sveriges säkerhet eftersom fast egendom av betydelse för landets säkerhet kan överlåtas utan föregående kontroll, vilket kan utnyttjas för att skada Sveriges säkerhet.",
+  "beslut": "Riksdagen antar regeringens förslag till lag om ändring i säkerhetsskyddslagen (2018:585) som stärker säkerhetsskyddet vid överlåtelse av fast egendom.",
   "roster": {},
   "tags": [
     "FÖRSVAR",

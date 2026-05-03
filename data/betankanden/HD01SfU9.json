@@ -5,9 +5,9 @@
   "nummer": 9,
   "datum": "2026-01-28",
   "rm": "2025/26",
-  "kort_sammanfattning": "Beslutet innebär att personer som är sjukskrivna kan få möjlighet att pröva ett arbete och samtidigt behålla sin sjukpenning. Detta kan underlätta återgången till arbetslivet efter en sjukdom.",
-  "bakgrund": "Riksdagen behandlade frågan för att undersöka om det fanns behov av att skapa bättre förutsättningar för personer att återgå till arbete efter en sjukskrivning.",
-  "beslut": "Riksdagen beslutade om arbetsprövning med bibehållen sjukpenning.",
+  "kort_sammanfattning": "En person som har rätt till hel sjukpenning kan, efter överenskommelse med sin arbetsgivare, arbetspröva hos arbetsgivaren med bibehållen sjukpenning.\nArbetsprövningen kan pågå under två separata perioder om vardera 14 sammanhängande dagar inom en ramtid om 365 dagar.\nArbetsprövningen får inte vara förknippad med krav på att personen ska prestera i någon viss utsträckning.",
+  "bakgrund": "Regeringen anser att det finns behov av att skapa förutsättningar för arbetsgivare och anställda att under enklare former undersöka om det är lämpligt att börja återgå i arbete och vilka åtgärder som kan behövas.",
+  "beslut": "Riksdagen godkänner regeringens förslag om att införa arbetsprövning med bibehållen sjukpenning.",
   "roster": {
     "S": {
       "ja": 92,

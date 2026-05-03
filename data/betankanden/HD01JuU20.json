@@ -5,9 +5,9 @@
   "nummer": 20,
   "datum": "2026-02-25",
   "rm": "2025/26",
-  "kort_sammanfattning": "Den nya lagstiftningen påverkar hur Kriminalvården hanterar personuppgifter, vilket kan påverka hur information om personer som är eller har varit i kontakt med Kriminalvården behandlas och skyddas.",
-  "bakgrund": "Riksdagen behandlade frågan för att modernisera lagstiftningen kring Kriminalvårdens behandling av personuppgifter, vilket ansågs nödvändigt för att möta dagens krav på dataskydd och effektivitet.",
-  "beslut": "Riksdagen beslutade om en ny lagstiftning för Kriminalvårdens personuppgiftsbehandling.",
+  "kort_sammanfattning": "Kriminalvården får större möjligheter att behandla personuppgifter för att effektivisera och säkra verkställandet av påföljder.\nKriminalvården får utökade möjligheter att använda ansiktsigenkänning.\nSärskilda bestämmelser införs för personuppgifter som görs gemensamt tillgängliga inom Kriminalvården, vilket ersätter detaljerade bestämmelser i brottsdataförordningen.\nKriminalvården får ta fotografier av personer som avtjänar fängelsestraff, inklusive de med elektronisk övervakning, för biometrisk autentisering eller identifiering.\nDen längsta tiden för behandling av personuppgifter regleras i brottsdatalagen istället för i förordning, med olika tidsfrister beroende på typ av personuppgift. Exempelvis får uppgifter om en person som varit häktad men inte dömts inte behandlas längre än fem år.",
+  "bakgrund": "Den nuvarande lagstiftningen för Kriminalvårdens personuppgiftsbehandling anses inte vara ändamålsenlig och avviker från andra myndigheters regleringar, vilket har lett till behovet av en modernisering.",
+  "beslut": "Riksdagen antar regeringens förslag till ändringar i lagen om kriminalvårdens behandling av personuppgifter inom brottsdatalagens område, fängelselagen, kriminalvårdsdatalagen och lagen om verkställighet av fängelsestraff med elektronisk övervakning.",
   "roster": {},
   "tags": [
     "HÄLSA",

@@ -5,9 +5,9 @@
   "nummer": 9,
   "datum": "2026-01-28",
   "rm": "2025/26",
-  "kort_sammanfattning": "Riksdagen har behandlat en rapport om hur statliga LKAB ställer om sin verksamhet. Detta kan påverka jobben i norra Sverige och hur miljövänlig gruvindustrin är framöver.",
-  "bakgrund": "Riksrevisionen har granskat LKAB:s omställningsarbete och lämnat en rapport till riksdagen.",
-  "beslut": "Utskottet har tagit del av rapporten.",
+  "kort_sammanfattning": "Riksrevisionen har granskat om regeringen och LKAB har agerat affärsmässigt i planeringen av omställningen till produktion av järnsvamp och fann att de i huvudsak har gjort det.\nÄgarens roll har dock varit begränsad på grund av bristande ägarsamordning, men det finns inga tecken på politisk styrning.\nRegeringen har ändrat rutinerna för beslut om ekonomiska mål i statligt ägda bolag så att bolagets styrelse nu ansvarar för besluten och ägaren får ta ställning till förslag innan styrelsen beslutar.",
+  "bakgrund": "Riksrevisionen har granskat regeringens och LKAB:s agerande vid planeringen av LKAB:s omställning till produktion av järnsvamp för att bedöma om agerandet varit affärsmässigt.",
+  "beslut": "Riksdagen lägger regeringens skrivelse om Riksrevisionens rapport om LKAB:s omställning till handlingarna.",
   "roster": {
     "S": {
       "ja": 92,

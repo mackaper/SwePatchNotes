@@ -6,7 +6,7 @@
     "nummer": 29,
     "datum": "2026-04-29",
     "rm": "2025/26",
-    "kort_sammanfattning": "Beslutet kan göra det enklare för personer som bor i bostadsrätt eller hyresrätt att installera laddboxar för elbilar hemma, vilket underlättar övergången till elfordon. Detta kan innebära att fler får möjlighet att ladda sin elbil bekvämt och billigare hemma istället för att förlita sig på publika laddstationer.",
+    "kort_sammanfattning": "Hyresgäster och bostadsrättsinnehavare får rätt att på egen bekostnad installera laddningspunkt vid sin parkeringsplats under vissa förutsättningar.\nLagändringarna träder i kraft 29 maj 2026.",
     "roster": {},
     "tags": [
       "TRANSPORT"
@@ -21,7 +21,7 @@
     "nummer": 23,
     "datum": "2026-04-29",
     "rm": "2025/26",
-    "kort_sammanfattning": "Detta betänkande handlar om hur Riksbanken har skött sitt uppdrag under 2025, vilket påverkar landets ekonomi och därmed indirekt alla medborgare. Det berör bland annat hur Riksbanken har hanterat inflationen och förvaltat Sveriges valutareserv.",
+    "kort_sammanfattning": "973 miljoner kronor av Riksbankens vinst överförs till Riksbankens reservfond och 4 324 miljoner kronor till Riksbankens balanserade vinstmedel.\nIngen vinst delas ut till statskassan.\nRiksbanken bedriver ett omfattande internationellt arbete och det är viktigt att Riksbanken fortsätter att hålla hög kvalitet i det internationella arbetet, arbeta långsiktigt och prioritera sina resurser rätt.",
     "roster": {},
     "tags": [],
     "status": "NY",
@@ -34,7 +34,7 @@
     "nummer": 12,
     "datum": "2026-04-29",
     "rm": "2025/26",
-    "kort_sammanfattning": "Riksdagen har beslutat om åtgärder för att stärka skyddet av civilbefolkningen i händelse av höjd beredskap, vilket kan innebära att du som medborgare får tillgång till bättre information och stöd från myndigheterna i en krissituation.",
+    "kort_sammanfattning": "En ny lag om skyddsrum och skyddade utrymmen införs, vilket inkluderar ett nytt skyddsalternativ kallat skyddade utrymmen.\nKontrollen av skyddsrum förstärks och fastighetsägare samt nyttjanderättshavare får ett större ansvar för att iordningställa skyddsrum och skyddade utrymmen under höjd beredskap.\nKommunerna blir skyldiga att informera invånarna om tillgängliga skyddsalternativ.\nAnsvarsfördelningen för utrymning och inkvartering tydliggörs, och den lokala samt regionala planeringen stärks.\nLagändringarna träder i kraft den 1 juni 2026.",
     "roster": {},
     "tags": [],
     "status": "NY",
@@ -47,7 +47,7 @@
     "nummer": 10,
     "datum": "2026-04-29",
     "rm": "2025/26",
-    "kort_sammanfattning": "Riksdagen har beslutat om en ny vapenlag. Det kan påverka dig som äger eller vill äga vapen, till exempel genom ändrade regler för licenser eller förvaring.",
+    "kort_sammanfattning": "Kraven för att få inneha skjutvapen förtydligas.\nFörvaringsreglerna blir mer flexibla och EU:s förenklade införselförfarande för sportskyttar och jägare införs.\nFemårstillstånden för helautomatiska vapen och enhandsvapen för flerskott slopas och ersätts med ett tillsynsförfarande.\nNya tillstånd för vissa typer av halvautomatiska gevär för jakt och avlivning av fällfångade djur förbjuds.\nStraffrättsliga bestämmelserna i vapenlagen delas upp tydligare mellan brott begångna av illegala vapeninnehavare och andra överträdelser.",
     "roster": {
       "S": {
         "ja": 92,
@@ -115,7 +115,7 @@
     "nummer": 18,
     "datum": "2026-04-29",
     "rm": "2025/26",
-    "kort_sammanfattning": "Beslutet innebär att reglerna som skyddar leverantörer av jordbruks- och livsmedelsprodukter från att stora köpare, som exempelvis butikskedjor, ställer in beställningar sent skärps. Detta ska ge leverantörerna bättre förutsättningar och minska risken för ekonomisk förlust.",
+    "kort_sammanfattning": "Lagen om förbud mot otillbörliga handelsmetoder vid köp av jordbruks- och livsmedelsprodukter ändras för att bättre genomföra UTP-direktivet.\nLagändringen träder i kraft den 1 juni 2026.",
     "roster": {},
     "tags": [],
     "status": "NY",
@@ -128,7 +128,7 @@
     "nummer": 19,
     "datum": "2026-04-29",
     "rm": "2025/26",
-    "kort_sammanfattning": "Riksdagen har beslutat om nya lagar för att förbättra återvinningen av material. Detta kan innebära förändringar i hur vi sorterar vårt avfall och vilka typer av material som kan återvinnas.",
+    "kort_sammanfattning": "Ansvarsbestämmelser för avfall förtydligas, inklusive vad ansvaret innebär och när det upphör.\nÄndringar görs i tillsynsansvaret för avfallsområdet.\nHanteringen av schaktmassor ska bli mer ändamålsenlig och hållbar för att bidra till en mer cirkulär ekonomi.\nStaten, kommuner, regioner och kommunalförbund undantas från kravet att ställa ekonomisk säkerhet vid deponering av avfall och vid utvinningsavfallsverksamhet.",
     "roster": {},
     "tags": [],
     "status": "NY",
@@ -141,7 +141,7 @@
     "nummer": 20,
     "datum": "2026-04-29",
     "rm": "2025/26",
-    "kort_sammanfattning": "Riksdagen har behandlat en rapport om hur staten arbetar med att ta fram underlag och utvärdera åtgärder inom klimatpolitiken. Detta påverkar medborgarna genom att säkerställa att klimatmålen nås på ett effektivt sätt. En tydligare utvärdering kan leda till bättre och mer träffsäkra klimatåtgärder.",
+    "kort_sammanfattning": "Riksrevisionen anser att regeringens och myndigheternas arbete med underlag och utvärderingar inom det klimatpolitiska ramverket har brister, särskilt Naturvårdsverkets arbete med underlag till klimatredovisningar och klimathandlingsplaner. Regeringen instämmer i huvudsak i Riksrevisionens problembeskrivning men gör delvis en annan bedömning av vilka åtgärder som bör vidtas.",
     "roster": {
       "S": {
         "ja": 91,
@@ -212,7 +212,7 @@
     "nummer": 21,
     "datum": "2026-04-29",
     "rm": "2025/26",
-    "kort_sammanfattning": "Riksdagen har behandlat en rapport om hur staten arbetar med att minska klimatpåverkan från jordbruket. Detta kan påverka vilka stöd och regler som gäller för jordbrukare, vilket i sin tur kan påverka priset och tillgängligheten på mat.",
+    "kort_sammanfattning": "Riksrevisionen konstaterar att statens nuvarande styrmedel för jordbrukets klimatomställning är effektiva i sig, men att de endast adresserar en liten del av jordbrukets totala utsläpp och att regeringens styrning inte effektivt bidragit till klimatmålen.",
     "roster": {
       "S": {
         "ja": 0,
@@ -283,7 +283,7 @@
     "nummer": 23,
     "datum": "2026-04-29",
     "rm": "2025/26",
-    "kort_sammanfattning": "Riksdagen har beslutat om nya regler för uppehållstillstånd för forskare och doktorander från länder utanför EU, samt åtgärder för att förhindra att uppehållstillstånd för studier missbrukas. Detta kan påverka möjligheterna för utländska forskare och studenter att komma till Sverige, samt kontrollen av att de som kommer hit för att studera faktiskt gör det.",
+    "kort_sammanfattning": "Doktorander kan beviljas uppehållstillstånd för forskning.\nForskare och doktorander kan beviljas permanent uppehållstillstånd snabbare och längre uppehållstillstånd för att söka arbete efter studier.\nForskare, doktorander och deras familjer får utökade möjligheter att ansöka om uppehållstillstånd inifrån Sverige.\nMöjligheterna att arbeta med uppehållstillstånd för studier begränsas och kraven på studieframsteg skärps.\nFler möjligheter införs att återkalla uppehållstillstånd för familjemedlemmar till studerande.\nEn ny lag föreslås för uppehållstillstånd för massflyktingar från Ukraina.",
     "roster": {},
     "tags": [
       "UTBILDNING",
@@ -299,7 +299,7 @@
     "nummer": 28,
     "datum": "2026-04-29",
     "rm": "2025/26",
-    "kort_sammanfattning": "Det blir svårare att bli svensk medborgare eftersom kraven på exempelvis språkkunskaper och samhällskunskap ökar. Detta kan påverka personer som planerar att ansöka om medborgarskap i framtiden.",
+    "kort_sammanfattning": "Kravet på hemvist i Sverige för att få medborgarskap höjs från fem till åtta år.\nDet införs högre krav på levnadssättet hos den som ansöker om medborgarskap.\nEtt försörjningskrav införs vid ansökan om medborgarskap.\nDet införs krav på kunskaper i svenska och om det svenska samhället.\nAnmälningsförfarandet tas bort så långt som möjligt och barn får möjlighet att själva ansöka om medborgarskap.",
     "roster": {
       "S": {
         "ja": 91,
@@ -369,7 +369,7 @@
     "nummer": 22,
     "datum": "2026-04-22",
     "rm": "2025/26",
-    "kort_sammanfattning": "Riksdagen har beslutat om nya regler för ställföreträdarskap, vilket innebär att det blir tydligare och säkrare hur någon annan kan hjälpa till med beslut om ekonomi och personliga angelägenheter om du själv inte kan. Detta kan påverka dig om du behöver hjälp av en ställföreträdare eller om du är ställföreträdare för någon annan.",
+    "kort_sammanfattning": "Ramarna för ställföreträdarens uppdrag förtydligas med ökat hänsynstagande till den enskildes vilja och välbefinnande.\nEn central statlig myndighet får ansvar för tillsynsvägledning, information, föreskrifter och utbildning inom ställföreträdarområdet.\nEtt nationellt ställföreträdarregister införs med uppgifter om gode män, förvaltare, förordnade förmyndare och de enskilda de företräder.\nÖverförmyndares verksamhet förbättras genom tydligare krav på tillsyn och en anmälningsplikt vid misstanke om brott.\nÖverförmyndare får beslutanderätt i alla godmanskapsärenden som inte är tvistiga och möjligheten att utse anställda ställföreträdare regleras i lag.\nDe flesta lagändringarna träder i kraft 1 juli 2026, ställföreträdarregistret 1 januari 2028.",
     "roster": {},
     "tags": [
       "EKONOMI",
@@ -385,7 +385,7 @@
     "nummer": 27,
     "datum": "2026-04-22",
     "rm": "2025/26",
-    "kort_sammanfattning": "Riksdagen har beslutat om åtgärder för att stärka identifieringen vid köp av fastigheter och förhindra fusk med bostadsrättslagen, vilket kan påverka hur fastighetsaffärer genomförs och vilka krav som ställs på köpare och säljare.",
+    "kort_sammanfattning": "Vid ansökan om lagfart och inskrivning av tomträtt ska fysiska personer ange person- eller samordningsnummer och juridiska personer organisationsnummer.\nEn ansökan om lagfart pausas om identitetsbeteckning saknas eller om juridisk person saknar uppgifter om verklig huvudman.\nVid ombildning av hyresrätt till bostadsrätt krävs att en bostadshyresgäst varit folkbokförd på fastigheten i minst sex månader före föreningsstämman för att räknas med i majoriteten.\nSamma regler som vid ombildning av hyresrätter till bostadsrätter gäller nu även vid omregistrering av ekonomisk förening till bostadsrättsförening.",
     "roster": {},
     "tags": [
       "BOSTAD"
@@ -400,7 +400,7 @@
     "nummer": 28,
     "datum": "2026-04-22",
     "rm": "2025/26",
-    "kort_sammanfattning": "Riksdagen har beslutat att skapa ett register över alla bostadsrätter. Detta kan göra det enklare och säkrare att köpa och sälja bostadsrätter, samt ge en bättre överblick över bostadsrättsmarknaden.",
+    "kort_sammanfattning": "Ett nationellt bostadsrättsregister inrättas med information om bostadsrättslägenheten, bostadsrättshavaren, bostadsrättsföreningen och pantsättningar.\nRegistrering i bostadsrättsregistret ersätter underrättelse till bostadsrättsföreningen som sakrättsligt moment vid pantsättning och överlåtelse.\nPantsättningen måste vara skriftlig och avse hela bostadsrätten.\nEn pantsättning som är registrerad i bostadsrättsregistret ges företräde i förhållande till en annan pantsättning efter den tidsföljd som pantsättningarna har registrerats.\nÖvergångar av bostadsrätt gäller mot överlåtarens borgenärer först när överlåtelsen har registrerats i bostadsrättsregistret.",
     "roster": {},
     "tags": [
       "BOSTAD"
@@ -415,7 +415,7 @@
     "nummer": 42,
     "datum": "2026-04-22",
     "rm": "2025/26",
-    "kort_sammanfattning": "Detta betänkande handlar om hur staten hanterar dödsbon, vilket kan påverka dig om du ärver något eller behöver hjälp med att ta hand om en avliden persons ägodelar. Betänkandet kan leda till förändringar i hur myndigheter arbetar med dödsbon.",
+    "kort_sammanfattning": "Riksrevisionen har granskat statens insatser vid utredning, förvaltning och skifte av dödsbon och funnit att regelverken är otillräckliga och svåra att förstå.\nSkatteverkets handläggningstider för bouppteckningar var onödigt långa mellan 2020 och 2024 på grund av bristande beredskap för ökade volymer.\nTingsrätterna saknar tillräcklig information för att förordna boutredningsmän utifrån kvalifikationskrav och har begränsad insyn i deras arbete.\nKammarkollegiets förordnanden av gode män är koncentrerade till ett fåtal personer utan tydlig motivering.",
     "roster": {},
     "tags": [],
     "status": "NY",
@@ -428,7 +428,7 @@
     "nummer": 48,
     "datum": "2026-04-22",
     "rm": "2025/26",
-    "kort_sammanfattning": "Beslutet innebär att skatten på drivmedel sänks och att ett stöd för höga el- och gaspriser införs. Detta kan leda till lägre kostnader för transporter och uppvärmning för hushåll och företag.",
+    "kort_sammanfattning": "Energiskatten på bensin sänks med 82 öre per liter och på diesel med 319 kronor per kubikmeter under perioden 1 maj–30 september 2026.\nFör bensin och diesel i miljöklass 1 sänks energiskatten till energiskattedirektivets miniminivå.\nEtt tillfälligt el- och gasprisstöd till hushållen införs för januari och februari 2026.",
     "roster": {
       "S": {
         "ja": 90,
@@ -498,7 +498,7 @@
     "nummer": 32,
     "datum": "2026-04-22",
     "rm": "2025/26",
-    "kort_sammanfattning": "Riksdagen har beslutat om nya krav för att göra vissa medier mer tillgängliga, vilket kan innebära att fler personer med funktionsnedsättningar kan ta del av exempelvis tv-program och filmer. Det kan handla om krav på textning, syntolkning eller andra anpassningar.",
+    "kort_sammanfattning": "Det införs nya möjligheter att ställa tillgänglighetskrav på produkter och tjänster som omfattas av grundlagsskydd, för att fullt ut tillämpa EU:s tillgänglighetsdirektiv.\nDet blir möjligt att ställa tillgänglighetskrav på information, format och funktion för e-böcker och e-handelstjänster.\nSkyldigheten för nätinnehavare att vidaresända tillgänglighetstjänster, som textning och tolkning, kan gälla andra än public service-företagens program.\nUtrymmet utvidgas för att ställa krav på hur produktinformation utformas, exempelvis på förpackningar.",
     "roster": {},
     "tags": [],
     "status": "NY",
@@ -511,7 +511,7 @@
     "nummer": 33,
     "datum": "2026-04-22",
     "rm": "2025/26",
-    "kort_sammanfattning": "Detta betänkande handlar om huruvida allmänheten ska ha rätt att ta del av handlingar som polisen har beslagtagit eller kopierat vid en husrannsakan. Beslutet kan påverka möjligheten för medborgare att få insyn i polisens arbete och de bevis som samlas in under brottsutredningar.",
+    "kort_sammanfattning": "En upptagning för automatiserad behandling som kommer in till en myndighet genom beslag eller kopiering vid husrannsakan i brottsutredningar eller internationell rättslig hjälp, ska inte anses vara en allmän handling.\nDetta gäller även om myndigheten tar över ansvaret för den beslagtagna informationsbäraren eller kopian från husrannsakan.\nOm upptagningen tillförs en utredning av brott eller annan verksamhet hos myndigheten, är den fortsatt en allmän handling.\nLagen träder i kraft 1 januari 2027.",
     "roster": {},
     "tags": [
       "JORDBRUK"
@@ -526,7 +526,7 @@
     "nummer": 18,
     "datum": "2026-04-22",
     "rm": "2025/26",
-    "kort_sammanfattning": "Riksdagen har behandlat frågan om tillståndsprövning för projekt som rör förnybar energi. Detta kan påverka hur snabbt och enkelt det blir att bygga ut exempelvis vindkraft och solenergi.",
+    "kort_sammanfattning": "En ny lag om verksamheter och åtgärder för förnybar energi införs.\nMiljöbalken, plan- och bygglagen samt ett antal sektorslagar ändras för att genomföra EU:s direktiv om förnybar energi.\nLänsstyrelsen får möjlighet att bedöma samrådsunderlaget innan samråd inleds för verksamheter inom förnybar energi.\nLänsstyrelsens bedömning av miljökonsekvensbeskrivningens omfattning får ökad betydelse i tillståndsprocessen.\nBedömningen av påverkan på Natura 2000-områden förenklas.\nLagen (2021:755) med bemyndiganden att meddela föreskrifter om tidsfrister och kontaktpunkt för vissa ärenden som gäller tillförsel av förnybar energi upphävs.",
     "roster": {},
     "tags": [],
     "status": "NY",
@@ -539,7 +539,7 @@
     "nummer": 20,
     "datum": "2026-04-22",
     "rm": "2025/26",
-    "kort_sammanfattning": "Det tidigare kravet på att anmäla till Försäkringskassan innan man ansöker om föräldrapenning tas bort, vilket förenklar processen för föräldrar.",
+    "kort_sammanfattning": "Kravet på att anmäla föräldrapenning före ansökan tas bort.\nEn övergångsbestämmelse införs gällande statligt personskadeskydd, relaterat till upphävandet av lagen om intensivövervakning med elektronisk kontroll.\nEn rättelse görs i socialförsäkringsbalken gällande förmånstiden för tillfällig föräldrapenning i vissa situationer.",
     "roster": {},
     "tags": [],
     "status": "NY",
@@ -552,7 +552,7 @@
     "nummer": 22,
     "datum": "2026-04-22",
     "rm": "2025/26",
-    "kort_sammanfattning": "Riksdagen har beslutat om en ny ordning för att tillfälligt stoppa (inhibera) beslut om utvisning för vissa utlänningar, vilket kan påverka enskilda personers rätt att stanna i Sverige under en begränsad tid.",
+    "kort_sammanfattning": "Verkställighet av avvisning eller utvisning skjuts upp (inhiberas) istället för att tidsbegränsat uppehållstillstånd beviljas vid tillfälliga hinder.\nDetta gäller utlänningar som är säkerhetshot, utvisats pga brott eller hotar allmän ordning.\nAnmälningsskyldighet och områdesbegränsning kan åläggas, brott mot detta kan ge fängelse upp till ett år.\nBoendeplats tilldelas på Migrationsverkets boende, ekonomiskt bistånd kräver boende där.\nRätten att arbeta och tillgång till välfärd begränsas vid inhibition.",
     "roster": {
       "S": {
         "ja": 90,
@@ -622,7 +622,7 @@
     "nummer": 23,
     "datum": "2026-04-22",
     "rm": "2025/26",
-    "kort_sammanfattning": "Detta beslut innebär att du som får betald laddel av din arbetsgivare för din elbil inte behöver betala skatt för detta. Dessutom kan du få större avdrag för dina utgifter för drivmedel om du använder din privata bil i tjänsten.",
+    "kort_sammanfattning": "Skattefriheten för förmån av laddel på arbetsplatsen blir permanent.\nAvdragsrätten för drivmedelsutgifter utvidgas för de som har en laddhybrid som förmånsbil och som laddar bilen på arbetsplatsen.",
     "roster": {},
     "tags": [
       "EKONOMI"
@@ -637,7 +637,7 @@
     "nummer": 32,
     "datum": "2026-04-22",
     "rm": "2025/26",
-    "kort_sammanfattning": "Detta betänkande handlar om möjligheten att säga upp ett sparandeavtal. Beslutet påverkar de som har ett sparandeavtal och vill avsluta det i förtid.",
+    "kort_sammanfattning": "Sverige säger upp avtalen om beskattning av inkomster från sparande med Anguilla, Caymanöarna, Jungfruöarna, Montserrat och Turks- och Caicosöarna.\nLagen om avtal om beskattning av inkomster från sparande med Anguilla, Aruba, Caymanöarna, Guernsey, Isle of Man, Jersey, Jungfruöarna, Montserrat, Nederländska Antillerna och Turks- och Caicosöarna upphävs.",
     "roster": {},
     "tags": [],
     "status": "NY",
@@ -650,7 +650,7 @@
     "nummer": 16,
     "datum": "2026-04-22",
     "rm": "2025/26",
-    "kort_sammanfattning": "Kravet på att gå en introduktionsutbildning innan man får övningsköra privat tas bort. Detta innebär att du som handledare och elev inte längre behöver gå denna utbildning innan ni börjar övningsköra.",
+    "kort_sammanfattning": "Kravet på introduktionsutbildning för privat övningskörning och handledare tas bort.\nKraven på tillståndsgivning för att bedriva introduktionsutbildning och bestämmelser om tillsyn över introduktionsutbildning tas bort.",
     "roster": {},
     "tags": [
       "UTBILDNING",
@@ -666,7 +666,7 @@
     "nummer": 23,
     "datum": "2026-04-15",
     "rm": "2025/26",
-    "kort_sammanfattning": "Detta betänkande handlar om hur sysselsättning och boende på landsbygden kan påverkas. Det kan innebära förändringar i hur staten stöttar jobb och bostäder utanför storstäderna.",
+    "kort_sammanfattning": "Vissa förvärv av lantbruksegendom kräver inte längre förvärvstillstånd. Detta gäller förvärv av syskon eller föräldrar till överlåtaren, eller om makar förvärvar gemensamt och någon av dem är överlåtarens förälder eller syskon.",
     "roster": {},
     "tags": [
       "ARBETE"
@@ -681,7 +681,7 @@
     "nummer": 11,
     "datum": "2026-04-15",
     "rm": "2025/26",
-    "kort_sammanfattning": "Beslutet innebär att riksdagen har tagit ställning till en rapport om hur väl Sverige är förberett för att hantera miljöräddningsinsatser vid stora olyckor till sjöss, vilket kan påverka hur snabbt och effektivt staten kan agera vid framtida utsläpp eller andra miljöhot till havs.",
+    "kort_sammanfattning": "Riksrevisionens rapport granskar Kustbevakningen, Sjöfartsverket och Transportstyrelsen gällande miljöräddning till sjöss och konstaterar brister i effektivitet, praktiska förutsättningar samt planering och förberedelser.\nKustbevakningen behöver tydliggöra sin förmåga inom miljöräddningstjänst, klargöra vilka uppgifter som kan lösas självständigt och vilka som kräver resurssamverkan.\nFler övningar med fokus på hantering av stora fartygsolyckor behövs, och en aktör bör ha ett tydligt ansvar för dessa övningar.\nTransportstyrelsen bör ta ett större ansvar för samverkan gällande frågor om skyddad plats för fartyg och identifiera olösta frågor för vidare hantering av regeringen.\nDen nationella samverkansgruppen för oljeskadeskydd (NSO) bör formaliseras och styras tydligare.",
     "roster": {},
     "tags": [
       "MILJÖ",
@@ -697,7 +697,7 @@
     "nummer": 33,
     "datum": "2026-04-01",
     "rm": "2025/26",
-    "kort_sammanfattning": "Vissa företag som erbjuder e-legitimation kan bli skyldiga att lämna ut uppgifter till myndigheter. Detta kan påverka hur dina personuppgifter hanteras av dessa företag.",
+    "kort_sammanfattning": "Brottsbekämpande myndigheter kan inhämta information direkt från e-legitimationsföretag om en persons användning av e-legitimation mot finansiella företag.\nUppgiftsskyldigheten utökas för företag som tillhandahåller kryptotillgångar och kryptorelaterade tjänster.\nE-legitimationsföretag måste på begäran av Polismyndigheten, Skatteverket, Säkerhetspolisen eller Tullverket lämna uppgifter om enskildas förhållanden till finansiella företag.\nEtt e-legitimationsföretag får inte obehörigen röja att en myndighet begärt eller fått uppgifter. Brott mot detta kan leda till vite.",
     "roster": {},
     "tags": [],
     "status": "NY",
@@ -710,7 +710,7 @@
     "nummer": 6,
     "datum": "2026-04-01",
     "rm": "2025/26",
-    "kort_sammanfattning": "Riksdagen har behandlat frågan om hur signalspaning som utförs av Försvarets radioanstalt (FRA) ska ske med hänsyn till individers privatliv. Beslutet innebär att riksdagen har tagit ställning till hur integritetsskyddet ska balanseras mot behovet av försvarsunderrättelseverksamhet.",
+    "kort_sammanfattning": "Regeringen redovisar resultatet av uppföljningen och granskningen av signalspaning i försvarsunderrättelseverksamheten som genomfördes under 2024.\nSiun genomförde 33 granskningar under 2024, varav sju rörde Försvarets radioanstalt (FRA), och fem av dessa gjordes i enlighet med signalspaningslagen.\nSiun genomförde sex kontroller på enskildas begäran under 2024, vilket var en mer än under 2023.\nIntegritetsskyddsrådet vid FRA hade fem formella sammanträden under 2024 och fann inget skäl att rapportera till Siun.",
     "roster": {},
     "tags": [
       "FÖRSVAR",
@@ -726,7 +726,7 @@
     "nummer": 29,
     "datum": "2026-04-01",
     "rm": "2025/26",
-    "kort_sammanfattning": "Riksdagen har beslutat om åtgärder för att stärka skyddet av fastigheter som är viktiga för Sveriges säkerhet vid en försäljning. Detta kan innebära att det blir svårare att sälja vissa fastigheter till utländska aktörer eller personer som kan utgöra en säkerhetsrisk.",
+    "kort_sammanfattning": "Överlåtelser av fast egendom som är av betydelse för Sveriges säkerhet omfattas av säkerhetsskyddslagens regler om överlåtelse.\nDetta innebär att den som bedriver säkerhetskänslig verksamhet måste göra en säkerhetsskyddsbedömning och lämplighetsprövning innan överlåtelsen.\nTillsynsmyndigheten kan förbjuda olämpliga överlåtelser.\nReglerna gäller även överföring av äganderätt genom fastighetsbildning, men ett förbud påverkar inte giltigheten av lantmäterimyndighetens beslut om fastighetsbildning.",
     "roster": {},
     "tags": [
       "FÖRSVAR",
@@ -742,7 +742,7 @@
     "nummer": 31,
     "datum": "2026-04-01",
     "rm": "2025/26",
-    "kort_sammanfattning": "Riksdagen har behandlat en rapport om hur staten arbetar för att stödja de nationella minoritetsspråken. Detta kan påverka möjligheten för personer som talar dessa språk att använda dem i kontakt med myndigheter och få tillgång till service på sitt språk.",
+    "kort_sammanfattning": "Regeringen har gjort en bedömning av Riksrevisionens rapport om statens insatser för att främja de nationella minoritetsspråken (jiddisch, romani chib, samiska, finska och meänkieli). Regeringen redovisar även vilka åtgärder som har vidtagits och planeras för att effektivisera statens insatser.",
     "roster": {},
     "tags": [
       "JORDBRUK"
@@ -757,7 +757,7 @@
     "nummer": 26,
     "datum": "2026-04-01",
     "rm": "2025/26",
-    "kort_sammanfattning": "Riksdagen har beslutat om ett språkkrav inom äldreomsorgen, vilket kan påverka vilka personer som kan anställas och arbeta inom detta område. Detta kan potentiellt påverka kvaliteten och tillgängligheten av äldreomsorgen.",
+    "kort_sammanfattning": "Verksamheter inom äldreomsorgen måste arbeta för att personal som utför insatser har tillräckliga kunskaper i svenska.\nRegeringen får rätt att bestämma vilken nivå av svenskkunskaper som krävs.",
     "roster": {},
     "tags": [
       "ÄLDRE"
@@ -772,7 +772,7 @@
     "nummer": 37,
     "datum": "2026-04-01",
     "rm": "2025/26",
-    "kort_sammanfattning": "Riksdagen har granskat ett förslag från EU-kommissionen om regler för hantering av genetiskt modifierade mikroorganismer och bearbetning av organ, för att se om det är lämpligt att besluta om detta på EU-nivå eller om det bör hanteras av varje medlemsland själv. Detta påverkar indirekt medborgare genom att säkerställa att beslut fattas på rätt nivå för att vara så effektiva och proportionerliga som möjligt.",
+    "kort_sammanfattning": "Socialutskottet anser att kommissionens förslag till direktiv, i de delar som innebär ändringar av direktiv 2001/18/EG, är förenligt med subsidiaritetsprincipen.\nUtskottet anser dock att vissa delar av förslaget som rör ändringar av direktiv 2010/53/EU, i sin nuvarande utformning, inte är förenliga med subsidiaritetsprincipen.",
     "roster": {},
     "tags": [
       "JORDBRUK"
@@ -787,7 +787,7 @@
     "nummer": 28,
     "datum": "2026-03-26",
     "rm": "2025/26",
-    "kort_sammanfattning": "Detta betänkande handlar om hur staten ser till att företag som vinner offentliga upphandlingar följer arbetsrättsliga regler, vilket kan påverka anställningsvillkor och löner för de som arbetar inom dessa företag. Det kan också påverka konkurrensen mellan företag.",
+    "kort_sammanfattning": "Riksrevisionen anser att myndigheter inte säkerställer skäliga arbetsvillkor i offentligt upphandlade verksamheter i tillräcklig utsträckning, där endast en tredjedel av upphandlingarna innehåller arbetsrättsliga villkor.\nUpphandlingsmyndigheten rekommenderas att ta fram riskanalyser och arbetsrättsliga villkor för fler yrkesgrupper.\nKonkurrensverket rekommenderas att utöka tillsynen över att myndigheter följer lagstiftningen.\nRegeringen rekommenderas att säkerställa att upphandlande myndigheter får utökat stöd och att utreda hur uppföljningen av arbetsrättsliga villkor kan centraliseras.",
     "roster": {},
     "tags": [
       "ARBETE",
@@ -803,7 +803,7 @@
     "nummer": 35,
     "datum": "2026-03-26",
     "rm": "2025/26",
-    "kort_sammanfattning": "Detta betänkande handlar om hur information från registret över verkliga huvudmän (de personer som ytterst äger eller kontrollerar ett företag) kan lämnas ut. Det påverkar allmänhetens och myndigheters möjlighet att få insyn i vem som står bakom företag.",
+    "kort_sammanfattning": "Reglerna för hur uppgifter från registret över verkliga huvudmän lämnas ut skärps.\nBolagsverket ska ge vissa myndigheter, utländska organ samt svenska och utländska självreglerande organ omedelbar och obegränsad tillgång till uppgifterna.\nBolagsverket får lämna ut uppgifter elektroniskt till verksamhetsutövare enligt penningtvättslagen och utländska motsvarigheter när de vidtar åtgärder för kundkännedom.\nSekretessen för uppgift om bostadsadress som gäller till förmån för personer som riskerar hot eller våld ska inte gälla gentemot vissa utländska organ, Sveriges advokatsamfunds styrelse och disciplinnämnd, utländska självreglerande organ (vid tillsyn) och vissa ansvariga enheter med offentlig funktion i hemlandet.",
     "roster": {},
     "tags": [
       "JORDBRUK"
@@ -818,7 +818,7 @@
     "nummer": 19,
     "datum": "2026-03-26",
     "rm": "2025/26",
-    "kort_sammanfattning": "Riksdagen har beslutat om snabbare hantering av överklaganden gällande upphandling av fonder till premiepensionen. Detta kan påverka vilka fonder som blir tillgängliga för sparare och hur snabbt förändringar kan genomföras.",
+    "kort_sammanfattning": "Mål om överprövning av upphandlingar och fondavtals giltighet enligt lagen om upphandling av fonder till premiepensionens fondtorg ska handläggas skyndsamt.\nOmständigheter som en fondförvaltare åberopar senare än tre veckor efter ansökan till förvaltningsrätten beaktas endast om det är sannolikt att omständigheten inte kunde åberopas tidigare eller om det fanns giltig ursäkt.\nEn omständighet som åberopas först i kammarrätten beaktas endast om parten gör sannolikt att den inte kunde åberopa omständigheten i förvaltningsrätten eller hade giltig ursäkt.",
     "roster": {},
     "tags": [
       "ÄLDRE"
@@ -833,7 +833,7 @@
     "nummer": 10,
     "datum": "2026-03-25",
     "rm": "2025/26",
-    "kort_sammanfattning": "Detta betänkande handlar om hur väl socialförsäkringen fungerar för personer som flyttar eller arbetar i olika länder. Det kan påverka rätten till exempelvis sjukpenning eller pension om du bor eller jobbar utomlands.",
+    "kort_sammanfattning": "Riksrevisionen har granskat Försäkringskassans och Pensionsmyndighetens kontroller av socialförsäkringsskyddet vid internationell rörlighet och funnit brister som leder till felaktiga utbetalningar.\nRiksrevisionen rekommenderar regeringen att se över bestämmelserna om enskildas anmälningsskyldighet till Försäkringskassan i 110 kap. 43–45 §§ socialförsäkringsbalken.",
     "roster": {},
     "tags": [
       "ÄLDRE"
@@ -848,7 +848,7 @@
     "nummer": 11,
     "datum": "2026-03-25",
     "rm": "2025/26",
-    "kort_sammanfattning": "Detta betänkande handlar om att uppdatera de verktyg som Skatteverket använder för att kontrollera att alla betalar rätt skatt. Moderniseringen syftar till att effektivisera skattekontrollen.",
+    "kort_sammanfattning": "Skatteverket får möjlighet att genomföra granskning via telenät vid revision, bevissäkring och punktskattebesök.\nNya bestämmelser införs om bevissäkring på distans, vilket innebär att Skatteverket kan eftersöka och kopiera handlingar i avläsningsbara informationssystem, även om informationen är lagrad utomlands.\nSkatteverket får rätt att eftersöka och ta i anspråk tekniska hjälpmedel för att genomföra bevissäkring på distans.\nDefinitionen av \"risk för sabotage\" ändras till att avse risken för att kontrollerad information undanhålls, förvanskas eller förstörs, oberoende av vem som utför sabotaget.",
     "roster": {},
     "tags": [
       "EKONOMI",
@@ -864,7 +864,7 @@
     "nummer": 20,
     "datum": "2026-03-25",
     "rm": "2025/26",
-    "kort_sammanfattning": "Beslutet handlar om att Sverige ska utbyta information om tilläggsskatter för stora företagskoncerner med andra länder, samt komplettera hur tilläggsskatten hanteras i Sverige. Detta kan påverka stora företag som är verksamma i flera länder, genom att säkerställa att de betalar en miniminivå av skatt.",
+    "kort_sammanfattning": "Ett automatiskt utbyte av information om global minimibeskattning (GloBE) införs.\nEn ny lag om automatiskt utbyte av tilläggsskatterapporter införs.\nÄndringar görs i lagen om Europaråds- och OECD-konventionen om ömsesidig handräckning i skatteärenden, offentlighets- och sekretesslagen, skatteförfarandelagen, lagen om administrativt samarbete inom EU i fråga om beskattning, och lagen om tilläggsskatt.",
     "roster": {},
     "tags": [
       "EKONOMI",
@@ -880,7 +880,7 @@
     "nummer": 33,
     "datum": "2026-03-25",
     "rm": "2025/26",
-    "kort_sammanfattning": "Riksdagen har behandlat en rapport om Skatteverkets arbete mot svartarbete. Detta kan påverka medborgare genom att minskat svartarbete kan leda till ökad skatteintäkt och därmed potentiellt bättre finansiering av samhällstjänster.",
+    "kort_sammanfattning": "Riksrevisionen har granskat Skatteverkets arbete mot svartarbete och funnit brister i prioritering, effektivitet och uppföljning av åtgärder.\nRiksrevisionen rekommenderar bland annat bredare informationsunderlag för riskanalyser, säkrat genomslag för riskanalyser i planeringen, hemställan till regeringen om regeländringar samt utvecklade metoder för uppföljning.",
     "roster": {},
     "tags": [
       "EKONOMI",
@@ -896,7 +896,7 @@
     "nummer": 13,
     "datum": "2026-03-25",
     "rm": "2025/26",
-    "kort_sammanfattning": "Detta betänkande handlar om olika aspekter av cykling, men utan mer information om specifika beslut är det svårt att säga exakt hur det påverkar dig som cyklist eller medborgare. Det kan röra sig om allt från nya cykelvägar till regler för cykeltrafik.",
+    "kort_sammanfattning": "Riksdagen avslår motioner om mål för cykling, statlig styrning och uppföljning av cykeltrafik, cyklingens påverkan på hållbarhet och folkhälsa, cykelinfrastruktur, friliggande cykelvägar, planering av mindre infrastrukturåtgärder, samhällsekonomiska bedömningar av cykelprojekt, färgsättning av cykelbanor, regler för omkörning av cyklister, regler om högersväng vid rött ljus och cykling mot enkelriktat.",
     "roster": {
       "S": {
         "ja": 0,
@@ -966,7 +966,7 @@
     "nummer": 6,
     "datum": "2026-03-19",
     "rm": "2025/26",
-    "kort_sammanfattning": "Riksdagen har behandlat en rapport från Riksrevisionen som granskat hur Arbetsförmedlingen stöttar personer med funktionsnedsättning. Beslutet påverkar indirekt personer med funktionsnedsättning genom att det kan leda till förändringar i hur Arbetsförmedlingen arbetar.",
+    "kort_sammanfattning": "Regeringen bör göra en översyn av förordningen om särskilda insatser för personer med funktionsnedsättning som medför nedsatt arbetsförmåga för att säkerställa att villkoren bidrar till att uppfylla syftet med det arbetsmarknadspolitiska programmet.",
     "roster": {
       "S": {
         "ja": 0,
@@ -1034,7 +1034,7 @@
     "nummer": 13,
     "datum": "2026-03-19",
     "rm": "2025/26",
-    "kort_sammanfattning": "Riksdagen har beslutat om skärpta regler för att hantera invasiva främmande arter, vilket kan påverka hur du som privatperson hanterar växter och djur i din trädgård eller i naturen. Det kan innebära att du behöver vara mer uppmärksam på vilka arter du planterar eller släpper ut i naturen.",
+    "kort_sammanfattning": "Den som medvetet eller av grov oaktsamhet tar in en invasiv främmande art från ett annat EU-land till Sverige kan dömas till böter eller fängelse i högst två år.\nDen som tar in en invasiv främmande art från ett annat EU-land ska anmäla detta till Tullverket.",
     "roster": {},
     "tags": [
       "MILJÖ",
@@ -1050,7 +1050,7 @@
     "nummer": 15,
     "datum": "2026-03-19",
     "rm": "2025/26",
-    "kort_sammanfattning": "Detta betänkande handlar om lagstiftning som syftar till att säkerställa att hundar hålls under kontroll, vilket kan påverka hundägare genom eventuella nya krav eller skyldigheter.",
+    "kort_sammanfattning": "Länsstyrelsen får rätt att utöva tillsyn enligt lagen om tillsyn över hundar och katter, inklusive rätt att få upplysningar, ta del av handlingar och besluta om förelägganden med vite.\nLänsstyrelsen får rätt att få tillträde till områden, anläggningar, byggnader, lokaler och andra utrymmen som har samband med hundhållning, inklusive bostäder om det kan antas att en hund hålls där, för att besiktiga hunden och göra undersökningar.\nPolismyndigheten kan besluta om avlivning av djur som omhändertagits enligt djurskyddslagen i vissa fall.\nDen som är föremål för länsstyrelsens tillsyn ska lämna den hjälp som behövs för att tillsynen ska kunna utövas.",
     "roster": {},
     "tags": [
       "JORDBRUK"
@@ -1065,7 +1065,7 @@
     "nummer": 22,
     "datum": "2026-03-18",
     "rm": "2025/26",
-    "kort_sammanfattning": "Detta betänkande handlar om frågor som rör hur stabilt det finansiella systemet är och hur finansmarknaderna fungerar, vilket indirekt påverkar alla medborgare eftersom det kan påverka ekonomin.",
+    "kort_sammanfattning": "Regeringens skrivelse om verksamheten i Internationella valutafonden (IMF) 2025 läggs till handlingarna.\nSamtliga motionsyrkanden från allmänna motionstiden 2025/26 som behandlas i betänkandet avslås.",
     "roster": {},
     "tags": [
       "EKONOMI",
@@ -1081,7 +1081,7 @@
     "nummer": 26,
     "datum": "2026-03-18",
     "rm": "2025/26",
-    "kort_sammanfattning": "Detta betänkande handlar om frågor som rör kommunerna, men utan mer information är det svårt att säga exakt vad det innebär för dig som medborgare. Det kan handla om allt från kommunalskatt till skolor och äldreomsorg.",
+    "kort_sammanfattning": "Riksdagen avslår motionsyrkanden om kommunalekonomiskt utjämningssystem, kommunsektorns finansiering, riktade statsbidrag, vinster i välfärden, kommunala tillsynsavgifter, kommunal redovisning, idéburna aktörer i välfärden, kompetensförsörjning, avskrivningsregler och social dumpning.\nSkrivelsen om Riksrevisionens rapport om generella statsbidrag läggs till handlingarna.",
     "roster": {
       "S": {
         "ja": 0,
@@ -1152,7 +1152,7 @@
     "nummer": 27,
     "datum": "2026-03-18",
     "rm": "2025/26",
-    "kort_sammanfattning": "Riksdagen har beslutat om en ny påföljd, säkerhetsförvaring, som innebär att vissa personer kan frihetsberövas på obestämd tid om de anses utgöra en allvarlig fara för samhället. Detta kan påverka enskilda individer som döms till denna påföljd, samt potentiellt öka tryggheten för allmänheten.",
+    "kort_sammanfattning": "En ny tidsobestämd frihetsberövande påföljd, säkerhetsförvaring, införs för personer som begått allvarliga brott mot liv, hälsa, frihet eller frid och har hög återfallsrisk.\nSäkerhetsförvaring avtjänas i kriminalvårdsanstalt.\nRätten bestämmer minimitid för frihetsberövande och total ramtid för verkställighet.\nEfter minimitiden kan Kriminalvården, med rättens tillstånd, vidta åtgärder för villkorad utslussning.\nRamtiden kan förlängas med högst tre år i taget om det är absolut nödvändigt för att förhindra återfall.",
     "roster": {
       "S": {
         "ja": 93,
@@ -1223,7 +1223,7 @@
     "nummer": 14,
     "datum": "2026-03-18",
     "rm": "2025/26",
-    "kort_sammanfattning": "Den nya lagen innebär att det blir nya regler för hur gödselprodukter som säljs inom EU ska vara märkta och innehålla vissa ämnen. Detta kan påverka priset och tillgängligheten av gödsel i butikerna.",
+    "kort_sammanfattning": "Marknadskontrollmyndigheten kan besluta om förelägganden och viten för att säkerställa efterlevnad av EU:s gödselproduktförordning.\nÖverträdelser av vissa bestämmelser i EU:s gödselproduktförordning kan leda till sanktionsavgifter.\nMarknadskontrollmyndigheten kan ta ut sanktionsavgift från tillverkare som exempelvis släpper ut en EU-gödselprodukt på marknaden i strid med artikel 6.1, inte utarbetar den tekniska dokumentationen eller inte utformar EU-försäkran.\nMarknadskontrollmyndigheten kan ta ut sanktionsavgift från importörer som exempelvis släpper ut en EU-gödselprodukt på marknaden i strid med artikel 8.1 eller inte säkerställer att tillverkaren uppfyllt kraven i fråga om förfarandet för bedömning av överensstämmelse.",
     "roster": {},
     "tags": [],
     "status": "NY",
@@ -1236,7 +1236,7 @@
     "nummer": 12,
     "datum": "2026-03-18",
     "rm": "2025/26",
-    "kort_sammanfattning": "Riksdagen har beslutat om nya regler för arbetskraftsinvandring, vilket kan påverka möjligheten för personer från länder utanför EU/EES att få arbete i Sverige. Det kan också påverka företag som anställer arbetskraft från dessa länder.",
+    "kort_sammanfattning": "Ett krav på heltäckande sjukförsäkring införs som villkor för arbetskraftsinvandring.\nEtt lönekrav införs som villkor för arbetskraftsinvandring, men vissa yrkesgrupper kan undantas.\nYrkesgrupper kan uteslutas från möjligheten att beviljas arbetstillstånd.\nArbetstillstånd kan vägras om arbetsgivaren dömts eller misstänks för vissa brott eller fått sanktioner.\nTvå nya brott införs: exploatering av utländsk arbetskraft och handel med arbetstillstånd.\nDen särskilda avgiften höjs för arbetsgivare som anställer utlänningar utan rätt att vistas eller arbeta i Sverige.\nTillståndstiden för EU-blåkort och för säsongsarbete förlängs.\nMöjligheterna för vissa högkvalificerade utlänningar att ansöka om uppehållstillstånd inifrån Sverige utökas.",
     "roster": {
       "S": {
         "ja": 93,
@@ -1307,7 +1307,7 @@
     "nummer": 16,
     "datum": "2026-03-18",
     "rm": "2025/26",
-    "kort_sammanfattning": "Riksdagen har behandlat en rapport om hur systemet med lärarlegitimation fungerar. Detta kan påverka kvaliteten på undervisningen dina barn får i skolan.",
+    "kort_sammanfattning": "Riksrevisionen har granskat systemet för lärarlegitimation och funnit att det inte fungerar effektivt, bland annat för att det råder brist på lärare och att systemet inte tillräckligt väl hindrar olämpliga lärare från att arbeta i skolan. Regeringen instämmer i huvudsak i Riksrevisionens iakttagelser om hur systemet kan utvecklas.",
     "roster": {
       "S": {
         "ja": 0,
@@ -1378,7 +1378,7 @@
     "nummer": 6,
     "datum": "2026-03-12",
     "rm": "2025/26",
-    "kort_sammanfattning": "Detta betänkande handlar om frågor som rör förskolan, vilket kan påverka kvaliteten och tillgängligheten för barnomsorg för familjer.",
+    "kort_sammanfattning": "Riksdagen avslår motioner om tillsyn och tillståndsprövning, statligt stöd till förskolor och en förskolekommission.\nRiksdagen avslår även motioner om barngruppernas storlek och personaltäthet, omsorg under tid då förskola eller fritidshem inte erbjuds, förutsättningar för kvalitet och deltagande, skyddad yrkestitel för barnskötare samt kompetensutveckling för personal.",
     "roster": {},
     "tags": [
       "UTBILDNING",
@@ -1394,7 +1394,7 @@
     "nummer": 11,
     "datum": "2026-03-11",
     "rm": "2025/26",
-    "kort_sammanfattning": "Detta betänkande handlar om att stärka skyddet för dig som konsument när du handlar på distans, till exempel via internet. Det kan innebära tydligare information eller nya regler för hur företag får agera.",
+    "kort_sammanfattning": "Reglerna för ångerrätt och information vid distansavtal om finansiella tjänster och instrument anpassas till dagens digitala landskap.\nEtt skydd införs mot vilseledande utformning av webbplatser och applikationer.\nKonsumenten får rätt till förklaringar för att förstå om en finansiell tjänst passar hens behov.\nEn funktion för att utöva ångerrätten införs för distansavtal om finansiella tjänster, instrument samt andra varor och tjänster.\nDet är inte längre möjligt för näringsidkaren att i vissa fall lämna förhandsinformation efter att avtal har ingåtts.",
     "roster": {},
     "tags": [
       "DIGITALT",
@@ -1410,7 +1410,7 @@
     "nummer": 21,
     "datum": "2026-03-11",
     "rm": "2025/26",
-    "kort_sammanfattning": "Beslutet innebär att det blir möjligt att skicka in bouppteckningar digitalt till Skatteverket, vilket kan göra processen smidigare och snabbare för de som hanterar dödsbon.",
+    "kort_sammanfattning": "Bouppteckningar och dödsboanmälningar kan lämnas till Skatteverket elektroniskt via en anvisad mottagningsplats.\nMöjligheten att lämna in pappersversioner kvarstår.\nKravet på att skicka in bestyrkta kopior av bouppteckningen tas bort.\nDe gode män som förrättar bouppteckningen benämns istället förrättningspersoner.\nPerson- eller samordningsnummer (eller födelsedatum om dessa saknas) ska anges för alla som kallas till bouppteckningsförrättningen.",
     "roster": {},
     "tags": [
       "EKONOMI",
@@ -1426,7 +1426,7 @@
     "nummer": 9,
     "datum": "2026-03-11",
     "rm": "2025/26",
-    "kort_sammanfattning": "Riksdagen har beslutat om regler för hur företag och andra juridiska personer kan ärva lantbruksegendom genom testamente. Detta kan påverka möjligheten för exempelvis stiftelser eller bolag att äga och förvalta jordbruksmark.",
+    "kort_sammanfattning": "Kravet på förvärvstillstånd enligt jordförvärvslagen utvidgas till att omfatta juridiska personers förvärv av lantbruksegendom genom testamente.\nKravet på förvärvstillstånd enligt jordförvärvslagen utvidgas till att omfatta juridiska personers förvärv av lantbruksegendom från Allmänna arvsfonden.\nEn testamentstagare som tilldelats lantbruksegendom som legat ska ansöka om förvärvstillstånd inom tre månader från att testamentet fick laga kraft och legatet gavs ut, eller från att bouppteckningen registrerades.",
     "roster": {},
     "tags": [
       "JORDBRUK"
@@ -1441,7 +1441,7 @@
     "nummer": 15,
     "datum": "2026-03-11",
     "rm": "2025/26",
-    "kort_sammanfattning": "Detta betänkande handlar om en granskning av hur statliga myndigheter tar betalt för sina tjänster. Det kan påverka dig som medborgare om du använder någon avgiftsbelagd tjänst från en statlig myndighet, till exempel tillstånd eller registerutdrag.",
+    "kort_sammanfattning": "Riksrevisionen har granskat statliga myndigheters avgiftsbelagda tjänster riktade till företag, där myndigheterna själva bestämmer avgifternas storlek och disponerar intäkterna.\nRegeringen instämmer delvis i Riksrevisionens iakttagelser och har gett Ekonomistyrningsverket (ESV) i uppdrag att utreda och föreslå hur en ny avgiftsförordning kan utformas, med redovisning i februari 2027.",
     "roster": {},
     "tags": [
       "EKONOMI"
@@ -1456,7 +1456,7 @@
     "nummer": 18,
     "datum": "2026-03-11",
     "rm": "2025/26",
-    "kort_sammanfattning": "Riksdagen har behandlat en rapport om hur staten använder och skaffar kontorslokaler, vilket kan påverka hur skattepengar används för statliga myndigheters lokaler. Detta kan i förlängningen påverka statens kostnader och därmed indirekt medborgarnas skattebörda.",
+    "kort_sammanfattning": "Riksrevisionen har granskat statens användning av kontorslokaler och funnit att det finns stor potential för effektivisering genom minskade kontorsareor, lokalisering till mindre centrala lägen och ökad samverkan mellan myndigheter. Regeringen delar Riksrevisionens bedömning och arbetar med att effektivisera lokalförsörjningen, bland annat genom att utreda förslag om att förtydliga förutsättningarna för myndigheter att samverka kring lokaler och införa krav på att beakta möjligheten till samverkan eller samlokalisering i planeringen.",
     "roster": {},
     "tags": [
       "EKONOMI",
@@ -1472,7 +1472,7 @@
     "nummer": 19,
     "datum": "2026-03-11",
     "rm": "2025/26",
-    "kort_sammanfattning": "Riksdagen har behandlat en rapport om hur staten arbetar med Agenda 2030, vilket är ett globalt mål för hållbar utveckling. Detta kan påverka dig genom att statens åtgärder för att uppnå dessa mål kan leda till förändringar inom miljö, ekonomi och sociala frågor.",
+    "kort_sammanfattning": "Riksrevisionen har granskat statens arbete med Agenda 2030 under perioden 2015-2025 och bedömer att det inte har varit effektivt.\nRiksrevisionen anser att regeringen inte har identifierat en övergripande inriktning för hur agendan bäst ska genomföras i Sverige och att uppföljningen av måluppfyllelsen är bristfällig.\nRegeringen anser att arbetet med Agenda 2030 bör fokusera på områden där utmaningarna är stora, men att det bedrivs inom ramen för ordinarie budget- och styrningsprocesser.",
     "roster": {},
     "tags": [
       "MILJÖ",
@@ -1488,7 +1488,7 @@
     "nummer": 46,
     "datum": "2026-03-11",
     "rm": "2025/26",
-    "kort_sammanfattning": "Riksdagen har beslutat om en extra budgetändring för att ge stöd till Ukraina och stärka Sveriges beredskap för framtida vaccinbehov. Detta kan påverka dig genom att bidra till internationell stabilitet och säkerställa att Sverige är bättre förberett för eventuella framtida pandemier.",
+    "kort_sammanfattning": "Regeringen får skänka granatgevär med ammunition till Ukraina från Försvarsmakten, till ett värde av högst 600 640 000 kronor.\nSverige ställer ut en statlig garanti till Internationella återuppbyggnads- och utvecklingsbanken för lån till Ukraina, upp till högst 280 700 000 euro plus ränta, inklusive tidigare garantier.",
     "roster": {},
     "tags": [
       "EKONOMI",
@@ -1504,7 +1504,7 @@
     "nummer": 24,
     "datum": "2026-03-11",
     "rm": "2025/26",
-    "kort_sammanfattning": "Detta betänkande handlar om hur lagen om särskild kontroll av vissa utlänningar har använts under 2025. Lagen ger staten möjlighet att övervaka och begränsa vissa utlänningars aktiviteter i Sverige, om de anses vara en säkerhetsrisk.",
+    "kort_sammanfattning": "Regeringen har under perioden 1 juli 2024 till 30 juni 2025 fattat sex beslut med stöd av lagen om särskild kontroll av vissa utlänningar, varav ett avsåg avslag på överklagande av Migrationsverkets beslut om inhibition, ett annat upphävde ett beslut om inhibition på begäran av Säkerhetspolisen, ett tredje avslog en begäran om upphävande av utvisningsbeslut, och de övriga tre avslog begäran om omprövning av utvisningsbeslut.",
     "roster": {},
     "tags": [
       "FÖRSVAR",
@@ -1520,7 +1520,7 @@
     "nummer": 25,
     "datum": "2026-03-11",
     "rm": "2025/26",
-    "kort_sammanfattning": "Detta betänkande sammanfattar hur hemliga tvångsmedel, som exempelvis telefonavlyssning, har använts under 2024. Informationen kan ge en bild av hur brottsbekämpande myndigheter arbetar, men innehåller inga direkta förändringar för enskilda medborgare.",
+    "kort_sammanfattning": "Regeringen har redovisat användningen av hemliga tvångsmedel under 2024, vilket inkluderar hemlig avlyssning och övervakning av elektronisk kommunikation, kameraövervakning, rumsavlyssning och dataavläsning. Redovisningen omfattar även inhämtning av uppgifter enligt lagen om inhämtning av uppgifter om elektronisk kommunikation och Säkerhetspolisens användning av dessa tvångsmedel.",
     "roster": {},
     "tags": [
       "BROTT",
@@ -1536,7 +1536,7 @@
     "nummer": 15,
     "datum": "2026-03-11",
     "rm": "2025/26",
-    "kort_sammanfattning": "Riksdagen har behandlat en rapport om hur studenter väljs ut till högskolan, vilket kan påverka dina möjligheter att komma in på en utbildning. Betänkandet berör de regler och metoder som används för att fördela platserna.",
+    "kort_sammanfattning": "Riksrevisionen har granskat systemet för urval till högskoleutbildningar på grundnivå och funnit att det i huvudsak fungerar väl, men kan bli mer effektivt. Riksrevisionen rekommenderar regeringen att göra fullständiga konsekvensanalyser vid ändringar i urvalsbestämmelserna, ge en myndighet i uppdrag att regelbundet utvärdera urvalsbestämmelserna, samt säkerställa att uppgifter om studenters urvalsgrupp och meritvärde bevaras för forskning och statistik.",
     "roster": {},
     "tags": [
       "UTBILDNING",
@@ -1552,7 +1552,7 @@
     "nummer": 32,
     "datum": "2026-03-04",
     "rm": "2025/26",
-    "kort_sammanfattning": "Riksdagen har beslutat om lagar som kompletterar EU:s regler för hållbarhetsbetyg. Detta kan påverka hur företag redovisar sitt hållbarhetsarbete och hur investerare bedömer företagens miljöpåverkan och sociala ansvar.",
+    "kort_sammanfattning": "Finansinspektionen utses som behörig myndighet för EU:s förordning om hållbarhetsbetyg.\nFinansinspektionen får rätt att begära handräckning av Kronofogdemyndigheten för undersökningar, utan förvarning.\nFinansinspektionen får tillsyn över hur hållbarhetsbetyg används i marknadsföring av referensvärden och gräsrotsfinansiering.",
     "roster": {},
     "tags": [
       "MILJÖ",
@@ -1568,7 +1568,7 @@
     "nummer": 36,
     "datum": "2026-03-04",
     "rm": "2025/26",
-    "kort_sammanfattning": "Riksdagen har behandlat frågan om utvecklingen av makrotillsynen, vilket syftar till att övervaka och motverka risker i det finansiella systemet. Detta kan påverka vanliga medborgare genom att bidra till en stabilare ekonomi och minska risken för finanskriser.",
+    "kort_sammanfattning": "Finansinspektionens föreskrifter och allmänna råd om amorteringskrav och bolånetak ersätts av en ny lag om begränsning av bostadskrediter.\nDet skärpta amorteringskravet tas bort, vilket innebär att kravet på ytterligare amortering med minst 1 procent om de samlade bostadskrediterna överstiger 4,5 gånger bruttoårsinkomsten slopas.\nBolånetaket får vara högst 90 procent av bostadens marknadsvärde vid köp av ny bostad och 80 procent vid utökning av befintlig bostadskredit.\nRiksbanken får ansvaret för att fastställa det kontracykliska buffertvärdet vid tillämpningen av EU:s kapitaltäckningsregelverk för banker.",
     "roster": {},
     "tags": [
       "EKONOMI",
@@ -1584,7 +1584,7 @@
     "nummer": 7,
     "datum": "2026-03-04",
     "rm": "2025/26",
-    "kort_sammanfattning": "Riksdagen har behandlat en rapport om hur staten styr uppbyggnaden av det civila försvaret, vilket är viktigt för att samhället ska fungera även i kriser och krig.",
+    "kort_sammanfattning": "Riksrevisionen har granskat den statliga styrningen av det civila försvaret och regeringen har redogjort för sin bedömning av Riksrevisionens slutsatser och rekommendationer.\nUtskottet har inhämtat information från Riksrevisionen och ministern för civilt försvar om det civila försvarets uppbyggnad.",
     "roster": {},
     "tags": [
       "FÖRSVAR"
@@ -1599,7 +1599,7 @@
     "nummer": 23,
     "datum": "2026-03-04",
     "rm": "2025/26",
-    "kort_sammanfattning": "Riksdagen har beslutat om nya regler för att bättre skydda personer som deltar i den offentliga debatten, samt infört en ny typ av påföljd (tredskodomssanktion) i vissa juridiska processer. Detta kan påverka hur rättsprocesser genomförs och ge ett starkare skydd för de som engagerar sig i samhällsfrågor.",
+    "kort_sammanfattning": "En ny lag införs för att skydda personer som deltar i den offentliga debatten i gränsöverskridande tvister.\nEn ny tredskodomssanktion införs, vilket innebär att domstolen i vissa fall kan meddela tredskodom mot en part som inte svarat på rättens förelägganden.\nLagen och lagändringarna träder i kraft 1 maj 2026.",
     "roster": {},
     "tags": [
       "BROTT",
@@ -1615,7 +1615,7 @@
     "nummer": 26,
     "datum": "2026-03-04",
     "rm": "2025/26",
-    "kort_sammanfattning": "Riksdagen har granskat ett EU-förslag om energiinfrastruktur och tillståndsprocesser för att se om det bäst hanteras på EU-nivå eller av medlemsländerna själva. Detta kan påverka hur snabbt nya energiprojekt kan genomföras och hur mycket inflytande Sverige har över sin egen energiförsörjning.",
+    "kort_sammanfattning": "Utskottet anser att kommissionens förslag om riktlinjer för transeuropeisk energiinfrastruktur och påskyndandet av tillståndsförfaranden strider mot subsidiaritetsprincipen.\nFörslagen innebär en för långtgående centralisering av finansiering, planering och administrativa förfaranden på energiområdet.",
     "roster": {},
     "tags": [
       "MILJÖ",
@@ -1631,7 +1631,7 @@
     "nummer": 10,
     "datum": "2026-02-25",
     "rm": "2025/26",
-    "kort_sammanfattning": "Riksdagen har beslutat om ett förbättrat resegarantisystem, vilket innebär att resenärer får ett starkare skydd om researrangören går i konkurs eller om resan ställs in. Detta kan inkludera rätt till återbetalning eller hjälp att fullfölja resan.",
+    "kort_sammanfattning": "En kollektiv resegarantifond inrättas, finansierad av reseaktörer med 0,6 procent av priset på paketresor och sammanlänkade researrangemang.\nIndividuella garantier minskar till 6,25 procent av årsomsättningen, med möjlighet till justeringar baserat på risk.\nDe individuella garantierna sänks successivt i takt med att fonden växer: 20% vid 300 miljoner, 40% vid 600 miljoner, 60% vid 900 miljoner och 80% vid 1,2 miljarder.\nAvgiftsplikten återaktiveras om fondens kapital understiger 1 miljard kronor.\nResegaranti kan erkännas även från näringsidkare utanför EES, om skyddsnivån är likvärdig.\nVissa värdebevis och ytterligare återbetalningskrav inkluderas i resegarantisystemet, dock endast för paketresor.",
     "roster": {},
     "tags": [
       "JORDBRUK"
@@ -1646,7 +1646,7 @@
     "nummer": 14,
     "datum": "2026-02-25",
     "rm": "2025/26",
-    "kort_sammanfattning": "Det finanspolitiska ramverket hjälper till att hålla ordning på statens ekonomi, vilket i sin tur påverkar skatter, välfärd och andra offentliga tjänster. Genom att ha tydliga regler för hur staten får spendera pengar, kan man undvika stora ekonomiska problem i framtiden.",
+    "kort_sammanfattning": "Regeringen bekräftar att det finanspolitiska ramverket ska ses över regelbundet varannan valperiod, vilket resulterar i en uppdaterad skrivelse till riksdagen.\nDen parlamentariska överenskommelsen om nya försvarsutgifter och stöd till Ukraina tillåter en avvikelse från målet om finansiellt sparande 2026–2034, men överenskommelsen beskriver hur ramverket ska tillämpas fram till 2035.\nEn tydlig avvikelse från målet definieras som att det strukturella sparandet avviker med mer än 0,5 procent av potentiell BNP från målnivån.",
     "roster": {},
     "tags": [
       "EKONOMI",
@@ -1662,7 +1662,7 @@
     "nummer": 29,
     "datum": "2026-02-25",
     "rm": "2025/26",
-    "kort_sammanfattning": "Riksdagen har beslutat om nya regler som ska göra det enklare för företag att få sina värdepapper, som aktier och obligationer, noterade på en marknadsplats. Detta kan på sikt leda till fler investeringsmöjligheter och en mer dynamisk aktiemarknad.",
+    "kort_sammanfattning": "En ny möjlighet införs att registrera ett segment av multilaterala handelsplattformar som tillväxtmarknader för små och medelstora företag.\nEmittenter som har Sverige som hemmedlemsstat ges möjligheten att välja att upprätta prospekt antingen på svenska eller engelska.\nTröskelvärdet för prospektskyldighet höjs från 2,5 miljoner euro till 12 miljoner euro.\nBeräkningen av administrativa sanktionsavgifter ändras.",
     "roster": {},
     "tags": [],
     "status": "NY",
@@ -1675,7 +1675,7 @@
     "nummer": 19,
     "datum": "2026-02-25",
     "rm": "2025/26",
-    "kort_sammanfattning": "Beslutet innebär att det blir straffbart att planera, förbereda eller försöka begå fler brott än tidigare. Detta kan påverka personer som är involverade i kriminella aktiviteter genom att öka risken för åtal även i tidiga stadier av brottsplanering.",
+    "kort_sammanfattning": "Straffansvaret utvidgas för försök till brott även om fara för fullbordan var utesluten på grund av myndighets åtgärd, såvida inte gärningen var uppenbart mindre allvarlig.\nStraffansvaret utvidgas för förberedelse till brott för den som hanterar något som är särskilt ägnat att användas som hjälpmedel eller möjliggöra brott.\nStraffansvaret utvidgas för förberedelse till brott genom att inkludera fler former av hantering av hjälpmedel och betalmedel.\nStraffansvaret utvidgas för stämpling till brott för den som kommer överens med någon annan om att en gärning ska utföras.\nLagändringen om försök till brott träder i kraft 1 april 2026, övriga lagändringar 1 juli 2026.",
     "roster": {},
     "tags": [
       "BROTT"
@@ -1690,7 +1690,7 @@
     "nummer": 20,
     "datum": "2026-02-25",
     "rm": "2025/26",
-    "kort_sammanfattning": "Den nya lagstiftningen påverkar hur Kriminalvården hanterar personuppgifter, vilket kan påverka hur information om personer som är eller har varit i kontakt med Kriminalvården behandlas och skyddas.",
+    "kort_sammanfattning": "Kriminalvården får större möjligheter att behandla personuppgifter för att effektivisera och säkra verkställandet av påföljder.\nKriminalvården får utökade möjligheter att använda ansiktsigenkänning.\nSärskilda bestämmelser införs för personuppgifter som görs gemensamt tillgängliga inom Kriminalvården, vilket ersätter detaljerade bestämmelser i brottsdataförordningen.\nKriminalvården får ta fotografier av personer som avtjänar fängelsestraff, inklusive de med elektronisk övervakning, för biometrisk autentisering eller identifiering.\nDen längsta tiden för behandling av personuppgifter regleras i brottsdatalagen istället för i förordning, med olika tidsfrister beroende på typ av personuppgift. Exempelvis får uppgifter om en person som varit häktad men inte dömts inte behandlas längre än fem år.",
     "roster": {},
     "tags": [
       "HÄLSA",
@@ -1706,7 +1706,7 @@
     "nummer": 21,
     "datum": "2026-02-25",
     "rm": "2025/26",
-    "kort_sammanfattning": "Riksdagen har behandlat en rapport om hur antagningen till polisutbildningen fungerar. Detta kan påverka vilka som blir poliser i framtiden och därmed hur polisen arbetar.",
+    "kort_sammanfattning": "Riksrevisionen har granskat antagningen till polisutbildningen och funnit att den inte är effektiv.\nRegeringen avser att se över finansieringsmodellen för polisprövningar.\nPolismyndigheten ska göra en översyn av hela antagningsprocessen.",
     "roster": {},
     "tags": [
       "BROTT",
@@ -1722,7 +1722,7 @@
     "nummer": 16,
     "datum": "2026-02-25",
     "rm": "2025/26",
-    "kort_sammanfattning": "Riksdagen har beslutat om ändringar i sekretesslagstiftningen gällande information om vapentransaktioner och uppgifter i Schengens informationssystem. Detta kan påverka allmänhetens insyn i dessa typer av information, då vissa uppgifter kan komma att skyddas ytterligare.",
+    "kort_sammanfattning": "Sekretess införs för uppgifter om skjutvapentransaktioner som vapenhandlare och förmedlare rapporterar till Polismyndigheten.\nSekretessen utvidgas även för nya uppgifter som utbyts inom Schengens informationssystem gällande utländska brottsutredningar och enskildas personliga förhållanden.\nLagändringarna träder i kraft 1 april 2026 respektive den dag regeringen bestämmer.",
     "roster": {},
     "tags": [
       "JORDBRUK"
@@ -1737,7 +1737,7 @@
     "nummer": 17,
     "datum": "2026-02-25",
     "rm": "2025/26",
-    "kort_sammanfattning": "Riksdagen har beslutat om nya lagar för att anpassa svensk rätt till EU:s regler om skyddade beteckningar för vissa jordbruksprodukter och livsmedel. Detta kan påverka vilka produkter som får säljas under vissa namn och hur de marknadsförs, vilket i sin tur kan påverka konsumenters valmöjligheter och tillgång till lokala produkter.",
+    "kort_sammanfattning": "Det införs nya bemyndiganden gällande det nationella invändningsförfarandet och producentgruppers sammansättning kopplat till skyddade beteckningar på jordbruksprodukter och livsmedel.\nLagändringarna anpassar lagen om kontroll av skyddade beteckningar på jordbruksprodukter och livsmedel samt lagen om sanktioner vid intrång i rätten till vissa skyddade beteckningar till EU-rätten.",
     "roster": {},
     "tags": [
       "JORDBRUK"
@@ -1752,7 +1752,7 @@
     "nummer": 11,
     "datum": "2026-02-25",
     "rm": "2025/26",
-    "kort_sammanfattning": "Beslutet innebär att arbetsgivare kan få betala lägre arbetsgivaravgifter för anställda som är mellan 19 och 23 år. Detta kan göra det billigare för företag att anställa unga personer.",
+    "kort_sammanfattning": "Arbetsgivaravgifterna och den allmänna löneavgiften för personer som vid årets ingång fyllt 18 men inte 23 år beräknas särskilt.\nEndast ålderspensionsavgiften och hälften av de övriga avgifterna betalas på ersättning upp till 25 000 kronor per månad.\nDe nya reglerna gäller för ersättning som betalas ut mellan 1 april 2026 och 30 september 2027.",
     "roster": {
       "S": {
         "ja": 3,
@@ -1823,7 +1823,7 @@
     "nummer": 10,
     "datum": "2026-02-25",
     "rm": "2025/26",
-    "kort_sammanfattning": "Riksdagen har tagit ställning till hur Skatteverket, Tullverket och Kronofogdemyndigheten ska hantera dataskydd i framtiden, vilket påverkar hur myndigheterna får behandla personuppgifter och därmed den enskildes rätt till privatliv.",
+    "kort_sammanfattning": "Skatteverket, Tullverket och Kronofogdemyndigheten får nya lagar för behandling av personuppgifter: beskattningsdatalagen, folkbokföringsdatalagen, tulldatalagen och kronofogdedatalagen.\nSkatteverket får även en lag om det statliga personadressregistret och en lag om dataskydd i äktenskapsregister- och bouppteckningsverksamheter.\nMyndigheterna får uttryckligt rättsligt stöd för att använda dataanalyser och urval för effektivare kontrollverksamhet.\nEtt antal följdändringar görs i andra lagar för att anpassa dem till de nya datalagarna.",
     "roster": {},
     "tags": [
       "EKONOMI",
@@ -1839,7 +1839,7 @@
     "nummer": 18,
     "datum": "2026-02-25",
     "rm": "2025/26",
-    "kort_sammanfattning": "Riksdagen har beslutat om ett förbättrat regelverk för hur skog beskattas, vilket kan påverka skogsägare genom ändrade skatteregler. Detaljerna i de nya reglerna kan påverka hur lönsamt det är att äga och bruka skog.",
+    "kort_sammanfattning": "En avsättning till en ersättningsfond för mark definierad som naturvårdsmark får återföras det tionde beskattningsåret efter avdragsåret.\nEnskilda näringsidkare kan periodisera ersättning för naturvårdsavtal genom avdrag för belopp insatta på ett särskilt naturvårdskonto.\nLagen om skatt på ränta på skogskontomedel upphävs.\nSkogskonton, skogsskadekonton och naturvårdskonton kan tillhandahållas av utländska kreditinstitut inom EES.\nMöjligheten till skogsavdrag utvidgas i vissa fall till att omfatta fastigheter inom EES.",
     "roster": {},
     "tags": [
       "EKONOMI",
@@ -1855,7 +1855,7 @@
     "nummer": 19,
     "datum": "2026-02-25",
     "rm": "2025/26",
-    "kort_sammanfattning": "Riksdagen har beslutat om kontroller av kontanta medel vid Sveriges inre gränser, vilket kan innebära att resenärer kan behöva redovisa större summor pengar de för in eller ut ur landet. Detta syftar till att förhindra brottslighet som penningtvätt och finansiering av terrorism.",
+    "kort_sammanfattning": "En anmälnings- och redovisningsskyldighet införs för kontanta medel på minst 10 000 euro som förs över gränsen till ett annat EU-land.\nTullverket får befogenhet att kontrollera denna skyldighet och tillfälligt kvarhålla kontanta medel för vidare kontroll.\nDen som bryter mot anmälnings- eller redovisningsskyldigheten kan dömas till böter.",
     "roster": {},
     "tags": [
       "EKONOMI",
@@ -1871,7 +1871,7 @@
     "nummer": 6,
     "datum": "2026-02-25",
     "rm": "2025/26",
-    "kort_sammanfattning": "Riksdagen har beslutat om kompletteringar och förtydliganden gällande lagstiftningen kring sanktioner för skatteundandragande och bedrägerier, vilket kan påverka de som döms för sådana brott.",
+    "kort_sammanfattning": "Undantaget för muntliga uppgifter tas bort vid bedömning av skattebrott, vårdslös skatteuppgift och skatteredovisningsbrott, vilket innebär att även muntliga uppgifter kan leda till straffansvar.\nMuntliga uppgifter kan användas som grund för skattetillägg.\nDefinitionen av \"oriktig uppgift\" ändras för att tydliggöra att den som lämnar en mervärdesskatteuppgift kopplad till ett mervärdesskattebedrägeri anses ha lämnat en oriktig uppgift om hen kände till eller borde ha känt till bedrägeriet.",
     "roster": {},
     "tags": [
       "EKONOMI",
@@ -1887,7 +1887,7 @@
     "nummer": 9,
     "datum": "2026-02-25",
     "rm": "2025/26",
-    "kort_sammanfattning": "Beslutet innebär att momsen på mat sänks tillfälligt, vilket kan göra maten billigare i affären för dig.",
+    "kort_sammanfattning": "Mervärdesskatten på livsmedel sänks tillfälligt från 12 procent till 6 procent.\nDen sänkta skatten gäller från 1 april 2026 till och med 31 december 2027.",
     "roster": {},
     "tags": [
       "EKONOMI",
@@ -1903,7 +1903,7 @@
     "nummer": 23,
     "datum": "2026-02-25",
     "rm": "2025/26",
-    "kort_sammanfattning": "Detta betänkande handlar om hur vården kan bli mer tillgänglig och bättre samordnad för patienter. Det kan innebära förändringar i hur du kontaktar vården, hur information delas mellan vårdgivare och hur vården planeras.",
+    "kort_sammanfattning": "Regioner och kommuner ska tydligare samverka i planeringen och utvecklingen av hälso- och sjukvården.\nPrimärvården ska tydligare tillgodose både fysiska och psykiska vårdbehov.\nDet införs ett krav på att det ska finnas en medicinskt ansvarig för rehabilitering i kommunen.\nEn medicinsk bedömning av läkare och sjuksköterska ska vid behov erbjudas dygnet runt i kommunal hälso- och sjukvård.\nBenämningen hemsjukvård tas bort och ersätts med hälso- och sjukvård i hemmet.\nPatienter ska få tydligare information om fast vårdkontakt, fast läkarkontakt och hur man kontaktar vårdenheter.",
     "roster": {},
     "tags": [
       "HÄLSA",
@@ -1919,7 +1919,7 @@
     "nummer": 8,
     "datum": "2026-02-25",
     "rm": "2025/26",
-    "kort_sammanfattning": "Detta betänkande handlar om frågor som rör digitalisering och posttjänster i Sverige. Besluten kan påverka hur vi använder digitala tjänster och hur posten fungerar i framtiden.",
+    "kort_sammanfattning": "Regeringens skrivelse om Riksrevisionens rapport om statliga strategiska digitaliseringsprojekt läggs till handlingarna.\nSamtliga motionsyrkanden om digital delaktighet, digitalisering i offentlig verksamhet, tillgång till elektronisk kommunikation, artificiell intelligens och postfrågor avslås.",
     "roster": {
       "S": {
         "ja": 0,
@@ -1989,7 +1989,7 @@
     "nummer": 3,
     "datum": "2026-02-17",
     "rm": "2025/26",
-    "kort_sammanfattning": "Det blir förbjudet att använda kredit för att spela. Detta innebär att du inte kan låna pengar, till exempel via kreditkort eller faktura, för att satsa på spel.",
+    "kort_sammanfattning": "Det blir förbjudet för spelbolag och ombud att tillåta eller medverka till att spel finansieras med kredit.\nSpelbolag och ombud ska aktivt motverka att spel finansieras med kredit.\nSpelinspektionen kan göra undantag för vissa aktörer med licens för allmännyttiga ändamål.\nLagen träder i kraft 1 maj 2026.",
     "roster": {},
     "tags": [
       "EKONOMI",
@@ -2005,7 +2005,7 @@
     "nummer": 24,
     "datum": "2026-02-17",
     "rm": "2025/26",
-    "kort_sammanfattning": "Riksdagen har beslutat om specialiseringstjänstgöring för sjukhusfysiker, vilket kan leda till högre kvalitet och mer specialiserad kompetens inom medicinsk fysik på sjukhus. Detta kan i sin tur påverka diagnostik och behandling med strålning, till exempel vid cancer.",
+    "kort_sammanfattning": "Regionerna ska ha möjlighet att anställa sjukhusfysiker för specialiseringstjänstgöring, vilket ska motsvara det framtida behovet av specialister.\nLagen träder i kraft den 1 april 2026.",
     "roster": {},
     "tags": [
       "HÄLSA",
@@ -2021,7 +2021,7 @@
     "nummer": 11,
     "datum": "2026-02-04",
     "rm": "2025/26",
-    "kort_sammanfattning": "Riksdagen har beslutat att Sverige ska kunna göra undantag från EU:s regler om automatiskt godkännande av tillstånd för utbyggnad av gigabitinfrastruktur, vilket kan påverka hur snabbt bredband byggs ut i landet.",
+    "kort_sammanfattning": "Sverige avviker från EU:s förordning om gigabitinfrastruktur gällande tyst godkännande av tillståndsansökningar om en domstol inte hinner pröva ansökan inom tidsfristen.\nDet innebär att ett tillstånd inte automatiskt beviljas om domstolen överskrider tidsfristen för prövning.\nOperatörer kan begära skadestånd enligt skadeståndslagen om handläggningen drar ut på tiden.",
     "roster": {},
     "tags": [
       "TRANSPORT"
@@ -2036,7 +2036,7 @@
     "nummer": 7,
     "datum": "2026-02-04",
     "rm": "2025/26",
-    "kort_sammanfattning": "Beslutet innebär att det blir svårare att skaffa körkort i Sverige om man inte bor här permanent, vilket syftar till att minska missbruk av systemet.",
+    "kort_sammanfattning": "Huvudregeln blir att ett EES-körkort med ursprung i ett tredjeland inte får bytas ut mot ett svenskt körkort.\nUndantag görs om körkortshavaren haft körkort med motsvarande behörighet inom EES i minst fem år före bosättning i Sverige.\nUndantag görs även om det utländska EES-körkortet är utbytt från ett körkort utfärdat i Färöarna, Förenade kungariket, Japan eller Schweiz.\nUndantag görs också om EES-körkortet utfärdats efter godkänt förarprov i den EES-staten.\nLagändringarna träder i kraft 1 maj 2026.",
     "roster": {},
     "tags": [
       "JORDBRUK"
@@ -2051,7 +2051,7 @@
     "nummer": 7,
     "datum": "2026-01-28",
     "rm": "2025/26",
-    "kort_sammanfattning": "Riksdagen har beslutat om anpassningar i svensk lagstiftning för att följa EU:s nya regler för byggprodukter. Detta kan påverka vilka krav som ställs på byggmaterial och hur de kontrolleras, vilket i sin tur kan påverka byggkostnader och säkerhet.",
+    "kort_sammanfattning": "Hänvisningar till EU:s byggproduktförordning i plan- och bygglagen uppdateras.\n8 kap. 22 a § PBL ändras för att förtydliga rättsläget gällande märkningar som tillåts parallellt med CE-märkningen, med en hänvisning till förordningens märkningsregler.\nBilaga 3 till lagen om offentlig upphandling och lagen om upphandling inom försörjningssektorerna uppdateras med en hänvisning till artikel 3.18 i den nya förordningen.",
     "roster": {},
     "tags": [
       "EKONOMI",
@@ -2067,7 +2067,7 @@
     "nummer": 5,
     "datum": "2026-01-28",
     "rm": "2025/26",
-    "kort_sammanfattning": "Detta betänkande handlar om Kustbevakningens arbete med att övervaka sjöfarten och miljön till havs, vilket är viktigt för säkerheten och för att skydda havsmiljön. Beslutet påverkar indirekt medborgare genom att bidra till säkrare sjöfart och en renare havsmiljö.",
+    "kort_sammanfattning": "Kustbevakningens uppdrag utökas till att förebygga, förhindra och upptäcka alla brott i den maritima miljön som har samband med myndighetens uppdrag.\nSekretessen utökas för uppgifter i Kustbevakningens register Sjöbasis, till skydd för allmänna intressen och enskilda.\nSekretess införs hos Kustbevakningen för uppgifter i analysverksamhet, till skydd för allmänna intressen och enskilda.\nBestämmelser om personuppgiftsbehandling införs hos Kustbevakningen vid analysverksamhet.",
     "roster": {},
     "tags": [
       "MILJÖ",
@@ -2083,7 +2083,7 @@
     "nummer": 22,
     "datum": "2026-01-28",
     "rm": "2025/26",
-    "kort_sammanfattning": "Beslutet innebär att det kan bli vanligare med registerkontroller för personer som söker jobb i kommunen. Detta görs för att öka tryggheten och säkerheten inom kommunal verksamhet.",
+    "kort_sammanfattning": "Kommuner får utökad möjlighet att göra registerkontroller innan anställning.\nDetta gäller personer som ska arbeta i hemmet hos äldre eller vuxna med funktionsnedsättning.\nDet gäller även personer som ska anställas i ledande befattningar i kommunen.\nMöjligheten till registerkontroll utökas även för de som ska arbeta med barn.",
     "roster": {},
     "tags": [
       "ARBETE",
@@ -2099,7 +2099,7 @@
     "nummer": 4,
     "datum": "2026-01-28",
     "rm": "2025/26",
-    "kort_sammanfattning": "Riksdagen har tagit del av och godkänt regeringens redovisning av hur staten har skött sina bolag under 2025. Detta kan påverka medborgare indirekt genom att statliga bolag förväntas bidra till samhällsnytta och en väl fungerande ekonomi.",
+    "kort_sammanfattning": "Riksdagen lägger regeringens redogörelse för företag med statligt ägande under 2024 till handlingarna.\nSamtliga motionsyrkanden om statens ägande och förvaltning av företag avslås, inklusive de som rör enskilda bolag som Postnord, SJ, Sveaskog, Swedavia och Vattenfall.",
     "roster": {},
     "tags": [
       "EKONOMI",
@@ -2115,7 +2115,7 @@
     "nummer": 9,
     "datum": "2026-01-28",
     "rm": "2025/26",
-    "kort_sammanfattning": "Riksdagen har behandlat en rapport om hur statliga LKAB ställer om sin verksamhet. Detta kan påverka jobben i norra Sverige och hur miljövänlig gruvindustrin är framöver.",
+    "kort_sammanfattning": "Riksrevisionen har granskat om regeringen och LKAB har agerat affärsmässigt i planeringen av omställningen till produktion av järnsvamp och fann att de i huvudsak har gjort det.\nÄgarens roll har dock varit begränsad på grund av bristande ägarsamordning, men det finns inga tecken på politisk styrning.\nRegeringen har ändrat rutinerna för beslut om ekonomiska mål i statligt ägda bolag så att bolagets styrelse nu ansvarar för besluten och ägaren får ta ställning till förslag innan styrelsen beslutar.",
     "roster": {
       "S": {
         "ja": 92,
@@ -2185,7 +2185,7 @@
     "nummer": 8,
     "datum": "2026-01-28",
     "rm": "2025/26",
-    "kort_sammanfattning": "Riksdagen har behandlat en rapport från Riksrevisionen som granskat hur Migrationsverket hanterar ansökningar om medborgarskap. Detta kan påverka väntetider och rättssäkerheten för de som ansöker om svenskt medborgarskap.",
+    "kort_sammanfattning": "Riksrevisionen har granskat Migrationsverkets hantering av medborgarskapsärenden under perioden 2018–2023 och funnit brister i effektivitet, korrekthet och enhetlighet.\nRiksrevisionen rekommenderar regeringen att säkerställa att Migrationsverket har rättsliga förutsättningar att få information från andra myndigheter och att hantera negativa konsekvenser av begäran om avgörande.\nRiksrevisionen rekommenderar Migrationsverket att se över målstyrning, ärendefördelning, kontrollmekanismer, rutiner, uppföljning och erfarenhetsutbyte.",
     "roster": {},
     "tags": [
       "FÖRSVAR",
@@ -2201,7 +2201,7 @@
     "nummer": 9,
     "datum": "2026-01-28",
     "rm": "2025/26",
-    "kort_sammanfattning": "Beslutet innebär att personer som är sjukskrivna kan få möjlighet att pröva ett arbete och samtidigt behålla sin sjukpenning. Detta kan underlätta återgången till arbetslivet efter en sjukdom.",
+    "kort_sammanfattning": "En person som har rätt till hel sjukpenning kan, efter överenskommelse med sin arbetsgivare, arbetspröva hos arbetsgivaren med bibehållen sjukpenning.\nArbetsprövningen kan pågå under två separata perioder om vardera 14 sammanhängande dagar inom en ramtid om 365 dagar.\nArbetsprövningen får inte vara förknippad med krav på att personen ska prestera i någon viss utsträckning.",
     "roster": {
       "S": {
         "ja": 92,
@@ -2271,7 +2271,7 @@
     "nummer": 5,
     "datum": "2026-01-14",
     "rm": "2025/26",
-    "kort_sammanfattning": "Riksdagen har behandlat en rapport om hur staten arbetar för att motverka ekonomiskt våld i nära relationer. Ekonomiskt våld kan innebära att en person kontrollerar en annans ekonomi, vilket kan påverka den personens möjlighet att lämna en våldsam relation.",
+    "kort_sammanfattning": "Riksrevisionen har granskat statens arbete mot ekonomiskt våld i nära relationer och funnit brister i regeringens och myndigheternas åtgärder.\nRegeringen har inte tydligt inkluderat ekonomiskt våld i sina mål, strategier eller analyser, och har inte heller styrt myndigheterna att arbeta mot detta.",
     "roster": {},
     "tags": [
       "EKONOMI",
@@ -2287,7 +2287,7 @@
     "nummer": 17,
     "datum": "2026-01-14",
     "rm": "2025/26",
-    "kort_sammanfattning": "Riksdagen har beslutat om strängare straff för de som bedriver finansiell verksamhet utan tillstånd, vilket ska skydda allmänheten från oseriösa aktörer på finansmarknaden.",
+    "kort_sammanfattning": "Den som bedriver finansiell verksamhet utan tillstånd eller registrering från Finansinspektionen kan dömas för olovlig finansiell verksamhet.\nStraffet för olovlig finansiell verksamhet av normalgraden är böter eller fängelse i högst två år.\nStraffet för grov olovlig finansiell verksamhet är fängelse i lägst sex månader och högst sex år.\nÅklagare kan begära hjälp från Finansinspektionen vid utredning av olovlig finansiell verksamhet.\nFinansinspektionens förelägganden om upplysningar får inte förenas med vite om det finns misstanke om olovlig finansiell verksamhet.",
     "roster": {},
     "tags": [
       "EKONOMI",
@@ -2303,7 +2303,7 @@
     "nummer": 2,
     "datum": "2026-01-14",
     "rm": "2025/26",
-    "kort_sammanfattning": "Riksdagen har beslutat om enklare regler för företag och organisationer som använder skattebefriat bränsle, vilket kan minska den administrativa bördan för dem. Detta kan indirekt påverka priset på vissa varor och tjänster. ",
+    "kort_sammanfattning": "Försvarsmakten, Försvarets materielverk, Kustbevakningen, Polismyndigheten, Sjöfartsverket och Trafikverket kan tillhandahålla skattefritt bränsle till varandra.\nFörsvarsmakten kan tillhandahålla skattefritt bränsle till vissa utländska väpnade styrkor.\nFörsvarsmakten, Kustbevakningen och Sjöfartsverket kan tillhandahålla skattefritt bränsle till offentliga myndigheter eller de som agerar för dem vid räddningsinsatser eller krissituationer, under förutsättning att mottagaren är godkänd som skattebefriad förbrukare.\nMottagande och tillhandahållande av bränsle ska bokföras löpande.\nBestämmelser införs om återbetalning av punktskatt för väpnade styrkor från andra Nato-länder.\nFörtydliganden görs i lagarna om skatt på energi, tobaksskatt, alkoholskatt, skatt på kemikalier i viss elektronik och skatt på vissa nikotinprodukter gällande tillverkning och flyttning av varor, samt rapportering.",
     "roster": {},
     "tags": [
       "EKONOMI"

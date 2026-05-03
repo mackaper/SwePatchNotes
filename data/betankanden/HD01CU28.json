@@ -5,9 +5,9 @@
   "nummer": 28,
   "datum": "2026-04-22",
   "rm": "2025/26",
-  "kort_sammanfattning": "Riksdagen har beslutat att skapa ett register över alla bostadsrätter. Detta kan göra det enklare och säkrare att köpa och sälja bostadsrätter, samt ge en bättre överblick över bostadsrättsmarknaden.",
-  "bakgrund": "Det har funnits en diskussion om att öka transparensen och säkerheten på bostadsrättsmarknaden.",
-  "beslut": "Riksdagen har beslutat att införa ett register för alla bostadsrätter.",
+  "kort_sammanfattning": "Ett nationellt bostadsrättsregister inrättas med information om bostadsrättslägenheten, bostadsrättshavaren, bostadsrättsföreningen och pantsättningar.\nRegistrering i bostadsrättsregistret ersätter underrättelse till bostadsrättsföreningen som sakrättsligt moment vid pantsättning och överlåtelse.\nPantsättningen måste vara skriftlig och avse hela bostadsrätten.\nEn pantsättning som är registrerad i bostadsrättsregistret ges företräde i förhållande till en annan pantsättning efter den tidsföljd som pantsättningarna har registrerats.\nÖvergångar av bostadsrätt gäller mot överlåtarens borgenärer först när överlåtelsen har registrerats i bostadsrättsregistret.",
+  "bakgrund": "Det saknas idag ett nationellt register för bostadsrätter, vilket försvårar hanteringen av panträtter och tillgången till information vid överlåtelser och kreditgivning.",
+  "beslut": "Riksdagen antar regeringens lagförslag om ett nytt register för alla bostadsrätter och ett enhetligt sakrättsligt system.",
   "roster": {},
   "tags": [
     "BOSTAD"

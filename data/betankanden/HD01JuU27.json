@@ -5,9 +5,9 @@
   "nummer": 27,
   "datum": "2026-03-18",
   "rm": "2025/26",
-  "kort_sammanfattning": "Riksdagen har beslutat om en ny påföljd, säkerhetsförvaring, som innebär att vissa personer kan frihetsberövas på obestämd tid om de anses utgöra en allvarlig fara för samhället. Detta kan påverka enskilda individer som döms till denna påföljd, samt potentiellt öka tryggheten för allmänheten.",
-  "bakgrund": "Frågan behandlades i riksdagen för att diskutera och besluta om en ny form av frihetsberövande påföljd för de farligaste brottslingarna.",
-  "beslut": "Riksdagen beslutade att införa säkerhetsförvaring som en ny tidsobestämd frihetsberövande påföljd.",
+  "kort_sammanfattning": "En ny tidsobestämd frihetsberövande påföljd, säkerhetsförvaring, införs för personer som begått allvarliga brott mot liv, hälsa, frihet eller frid och har hög återfallsrisk.\nSäkerhetsförvaring avtjänas i kriminalvårdsanstalt.\nRätten bestämmer minimitid för frihetsberövande och total ramtid för verkställighet.\nEfter minimitiden kan Kriminalvården, med rättens tillstånd, vidta åtgärder för villkorad utslussning.\nRamtiden kan förlängas med högst tre år i taget om det är absolut nödvändigt för att förhindra återfall.",
+  "bakgrund": "Regeringen anser att det behövs ytterligare åtgärder för att skydda samhället från personer som döms till tidsbestämda fängelsestraff men fortfarande utgör en risk för återfall i allvarlig brottslighet.",
+  "beslut": "Riksdagen antar regeringens förslag om en ny tidsobestämd frihetsberövande påföljd, säkerhetsförvaring, och relaterade lagändringar.",
   "roster": {
     "S": {
       "ja": 93,

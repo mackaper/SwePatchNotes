@@ -1,3 +1,4 @@
+import re
 import time
 import requests
 from datetime import date
@@ -58,7 +59,18 @@ def fetch_betankande_ids(rm: str, existing_ids: set) -> list[dict]:
 
 def get_document_text(dok_id: str) -> str:
     try:
-        resp = requests.get(f"{API_BASE}/dokument/{dok_id}.text", timeout=30)
-        return resp.text if resp.ok else ''
+        resp = requests.get(f"{API_BASE}/dokument/{dok_id}/text", timeout=30)
+        if not resp.ok:
+            return ''
+        xml = resp.text
+        m = re.search(r'<html>(.*?)</html>', xml, re.DOTALL)
+        if not m:
+            return xml
+        html = m.group(1).replace('&lt;', '<').replace('&gt;', '>').replace('&amp;', '&')
+        text = re.sub(r'<[^>]+>', ' ', html)
+        text = re.sub(r'&#x[0-9a-fA-F]+;', ' ', text)
+        text = re.sub(r'&[a-z]+;', ' ', text)
+        text = re.sub(r'\s+', ' ', text).strip()
+        return text[:8000]
     except Exception:
         return ''

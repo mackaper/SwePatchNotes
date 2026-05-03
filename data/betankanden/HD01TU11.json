@@ -5,9 +5,9 @@
   "nummer": 11,
   "datum": "2026-02-04",
   "rm": "2025/26",
-  "kort_sammanfattning": "Riksdagen har beslutat att Sverige ska kunna göra undantag från EU:s regler om automatiskt godkännande av tillstånd för utbyggnad av gigabitinfrastruktur, vilket kan påverka hur snabbt bredband byggs ut i landet.",
-  "bakgrund": "EU har infört en förordning om gigabitinfrastruktur som bland annat innehåller regler om tyst godkännande, men riksdagen har behandlat frågan om att göra avsteg från dessa regler.",
-  "beslut": "Riksdagen godkände utskottets förslag om avvikande från bestämmelserna om tyst godkännande i EU:s förordning om gigabitinfrastruktur.",
+  "kort_sammanfattning": "Sverige avviker från EU:s förordning om gigabitinfrastruktur gällande tyst godkännande av tillståndsansökningar om en domstol inte hinner pröva ansökan inom tidsfristen.\nDet innebär att ett tillstånd inte automatiskt beviljas om domstolen överskrider tidsfristen för prövning.\nOperatörer kan begära skadestånd enligt skadeståndslagen om handläggningen drar ut på tiden.",
+  "bakgrund": "EU:s förordning om gigabitinfrastruktur syftar till att snabbare och mer kostnadseffektivt bygga ut gigabitnätverk. Förordningen innehåller regler om tidsfrister för tillståndsgivning och tyst godkännande om tidsfristerna överskrids, men medlemsstaterna får avvika från bestämmelsen om tyst godkännande.",
+  "beslut": "Riksdagen antar regeringens förslag till en ny lag som kompletterar EU:s förordning om gigabitinfrastruktur och som innebär att Sverige avviker från bestämmelserna om tyst godkännande.",
   "roster": {},
   "tags": [
     "TRANSPORT"

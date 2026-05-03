@@ -5,9 +5,9 @@
   "nummer": 16,
   "datum": "2026-03-18",
   "rm": "2025/26",
-  "kort_sammanfattning": "Riksdagen har behandlat en rapport om hur systemet med lärarlegitimation fungerar. Detta kan påverka kvaliteten på undervisningen dina barn får i skolan.",
-  "bakgrund": "Riksrevisionen har granskat systemet för lärarlegitimation och lämnat en rapport till riksdagen.",
-  "beslut": "Riksdagen har behandlat Riksrevisionens rapport om systemet för lärarlegitimation.",
+  "kort_sammanfattning": "Riksrevisionen har granskat systemet för lärarlegitimation och funnit att det inte fungerar effektivt, bland annat för att det råder brist på lärare och att systemet inte tillräckligt väl hindrar olämpliga lärare från att arbeta i skolan. Regeringen instämmer i huvudsak i Riksrevisionens iakttagelser om hur systemet kan utvecklas.",
+  "bakgrund": "Riksrevisionen har granskat om legitimationssystemet för lärare och förskollärare fungerar effektivt, och regeringen har redovisat sin bedömning av Riksrevisionens iakttagelser, slutsatser och rekommendationer i en skrivelse.",
+  "beslut": "Riksdagen lägger regeringens skrivelse till handlingarna och avslår motionsyrkanden om bland annat disciplinpåföljder, registerkontroller och undantag från krav på legitimation.",
   "roster": {
     "S": {
       "ja": 0,

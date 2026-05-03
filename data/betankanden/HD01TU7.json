@@ -5,9 +5,9 @@
   "nummer": 7,
   "datum": "2026-02-04",
   "rm": "2025/26",
-  "kort_sammanfattning": "Beslutet innebär att det blir svårare att skaffa körkort i Sverige om man inte bor här permanent, vilket syftar till att minska missbruk av systemet.",
-  "bakgrund": "Riksdagen behandlade frågan om körkortsturism för att säkerställa att svenska körkort utfärdas till personer som verkligen är bosatta i Sverige och uppfyller kraven.",
-  "beslut": "Riksdagen beslutade om åtgärder mot körkortsturism.",
+  "kort_sammanfattning": "Huvudregeln blir att ett EES-körkort med ursprung i ett tredjeland inte får bytas ut mot ett svenskt körkort.\nUndantag görs om körkortshavaren haft körkort med motsvarande behörighet inom EES i minst fem år före bosättning i Sverige.\nUndantag görs även om det utländska EES-körkortet är utbytt från ett körkort utfärdat i Färöarna, Förenade kungariket, Japan eller Schweiz.\nUndantag görs också om EES-körkortet utfärdats efter godkänt förarprov i den EES-staten.\nLagändringarna träder i kraft 1 maj 2026.",
+  "bakgrund": "Svenska regler kringgås genom så kallad körkortsturism, där personer bosatta i Sverige åker till en annan EES-stat för att byta ett tredjelandskörkort till ett EES-körkort, vilket sedan byts till ett svenskt körkort.",
+  "beslut": "Riksdagen beslutar att ändra körkortslagen för att begränsa möjligheterna till körkortsturism.",
   "roster": {},
   "tags": [
     "JORDBRUK"
