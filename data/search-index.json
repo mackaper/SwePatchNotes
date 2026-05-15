@@ -1,5 +1,599 @@
 [
   {
+    "dok_id": "HD01SoU33",
+    "titel": "Slopat matkrav för serveringstillstånd",
+    "utskott": "SoU",
+    "nummer": 33,
+    "datum": "2026-05-07",
+    "rm": "2025/26",
+    "kort_sammanfattning": "Kunde inte generera sammanfattning.",
+    "roster": {
+      "S": {
+        "ja": 0,
+        "nej": 106,
+        "avstar": 0,
+        "franvarande": 0
+      },
+      "SD": {
+        "ja": 70,
+        "nej": 0,
+        "avstar": 0,
+        "franvarande": 0
+      },
+      "C": {
+        "ja": 24,
+        "nej": 0,
+        "avstar": 0,
+        "franvarande": 0
+      },
+      "M": {
+        "ja": 66,
+        "nej": 0,
+        "avstar": 0,
+        "franvarande": 0
+      },
+      "MP": {
+        "ja": 0,
+        "nej": 17,
+        "avstar": 0,
+        "franvarande": 1
+      },
+      "L": {
+        "ja": 16,
+        "nej": 0,
+        "avstar": 0,
+        "franvarande": 0
+      },
+      "KD": {
+        "ja": 19,
+        "nej": 0,
+        "avstar": 0,
+        "franvarande": 0
+      },
+      "-": {
+        "ja": 5,
+        "nej": 4,
+        "avstar": 0,
+        "franvarande": 0
+      },
+      "V": {
+        "ja": 0,
+        "nej": 21,
+        "avstar": 0,
+        "franvarande": 0
+      }
+    },
+    "tags": [],
+    "status": "NY",
+    "passed": true
+  },
+  {
+    "dok_id": "HD01AU15",
+    "titel": "ILO:s konvention om avskaffande av våld och trakasserier i arbetslivet och ILO:s konvention om en säker och hälsosam arbetsmiljö",
+    "utskott": "AU",
+    "nummer": 15,
+    "datum": "2026-05-06",
+    "rm": "2025/26",
+    "kort_sammanfattning": "Kunde inte generera sammanfattning.",
+    "roster": {},
+    "tags": [
+      "MILJÖ",
+      "JORDBRUK"
+    ],
+    "status": "UPPHÄVD",
+    "passed": true
+  },
+  {
+    "dok_id": "HD01CU37",
+    "titel": "Kommunala hyresgarantier för en socialt hållbar bostadsförsörjning",
+    "utskott": "CU",
+    "nummer": 37,
+    "datum": "2026-05-06",
+    "rm": "2025/26",
+    "kort_sammanfattning": "Kunde inte generera sammanfattning.",
+    "roster": {},
+    "tags": [
+      "MILJÖ",
+      "BOSTAD"
+    ],
+    "status": "NY",
+    "passed": true
+  },
+  {
+    "dok_id": "HD01FöU13",
+    "titel": "Explosiva varor - förbättrade möjligheter till kontroll",
+    "utskott": "FöU",
+    "nummer": 13,
+    "datum": "2026-05-06",
+    "rm": "2025/26",
+    "kort_sammanfattning": "Kunde inte generera sammanfattning.",
+    "roster": {},
+    "tags": [
+      "JORDBRUK"
+    ],
+    "status": "NY",
+    "passed": true
+  },
+  {
+    "dok_id": "HD01JuU30",
+    "titel": "Frihetsberövande påföljder för barn och unga",
+    "utskott": "JuU",
+    "nummer": 30,
+    "datum": "2026-05-06",
+    "rm": "2025/26",
+    "kort_sammanfattning": "Kunde inte generera sammanfattning.",
+    "roster": {
+      "S": {
+        "ja": 106,
+        "nej": 0,
+        "avstar": 0,
+        "franvarande": 0
+      },
+      "SD": {
+        "ja": 70,
+        "nej": 0,
+        "avstar": 0,
+        "franvarande": 0
+      },
+      "C": {
+        "ja": 24,
+        "nej": 0,
+        "avstar": 0,
+        "franvarande": 0
+      },
+      "M": {
+        "ja": 65,
+        "nej": 0,
+        "avstar": 0,
+        "franvarande": 1
+      },
+      "MP": {
+        "ja": 0,
+        "nej": 18,
+        "avstar": 0,
+        "franvarande": 0
+      },
+      "L": {
+        "ja": 16,
+        "nej": 0,
+        "avstar": 0,
+        "franvarande": 0
+      },
+      "KD": {
+        "ja": 19,
+        "nej": 0,
+        "avstar": 0,
+        "franvarande": 0
+      },
+      "-": {
+        "ja": 6,
+        "nej": 3,
+        "avstar": 0,
+        "franvarande": 0
+      },
+      "V": {
+        "ja": 0,
+        "nej": 0,
+        "avstar": 21,
+        "franvarande": 0
+      }
+    },
+    "tags": [
+      "BROTT",
+      "BARN"
+    ],
+    "status": "NY",
+    "passed": true
+  },
+  {
+    "dok_id": "HD01JuU31",
+    "titel": "Riksrevisionens rapport om Polisreformen 2015",
+    "utskott": "JuU",
+    "nummer": 31,
+    "datum": "2026-05-06",
+    "rm": "2025/26",
+    "kort_sammanfattning": "Kunde inte generera sammanfattning.",
+    "roster": {
+      "S": {
+        "ja": 0,
+        "nej": 106,
+        "avstar": 0,
+        "franvarande": 0
+      },
+      "SD": {
+        "ja": 70,
+        "nej": 0,
+        "avstar": 0,
+        "franvarande": 0
+      },
+      "C": {
+        "ja": 0,
+        "nej": 0,
+        "avstar": 24,
+        "franvarande": 0
+      },
+      "M": {
+        "ja": 65,
+        "nej": 0,
+        "avstar": 0,
+        "franvarande": 1
+      },
+      "MP": {
+        "ja": 0,
+        "nej": 0,
+        "avstar": 18,
+        "franvarande": 0
+      },
+      "L": {
+        "ja": 16,
+        "nej": 0,
+        "avstar": 0,
+        "franvarande": 0
+      },
+      "KD": {
+        "ja": 19,
+        "nej": 0,
+        "avstar": 0,
+        "franvarande": 0
+      },
+      "-": {
+        "ja": 5,
+        "nej": 1,
+        "avstar": 3,
+        "franvarande": 0
+      },
+      "V": {
+        "ja": 21,
+        "nej": 0,
+        "avstar": 0,
+        "franvarande": 0
+      }
+    },
+    "tags": [
+      "BROTT"
+    ],
+    "status": "NY",
+    "passed": true
+  },
+  {
+    "dok_id": "HD01JuU9",
+    "titel": "En mer rättssäker och effektiv domstolsprocess",
+    "utskott": "JuU",
+    "nummer": 9,
+    "datum": "2026-05-06",
+    "rm": "2025/26",
+    "kort_sammanfattning": "Kunde inte generera sammanfattning.",
+    "roster": {
+      "S": {
+        "ja": 106,
+        "nej": 0,
+        "avstar": 0,
+        "franvarande": 0
+      },
+      "SD": {
+        "ja": 70,
+        "nej": 0,
+        "avstar": 0,
+        "franvarande": 0
+      },
+      "C": {
+        "ja": 24,
+        "nej": 0,
+        "avstar": 0,
+        "franvarande": 0
+      },
+      "M": {
+        "ja": 65,
+        "nej": 0,
+        "avstar": 0,
+        "franvarande": 1
+      },
+      "MP": {
+        "ja": 17,
+        "nej": 0,
+        "avstar": 0,
+        "franvarande": 1
+      },
+      "L": {
+        "ja": 16,
+        "nej": 0,
+        "avstar": 0,
+        "franvarande": 0
+      },
+      "KD": {
+        "ja": 19,
+        "nej": 0,
+        "avstar": 0,
+        "franvarande": 0
+      },
+      "-": {
+        "ja": 6,
+        "nej": 3,
+        "avstar": 0,
+        "franvarande": 0
+      },
+      "V": {
+        "ja": 0,
+        "nej": 21,
+        "avstar": 0,
+        "franvarande": 0
+      }
+    },
+    "tags": [],
+    "status": "NY",
+    "passed": true
+  },
+  {
+    "dok_id": "HD01KU36",
+    "titel": "Integritet och ny teknik 2020-2024",
+    "utskott": "KU",
+    "nummer": 36,
+    "datum": "2026-05-06",
+    "rm": "2025/26",
+    "kort_sammanfattning": "Kunde inte generera sammanfattning.",
+    "roster": {},
+    "tags": [
+      "DIGITALT"
+    ],
+    "status": "NY",
+    "passed": true
+  },
+  {
+    "dok_id": "HD01NU19",
+    "titel": "En mer ändamålsenlig prövning av kärntekniska anläggningar",
+    "utskott": "NU",
+    "nummer": 19,
+    "datum": "2026-05-06",
+    "rm": "2025/26",
+    "kort_sammanfattning": "Kunde inte generera sammanfattning.",
+    "roster": {
+      "S": {
+        "ja": 0,
+        "nej": 106,
+        "avstar": 0,
+        "franvarande": 0
+      },
+      "SD": {
+        "ja": 70,
+        "nej": 0,
+        "avstar": 0,
+        "franvarande": 0
+      },
+      "C": {
+        "ja": 0,
+        "nej": 24,
+        "avstar": 0,
+        "franvarande": 0
+      },
+      "M": {
+        "ja": 65,
+        "nej": 0,
+        "avstar": 0,
+        "franvarande": 1
+      },
+      "MP": {
+        "ja": 0,
+        "nej": 18,
+        "avstar": 0,
+        "franvarande": 0
+      },
+      "L": {
+        "ja": 16,
+        "nej": 0,
+        "avstar": 0,
+        "franvarande": 0
+      },
+      "KD": {
+        "ja": 19,
+        "nej": 0,
+        "avstar": 0,
+        "franvarande": 0
+      },
+      "-": {
+        "ja": 5,
+        "nej": 4,
+        "avstar": 0,
+        "franvarande": 0
+      },
+      "V": {
+        "ja": 0,
+        "nej": 21,
+        "avstar": 0,
+        "franvarande": 0
+      }
+    },
+    "tags": [],
+    "status": "NY",
+    "passed": true
+  },
+  {
+    "dok_id": "HD01NU22",
+    "titel": "Nya verktyg för stärkt konkurrens i privat och offentlig verksamhet",
+    "utskott": "NU",
+    "nummer": 22,
+    "datum": "2026-05-06",
+    "rm": "2025/26",
+    "kort_sammanfattning": "Kunde inte generera sammanfattning.",
+    "roster": {
+      "S": {
+        "ja": 1,
+        "nej": 83,
+        "avstar": 82,
+        "franvarande": 0
+      },
+      "SD": {
+        "ja": 90,
+        "nej": 0,
+        "avstar": 0,
+        "franvarande": 0
+      },
+      "C": {
+        "ja": 16,
+        "nej": 16,
+        "avstar": 0,
+        "franvarande": 0
+      },
+      "M": {
+        "ja": 94,
+        "nej": 0,
+        "avstar": 0,
+        "franvarande": 2
+      },
+      "MP": {
+        "ja": 0,
+        "nej": 10,
+        "avstar": 10,
+        "franvarande": 0
+      },
+      "L": {
+        "ja": 22,
+        "nej": 0,
+        "avstar": 0,
+        "franvarande": 0
+      },
+      "KD": {
+        "ja": 28,
+        "nej": 0,
+        "avstar": 0,
+        "franvarande": 0
+      },
+      "-": {
+        "ja": 7,
+        "nej": 3,
+        "avstar": 4,
+        "franvarande": 0
+      },
+      "V": {
+        "ja": 0,
+        "nej": 16,
+        "avstar": 16,
+        "franvarande": 0
+      }
+    },
+    "tags": [
+      "JORDBRUK"
+    ],
+    "status": "NY",
+    "passed": true
+  },
+  {
+    "dok_id": "HD01SkU21",
+    "titel": "Det skatterättsliga företrädaransvaret - nya regler om befrielse och rådrum",
+    "utskott": "SkU",
+    "nummer": 21,
+    "datum": "2026-05-06",
+    "rm": "2025/26",
+    "kort_sammanfattning": "Kunde inte generera sammanfattning.",
+    "roster": {},
+    "tags": [
+      "EKONOMI"
+    ],
+    "status": "NY",
+    "passed": true
+  },
+  {
+    "dok_id": "HD01SkU22",
+    "titel": "Åtgärder mot mervärdesskattebedrägerier",
+    "utskott": "SkU",
+    "nummer": 22,
+    "datum": "2026-05-06",
+    "rm": "2025/26",
+    "kort_sammanfattning": "Kunde inte generera sammanfattning.",
+    "roster": {},
+    "tags": [
+      "EKONOMI"
+    ],
+    "status": "NY",
+    "passed": true
+  },
+  {
+    "dok_id": "HD01UbU17",
+    "titel": "Framtidens yrkeshögskola",
+    "utskott": "UbU",
+    "nummer": 17,
+    "datum": "2026-05-06",
+    "rm": "2025/26",
+    "kort_sammanfattning": "Kunde inte generera sammanfattning.",
+    "roster": {},
+    "tags": [
+      "UTBILDNING",
+      "JORDBRUK"
+    ],
+    "status": "NY",
+    "passed": true
+  },
+  {
+    "dok_id": "HD01CU25",
+    "titel": "En snabbare utbyggnad av kriminalvårdsanstalter och häkten",
+    "utskott": "CU",
+    "nummer": 25,
+    "datum": "2026-04-29",
+    "rm": "2025/26",
+    "kort_sammanfattning": "Kunde inte generera sammanfattning.",
+    "roster": {
+      "S": {
+        "ja": 91,
+        "nej": 0,
+        "avstar": 0,
+        "franvarande": 15
+      },
+      "SD": {
+        "ja": 60,
+        "nej": 0,
+        "avstar": 0,
+        "franvarande": 10
+      },
+      "C": {
+        "ja": 20,
+        "nej": 0,
+        "avstar": 0,
+        "franvarande": 4
+      },
+      "M": {
+        "ja": 57,
+        "nej": 0,
+        "avstar": 0,
+        "franvarande": 9
+      },
+      "MP": {
+        "ja": 0,
+        "nej": 15,
+        "avstar": 0,
+        "franvarande": 3
+      },
+      "L": {
+        "ja": 9,
+        "nej": 0,
+        "avstar": 0,
+        "franvarande": 7
+      },
+      "KD": {
+        "ja": 16,
+        "nej": 0,
+        "avstar": 0,
+        "franvarande": 3
+      },
+      "-": {
+        "ja": 6,
+        "nej": 3,
+        "avstar": 0,
+        "franvarande": 0
+      },
+      "V": {
+        "ja": 13,
+        "nej": 0,
+        "avstar": 0,
+        "franvarande": 8
+      }
+    },
+    "tags": [
+      "HÄLSA",
+      "BROTT"
+    ],
+    "status": "NY",
+    "passed": true
+  },
+  {
     "dok_id": "HD01CU29",
     "titel": "Ökade möjligheter till hemmaladdning av elfordon",
     "utskott": "CU",
