@@ -1,5 +1,6 @@
 import type { BetankandeIndex } from '../types'
 import { VoteChart } from './VoteChart'
+import { SubVotings } from './SubVotings'
 
 interface Props {
   item: BetankandeIndex
@@ -8,7 +9,7 @@ interface Props {
 export function BetankandeCard({ item }: Props) {
 
   return (
-    <div className="bg-white shadow-lg rounded-xl overflow-hidden border border-gray-100 hover:shadow-xl transition-shadow duration-300">
+    <div id={item.dok_id} className="bg-white shadow-lg rounded-xl overflow-hidden border border-gray-100 hover:shadow-xl transition-shadow duration-300">
       <div className="p-6">
         <div className="flex justify-between items-start mb-4">
           <div>
@@ -44,6 +45,10 @@ export function BetankandeCard({ item }: Props) {
 
         <VoteChart roster={item.roster} />
 
+        {item.delvoterings && item.delvoterings.length > 0 && (
+          <SubVotings delvoterings={item.delvoterings} />
+        )}
+
         <div className="mt-6 pt-4 border-t border-gray-100 flex justify-end">
           <a
             href={`https://www.riksdagen.se/sv/dokument-och-lagar/dokument/betankande/_${item.dok_id}`}
@@ -58,6 +63,7 @@ export function BetankandeCard({ item }: Props) {
             </svg>
           </a>
         </div>
+
       </div>
     </div>
   )

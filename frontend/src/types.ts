@@ -8,6 +8,16 @@ export interface PartyVotes {
   franvarande: number;
 }
 
+export interface Delvotering {
+  punkt: string;
+  rubrik: string;
+  ja: number;
+  nej: number;
+  avstar: number;
+  franvarande: number;
+  roster: Record<string, PartyVotes>;
+}
+
 export interface BetankandeIndex {
   dok_id: string;
   titel: string;
@@ -20,6 +30,7 @@ export interface BetankandeIndex {
   tags: string[];
   status: DecisionStatus;
   passed: boolean;
+  delvoterings?: Delvotering[];
 }
 
 export interface VoteringDetail {

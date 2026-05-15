@@ -4,7 +4,7 @@ import os
 
 INDEX_KEYS = [
     'dok_id', 'titel', 'utskott', 'nummer', 'datum', 'rm',
-    'kort_sammanfattning', 'roster', 'tags', 'status', 'passed',
+    'kort_sammanfattning', 'roster', 'tags', 'status', 'passed', 'delvoterings',
 ]
 
 

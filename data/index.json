@@ -966,7 +966,73 @@
       "MIGRATION"
     ],
     "status": "NY",
-    "passed": true
+    "passed": true,
+    "delvoterings": [
+      {
+        "punkt": "2",
+        "rubrik": "Behovet av övergångsbestämmelser",
+        "ja": 147,
+        "nej": 146,
+        "avstar": 0,
+        "franvarande": 56,
+        "roster": {
+          "S": {
+            "ja": 0,
+            "nej": 92,
+            "avstar": 0,
+            "franvarande": 14
+          },
+          "SD": {
+            "ja": 62,
+            "nej": 0,
+            "avstar": 0,
+            "franvarande": 8
+          },
+          "C": {
+            "ja": 0,
+            "nej": 20,
+            "avstar": 0,
+            "franvarande": 4
+          },
+          "M": {
+            "ja": 57,
+            "nej": 0,
+            "avstar": 0,
+            "franvarande": 9
+          },
+          "MP": {
+            "ja": 0,
+            "nej": 15,
+            "avstar": 0,
+            "franvarande": 3
+          },
+          "L": {
+            "ja": 9,
+            "nej": 0,
+            "avstar": 0,
+            "franvarande": 7
+          },
+          "KD": {
+            "ja": 16,
+            "nej": 0,
+            "avstar": 0,
+            "franvarande": 3
+          },
+          "-": {
+            "ja": 3,
+            "nej": 6,
+            "avstar": 0,
+            "franvarande": 0
+          },
+          "V": {
+            "ja": 0,
+            "nej": 13,
+            "avstar": 0,
+            "franvarande": 8
+          }
+        }
+      }
+    ]
   },
   {
     "dok_id": "HD01CU22",
