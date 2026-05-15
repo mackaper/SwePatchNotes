@@ -1,0 +1,138 @@
+{
+  "dok_id": "HD01NU22",
+  "titel": "Nya verktyg för stärkt konkurrens i privat och offentlig verksamhet",
+  "utskott": "NU",
+  "nummer": 22,
+  "datum": "2026-05-06",
+  "rm": "2025/26",
+  "kort_sammanfattning": "Konkurrenslagens bestämmelser om konkurrensbegränsande offentlig säljverksamhet ersätts med en ny lag om offentlig säljverksamhet.\nEn offentlig aktör får inte bedriva säljverksamhet eller tillämpa förfaranden som otillbörligt påverkar privata företags möjligheter på marknaden.\nDen nya lagen innehåller bestämmelser om utvärdering och särredovisning som träder i kraft 1 januari 2027, medan övriga delar träder i kraft 1 augusti 2026.",
+  "bakgrund": "Regeringen anser att den nuvarande regleringen i konkurrenslagen inte tillräckligt skyddar privata aktörer från otillbörlig påverkan från offentliga aktörer, vilket motiverar en ny lagstiftning.",
+  "beslut": "Riksdagen antar regeringens förslag till lag om offentlig säljverksamhet och lagändringar i lagen om insyn i vissa finansiella förbindelser m.m., konkurrenslagen och offentlighets- och sekretesslagen.",
+  "roster": {
+    "S": {
+      "ja": 1,
+      "nej": 83,
+      "avstar": 82,
+      "franvarande": 0
+    },
+    "SD": {
+      "ja": 90,
+      "nej": 0,
+      "avstar": 0,
+      "franvarande": 0
+    },
+    "C": {
+      "ja": 16,
+      "nej": 16,
+      "avstar": 0,
+      "franvarande": 0
+    },
+    "M": {
+      "ja": 94,
+      "nej": 0,
+      "avstar": 0,
+      "franvarande": 2
+    },
+    "MP": {
+      "ja": 0,
+      "nej": 10,
+      "avstar": 10,
+      "franvarande": 0
+    },
+    "L": {
+      "ja": 22,
+      "nej": 0,
+      "avstar": 0,
+      "franvarande": 0
+    },
+    "KD": {
+      "ja": 28,
+      "nej": 0,
+      "avstar": 0,
+      "franvarande": 0
+    },
+    "-": {
+      "ja": 7,
+      "nej": 3,
+      "avstar": 4,
+      "franvarande": 0
+    },
+    "V": {
+      "ja": 0,
+      "nej": 16,
+      "avstar": 16,
+      "franvarande": 0
+    }
+  },
+  "tags": [
+    "JORDBRUK"
+  ],
+  "status": "NY",
+  "passed": true,
+  "dokument_url": "https://www.riksdagen.se/sv/dokument-och-lagar/dokument/betankande/_HD01NU22",
+  "voteringar": [
+    {
+      "party": "S",
+      "ja": 1,
+      "nej": 83,
+      "avstar": 82,
+      "franvarande": 0
+    },
+    {
+      "party": "SD",
+      "ja": 90,
+      "nej": 0,
+      "avstar": 0,
+      "franvarande": 0
+    },
+    {
+      "party": "C",
+      "ja": 16,
+      "nej": 16,
+      "avstar": 0,
+      "franvarande": 0
+    },
+    {
+      "party": "M",
+      "ja": 94,
+      "nej": 0,
+      "avstar": 0,
+      "franvarande": 2
+    },
+    {
+      "party": "MP",
+      "ja": 0,
+      "nej": 10,
+      "avstar": 10,
+      "franvarande": 0
+    },
+    {
+      "party": "L",
+      "ja": 22,
+      "nej": 0,
+      "avstar": 0,
+      "franvarande": 0
+    },
+    {
+      "party": "KD",
+      "ja": 28,
+      "nej": 0,
+      "avstar": 0,
+      "franvarande": 0
+    },
+    {
+      "party": "-",
+      "ja": 7,
+      "nej": 3,
+      "avstar": 4,
+      "franvarande": 0
+    },
+    {
+      "party": "V",
+      "ja": 0,
+      "nej": 16,
+      "avstar": 16,
+      "franvarande": 0
+    }
+  ]
+}

@@ -1,0 +1,139 @@
+{
+  "dok_id": "HD01CU25",
+  "titel": "En snabbare utbyggnad av kriminalvårdsanstalter och häkten",
+  "utskott": "CU",
+  "nummer": 25,
+  "datum": "2026-04-29",
+  "rm": "2025/26",
+  "kort_sammanfattning": "Tidsbegränsade bygglov för kriminalvårdsanstalter och häkten kan ges i fler fall om sökanden begär det, platsen kan återställas och åtgärden uppfyller kraven för permanent bygglov.\nByggloven kan gälla i högst tio år, men kan förlängas med högst fem år i taget upp till maximalt tjugo år. \nRegeringen får meddela föreskrifter om undantag från plan- och bygglagen för att åtgärda en akut risk för platsbrist i anstalter och häkten. \nUndantagsföreskrifterna ska vara proportionella och får inte strida mot EU-rätten eller Europakonventionen, och inte heller medföra bestående skador på mark, vatten eller den byggda miljön.",
+  "bakgrund": "Det råder brist på platser inom Kriminalvården, vilket kräver en snabb utökning av antalet anstalts- och häktesplatser. De nuvarande plan- och byggprocesserna bedöms vara för långsamma för att möta behovet.",
+  "beslut": "Riksdagen godkänner regeringens förslag om ändringar i plan- och bygglagen för att möjliggöra en snabbare utbyggnad av kriminalvårdsanstalter och häkten.",
+  "roster": {
+    "S": {
+      "ja": 91,
+      "nej": 0,
+      "avstar": 0,
+      "franvarande": 15
+    },
+    "SD": {
+      "ja": 60,
+      "nej": 0,
+      "avstar": 0,
+      "franvarande": 10
+    },
+    "C": {
+      "ja": 20,
+      "nej": 0,
+      "avstar": 0,
+      "franvarande": 4
+    },
+    "M": {
+      "ja": 57,
+      "nej": 0,
+      "avstar": 0,
+      "franvarande": 9
+    },
+    "MP": {
+      "ja": 0,
+      "nej": 15,
+      "avstar": 0,
+      "franvarande": 3
+    },
+    "L": {
+      "ja": 9,
+      "nej": 0,
+      "avstar": 0,
+      "franvarande": 7
+    },
+    "KD": {
+      "ja": 16,
+      "nej": 0,
+      "avstar": 0,
+      "franvarande": 3
+    },
+    "-": {
+      "ja": 6,
+      "nej": 3,
+      "avstar": 0,
+      "franvarande": 0
+    },
+    "V": {
+      "ja": 13,
+      "nej": 0,
+      "avstar": 0,
+      "franvarande": 8
+    }
+  },
+  "tags": [
+    "MILJÖ",
+    "HÄLSA"
+  ],
+  "status": "NY",
+  "passed": true,
+  "dokument_url": "https://www.riksdagen.se/sv/dokument-och-lagar/dokument/betankande/_HD01CU25",
+  "voteringar": [
+    {
+      "party": "S",
+      "ja": 91,
+      "nej": 0,
+      "avstar": 0,
+      "franvarande": 15
+    },
+    {
+      "party": "SD",
+      "ja": 60,
+      "nej": 0,
+      "avstar": 0,
+      "franvarande": 10
+    },
+    {
+      "party": "C",
+      "ja": 20,
+      "nej": 0,
+      "avstar": 0,
+      "franvarande": 4
+    },
+    {
+      "party": "M",
+      "ja": 57,
+      "nej": 0,
+      "avstar": 0,
+      "franvarande": 9
+    },
+    {
+      "party": "MP",
+      "ja": 0,
+      "nej": 15,
+      "avstar": 0,
+      "franvarande": 3
+    },
+    {
+      "party": "L",
+      "ja": 9,
+      "nej": 0,
+      "avstar": 0,
+      "franvarande": 7
+    },
+    {
+      "party": "KD",
+      "ja": 16,
+      "nej": 0,
+      "avstar": 0,
+      "franvarande": 3
+    },
+    {
+      "party": "-",
+      "ja": 6,
+      "nej": 3,
+      "avstar": 0,
+      "franvarande": 0
+    },
+    {
+      "party": "V",
+      "ja": 13,
+      "nej": 0,
+      "avstar": 0,
+      "franvarande": 8
+    }
+  ]
+}

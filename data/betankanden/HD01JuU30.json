@@ -1,0 +1,139 @@
+{
+  "dok_id": "HD01JuU30",
+  "titel": "Frihetsberövande påföljder för barn och unga",
+  "utskott": "JuU",
+  "nummer": 30,
+  "datum": "2026-05-06",
+  "rm": "2025/26",
+  "kort_sammanfattning": "Sluten ungdomsvård tas bort som påföljd och ersätts med fängelse för barn och unga.\nKriminalvården ansvarar för verkställigheten av fängelsestraff för unga.\nBarn som döms till fängelse placeras som huvudregel på särskilda barn- och ungdomsavdelningar.\nSystemet med villkorlig frigivning och övervakning vid övergången från anstalt till frihet gäller även för barn och unga.",
+  "bakgrund": "Regeringen föreslår ändringar i lagstiftningen för att barn och unga som döms till frihetsberövande påföljder ska dömas till fängelse istället för sluten ungdomsvård.",
+  "beslut": "Riksdagen antar regeringens förslag om att frihetsberövande påföljder för barn och unga ska vara fängelse istället för sluten ungdomsvård.",
+  "roster": {
+    "S": {
+      "ja": 106,
+      "nej": 0,
+      "avstar": 0,
+      "franvarande": 0
+    },
+    "SD": {
+      "ja": 70,
+      "nej": 0,
+      "avstar": 0,
+      "franvarande": 0
+    },
+    "C": {
+      "ja": 24,
+      "nej": 0,
+      "avstar": 0,
+      "franvarande": 0
+    },
+    "M": {
+      "ja": 65,
+      "nej": 0,
+      "avstar": 0,
+      "franvarande": 1
+    },
+    "MP": {
+      "ja": 0,
+      "nej": 18,
+      "avstar": 0,
+      "franvarande": 0
+    },
+    "L": {
+      "ja": 16,
+      "nej": 0,
+      "avstar": 0,
+      "franvarande": 0
+    },
+    "KD": {
+      "ja": 19,
+      "nej": 0,
+      "avstar": 0,
+      "franvarande": 0
+    },
+    "-": {
+      "ja": 6,
+      "nej": 3,
+      "avstar": 0,
+      "franvarande": 0
+    },
+    "V": {
+      "ja": 0,
+      "nej": 0,
+      "avstar": 21,
+      "franvarande": 0
+    }
+  },
+  "tags": [
+    "HÄLSA",
+    "BROTT"
+  ],
+  "status": "NY",
+  "passed": true,
+  "dokument_url": "https://www.riksdagen.se/sv/dokument-och-lagar/dokument/betankande/_HD01JuU30",
+  "voteringar": [
+    {
+      "party": "S",
+      "ja": 106,
+      "nej": 0,
+      "avstar": 0,
+      "franvarande": 0
+    },
+    {
+      "party": "SD",
+      "ja": 70,
+      "nej": 0,
+      "avstar": 0,
+      "franvarande": 0
+    },
+    {
+      "party": "C",
+      "ja": 24,
+      "nej": 0,
+      "avstar": 0,
+      "franvarande": 0
+    },
+    {
+      "party": "M",
+      "ja": 65,
+      "nej": 0,
+      "avstar": 0,
+      "franvarande": 1
+    },
+    {
+      "party": "MP",
+      "ja": 0,
+      "nej": 18,
+      "avstar": 0,
+      "franvarande": 0
+    },
+    {
+      "party": "L",
+      "ja": 16,
+      "nej": 0,
+      "avstar": 0,
+      "franvarande": 0
+    },
+    {
+      "party": "KD",
+      "ja": 19,
+      "nej": 0,
+      "avstar": 0,
+      "franvarande": 0
+    },
+    {
+      "party": "-",
+      "ja": 6,
+      "nej": 3,
+      "avstar": 0,
+      "franvarande": 0
+    },
+    {
+      "party": "V",
+      "ja": 0,
+      "nej": 0,
+      "avstar": 21,
+      "franvarande": 0
+    }
+  ]
+}

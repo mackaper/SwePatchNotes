@@ -1,0 +1,139 @@
+{
+  "dok_id": "HD01JuU31",
+  "titel": "Riksrevisionens rapport om Polisreformen 2015",
+  "utskott": "JuU",
+  "nummer": 31,
+  "datum": "2026-05-06",
+  "rm": "2025/26",
+  "kort_sammanfattning": "Riksrevisionen har granskat Polismyndighetens arbete efter polisreformen 2015 och funnit att intentionerna om ökad flexibilitet, förbättrade resultat, högre kvalitet och ökad kostnadseffektivitet inte har uppnåtts.\nDen lokala nivån har inte stärkts i den omfattning som var avsedd, trots att antalet polisanställda har ökat.\nFärre brott klaras upp och personuppklaringsprocenten har minskat sedan reformen, samtidigt som antalet redovisade ärenden från polisen till åklagare minskat 2015–2024.",
+  "bakgrund": "Polisreformen 2015 innebar att 21 länspolismyndigheter, Statens kriminaltekniska laboratorium och Rikspolisstyrelsen slogs ihop till en myndighet, Polismyndigheten, med intentionen att skapa ökad flexibilitet, förbättrade resultat, högre kvalitet och ökad kostnadseffektivitet.",
+  "beslut": "Justitieutskottet föreslår att riksdagen lägger regeringens skrivelse om Riksrevisionens rapport om Polisreformen 2015 till handlingarna och avslår motionsyrkandena.",
+  "roster": {
+    "S": {
+      "ja": 0,
+      "nej": 106,
+      "avstar": 0,
+      "franvarande": 0
+    },
+    "SD": {
+      "ja": 70,
+      "nej": 0,
+      "avstar": 0,
+      "franvarande": 0
+    },
+    "C": {
+      "ja": 0,
+      "nej": 0,
+      "avstar": 24,
+      "franvarande": 0
+    },
+    "M": {
+      "ja": 65,
+      "nej": 0,
+      "avstar": 0,
+      "franvarande": 1
+    },
+    "MP": {
+      "ja": 0,
+      "nej": 0,
+      "avstar": 18,
+      "franvarande": 0
+    },
+    "L": {
+      "ja": 16,
+      "nej": 0,
+      "avstar": 0,
+      "franvarande": 0
+    },
+    "KD": {
+      "ja": 19,
+      "nej": 0,
+      "avstar": 0,
+      "franvarande": 0
+    },
+    "-": {
+      "ja": 5,
+      "nej": 1,
+      "avstar": 3,
+      "franvarande": 0
+    },
+    "V": {
+      "ja": 21,
+      "nej": 0,
+      "avstar": 0,
+      "franvarande": 0
+    }
+  },
+  "tags": [
+    "EKONOMI",
+    "BROTT"
+  ],
+  "status": "NY",
+  "passed": true,
+  "dokument_url": "https://www.riksdagen.se/sv/dokument-och-lagar/dokument/betankande/_HD01JuU31",
+  "voteringar": [
+    {
+      "party": "S",
+      "ja": 0,
+      "nej": 106,
+      "avstar": 0,
+      "franvarande": 0
+    },
+    {
+      "party": "SD",
+      "ja": 70,
+      "nej": 0,
+      "avstar": 0,
+      "franvarande": 0
+    },
+    {
+      "party": "C",
+      "ja": 0,
+      "nej": 0,
+      "avstar": 24,
+      "franvarande": 0
+    },
+    {
+      "party": "M",
+      "ja": 65,
+      "nej": 0,
+      "avstar": 0,
+      "franvarande": 1
+    },
+    {
+      "party": "MP",
+      "ja": 0,
+      "nej": 0,
+      "avstar": 18,
+      "franvarande": 0
+    },
+    {
+      "party": "L",
+      "ja": 16,
+      "nej": 0,
+      "avstar": 0,
+      "franvarande": 0
+    },
+    {
+      "party": "KD",
+      "ja": 19,
+      "nej": 0,
+      "avstar": 0,
+      "franvarande": 0
+    },
+    {
+      "party": "-",
+      "ja": 5,
+      "nej": 1,
+      "avstar": 3,
+      "franvarande": 0
+    },
+    {
+      "party": "V",
+      "ja": 21,
+      "nej": 0,
+      "avstar": 0,
+      "franvarande": 0
+    }
+  ]
+}

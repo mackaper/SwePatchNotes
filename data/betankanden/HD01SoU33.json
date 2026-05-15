@@ -1,0 +1,138 @@
+{
+  "dok_id": "HD01SoU33",
+  "titel": "Slopat matkrav för serveringstillstånd",
+  "utskott": "SoU",
+  "nummer": 33,
+  "datum": "2026-05-07",
+  "rm": "2025/26",
+  "kort_sammanfattning": "Kravet på matservering och eget kök för stadigvarande serveringstillstånd tas bort.\nBestämmelserna om ett visst antal sittplatser och drinkbarer avskaffas.\nKravet på eget kök för serveringstillstånd för cateringverksamhet tas bort.\nKravet på matservering vid servering av folköl avskaffas.\nUndantagen från matserveringskravet för pausservering i teater- och konsertlokalsfoajéer samt provsmakningar upphävs.",
+  "bakgrund": "Regeringen föreslår ändringar i alkohollagen för att förenkla reglerna för serveringstillstånd och servering av folköl, vilket ska minska kostnaderna för restaurangbranschen och gynna tillväxten.",
+  "beslut": "Riksdagen antar regeringens förslag till lag om ändring i alkohollagen (2010:1622).",
+  "roster": {
+    "S": {
+      "ja": 0,
+      "nej": 106,
+      "avstar": 0,
+      "franvarande": 0
+    },
+    "SD": {
+      "ja": 70,
+      "nej": 0,
+      "avstar": 0,
+      "franvarande": 0
+    },
+    "C": {
+      "ja": 24,
+      "nej": 0,
+      "avstar": 0,
+      "franvarande": 0
+    },
+    "M": {
+      "ja": 66,
+      "nej": 0,
+      "avstar": 0,
+      "franvarande": 0
+    },
+    "MP": {
+      "ja": 0,
+      "nej": 17,
+      "avstar": 0,
+      "franvarande": 1
+    },
+    "L": {
+      "ja": 16,
+      "nej": 0,
+      "avstar": 0,
+      "franvarande": 0
+    },
+    "KD": {
+      "ja": 19,
+      "nej": 0,
+      "avstar": 0,
+      "franvarande": 0
+    },
+    "-": {
+      "ja": 5,
+      "nej": 4,
+      "avstar": 0,
+      "franvarande": 0
+    },
+    "V": {
+      "ja": 0,
+      "nej": 21,
+      "avstar": 0,
+      "franvarande": 0
+    }
+  },
+  "tags": [
+    "JORDBRUK"
+  ],
+  "status": "NY",
+  "passed": true,
+  "dokument_url": "https://www.riksdagen.se/sv/dokument-och-lagar/dokument/betankande/_HD01SoU33",
+  "voteringar": [
+    {
+      "party": "S",
+      "ja": 0,
+      "nej": 106,
+      "avstar": 0,
+      "franvarande": 0
+    },
+    {
+      "party": "SD",
+      "ja": 70,
+      "nej": 0,
+      "avstar": 0,
+      "franvarande": 0
+    },
+    {
+      "party": "C",
+      "ja": 24,
+      "nej": 0,
+      "avstar": 0,
+      "franvarande": 0
+    },
+    {
+      "party": "M",
+      "ja": 66,
+      "nej": 0,
+      "avstar": 0,
+      "franvarande": 0
+    },
+    {
+      "party": "MP",
+      "ja": 0,
+      "nej": 17,
+      "avstar": 0,
+      "franvarande": 1
+    },
+    {
+      "party": "L",
+      "ja": 16,
+      "nej": 0,
+      "avstar": 0,
+      "franvarande": 0
+    },
+    {
+      "party": "KD",
+      "ja": 19,
+      "nej": 0,
+      "avstar": 0,
+      "franvarande": 0
+    },
+    {
+      "party": "-",
+      "ja": 5,
+      "nej": 4,
+      "avstar": 0,
+      "franvarande": 0
+    },
+    {
+      "party": "V",
+      "ja": 0,
+      "nej": 21,
+      "avstar": 0,
+      "franvarande": 0
+    }
+  ]
+}

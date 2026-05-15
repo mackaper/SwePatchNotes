@@ -1,0 +1,139 @@
+{
+  "dok_id": "HD01NU19",
+  "titel": "En mer ändamålsenlig prövning av kärntekniska anläggningar",
+  "utskott": "NU",
+  "nummer": 19,
+  "datum": "2026-05-06",
+  "rm": "2025/26",
+  "kort_sammanfattning": "En ny lag om regeringens godkännande av kärntekniska anläggningar införs.\nRegeringen kan godkänna en kärnteknisk anläggning om det finns en plan för området och anläggningen, och om berörda kommuner tillstyrker.\nDen nuvarande tillåtlighetsprövningen enligt miljöbalken fortsätter att gälla för de som inte ansöker om regeringens godkännande.\nMöjligheten att få ett förhandsbesked införs i lagen om kärnteknisk verksamhet.\nVid tillåtlighetsprövning enligt miljöbalken ska regeringen pröva om fördelarna med anläggningen är större än nackdelarna.",
+  "bakgrund": "Regeringen föreslår en ny lag och ändringar i andra lagar för att skapa en mer ändamålsenlig prövning av kärntekniska anläggningar.",
+  "beslut": "Riksdagen antar regeringens förslag om en ny lag om regeringens godkännande av kärntekniska anläggningar och ändringar i andra lagar.",
+  "roster": {
+    "S": {
+      "ja": 0,
+      "nej": 106,
+      "avstar": 0,
+      "franvarande": 0
+    },
+    "SD": {
+      "ja": 70,
+      "nej": 0,
+      "avstar": 0,
+      "franvarande": 0
+    },
+    "C": {
+      "ja": 0,
+      "nej": 24,
+      "avstar": 0,
+      "franvarande": 0
+    },
+    "M": {
+      "ja": 65,
+      "nej": 0,
+      "avstar": 0,
+      "franvarande": 1
+    },
+    "MP": {
+      "ja": 0,
+      "nej": 18,
+      "avstar": 0,
+      "franvarande": 0
+    },
+    "L": {
+      "ja": 16,
+      "nej": 0,
+      "avstar": 0,
+      "franvarande": 0
+    },
+    "KD": {
+      "ja": 19,
+      "nej": 0,
+      "avstar": 0,
+      "franvarande": 0
+    },
+    "-": {
+      "ja": 5,
+      "nej": 4,
+      "avstar": 0,
+      "franvarande": 0
+    },
+    "V": {
+      "ja": 0,
+      "nej": 21,
+      "avstar": 0,
+      "franvarande": 0
+    }
+  },
+  "tags": [
+    "MILJÖ",
+    "JORDBRUK"
+  ],
+  "status": "NY",
+  "passed": true,
+  "dokument_url": "https://www.riksdagen.se/sv/dokument-och-lagar/dokument/betankande/_HD01NU19",
+  "voteringar": [
+    {
+      "party": "S",
+      "ja": 0,
+      "nej": 106,
+      "avstar": 0,
+      "franvarande": 0
+    },
+    {
+      "party": "SD",
+      "ja": 70,
+      "nej": 0,
+      "avstar": 0,
+      "franvarande": 0
+    },
+    {
+      "party": "C",
+      "ja": 0,
+      "nej": 24,
+      "avstar": 0,
+      "franvarande": 0
+    },
+    {
+      "party": "M",
+      "ja": 65,
+      "nej": 0,
+      "avstar": 0,
+      "franvarande": 1
+    },
+    {
+      "party": "MP",
+      "ja": 0,
+      "nej": 18,
+      "avstar": 0,
+      "franvarande": 0
+    },
+    {
+      "party": "L",
+      "ja": 16,
+      "nej": 0,
+      "avstar": 0,
+      "franvarande": 0
+    },
+    {
+      "party": "KD",
+      "ja": 19,
+      "nej": 0,
+      "avstar": 0,
+      "franvarande": 0
+    },
+    {
+      "party": "-",
+      "ja": 5,
+      "nej": 4,
+      "avstar": 0,
+      "franvarande": 0
+    },
+    {
+      "party": "V",
+      "ja": 0,
+      "nej": 21,
+      "avstar": 0,
+      "franvarande": 0
+    }
+  ]
+}

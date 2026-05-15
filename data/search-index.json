@@ -1,5 +1,611 @@
 [
   {
+    "dok_id": "HD01SoU33",
+    "titel": "Slopat matkrav för serveringstillstånd",
+    "utskott": "SoU",
+    "nummer": 33,
+    "datum": "2026-05-07",
+    "rm": "2025/26",
+    "kort_sammanfattning": "Kravet på matservering och eget kök för stadigvarande serveringstillstånd tas bort.\nBestämmelserna om ett visst antal sittplatser och drinkbarer avskaffas.\nKravet på eget kök för serveringstillstånd för cateringverksamhet tas bort.\nKravet på matservering vid servering av folköl avskaffas.\nUndantagen från matserveringskravet för pausservering i teater- och konsertlokalsfoajéer samt provsmakningar upphävs.",
+    "roster": {
+      "S": {
+        "ja": 0,
+        "nej": 106,
+        "avstar": 0,
+        "franvarande": 0
+      },
+      "SD": {
+        "ja": 70,
+        "nej": 0,
+        "avstar": 0,
+        "franvarande": 0
+      },
+      "C": {
+        "ja": 24,
+        "nej": 0,
+        "avstar": 0,
+        "franvarande": 0
+      },
+      "M": {
+        "ja": 66,
+        "nej": 0,
+        "avstar": 0,
+        "franvarande": 0
+      },
+      "MP": {
+        "ja": 0,
+        "nej": 17,
+        "avstar": 0,
+        "franvarande": 1
+      },
+      "L": {
+        "ja": 16,
+        "nej": 0,
+        "avstar": 0,
+        "franvarande": 0
+      },
+      "KD": {
+        "ja": 19,
+        "nej": 0,
+        "avstar": 0,
+        "franvarande": 0
+      },
+      "-": {
+        "ja": 5,
+        "nej": 4,
+        "avstar": 0,
+        "franvarande": 0
+      },
+      "V": {
+        "ja": 0,
+        "nej": 21,
+        "avstar": 0,
+        "franvarande": 0
+      }
+    },
+    "tags": [
+      "JORDBRUK"
+    ],
+    "status": "NY",
+    "passed": true
+  },
+  {
+    "dok_id": "HD01AU15",
+    "titel": "ILO:s konvention om avskaffande av våld och trakasserier i arbetslivet och ILO:s konvention om en säker och hälsosam arbetsmiljö",
+    "utskott": "AU",
+    "nummer": 15,
+    "datum": "2026-05-06",
+    "rm": "2025/26",
+    "kort_sammanfattning": "Sverige godkänner ILO:s konvention nr 190 om avskaffande av våld och trakasserier i arbetslivet, vilken syftar till att skydda arbetstagare och andra personer i arbetslivet mot våld och trakasserier som inträffar på arbetsplatsen, under arbetsrelaterade resor samt vid resor till och från arbetet.\nSverige godkänner även ILO:s konvention nr 191 om en säker och hälsosam arbetsmiljö.",
+    "roster": {},
+    "tags": [
+      "MILJÖ",
+      "ARBETE"
+    ],
+    "status": "UPPHÄVD",
+    "passed": true
+  },
+  {
+    "dok_id": "HD01CU37",
+    "titel": "Kommunala hyresgarantier för en socialt hållbar bostadsförsörjning",
+    "utskott": "CU",
+    "nummer": 37,
+    "datum": "2026-05-06",
+    "rm": "2025/26",
+    "kort_sammanfattning": "Regeringen får rätt att bestämma att kommuner måste hjälpa hushåll genom att betala hyran om hyresgästen inte kan (hyresgaranti).\nSekretess införs för personlig information i ärenden om kommunala hyresgarantier, men inte för kommunens beslut.",
+    "roster": {},
+    "tags": [
+      "MILJÖ",
+      "BOSTAD"
+    ],
+    "status": "NY",
+    "passed": true
+  },
+  {
+    "dok_id": "HD01FöU13",
+    "titel": "Explosiva varor - förbättrade möjligheter till kontroll",
+    "utskott": "FöU",
+    "nummer": 13,
+    "datum": "2026-05-06",
+    "rm": "2025/26",
+    "kort_sammanfattning": "En tillståndspliktig verksamhet måste anmäla till tillståndsmyndigheten om en deltagare, föreståndare eller person med betydande inflytande inte längre är involverad i verksamheten.\nPolismyndigheten får rätt att överklaga beslut om tillstånd för brandfarliga och explosiva varor samt beslut om godkännande av föreståndare och deltagare i verksamheter med explosiva varor.\nFörsvarets radioanstalt och tillsynsmyndigheter enligt cybersäkerhetslagen kan under vissa förutsättningar utbyta information utan hinder av sekretess i internationellt samarbete.",
+    "roster": {},
+    "tags": [
+      "BROTT",
+      "ARBETE"
+    ],
+    "status": "NY",
+    "passed": true
+  },
+  {
+    "dok_id": "HD01JuU30",
+    "titel": "Frihetsberövande påföljder för barn och unga",
+    "utskott": "JuU",
+    "nummer": 30,
+    "datum": "2026-05-06",
+    "rm": "2025/26",
+    "kort_sammanfattning": "Sluten ungdomsvård tas bort som påföljd och ersätts med fängelse för barn och unga.\nKriminalvården ansvarar för verkställigheten av fängelsestraff för unga.\nBarn som döms till fängelse placeras som huvudregel på särskilda barn- och ungdomsavdelningar.\nSystemet med villkorlig frigivning och övervakning vid övergången från anstalt till frihet gäller även för barn och unga.",
+    "roster": {
+      "S": {
+        "ja": 106,
+        "nej": 0,
+        "avstar": 0,
+        "franvarande": 0
+      },
+      "SD": {
+        "ja": 70,
+        "nej": 0,
+        "avstar": 0,
+        "franvarande": 0
+      },
+      "C": {
+        "ja": 24,
+        "nej": 0,
+        "avstar": 0,
+        "franvarande": 0
+      },
+      "M": {
+        "ja": 65,
+        "nej": 0,
+        "avstar": 0,
+        "franvarande": 1
+      },
+      "MP": {
+        "ja": 0,
+        "nej": 18,
+        "avstar": 0,
+        "franvarande": 0
+      },
+      "L": {
+        "ja": 16,
+        "nej": 0,
+        "avstar": 0,
+        "franvarande": 0
+      },
+      "KD": {
+        "ja": 19,
+        "nej": 0,
+        "avstar": 0,
+        "franvarande": 0
+      },
+      "-": {
+        "ja": 6,
+        "nej": 3,
+        "avstar": 0,
+        "franvarande": 0
+      },
+      "V": {
+        "ja": 0,
+        "nej": 0,
+        "avstar": 21,
+        "franvarande": 0
+      }
+    },
+    "tags": [
+      "HÄLSA",
+      "BROTT"
+    ],
+    "status": "NY",
+    "passed": true
+  },
+  {
+    "dok_id": "HD01JuU31",
+    "titel": "Riksrevisionens rapport om Polisreformen 2015",
+    "utskott": "JuU",
+    "nummer": 31,
+    "datum": "2026-05-06",
+    "rm": "2025/26",
+    "kort_sammanfattning": "Riksrevisionen har granskat Polismyndighetens arbete efter polisreformen 2015 och funnit att intentionerna om ökad flexibilitet, förbättrade resultat, högre kvalitet och ökad kostnadseffektivitet inte har uppnåtts.\nDen lokala nivån har inte stärkts i den omfattning som var avsedd, trots att antalet polisanställda har ökat.\nFärre brott klaras upp och personuppklaringsprocenten har minskat sedan reformen, samtidigt som antalet redovisade ärenden från polisen till åklagare minskat 2015–2024.",
+    "roster": {
+      "S": {
+        "ja": 0,
+        "nej": 106,
+        "avstar": 0,
+        "franvarande": 0
+      },
+      "SD": {
+        "ja": 70,
+        "nej": 0,
+        "avstar": 0,
+        "franvarande": 0
+      },
+      "C": {
+        "ja": 0,
+        "nej": 0,
+        "avstar": 24,
+        "franvarande": 0
+      },
+      "M": {
+        "ja": 65,
+        "nej": 0,
+        "avstar": 0,
+        "franvarande": 1
+      },
+      "MP": {
+        "ja": 0,
+        "nej": 0,
+        "avstar": 18,
+        "franvarande": 0
+      },
+      "L": {
+        "ja": 16,
+        "nej": 0,
+        "avstar": 0,
+        "franvarande": 0
+      },
+      "KD": {
+        "ja": 19,
+        "nej": 0,
+        "avstar": 0,
+        "franvarande": 0
+      },
+      "-": {
+        "ja": 5,
+        "nej": 1,
+        "avstar": 3,
+        "franvarande": 0
+      },
+      "V": {
+        "ja": 21,
+        "nej": 0,
+        "avstar": 0,
+        "franvarande": 0
+      }
+    },
+    "tags": [
+      "EKONOMI",
+      "BROTT"
+    ],
+    "status": "NY",
+    "passed": true
+  },
+  {
+    "dok_id": "HD01JuU9",
+    "titel": "En mer rättssäker och effektiv domstolsprocess",
+    "utskott": "JuU",
+    "nummer": 9,
+    "datum": "2026-05-06",
+    "rm": "2025/26",
+    "kort_sammanfattning": "Berättelser från tidiga förhör och vittnesattester kan i större utsträckning användas som bevis i brottmål.\nTilltrosbestämmelserna i hovrätt och Högsta domstolen upphävs.\nEn ny sekretessbestämmelse införs för att skydda uppgifter om tvångsmedel hos Domstolsverket.",
+    "roster": {
+      "S": {
+        "ja": 106,
+        "nej": 0,
+        "avstar": 0,
+        "franvarande": 0
+      },
+      "SD": {
+        "ja": 70,
+        "nej": 0,
+        "avstar": 0,
+        "franvarande": 0
+      },
+      "C": {
+        "ja": 24,
+        "nej": 0,
+        "avstar": 0,
+        "franvarande": 0
+      },
+      "M": {
+        "ja": 65,
+        "nej": 0,
+        "avstar": 0,
+        "franvarande": 1
+      },
+      "MP": {
+        "ja": 17,
+        "nej": 0,
+        "avstar": 0,
+        "franvarande": 1
+      },
+      "L": {
+        "ja": 16,
+        "nej": 0,
+        "avstar": 0,
+        "franvarande": 0
+      },
+      "KD": {
+        "ja": 19,
+        "nej": 0,
+        "avstar": 0,
+        "franvarande": 0
+      },
+      "-": {
+        "ja": 6,
+        "nej": 3,
+        "avstar": 0,
+        "franvarande": 0
+      },
+      "V": {
+        "ja": 0,
+        "nej": 21,
+        "avstar": 0,
+        "franvarande": 0
+      }
+    },
+    "tags": [
+      "BROTT"
+    ],
+    "status": "NY",
+    "passed": true
+  },
+  {
+    "dok_id": "HD01KU36",
+    "titel": "Integritet och ny teknik 2020-2024",
+    "utskott": "KU",
+    "nummer": 36,
+    "datum": "2026-05-06",
+    "rm": "2025/26",
+    "kort_sammanfattning": "Integritetsskyddsmyndigheten (IMY) ska vart fjärde år redovisa utvecklingen inom IT-området gällande integritet och teknik till regeringen.\nRegeringen kommenterar IMY:s rapport i en skrivelse till riksdagen.\nIMY lyfter fram fokusområden som brottsbekämpning, övervakning i arbetslivet, ökad insamling av hälsodata samt barns och ungas integritet.",
+    "roster": {},
+    "tags": [
+      "BROTT",
+      "BARN"
+    ],
+    "status": "NY",
+    "passed": true
+  },
+  {
+    "dok_id": "HD01NU19",
+    "titel": "En mer ändamålsenlig prövning av kärntekniska anläggningar",
+    "utskott": "NU",
+    "nummer": 19,
+    "datum": "2026-05-06",
+    "rm": "2025/26",
+    "kort_sammanfattning": "En ny lag om regeringens godkännande av kärntekniska anläggningar införs.\nRegeringen kan godkänna en kärnteknisk anläggning om det finns en plan för området och anläggningen, och om berörda kommuner tillstyrker.\nDen nuvarande tillåtlighetsprövningen enligt miljöbalken fortsätter att gälla för de som inte ansöker om regeringens godkännande.\nMöjligheten att få ett förhandsbesked införs i lagen om kärnteknisk verksamhet.\nVid tillåtlighetsprövning enligt miljöbalken ska regeringen pröva om fördelarna med anläggningen är större än nackdelarna.",
+    "roster": {
+      "S": {
+        "ja": 0,
+        "nej": 106,
+        "avstar": 0,
+        "franvarande": 0
+      },
+      "SD": {
+        "ja": 70,
+        "nej": 0,
+        "avstar": 0,
+        "franvarande": 0
+      },
+      "C": {
+        "ja": 0,
+        "nej": 24,
+        "avstar": 0,
+        "franvarande": 0
+      },
+      "M": {
+        "ja": 65,
+        "nej": 0,
+        "avstar": 0,
+        "franvarande": 1
+      },
+      "MP": {
+        "ja": 0,
+        "nej": 18,
+        "avstar": 0,
+        "franvarande": 0
+      },
+      "L": {
+        "ja": 16,
+        "nej": 0,
+        "avstar": 0,
+        "franvarande": 0
+      },
+      "KD": {
+        "ja": 19,
+        "nej": 0,
+        "avstar": 0,
+        "franvarande": 0
+      },
+      "-": {
+        "ja": 5,
+        "nej": 4,
+        "avstar": 0,
+        "franvarande": 0
+      },
+      "V": {
+        "ja": 0,
+        "nej": 21,
+        "avstar": 0,
+        "franvarande": 0
+      }
+    },
+    "tags": [
+      "MILJÖ",
+      "JORDBRUK"
+    ],
+    "status": "NY",
+    "passed": true
+  },
+  {
+    "dok_id": "HD01NU22",
+    "titel": "Nya verktyg för stärkt konkurrens i privat och offentlig verksamhet",
+    "utskott": "NU",
+    "nummer": 22,
+    "datum": "2026-05-06",
+    "rm": "2025/26",
+    "kort_sammanfattning": "Konkurrenslagens bestämmelser om konkurrensbegränsande offentlig säljverksamhet ersätts med en ny lag om offentlig säljverksamhet.\nEn offentlig aktör får inte bedriva säljverksamhet eller tillämpa förfaranden som otillbörligt påverkar privata företags möjligheter på marknaden.\nDen nya lagen innehåller bestämmelser om utvärdering och särredovisning som träder i kraft 1 januari 2027, medan övriga delar träder i kraft 1 augusti 2026.",
+    "roster": {
+      "S": {
+        "ja": 1,
+        "nej": 83,
+        "avstar": 82,
+        "franvarande": 0
+      },
+      "SD": {
+        "ja": 90,
+        "nej": 0,
+        "avstar": 0,
+        "franvarande": 0
+      },
+      "C": {
+        "ja": 16,
+        "nej": 16,
+        "avstar": 0,
+        "franvarande": 0
+      },
+      "M": {
+        "ja": 94,
+        "nej": 0,
+        "avstar": 0,
+        "franvarande": 2
+      },
+      "MP": {
+        "ja": 0,
+        "nej": 10,
+        "avstar": 10,
+        "franvarande": 0
+      },
+      "L": {
+        "ja": 22,
+        "nej": 0,
+        "avstar": 0,
+        "franvarande": 0
+      },
+      "KD": {
+        "ja": 28,
+        "nej": 0,
+        "avstar": 0,
+        "franvarande": 0
+      },
+      "-": {
+        "ja": 7,
+        "nej": 3,
+        "avstar": 4,
+        "franvarande": 0
+      },
+      "V": {
+        "ja": 0,
+        "nej": 16,
+        "avstar": 16,
+        "franvarande": 0
+      }
+    },
+    "tags": [
+      "JORDBRUK"
+    ],
+    "status": "NY",
+    "passed": true
+  },
+  {
+    "dok_id": "HD01SkU21",
+    "titel": "Det skatterättsliga företrädaransvaret - nya regler om befrielse och rådrum",
+    "utskott": "SkU",
+    "nummer": 21,
+    "datum": "2026-05-06",
+    "rm": "2025/26",
+    "kort_sammanfattning": "En företrädare kan helt eller delvis befrias från betalningsskyldighet för juridiska personens skatt eller avgift om det är oskäligt.\nVid bedömningen av oskälighet beaktas särskilt om företrädaren saknat ägarintresse och bestämmande inflytande, vidtagit åtgärder för att begränsa skadan, har varaktigt nedsatt betalningsförmåga eller om betalningsskyldigheten inte står i rimlig proportion till försummelsen.\nEn företrädare kan ansöka om rådrum på två månader från den ursprungliga betalningstidpunkten för skatt eller avgift.\nRådrum beviljas om inte särskilda skäl talar emot det, exempelvis om företrädaren tidigare beviljats rådrum, eller om juridiska personen eller företrädaren har stora skatteskulder (över ett halvt prisbasbelopp).",
+    "roster": {},
+    "tags": [
+      "EKONOMI",
+      "DIGITALT"
+    ],
+    "status": "NY",
+    "passed": true
+  },
+  {
+    "dok_id": "HD01SkU22",
+    "titel": "Åtgärder mot mervärdesskattebedrägerier",
+    "utskott": "SkU",
+    "nummer": 22,
+    "datum": "2026-05-06",
+    "rm": "2025/26",
+    "kort_sammanfattning": "Skatteverket får större möjligheter att kontrollera registrering för moms.\nSkatteverket kan neka eller avregistrera någon från moms om det finns risk för skatteundandragande.\nSkatteverket kan besluta att ett registreringsnummer visas som ogiltigt i systemet för utbyte av information om moms (VIES).\nSkatteverket kan under vissa förhållanden besluta att överskjutande ingående moms inte ska tillgodoräknas.",
+    "roster": {},
+    "tags": [
+      "EKONOMI",
+      "JORDBRUK"
+    ],
+    "status": "NY",
+    "passed": true
+  },
+  {
+    "dok_id": "HD01UbU17",
+    "titel": "Framtidens yrkeshögskola",
+    "utskott": "UbU",
+    "nummer": 17,
+    "datum": "2026-05-06",
+    "rm": "2025/26",
+    "kort_sammanfattning": "En utbildning inom yrkeshögskolan kan nu även bygga på kunskaper från eftergymnasial utbildning eller motsvarande kunskaper, utöver kunskaper från nationella program i gymnasieskolan.\nBegreppet utbildningsanordnare definieras i lagen som den som har fått ett beslut om att utbildningen ska ingå i yrkeshögskolan.\nUtbildningsanordnaren ansvarar för att utbildningen genomförs enligt lag och föreskrifter samt för ett systematiskt kvalitetsarbete.\nDet ska finnas en ledningsgrupp hos utbildningsanordnaren som bevakar att kvalitetsarbetet leder till att utbildningen uppfyller lagens krav.",
+    "roster": {},
+    "tags": [
+      "UTBILDNING",
+      "ARBETE"
+    ],
+    "status": "NY",
+    "passed": true
+  },
+  {
+    "dok_id": "HD01CU25",
+    "titel": "En snabbare utbyggnad av kriminalvårdsanstalter och häkten",
+    "utskott": "CU",
+    "nummer": 25,
+    "datum": "2026-04-29",
+    "rm": "2025/26",
+    "kort_sammanfattning": "Tidsbegränsade bygglov för kriminalvårdsanstalter och häkten kan ges i fler fall om sökanden begär det, platsen kan återställas och åtgärden uppfyller kraven för permanent bygglov.\nByggloven kan gälla i högst tio år, men kan förlängas med högst fem år i taget upp till maximalt tjugo år. \nRegeringen får meddela föreskrifter om undantag från plan- och bygglagen för att åtgärda en akut risk för platsbrist i anstalter och häkten. \nUndantagsföreskrifterna ska vara proportionella och får inte strida mot EU-rätten eller Europakonventionen, och inte heller medföra bestående skador på mark, vatten eller den byggda miljön.",
+    "roster": {
+      "S": {
+        "ja": 91,
+        "nej": 0,
+        "avstar": 0,
+        "franvarande": 15
+      },
+      "SD": {
+        "ja": 60,
+        "nej": 0,
+        "avstar": 0,
+        "franvarande": 10
+      },
+      "C": {
+        "ja": 20,
+        "nej": 0,
+        "avstar": 0,
+        "franvarande": 4
+      },
+      "M": {
+        "ja": 57,
+        "nej": 0,
+        "avstar": 0,
+        "franvarande": 9
+      },
+      "MP": {
+        "ja": 0,
+        "nej": 15,
+        "avstar": 0,
+        "franvarande": 3
+      },
+      "L": {
+        "ja": 9,
+        "nej": 0,
+        "avstar": 0,
+        "franvarande": 7
+      },
+      "KD": {
+        "ja": 16,
+        "nej": 0,
+        "avstar": 0,
+        "franvarande": 3
+      },
+      "-": {
+        "ja": 6,
+        "nej": 3,
+        "avstar": 0,
+        "franvarande": 0
+      },
+      "V": {
+        "ja": 13,
+        "nej": 0,
+        "avstar": 0,
+        "franvarande": 8
+      }
+    },
+    "tags": [
+      "MILJÖ",
+      "HÄLSA"
+    ],
+    "status": "NY",
+    "passed": true
+  },
+  {
     "dok_id": "HD01CU29",
     "titel": "Ökade möjligheter till hemmaladdning av elfordon",
     "utskott": "CU",
