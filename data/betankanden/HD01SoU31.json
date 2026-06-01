@@ -1,0 +1,85 @@
+{
+  "dok_id": "HD01SoU31",
+  "titel": "En nationell utredningsfunktion för att förebygga suicid",
+  "utskott": "SoU",
+  "nummer": 31,
+  "datum": "2026-05-26",
+  "rm": "2025/26",
+  "kort_sammanfattning": "En ny utredningsmyndighet inrättas för att utreda suicidfall bland barn och vissa vuxna.\nMyndigheten ska klarlägga omständigheter och analysera åtgärder som kan förebygga suicid.\nNärstående ska få möjlighet att bidra med uppgifter till utredningen.\nVissa myndigheter och yrkesverksamma blir skyldiga att lämna uppgifter till utredningen.\nVissa statliga myndigheter ska bistå utredningsmyndigheten med experter.",
+  "bakgrund": "Regeringen anser att en nationell utredningsfunktion behövs för att förbättra samhällets lärande om suicid och därmed kunna förebygga det.",
+  "beslut": "Riksdagen beslutar om en ny lag om utredningar för att förebygga suicid samt ändringar i lagen om behandling av personuppgifter inom socialtjänsten och offentlighets- och sekretesslagen.",
+  "roster": {},
+  "tags": [
+    "BARN"
+  ],
+  "status": "NY",
+  "passed": true,
+  "dokument_url": "https://www.riksdagen.se/sv/dokument-och-lagar/dokument/betankande/_HD01SoU31",
+  "voteringar": [],
+  "delvoterings": [
+    {
+      "punkt": "2",
+      "rubrik": "Suicid bland barn och unga vuxna",
+      "ja": 281,
+      "nej": 66,
+      "avstar": 0,
+      "franvarande": 2,
+      "roster": {
+        "S": {
+          "ja": 106,
+          "nej": 0,
+          "avstar": 0,
+          "franvarande": 0
+        },
+        "SD": {
+          "ja": 69,
+          "nej": 0,
+          "avstar": 0,
+          "franvarande": 1
+        },
+        "C": {
+          "ja": 0,
+          "nej": 24,
+          "avstar": 0,
+          "franvarande": 0
+        },
+        "M": {
+          "ja": 65,
+          "nej": 0,
+          "avstar": 0,
+          "franvarande": 1
+        },
+        "MP": {
+          "ja": 0,
+          "nej": 18,
+          "avstar": 0,
+          "franvarande": 0
+        },
+        "L": {
+          "ja": 16,
+          "nej": 0,
+          "avstar": 0,
+          "franvarande": 0
+        },
+        "KD": {
+          "ja": 19,
+          "nej": 0,
+          "avstar": 0,
+          "franvarande": 0
+        },
+        "-": {
+          "ja": 6,
+          "nej": 3,
+          "avstar": 0,
+          "franvarande": 0
+        },
+        "V": {
+          "ja": 0,
+          "nej": 21,
+          "avstar": 0,
+          "franvarande": 0
+        }
+      }
+    }
+  ]
+}

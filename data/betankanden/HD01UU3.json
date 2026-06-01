@@ -1,0 +1,213 @@
+{
+  "dok_id": "HD01UU3",
+  "titel": "Fördjupad resultatredovisning av internationellt bistånd",
+  "utskott": "UU",
+  "nummer": 3,
+  "datum": "2026-05-27",
+  "rm": "2025/26",
+  "kort_sammanfattning": "Riksdagen avslår motionsyrkanden om reformer, utformningen av stödet, jämställdhet samt kvinnor och säkerhet.\nSkrivelsen som redovisar det svenska biståndets verksamhet och resultat i Ukraina under perioden 2022–2025 läggs till handlingarna. \nInsatser i Moldavien och Armenien behandlas översiktligt.",
+  "bakgrund": "Regeringen har lämnat en skrivelse till riksdagen med en fördjupad redovisning av det svenska biståndets verksamhet och resultat i Ukraina under perioden 2022–2025, efter en rekommendation från Riksrevisionen om att utveckla redovisningen av biståndets resultat.",
+  "beslut": "Riksdagen beslutade att lägga skrivelsen till handlingarna och avslå motionsyrkandena.",
+  "roster": {},
+  "tags": [
+    "FÖRSVAR"
+  ],
+  "status": "NY",
+  "passed": true,
+  "dokument_url": "https://www.riksdagen.se/sv/dokument-och-lagar/dokument/betankande/_HD01UU3",
+  "voteringar": [],
+  "delvoterings": [
+    {
+      "punkt": "2",
+      "rubrik": "Utformningen av stödet",
+      "ja": 299,
+      "nej": 25,
+      "avstar": 24,
+      "franvarande": 1,
+      "roster": {
+        "S": {
+          "ja": 106,
+          "nej": 0,
+          "avstar": 0,
+          "franvarande": 0
+        },
+        "SD": {
+          "ja": 70,
+          "nej": 0,
+          "avstar": 0,
+          "franvarande": 0
+        },
+        "C": {
+          "ja": 0,
+          "nej": 24,
+          "avstar": 0,
+          "franvarande": 0
+        },
+        "M": {
+          "ja": 66,
+          "nej": 0,
+          "avstar": 0,
+          "franvarande": 0
+        },
+        "MP": {
+          "ja": 17,
+          "nej": 0,
+          "avstar": 1,
+          "franvarande": 0
+        },
+        "L": {
+          "ja": 16,
+          "nej": 0,
+          "avstar": 0,
+          "franvarande": 0
+        },
+        "KD": {
+          "ja": 19,
+          "nej": 0,
+          "avstar": 0,
+          "franvarande": 0
+        },
+        "-": {
+          "ja": 5,
+          "nej": 0,
+          "avstar": 3,
+          "franvarande": 1
+        },
+        "V": {
+          "ja": 0,
+          "nej": 1,
+          "avstar": 20,
+          "franvarande": 0
+        }
+      }
+    },
+    {
+      "punkt": "3",
+      "rubrik": "Jämställdhet",
+      "ja": 282,
+      "nej": 66,
+      "avstar": 0,
+      "franvarande": 1,
+      "roster": {
+        "S": {
+          "ja": 105,
+          "nej": 1,
+          "avstar": 0,
+          "franvarande": 0
+        },
+        "SD": {
+          "ja": 70,
+          "nej": 0,
+          "avstar": 0,
+          "franvarande": 0
+        },
+        "C": {
+          "ja": 0,
+          "nej": 24,
+          "avstar": 0,
+          "franvarande": 0
+        },
+        "M": {
+          "ja": 66,
+          "nej": 0,
+          "avstar": 0,
+          "franvarande": 0
+        },
+        "MP": {
+          "ja": 0,
+          "nej": 18,
+          "avstar": 0,
+          "franvarande": 0
+        },
+        "L": {
+          "ja": 16,
+          "nej": 0,
+          "avstar": 0,
+          "franvarande": 0
+        },
+        "KD": {
+          "ja": 19,
+          "nej": 0,
+          "avstar": 0,
+          "franvarande": 0
+        },
+        "-": {
+          "ja": 6,
+          "nej": 2,
+          "avstar": 0,
+          "franvarande": 1
+        },
+        "V": {
+          "ja": 0,
+          "nej": 21,
+          "avstar": 0,
+          "franvarande": 0
+        }
+      }
+    },
+    {
+      "punkt": "4",
+      "rubrik": "Kvinnor och säkerhet",
+      "ja": 307,
+      "nej": 41,
+      "avstar": 0,
+      "franvarande": 1,
+      "roster": {
+        "S": {
+          "ja": 106,
+          "nej": 0,
+          "avstar": 0,
+          "franvarande": 0
+        },
+        "SD": {
+          "ja": 70,
+          "nej": 0,
+          "avstar": 0,
+          "franvarande": 0
+        },
+        "C": {
+          "ja": 24,
+          "nej": 0,
+          "avstar": 0,
+          "franvarande": 0
+        },
+        "M": {
+          "ja": 66,
+          "nej": 0,
+          "avstar": 0,
+          "franvarande": 0
+        },
+        "MP": {
+          "ja": 0,
+          "nej": 18,
+          "avstar": 0,
+          "franvarande": 0
+        },
+        "L": {
+          "ja": 16,
+          "nej": 0,
+          "avstar": 0,
+          "franvarande": 0
+        },
+        "KD": {
+          "ja": 19,
+          "nej": 0,
+          "avstar": 0,
+          "franvarande": 0
+        },
+        "-": {
+          "ja": 6,
+          "nej": 2,
+          "avstar": 0,
+          "franvarande": 1
+        },
+        "V": {
+          "ja": 0,
+          "nej": 21,
+          "avstar": 0,
+          "franvarande": 0
+        }
+      }
+    }
+  ]
+}

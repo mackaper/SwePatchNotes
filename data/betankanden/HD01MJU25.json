@@ -1,0 +1,86 @@
+{
+  "dok_id": "HD01MJU25",
+  "titel": "Beredskapslager i livsmedelskedjan",
+  "utskott": "MJU",
+  "nummer": 25,
+  "datum": "2026-05-26",
+  "rm": "2025/26",
+  "kort_sammanfattning": "En ny lag om beredskapslager av varor i livsmedelskedjan införs för att säkerställa tillgången till livsmedel i krig, krigsfara eller vid allvarlig brist.\nLagen träder i kraft den 1 juli 2026.\nEn ändring i offentlighets- och sekretesslagen görs också.",
+  "bakgrund": "Förslaget syftar till att stärka Sveriges livsmedelsberedskap mot bakgrund av det försämrade säkerhetsläget och riksdagens beslut om totalförsvaret 2025-2030.",
+  "beslut": "Riksdagen antar regeringens förslag om en lag om beredskapslager av varor i livsmedelskedjan och en lagändring i offentlighets- och sekretesslagen.",
+  "roster": {},
+  "tags": [
+    "FÖRSVAR",
+    "JORDBRUK"
+  ],
+  "status": "NY",
+  "passed": true,
+  "dokument_url": "https://www.riksdagen.se/sv/dokument-och-lagar/dokument/betankande/_HD01MJU25",
+  "voteringar": [],
+  "delvoterings": [
+    {
+      "punkt": "2",
+      "rubrik": "Livsmedelsberedskap och hållbarhet",
+      "ja": 303,
+      "nej": 42,
+      "avstar": 0,
+      "franvarande": 4,
+      "roster": {
+        "S": {
+          "ja": 105,
+          "nej": 0,
+          "avstar": 0,
+          "franvarande": 1
+        },
+        "SD": {
+          "ja": 69,
+          "nej": 0,
+          "avstar": 0,
+          "franvarande": 1
+        },
+        "C": {
+          "ja": 24,
+          "nej": 0,
+          "avstar": 0,
+          "franvarande": 0
+        },
+        "M": {
+          "ja": 65,
+          "nej": 0,
+          "avstar": 0,
+          "franvarande": 1
+        },
+        "MP": {
+          "ja": 0,
+          "nej": 18,
+          "avstar": 0,
+          "franvarande": 0
+        },
+        "L": {
+          "ja": 16,
+          "nej": 0,
+          "avstar": 0,
+          "franvarande": 0
+        },
+        "KD": {
+          "ja": 18,
+          "nej": 0,
+          "avstar": 0,
+          "franvarande": 1
+        },
+        "-": {
+          "ja": 6,
+          "nej": 3,
+          "avstar": 0,
+          "franvarande": 0
+        },
+        "V": {
+          "ja": 0,
+          "nej": 21,
+          "avstar": 0,
+          "franvarande": 0
+        }
+      }
+    }
+  ]
+}

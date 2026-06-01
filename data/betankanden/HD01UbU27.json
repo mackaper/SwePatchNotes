@@ -1,0 +1,150 @@
+{
+  "dok_id": "HD01UbU27",
+  "titel": "Bättre förutsättningar för yrkesutbildning",
+  "utskott": "UbU",
+  "nummer": 27,
+  "datum": "2026-05-27",
+  "rm": "2025/26",
+  "kort_sammanfattning": "Yrkesprov införs på yrkesprogram i gymnasieskolan, anpassade gymnasieskolan och kommunal vuxenutbildning, istället för gymnasiearbete om det finns ett sådant prov.\nMöjligheten att överlämna undervisning i yrkesinriktade ämnen på entreprenad utökas till att även gälla offentliga huvudmän inom skolväsendet.\nElever på individuella program i anpassade gymnasieskolan får rätt att fullfölja sin utbildning.",
+  "bakgrund": "Regeringen anser att det råder brist på gymnasialt yrkesutbildad arbetskraft och att en förbättrad yrkesutbildning skulle gynna både elever, arbetsgivare och samhället.",
+  "beslut": "Riksdagen godkänner regeringens förslag om ändringar i skollagen för att stärka yrkesutbildningens förutsättningar.",
+  "roster": {},
+  "tags": [
+    "UTBILDNING",
+    "ARBETE"
+  ],
+  "status": "NY",
+  "passed": true,
+  "dokument_url": "https://www.riksdagen.se/sv/dokument-och-lagar/dokument/betankande/_HD01UbU27",
+  "voteringar": [],
+  "delvoterings": [
+    {
+      "punkt": "2",
+      "rubrik": "Förutsättningar för yrkesutbildning på entreprenad",
+      "ja": 200,
+      "nej": 148,
+      "avstar": 0,
+      "franvarande": 1,
+      "roster": {
+        "S": {
+          "ja": 0,
+          "nej": 106,
+          "avstar": 0,
+          "franvarande": 0
+        },
+        "SD": {
+          "ja": 70,
+          "nej": 0,
+          "avstar": 0,
+          "franvarande": 0
+        },
+        "C": {
+          "ja": 24,
+          "nej": 0,
+          "avstar": 0,
+          "franvarande": 0
+        },
+        "M": {
+          "ja": 66,
+          "nej": 0,
+          "avstar": 0,
+          "franvarande": 0
+        },
+        "MP": {
+          "ja": 0,
+          "nej": 18,
+          "avstar": 0,
+          "franvarande": 0
+        },
+        "L": {
+          "ja": 16,
+          "nej": 0,
+          "avstar": 0,
+          "franvarande": 0
+        },
+        "KD": {
+          "ja": 19,
+          "nej": 0,
+          "avstar": 0,
+          "franvarande": 0
+        },
+        "-": {
+          "ja": 5,
+          "nej": 3,
+          "avstar": 0,
+          "franvarande": 1
+        },
+        "V": {
+          "ja": 0,
+          "nej": 21,
+          "avstar": 0,
+          "franvarande": 0
+        }
+      }
+    },
+    {
+      "punkt": "3",
+      "rubrik": "Införandet av yrkesprov",
+      "ja": 221,
+      "nej": 127,
+      "avstar": 0,
+      "franvarande": 1,
+      "roster": {
+        "S": {
+          "ja": 0,
+          "nej": 106,
+          "avstar": 0,
+          "franvarande": 0
+        },
+        "SD": {
+          "ja": 70,
+          "nej": 0,
+          "avstar": 0,
+          "franvarande": 0
+        },
+        "C": {
+          "ja": 24,
+          "nej": 0,
+          "avstar": 0,
+          "franvarande": 0
+        },
+        "M": {
+          "ja": 66,
+          "nej": 0,
+          "avstar": 0,
+          "franvarande": 0
+        },
+        "MP": {
+          "ja": 0,
+          "nej": 18,
+          "avstar": 0,
+          "franvarande": 0
+        },
+        "L": {
+          "ja": 16,
+          "nej": 0,
+          "avstar": 0,
+          "franvarande": 0
+        },
+        "KD": {
+          "ja": 19,
+          "nej": 0,
+          "avstar": 0,
+          "franvarande": 0
+        },
+        "-": {
+          "ja": 5,
+          "nej": 3,
+          "avstar": 0,
+          "franvarande": 1
+        },
+        "V": {
+          "ja": 21,
+          "nej": 0,
+          "avstar": 0,
+          "franvarande": 0
+        }
+      }
+    }
+  ]
+}

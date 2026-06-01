@@ -1,0 +1,140 @@
+{
+  "dok_id": "HD01CU34",
+  "titel": "Ändamålsenliga utmätningsregler och utökad distansutmätning",
+  "utskott": "CU",
+  "nummer": 34,
+  "datum": "2026-05-20",
+  "rm": "2025/26",
+  "kort_sammanfattning": "Reglerna för biträde vid utmätning på distans utökas till fler brottsbekämpande myndigheter.\nFast egendom och bostadsrätter ska behandlas lika vid utmätning, vilket innebär att fast egendom kan säljas via e-auktion och bostadsrätter under hand av exempelvis fastighetsmäklare.\nKronofogdemyndighetens skyldighet att beakta proportionalitetsprincipen och principen om barnets bästa skrivs in i utsökningsbalken.\nProportioneringsprincipen lagfästs i utsökningsbalken, vilket innebär att en makes eller sambos inkomst ska beaktas vid beräkningen av gäldenärens förbehållsbelopp vid löneutmätning.",
+  "bakgrund": "Regeringen föreslår ändringar i utsökningsbalken för att effektivisera utsökningsförfarandet, uppnå högre försäljningspriser för utmätt egendom, snabbare betalning av skulder och ökat förtroende för systemet.",
+  "beslut": "Riksdagen antar regeringens förslag om ändringar i utsökningsbalken och relaterade lagar.",
+  "roster": {
+    "S": {
+      "ja": 0,
+      "nej": 106,
+      "avstar": 0,
+      "franvarande": 0
+    },
+    "SD": {
+      "ja": 70,
+      "nej": 0,
+      "avstar": 0,
+      "franvarande": 0
+    },
+    "C": {
+      "ja": 24,
+      "nej": 0,
+      "avstar": 0,
+      "franvarande": 0
+    },
+    "M": {
+      "ja": 65,
+      "nej": 0,
+      "avstar": 0,
+      "franvarande": 1
+    },
+    "MP": {
+      "ja": 0,
+      "nej": 18,
+      "avstar": 0,
+      "franvarande": 0
+    },
+    "L": {
+      "ja": 16,
+      "nej": 0,
+      "avstar": 0,
+      "franvarande": 0
+    },
+    "KD": {
+      "ja": 19,
+      "nej": 0,
+      "avstar": 0,
+      "franvarande": 0
+    },
+    "-": {
+      "ja": 5,
+      "nej": 4,
+      "avstar": 0,
+      "franvarande": 0
+    },
+    "V": {
+      "ja": 21,
+      "nej": 0,
+      "avstar": 0,
+      "franvarande": 0
+    }
+  },
+  "tags": [
+    "EKONOMI",
+    "BROTT"
+  ],
+  "status": "NY",
+  "passed": true,
+  "dokument_url": "https://www.riksdagen.se/sv/dokument-och-lagar/dokument/betankande/_HD01CU34",
+  "voteringar": [
+    {
+      "party": "S",
+      "ja": 0,
+      "nej": 106,
+      "avstar": 0,
+      "franvarande": 0
+    },
+    {
+      "party": "SD",
+      "ja": 70,
+      "nej": 0,
+      "avstar": 0,
+      "franvarande": 0
+    },
+    {
+      "party": "C",
+      "ja": 24,
+      "nej": 0,
+      "avstar": 0,
+      "franvarande": 0
+    },
+    {
+      "party": "M",
+      "ja": 65,
+      "nej": 0,
+      "avstar": 0,
+      "franvarande": 1
+    },
+    {
+      "party": "MP",
+      "ja": 0,
+      "nej": 18,
+      "avstar": 0,
+      "franvarande": 0
+    },
+    {
+      "party": "L",
+      "ja": 16,
+      "nej": 0,
+      "avstar": 0,
+      "franvarande": 0
+    },
+    {
+      "party": "KD",
+      "ja": 19,
+      "nej": 0,
+      "avstar": 0,
+      "franvarande": 0
+    },
+    {
+      "party": "-",
+      "ja": 5,
+      "nej": 4,
+      "avstar": 0,
+      "franvarande": 0
+    },
+    {
+      "party": "V",
+      "ja": 21,
+      "nej": 0,
+      "avstar": 0,
+      "franvarande": 0
+    }
+  ],
+  "delvoterings": []
+}

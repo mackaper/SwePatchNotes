@@ -1,0 +1,150 @@
+{
+  "dok_id": "HD01NU21",
+  "titel": "Hela Sverige ska fungera - politik för starkare landsbygder",
+  "utskott": "NU",
+  "nummer": 21,
+  "datum": "2026-05-20",
+  "rm": "2025/26",
+  "kort_sammanfattning": "Regioners samrådsskyldighet förtydligas i lagen om regionalt utvecklingsansvar och ska omfatta företrädare för organisationer inom det civila samhället och enskilda utbildningsanordnare inom högskoleområdet.\nLagen får även en hänvisning till lagen om nationella minoriteter och minoritetsspråk.\nLagändringen träder i kraft 1 juli 2026.",
+  "bakgrund": "Regeringen föreslår en ändring i lagen om regionalt utvecklingsansvar för att förtydliga regionernas samrådsskyldighet och inkludera en hänvisning till lagen om nationella minoriteter och minoritetsspråk.",
+  "beslut": "Riksdagen antar regeringens förslag till lag om ändring i lagen om regionalt utvecklingsansvar.",
+  "roster": {},
+  "tags": [
+    "UTBILDNING",
+    "TRANSPORT"
+  ],
+  "status": "NY",
+  "passed": true,
+  "dokument_url": "https://www.riksdagen.se/sv/dokument-och-lagar/dokument/betankande/_HD01NU21",
+  "voteringar": [],
+  "delvoterings": [
+    {
+      "punkt": "2",
+      "rubrik": "Ett starkt lokalsamhälle och en effektiv landsbygdspolitik",
+      "ja": 175,
+      "nej": 107,
+      "avstar": 66,
+      "franvarande": 1,
+      "roster": {
+        "S": {
+          "ja": 0,
+          "nej": 106,
+          "avstar": 0,
+          "franvarande": 0
+        },
+        "SD": {
+          "ja": 70,
+          "nej": 0,
+          "avstar": 0,
+          "franvarande": 0
+        },
+        "C": {
+          "ja": 0,
+          "nej": 0,
+          "avstar": 24,
+          "franvarande": 0
+        },
+        "M": {
+          "ja": 65,
+          "nej": 0,
+          "avstar": 0,
+          "franvarande": 1
+        },
+        "MP": {
+          "ja": 0,
+          "nej": 0,
+          "avstar": 18,
+          "franvarande": 0
+        },
+        "L": {
+          "ja": 16,
+          "nej": 0,
+          "avstar": 0,
+          "franvarande": 0
+        },
+        "KD": {
+          "ja": 19,
+          "nej": 0,
+          "avstar": 0,
+          "franvarande": 0
+        },
+        "-": {
+          "ja": 5,
+          "nej": 1,
+          "avstar": 3,
+          "franvarande": 0
+        },
+        "V": {
+          "ja": 0,
+          "nej": 0,
+          "avstar": 21,
+          "franvarande": 0
+        }
+      }
+    },
+    {
+      "punkt": "3",
+      "rubrik": "Civilsamhällets organisationer",
+      "ja": 175,
+      "nej": 173,
+      "avstar": 0,
+      "franvarande": 1,
+      "roster": {
+        "S": {
+          "ja": 0,
+          "nej": 106,
+          "avstar": 0,
+          "franvarande": 0
+        },
+        "SD": {
+          "ja": 70,
+          "nej": 0,
+          "avstar": 0,
+          "franvarande": 0
+        },
+        "C": {
+          "ja": 0,
+          "nej": 24,
+          "avstar": 0,
+          "franvarande": 0
+        },
+        "M": {
+          "ja": 65,
+          "nej": 0,
+          "avstar": 0,
+          "franvarande": 1
+        },
+        "MP": {
+          "ja": 0,
+          "nej": 18,
+          "avstar": 0,
+          "franvarande": 0
+        },
+        "L": {
+          "ja": 16,
+          "nej": 0,
+          "avstar": 0,
+          "franvarande": 0
+        },
+        "KD": {
+          "ja": 19,
+          "nej": 0,
+          "avstar": 0,
+          "franvarande": 0
+        },
+        "-": {
+          "ja": 5,
+          "nej": 4,
+          "avstar": 0,
+          "franvarande": 0
+        },
+        "V": {
+          "ja": 0,
+          "nej": 21,
+          "avstar": 0,
+          "franvarande": 0
+        }
+      }
+    }
+  ]
+}

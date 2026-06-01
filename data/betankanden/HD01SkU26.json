@@ -1,0 +1,86 @@
+{
+  "dok_id": "HD01SkU26",
+  "titel": "Ett undantag i kupongskattelagen för utländska stater",
+  "utskott": "SkU",
+  "nummer": 26,
+  "datum": "2026-05-20",
+  "rm": "2025/26",
+  "kort_sammanfattning": "Utländska stater och deras motsvarigheter till svenska regioner, kommuner eller kommunalförbund behöver inte betala kupongskatt på utdelningar från svenska aktiebolag, europabolag eller fonder.\nDetta gäller stater inom EES eller de som har avtal om informationsutbyte med Sverige.\nLagändringen träder i kraft 1 juli 2026.",
+  "bakgrund": "Högsta förvaltningsdomstolen har bedömt att det strider mot EU-rätten att ta ut kupongskatt på utdelningar till utländska offentliga pensionsinstitut, när svenska AP-fonder är skattebefriade.",
+  "beslut": "Riksdagen antar regeringens förslag om ett undantag i kupongskattelagen för utländska stater.",
+  "roster": {},
+  "tags": [
+    "EKONOMI",
+    "JORDBRUK"
+  ],
+  "status": "NY",
+  "passed": true,
+  "dokument_url": "https://www.riksdagen.se/sv/dokument-och-lagar/dokument/betankande/_HD01SkU26",
+  "voteringar": [],
+  "delvoterings": [
+    {
+      "punkt": "2",
+      "rubrik": "Uppföljning och konsekvensanalys",
+      "ja": 200,
+      "nej": 149,
+      "avstar": 0,
+      "franvarande": 0,
+      "roster": {
+        "S": {
+          "ja": 0,
+          "nej": 106,
+          "avstar": 0,
+          "franvarande": 0
+        },
+        "SD": {
+          "ja": 70,
+          "nej": 0,
+          "avstar": 0,
+          "franvarande": 0
+        },
+        "C": {
+          "ja": 24,
+          "nej": 0,
+          "avstar": 0,
+          "franvarande": 0
+        },
+        "M": {
+          "ja": 66,
+          "nej": 0,
+          "avstar": 0,
+          "franvarande": 0
+        },
+        "MP": {
+          "ja": 0,
+          "nej": 18,
+          "avstar": 0,
+          "franvarande": 0
+        },
+        "L": {
+          "ja": 16,
+          "nej": 0,
+          "avstar": 0,
+          "franvarande": 0
+        },
+        "KD": {
+          "ja": 19,
+          "nej": 0,
+          "avstar": 0,
+          "franvarande": 0
+        },
+        "-": {
+          "ja": 5,
+          "nej": 4,
+          "avstar": 0,
+          "franvarande": 0
+        },
+        "V": {
+          "ja": 0,
+          "nej": 21,
+          "avstar": 0,
+          "franvarande": 0
+        }
+      }
+    }
+  ]
+}

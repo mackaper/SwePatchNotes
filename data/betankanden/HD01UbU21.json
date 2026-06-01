@@ -1,0 +1,86 @@
+{
+  "dok_id": "HD01UbU21",
+  "titel": "Överlämnande av uppgifter mellan skolor i brottsförebyggande syfte",
+  "utskott": "UbU",
+  "nummer": 21,
+  "datum": "2026-05-27",
+  "rm": "2025/26",
+  "kort_sammanfattning": "En skola blir skyldig att lämna information om en elev till den nya skolan om det finns risk att eleven begår eller utsätts för brott.\nFler skolformer än tidigare blir skyldiga att informera om att de tagit emot en ny elev.\nEn skolenhet med enskild huvudman får rätt att behandla personuppgifter som mottagits från en tidigare skola.\nReglerna börjar gälla 30 juni 2026 och tillämpas från 1 januari 2027.",
+  "bakgrund": "Regeringen vill stärka tryggheten i skolan och ge elever adekvata stödinsatser genom att underlätta informationsöverföring mellan skolor vid risk för brott.",
+  "beslut": "Riksdagen godkänner regeringens förslag om ändringar i skollagen gällande överlämnande av uppgifter mellan skolor i brottsförebyggande syfte.",
+  "roster": {},
+  "tags": [
+    "BROTT",
+    "UTBILDNING"
+  ],
+  "status": "NY",
+  "passed": true,
+  "dokument_url": "https://www.riksdagen.se/sv/dokument-och-lagar/dokument/betankande/_HD01UbU21",
+  "voteringar": [],
+  "delvoterings": [
+    {
+      "punkt": "2",
+      "rubrik": "Överlämnande av uppgifter, lärares arbetsbelastning och barnrättsperspektivet",
+      "ja": 327,
+      "nej": 20,
+      "avstar": 0,
+      "franvarande": 2,
+      "roster": {
+        "S": {
+          "ja": 106,
+          "nej": 0,
+          "avstar": 0,
+          "franvarande": 0
+        },
+        "SD": {
+          "ja": 70,
+          "nej": 0,
+          "avstar": 0,
+          "franvarande": 0
+        },
+        "C": {
+          "ja": 24,
+          "nej": 0,
+          "avstar": 0,
+          "franvarande": 0
+        },
+        "M": {
+          "ja": 66,
+          "nej": 0,
+          "avstar": 0,
+          "franvarande": 0
+        },
+        "MP": {
+          "ja": 0,
+          "nej": 18,
+          "avstar": 0,
+          "franvarande": 0
+        },
+        "L": {
+          "ja": 15,
+          "nej": 0,
+          "avstar": 0,
+          "franvarande": 1
+        },
+        "KD": {
+          "ja": 19,
+          "nej": 0,
+          "avstar": 0,
+          "franvarande": 0
+        },
+        "-": {
+          "ja": 6,
+          "nej": 2,
+          "avstar": 0,
+          "franvarande": 1
+        },
+        "V": {
+          "ja": 21,
+          "nej": 0,
+          "avstar": 0,
+          "franvarande": 0
+        }
+      }
+    }
+  ]
+}

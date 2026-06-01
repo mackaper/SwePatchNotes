@@ -1,0 +1,205 @@
+{
+  "dok_id": "HD01UU4",
+  "titel": "Nordiskt samarbete inklusive Arktis",
+  "utskott": "UU",
+  "nummer": 4,
+  "datum": "2026-05-27",
+  "rm": "2025/26",
+  "kort_sammanfattning": "Riksdagen avslår motionsyrkanden om att återuppta arbetet med den nordiska gränshinderdatabasen och att regeringen ska vara drivande för att stärka det nordiska samarbetet.\nRiksdagen avslår även motionsyrkanden om utrikes-, säkerhetspolitik, krisberedskap och Arktis.",
+  "bakgrund": "Regeringen har redogjort för det nordiska samarbetet under 2025, med fokus på Nordiska ministerrådets verksamhet, och Nordiska rådets svenska delegation har redogjort för sin verksamhet under samma period.",
+  "beslut": "Riksdagen lägger regeringens skrivelse om nordiskt samarbete och Nordiska rådets svenska delegations redogörelse till handlingarna och avslår motionsyrkandena i frågan.",
+  "roster": {
+    "S": {
+      "ja": 106,
+      "nej": 0,
+      "avstar": 0,
+      "franvarande": 0
+    },
+    "SD": {
+      "ja": 70,
+      "nej": 0,
+      "avstar": 0,
+      "franvarande": 0
+    },
+    "C": {
+      "ja": 0,
+      "nej": 24,
+      "avstar": 0,
+      "franvarande": 0
+    },
+    "M": {
+      "ja": 66,
+      "nej": 0,
+      "avstar": 0,
+      "franvarande": 0
+    },
+    "MP": {
+      "ja": 0,
+      "nej": 0,
+      "avstar": 18,
+      "franvarande": 0
+    },
+    "L": {
+      "ja": 16,
+      "nej": 0,
+      "avstar": 0,
+      "franvarande": 0
+    },
+    "KD": {
+      "ja": 19,
+      "nej": 0,
+      "avstar": 0,
+      "franvarande": 0
+    },
+    "-": {
+      "ja": 7,
+      "nej": 0,
+      "avstar": 1,
+      "franvarande": 1
+    },
+    "V": {
+      "ja": 21,
+      "nej": 0,
+      "avstar": 0,
+      "franvarande": 0
+    }
+  },
+  "tags": [
+    "ARBETE",
+    "FÖRSVAR"
+  ],
+  "status": "NY",
+  "passed": true,
+  "dokument_url": "https://www.riksdagen.se/sv/dokument-och-lagar/dokument/betankande/_HD01UU4",
+  "voteringar": [
+    {
+      "party": "S",
+      "ja": 106,
+      "nej": 0,
+      "avstar": 0,
+      "franvarande": 0
+    },
+    {
+      "party": "SD",
+      "ja": 70,
+      "nej": 0,
+      "avstar": 0,
+      "franvarande": 0
+    },
+    {
+      "party": "C",
+      "ja": 0,
+      "nej": 24,
+      "avstar": 0,
+      "franvarande": 0
+    },
+    {
+      "party": "M",
+      "ja": 66,
+      "nej": 0,
+      "avstar": 0,
+      "franvarande": 0
+    },
+    {
+      "party": "MP",
+      "ja": 0,
+      "nej": 0,
+      "avstar": 18,
+      "franvarande": 0
+    },
+    {
+      "party": "L",
+      "ja": 16,
+      "nej": 0,
+      "avstar": 0,
+      "franvarande": 0
+    },
+    {
+      "party": "KD",
+      "ja": 19,
+      "nej": 0,
+      "avstar": 0,
+      "franvarande": 0
+    },
+    {
+      "party": "-",
+      "ja": 7,
+      "nej": 0,
+      "avstar": 1,
+      "franvarande": 1
+    },
+    {
+      "party": "V",
+      "ja": 21,
+      "nej": 0,
+      "avstar": 0,
+      "franvarande": 0
+    }
+  ],
+  "delvoterings": [
+    {
+      "punkt": "2",
+      "rubrik": "Utrikespolitik, säkerhetspolitik, krisberedskap och Arktis",
+      "ja": 199,
+      "nej": 107,
+      "avstar": 42,
+      "franvarande": 1,
+      "roster": {
+        "S": {
+          "ja": 0,
+          "nej": 106,
+          "avstar": 0,
+          "franvarande": 0
+        },
+        "SD": {
+          "ja": 70,
+          "nej": 0,
+          "avstar": 0,
+          "franvarande": 0
+        },
+        "C": {
+          "ja": 24,
+          "nej": 0,
+          "avstar": 0,
+          "franvarande": 0
+        },
+        "M": {
+          "ja": 66,
+          "nej": 0,
+          "avstar": 0,
+          "franvarande": 0
+        },
+        "MP": {
+          "ja": 0,
+          "nej": 0,
+          "avstar": 18,
+          "franvarande": 0
+        },
+        "L": {
+          "ja": 16,
+          "nej": 0,
+          "avstar": 0,
+          "franvarande": 0
+        },
+        "KD": {
+          "ja": 19,
+          "nej": 0,
+          "avstar": 0,
+          "franvarande": 0
+        },
+        "-": {
+          "ja": 4,
+          "nej": 1,
+          "avstar": 3,
+          "franvarande": 1
+        },
+        "V": {
+          "ja": 0,
+          "nej": 0,
+          "avstar": 21,
+          "franvarande": 0
+        }
+      }
+    }
+  ]
+}

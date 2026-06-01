@@ -1,5 +1,3995 @@
 [
   {
+    "dok_id": "HD01CU26",
+    "titel": "En ny konsumentkreditlag",
+    "utskott": "CU",
+    "nummer": 26,
+    "datum": "2026-05-27",
+    "rm": "2025/26",
+    "kort_sammanfattning": "En ny konsumentkreditlag införs för att stärka konsumentskyddet och anpassa lagstiftningen till den senaste utvecklingen.\nFler näringsidkare som lämnar eller förmedlar krediter ska stå under tillsyn och efterleva krav på tillräcklig kunskap och kompetens genom ett nytt tillståndskrav.\nReglerna för kreditprövning skärps för att motverka överskuldsättning.\nEn mindre rättelse görs i lagen om elektronisk kommunikation, där ett kommatecken och orden ”eller sluten ungdomsvård” tas bort i 9 kap. 33 § första stycket 1.",
+    "roster": {},
+    "tags": [
+      "HÄLSA",
+      "JORDBRUK"
+    ],
+    "status": "NY",
+    "passed": true,
+    "delvoterings": [
+      {
+        "punkt": "2",
+        "rubrik": "Ränteskillnadsersättning",
+        "ja": 321,
+        "nej": 25,
+        "avstar": 2,
+        "franvarande": 1,
+        "roster": {
+          "S": {
+            "ja": 106,
+            "nej": 0,
+            "avstar": 0,
+            "franvarande": 0
+          },
+          "SD": {
+            "ja": 70,
+            "nej": 0,
+            "avstar": 0,
+            "franvarande": 0
+          },
+          "C": {
+            "ja": 0,
+            "nej": 24,
+            "avstar": 0,
+            "franvarande": 0
+          },
+          "M": {
+            "ja": 66,
+            "nej": 0,
+            "avstar": 0,
+            "franvarande": 0
+          },
+          "MP": {
+            "ja": 17,
+            "nej": 1,
+            "avstar": 0,
+            "franvarande": 0
+          },
+          "L": {
+            "ja": 16,
+            "nej": 0,
+            "avstar": 0,
+            "franvarande": 0
+          },
+          "KD": {
+            "ja": 19,
+            "nej": 0,
+            "avstar": 0,
+            "franvarande": 0
+          },
+          "-": {
+            "ja": 6,
+            "nej": 0,
+            "avstar": 2,
+            "franvarande": 1
+          },
+          "V": {
+            "ja": 21,
+            "nej": 0,
+            "avstar": 0,
+            "franvarande": 0
+          }
+        }
+      }
+    ]
+  },
+  {
+    "dok_id": "HD01FiU39",
+    "titel": "Åtgärder för att stärka kontanternas funktionssätt",
+    "utskott": "FiU",
+    "nummer": 39,
+    "datum": "2026-05-27",
+    "rm": "2025/26",
+    "kort_sammanfattning": "Livsmedelsbutiker och apotek måste som huvudregel acceptera kontanter i bemannade kassor.\nUndantag gäller om det hotar personalens säkerhet, riskerar att leda till nedläggning på grund av kostnader, eller vid misstanke om penningtvätt.\nKonsumenter ska kunna göra kontantinsättningar i betryggande utsträckning i hela landet.\nFöretag ska ha tillgång till behovsanpassade tjänster för växelhantering och dagskasseinsättning.",
+    "roster": {},
+    "tags": [
+      "EKONOMI",
+      "FÖRSVAR"
+    ],
+    "status": "NY",
+    "passed": true,
+    "delvoterings": []
+  },
+  {
+    "dok_id": "HD01FiU42",
+    "titel": "Förenklad leverantörskontroll vid upphandling",
+    "utskott": "FiU",
+    "nummer": 42,
+    "datum": "2026-05-27",
+    "rm": "2025/26",
+    "kort_sammanfattning": "Ett system för samordnad registerkontroll inrättas för att underlätta för upphandlande myndigheter att kontrollera om leverantörer bör uteslutas på grund av brott, obetalda skatter, socialförsäkringsavgifter eller ekonomiska svårigheter.\nSamma grunder för uteslutning ska gälla vid både offentlig upphandling och valfrihetssystem, vilket innebär att en sökande kan uteslutas från ett valfrihetssystem på samma grunder som vid upphandlingar, exempelvis brott eller obetalda skatter.\nInnan en sökande utesluts från ett valfrihetssystem ska denne ges möjlighet att yttra sig över skälen för uteslutning.\nDet regleras inte längre vilka intyg eller bevis som en upphandlande myndighet ska godta.",
+    "roster": {},
+    "tags": [
+      "EKONOMI",
+      "BROTT"
+    ],
+    "status": "NY",
+    "passed": true,
+    "delvoterings": [
+      {
+        "punkt": "2",
+        "rubrik": "Uteslutningsgrunder",
+        "ja": 200,
+        "nej": 148,
+        "avstar": 0,
+        "franvarande": 1,
+        "roster": {
+          "S": {
+            "ja": 0,
+            "nej": 106,
+            "avstar": 0,
+            "franvarande": 0
+          },
+          "SD": {
+            "ja": 70,
+            "nej": 0,
+            "avstar": 0,
+            "franvarande": 0
+          },
+          "C": {
+            "ja": 24,
+            "nej": 0,
+            "avstar": 0,
+            "franvarande": 0
+          },
+          "M": {
+            "ja": 66,
+            "nej": 0,
+            "avstar": 0,
+            "franvarande": 0
+          },
+          "MP": {
+            "ja": 0,
+            "nej": 18,
+            "avstar": 0,
+            "franvarande": 0
+          },
+          "L": {
+            "ja": 16,
+            "nej": 0,
+            "avstar": 0,
+            "franvarande": 0
+          },
+          "KD": {
+            "ja": 19,
+            "nej": 0,
+            "avstar": 0,
+            "franvarande": 0
+          },
+          "-": {
+            "ja": 5,
+            "nej": 3,
+            "avstar": 0,
+            "franvarande": 1
+          },
+          "V": {
+            "ja": 0,
+            "nej": 21,
+            "avstar": 0,
+            "franvarande": 0
+          }
+        }
+      },
+      {
+        "punkt": "3",
+        "rubrik": "Överväganden av åtgärderna",
+        "ja": 200,
+        "nej": 23,
+        "avstar": 125,
+        "franvarande": 1,
+        "roster": {
+          "S": {
+            "ja": 0,
+            "nej": 0,
+            "avstar": 106,
+            "franvarande": 0
+          },
+          "SD": {
+            "ja": 70,
+            "nej": 0,
+            "avstar": 0,
+            "franvarande": 0
+          },
+          "C": {
+            "ja": 24,
+            "nej": 0,
+            "avstar": 0,
+            "franvarande": 0
+          },
+          "M": {
+            "ja": 66,
+            "nej": 0,
+            "avstar": 0,
+            "franvarande": 0
+          },
+          "MP": {
+            "ja": 0,
+            "nej": 0,
+            "avstar": 18,
+            "franvarande": 0
+          },
+          "L": {
+            "ja": 16,
+            "nej": 0,
+            "avstar": 0,
+            "franvarande": 0
+          },
+          "KD": {
+            "ja": 19,
+            "nej": 0,
+            "avstar": 0,
+            "franvarande": 0
+          },
+          "-": {
+            "ja": 5,
+            "nej": 2,
+            "avstar": 1,
+            "franvarande": 1
+          },
+          "V": {
+            "ja": 0,
+            "nej": 21,
+            "avstar": 0,
+            "franvarande": 0
+          }
+        }
+      }
+    ]
+  },
+  {
+    "dok_id": "HD01UU3",
+    "titel": "Fördjupad resultatredovisning av internationellt bistånd",
+    "utskott": "UU",
+    "nummer": 3,
+    "datum": "2026-05-27",
+    "rm": "2025/26",
+    "kort_sammanfattning": "Riksdagen avslår motionsyrkanden om reformer, utformningen av stödet, jämställdhet samt kvinnor och säkerhet.\nSkrivelsen som redovisar det svenska biståndets verksamhet och resultat i Ukraina under perioden 2022–2025 läggs till handlingarna. \nInsatser i Moldavien och Armenien behandlas översiktligt.",
+    "roster": {},
+    "tags": [
+      "FÖRSVAR"
+    ],
+    "status": "NY",
+    "passed": true,
+    "delvoterings": [
+      {
+        "punkt": "2",
+        "rubrik": "Utformningen av stödet",
+        "ja": 299,
+        "nej": 25,
+        "avstar": 24,
+        "franvarande": 1,
+        "roster": {
+          "S": {
+            "ja": 106,
+            "nej": 0,
+            "avstar": 0,
+            "franvarande": 0
+          },
+          "SD": {
+            "ja": 70,
+            "nej": 0,
+            "avstar": 0,
+            "franvarande": 0
+          },
+          "C": {
+            "ja": 0,
+            "nej": 24,
+            "avstar": 0,
+            "franvarande": 0
+          },
+          "M": {
+            "ja": 66,
+            "nej": 0,
+            "avstar": 0,
+            "franvarande": 0
+          },
+          "MP": {
+            "ja": 17,
+            "nej": 0,
+            "avstar": 1,
+            "franvarande": 0
+          },
+          "L": {
+            "ja": 16,
+            "nej": 0,
+            "avstar": 0,
+            "franvarande": 0
+          },
+          "KD": {
+            "ja": 19,
+            "nej": 0,
+            "avstar": 0,
+            "franvarande": 0
+          },
+          "-": {
+            "ja": 5,
+            "nej": 0,
+            "avstar": 3,
+            "franvarande": 1
+          },
+          "V": {
+            "ja": 0,
+            "nej": 1,
+            "avstar": 20,
+            "franvarande": 0
+          }
+        }
+      },
+      {
+        "punkt": "3",
+        "rubrik": "Jämställdhet",
+        "ja": 282,
+        "nej": 66,
+        "avstar": 0,
+        "franvarande": 1,
+        "roster": {
+          "S": {
+            "ja": 105,
+            "nej": 1,
+            "avstar": 0,
+            "franvarande": 0
+          },
+          "SD": {
+            "ja": 70,
+            "nej": 0,
+            "avstar": 0,
+            "franvarande": 0
+          },
+          "C": {
+            "ja": 0,
+            "nej": 24,
+            "avstar": 0,
+            "franvarande": 0
+          },
+          "M": {
+            "ja": 66,
+            "nej": 0,
+            "avstar": 0,
+            "franvarande": 0
+          },
+          "MP": {
+            "ja": 0,
+            "nej": 18,
+            "avstar": 0,
+            "franvarande": 0
+          },
+          "L": {
+            "ja": 16,
+            "nej": 0,
+            "avstar": 0,
+            "franvarande": 0
+          },
+          "KD": {
+            "ja": 19,
+            "nej": 0,
+            "avstar": 0,
+            "franvarande": 0
+          },
+          "-": {
+            "ja": 6,
+            "nej": 2,
+            "avstar": 0,
+            "franvarande": 1
+          },
+          "V": {
+            "ja": 0,
+            "nej": 21,
+            "avstar": 0,
+            "franvarande": 0
+          }
+        }
+      },
+      {
+        "punkt": "4",
+        "rubrik": "Kvinnor och säkerhet",
+        "ja": 307,
+        "nej": 41,
+        "avstar": 0,
+        "franvarande": 1,
+        "roster": {
+          "S": {
+            "ja": 106,
+            "nej": 0,
+            "avstar": 0,
+            "franvarande": 0
+          },
+          "SD": {
+            "ja": 70,
+            "nej": 0,
+            "avstar": 0,
+            "franvarande": 0
+          },
+          "C": {
+            "ja": 24,
+            "nej": 0,
+            "avstar": 0,
+            "franvarande": 0
+          },
+          "M": {
+            "ja": 66,
+            "nej": 0,
+            "avstar": 0,
+            "franvarande": 0
+          },
+          "MP": {
+            "ja": 0,
+            "nej": 18,
+            "avstar": 0,
+            "franvarande": 0
+          },
+          "L": {
+            "ja": 16,
+            "nej": 0,
+            "avstar": 0,
+            "franvarande": 0
+          },
+          "KD": {
+            "ja": 19,
+            "nej": 0,
+            "avstar": 0,
+            "franvarande": 0
+          },
+          "-": {
+            "ja": 6,
+            "nej": 2,
+            "avstar": 0,
+            "franvarande": 1
+          },
+          "V": {
+            "ja": 0,
+            "nej": 21,
+            "avstar": 0,
+            "franvarande": 0
+          }
+        }
+      }
+    ]
+  },
+  {
+    "dok_id": "HD01UU4",
+    "titel": "Nordiskt samarbete inklusive Arktis",
+    "utskott": "UU",
+    "nummer": 4,
+    "datum": "2026-05-27",
+    "rm": "2025/26",
+    "kort_sammanfattning": "Riksdagen avslår motionsyrkanden om att återuppta arbetet med den nordiska gränshinderdatabasen och att regeringen ska vara drivande för att stärka det nordiska samarbetet.\nRiksdagen avslår även motionsyrkanden om utrikes-, säkerhetspolitik, krisberedskap och Arktis.",
+    "roster": {
+      "S": {
+        "ja": 106,
+        "nej": 0,
+        "avstar": 0,
+        "franvarande": 0
+      },
+      "SD": {
+        "ja": 70,
+        "nej": 0,
+        "avstar": 0,
+        "franvarande": 0
+      },
+      "C": {
+        "ja": 0,
+        "nej": 24,
+        "avstar": 0,
+        "franvarande": 0
+      },
+      "M": {
+        "ja": 66,
+        "nej": 0,
+        "avstar": 0,
+        "franvarande": 0
+      },
+      "MP": {
+        "ja": 0,
+        "nej": 0,
+        "avstar": 18,
+        "franvarande": 0
+      },
+      "L": {
+        "ja": 16,
+        "nej": 0,
+        "avstar": 0,
+        "franvarande": 0
+      },
+      "KD": {
+        "ja": 19,
+        "nej": 0,
+        "avstar": 0,
+        "franvarande": 0
+      },
+      "-": {
+        "ja": 7,
+        "nej": 0,
+        "avstar": 1,
+        "franvarande": 1
+      },
+      "V": {
+        "ja": 21,
+        "nej": 0,
+        "avstar": 0,
+        "franvarande": 0
+      }
+    },
+    "tags": [
+      "ARBETE",
+      "FÖRSVAR"
+    ],
+    "status": "NY",
+    "passed": true,
+    "delvoterings": [
+      {
+        "punkt": "2",
+        "rubrik": "Utrikespolitik, säkerhetspolitik, krisberedskap och Arktis",
+        "ja": 199,
+        "nej": 107,
+        "avstar": 42,
+        "franvarande": 1,
+        "roster": {
+          "S": {
+            "ja": 0,
+            "nej": 106,
+            "avstar": 0,
+            "franvarande": 0
+          },
+          "SD": {
+            "ja": 70,
+            "nej": 0,
+            "avstar": 0,
+            "franvarande": 0
+          },
+          "C": {
+            "ja": 24,
+            "nej": 0,
+            "avstar": 0,
+            "franvarande": 0
+          },
+          "M": {
+            "ja": 66,
+            "nej": 0,
+            "avstar": 0,
+            "franvarande": 0
+          },
+          "MP": {
+            "ja": 0,
+            "nej": 0,
+            "avstar": 18,
+            "franvarande": 0
+          },
+          "L": {
+            "ja": 16,
+            "nej": 0,
+            "avstar": 0,
+            "franvarande": 0
+          },
+          "KD": {
+            "ja": 19,
+            "nej": 0,
+            "avstar": 0,
+            "franvarande": 0
+          },
+          "-": {
+            "ja": 4,
+            "nej": 1,
+            "avstar": 3,
+            "franvarande": 1
+          },
+          "V": {
+            "ja": 0,
+            "nej": 0,
+            "avstar": 21,
+            "franvarande": 0
+          }
+        }
+      }
+    ]
+  },
+  {
+    "dok_id": "HD01UbU21",
+    "titel": "Överlämnande av uppgifter mellan skolor i brottsförebyggande syfte",
+    "utskott": "UbU",
+    "nummer": 21,
+    "datum": "2026-05-27",
+    "rm": "2025/26",
+    "kort_sammanfattning": "En skola blir skyldig att lämna information om en elev till den nya skolan om det finns risk att eleven begår eller utsätts för brott.\nFler skolformer än tidigare blir skyldiga att informera om att de tagit emot en ny elev.\nEn skolenhet med enskild huvudman får rätt att behandla personuppgifter som mottagits från en tidigare skola.\nReglerna börjar gälla 30 juni 2026 och tillämpas från 1 januari 2027.",
+    "roster": {},
+    "tags": [
+      "BROTT",
+      "UTBILDNING"
+    ],
+    "status": "NY",
+    "passed": true,
+    "delvoterings": [
+      {
+        "punkt": "2",
+        "rubrik": "Överlämnande av uppgifter, lärares arbetsbelastning och barnrättsperspektivet",
+        "ja": 327,
+        "nej": 20,
+        "avstar": 0,
+        "franvarande": 2,
+        "roster": {
+          "S": {
+            "ja": 106,
+            "nej": 0,
+            "avstar": 0,
+            "franvarande": 0
+          },
+          "SD": {
+            "ja": 70,
+            "nej": 0,
+            "avstar": 0,
+            "franvarande": 0
+          },
+          "C": {
+            "ja": 24,
+            "nej": 0,
+            "avstar": 0,
+            "franvarande": 0
+          },
+          "M": {
+            "ja": 66,
+            "nej": 0,
+            "avstar": 0,
+            "franvarande": 0
+          },
+          "MP": {
+            "ja": 0,
+            "nej": 18,
+            "avstar": 0,
+            "franvarande": 0
+          },
+          "L": {
+            "ja": 15,
+            "nej": 0,
+            "avstar": 0,
+            "franvarande": 1
+          },
+          "KD": {
+            "ja": 19,
+            "nej": 0,
+            "avstar": 0,
+            "franvarande": 0
+          },
+          "-": {
+            "ja": 6,
+            "nej": 2,
+            "avstar": 0,
+            "franvarande": 1
+          },
+          "V": {
+            "ja": 21,
+            "nej": 0,
+            "avstar": 0,
+            "franvarande": 0
+          }
+        }
+      }
+    ]
+  },
+  {
+    "dok_id": "HD01UbU27",
+    "titel": "Bättre förutsättningar för yrkesutbildning",
+    "utskott": "UbU",
+    "nummer": 27,
+    "datum": "2026-05-27",
+    "rm": "2025/26",
+    "kort_sammanfattning": "Yrkesprov införs på yrkesprogram i gymnasieskolan, anpassade gymnasieskolan och kommunal vuxenutbildning, istället för gymnasiearbete om det finns ett sådant prov.\nMöjligheten att överlämna undervisning i yrkesinriktade ämnen på entreprenad utökas till att även gälla offentliga huvudmän inom skolväsendet.\nElever på individuella program i anpassade gymnasieskolan får rätt att fullfölja sin utbildning.",
+    "roster": {},
+    "tags": [
+      "UTBILDNING",
+      "ARBETE"
+    ],
+    "status": "NY",
+    "passed": true,
+    "delvoterings": [
+      {
+        "punkt": "2",
+        "rubrik": "Förutsättningar för yrkesutbildning på entreprenad",
+        "ja": 200,
+        "nej": 148,
+        "avstar": 0,
+        "franvarande": 1,
+        "roster": {
+          "S": {
+            "ja": 0,
+            "nej": 106,
+            "avstar": 0,
+            "franvarande": 0
+          },
+          "SD": {
+            "ja": 70,
+            "nej": 0,
+            "avstar": 0,
+            "franvarande": 0
+          },
+          "C": {
+            "ja": 24,
+            "nej": 0,
+            "avstar": 0,
+            "franvarande": 0
+          },
+          "M": {
+            "ja": 66,
+            "nej": 0,
+            "avstar": 0,
+            "franvarande": 0
+          },
+          "MP": {
+            "ja": 0,
+            "nej": 18,
+            "avstar": 0,
+            "franvarande": 0
+          },
+          "L": {
+            "ja": 16,
+            "nej": 0,
+            "avstar": 0,
+            "franvarande": 0
+          },
+          "KD": {
+            "ja": 19,
+            "nej": 0,
+            "avstar": 0,
+            "franvarande": 0
+          },
+          "-": {
+            "ja": 5,
+            "nej": 3,
+            "avstar": 0,
+            "franvarande": 1
+          },
+          "V": {
+            "ja": 0,
+            "nej": 21,
+            "avstar": 0,
+            "franvarande": 0
+          }
+        }
+      },
+      {
+        "punkt": "3",
+        "rubrik": "Införandet av yrkesprov",
+        "ja": 221,
+        "nej": 127,
+        "avstar": 0,
+        "franvarande": 1,
+        "roster": {
+          "S": {
+            "ja": 0,
+            "nej": 106,
+            "avstar": 0,
+            "franvarande": 0
+          },
+          "SD": {
+            "ja": 70,
+            "nej": 0,
+            "avstar": 0,
+            "franvarande": 0
+          },
+          "C": {
+            "ja": 24,
+            "nej": 0,
+            "avstar": 0,
+            "franvarande": 0
+          },
+          "M": {
+            "ja": 66,
+            "nej": 0,
+            "avstar": 0,
+            "franvarande": 0
+          },
+          "MP": {
+            "ja": 0,
+            "nej": 18,
+            "avstar": 0,
+            "franvarande": 0
+          },
+          "L": {
+            "ja": 16,
+            "nej": 0,
+            "avstar": 0,
+            "franvarande": 0
+          },
+          "KD": {
+            "ja": 19,
+            "nej": 0,
+            "avstar": 0,
+            "franvarande": 0
+          },
+          "-": {
+            "ja": 5,
+            "nej": 3,
+            "avstar": 0,
+            "franvarande": 1
+          },
+          "V": {
+            "ja": 21,
+            "nej": 0,
+            "avstar": 0,
+            "franvarande": 0
+          }
+        }
+      }
+    ]
+  },
+  {
+    "dok_id": "HD01UbU29",
+    "titel": "Utökade registerkontroller i skolväsendet",
+    "utskott": "UbU",
+    "nummer": 29,
+    "datum": "2026-05-27",
+    "rm": "2025/26",
+    "kort_sammanfattning": "Registerkontrollen för anställda och uppdragstagare inom skolväsendet utökas till att omfatta vissa uppgifter i misstankeregistret, utöver belastningsregistret.\nRegisterutdraget får vara högst sex månader gammalt, jämfört med tidigare ett år.\nTidsgränsen för när en person kan anställas eller tas emot hos samma arbetsgivare utan att visa nytt registerutdrag sänks från ett år till sex månader.\nRegisterkontroll införs även för de som ska anställas eller tas emot inom kommunal vuxenutbildning.",
+    "roster": {},
+    "tags": [
+      "UTBILDNING",
+      "ARBETE"
+    ],
+    "status": "NY",
+    "passed": true,
+    "delvoterings": [
+      {
+        "punkt": "2",
+        "rubrik": "Stärkta registerkontroller",
+        "ja": 176,
+        "nej": 172,
+        "avstar": 0,
+        "franvarande": 1,
+        "roster": {
+          "S": {
+            "ja": 0,
+            "nej": 106,
+            "avstar": 0,
+            "franvarande": 0
+          },
+          "SD": {
+            "ja": 70,
+            "nej": 0,
+            "avstar": 0,
+            "franvarande": 0
+          },
+          "C": {
+            "ja": 0,
+            "nej": 24,
+            "avstar": 0,
+            "franvarande": 0
+          },
+          "M": {
+            "ja": 66,
+            "nej": 0,
+            "avstar": 0,
+            "franvarande": 0
+          },
+          "MP": {
+            "ja": 0,
+            "nej": 18,
+            "avstar": 0,
+            "franvarande": 0
+          },
+          "L": {
+            "ja": 16,
+            "nej": 0,
+            "avstar": 0,
+            "franvarande": 0
+          },
+          "KD": {
+            "ja": 19,
+            "nej": 0,
+            "avstar": 0,
+            "franvarande": 0
+          },
+          "-": {
+            "ja": 5,
+            "nej": 3,
+            "avstar": 0,
+            "franvarande": 1
+          },
+          "V": {
+            "ja": 0,
+            "nej": 21,
+            "avstar": 0,
+            "franvarande": 0
+          }
+        }
+      }
+    ]
+  },
+  {
+    "dok_id": "HD01CU32",
+    "titel": "Lag om hyrköp av bostad",
+    "utskott": "CU",
+    "nummer": 32,
+    "datum": "2026-05-26",
+    "rm": "2025/26",
+    "kort_sammanfattning": "En ny lag om hyrköp av bostad införs, som reglerar avtal där en person hyr en bostad med rätt att köpa den inom en viss tid.\nLagen syftar till att underlätta för personer som inte har tillräckligt med sparade pengar för att köpa en bostad direkt.\nHyrköpsavtalet ska ange priset för bostaden eller hur priset ska beräknas, och optionen att köpa bostaden ska vara tidsbegränsad.\nBesittningsskyddet som normalt gäller för hyresgäster gäller inte vid hyrköpsavtal, men andra hyresrättsliga regler som uppsägning och underhåll gäller.\nSäljaren har informationsplikt gentemot köparen både före och under avtalets löptid.",
+    "roster": {
+      "S": {
+        "ja": 0,
+        "nej": 106,
+        "avstar": 0,
+        "franvarande": 0
+      },
+      "SD": {
+        "ja": 69,
+        "nej": 0,
+        "avstar": 0,
+        "franvarande": 1
+      },
+      "C": {
+        "ja": 24,
+        "nej": 0,
+        "avstar": 0,
+        "franvarande": 0
+      },
+      "M": {
+        "ja": 65,
+        "nej": 0,
+        "avstar": 0,
+        "franvarande": 1
+      },
+      "MP": {
+        "ja": 0,
+        "nej": 18,
+        "avstar": 0,
+        "franvarande": 0
+      },
+      "L": {
+        "ja": 16,
+        "nej": 0,
+        "avstar": 0,
+        "franvarande": 0
+      },
+      "KD": {
+        "ja": 19,
+        "nej": 0,
+        "avstar": 0,
+        "franvarande": 0
+      },
+      "-": {
+        "ja": 5,
+        "nej": 1,
+        "avstar": 3,
+        "franvarande": 0
+      },
+      "V": {
+        "ja": 0,
+        "nej": 0,
+        "avstar": 21,
+        "franvarande": 0
+      }
+    },
+    "tags": [
+      "EKONOMI",
+      "BOSTAD"
+    ],
+    "status": "NY",
+    "passed": true,
+    "delvoterings": [
+      {
+        "punkt": "2",
+        "rubrik": "Lagstiftningens framtida utformning",
+        "ja": 198,
+        "nej": 125,
+        "avstar": 24,
+        "franvarande": 2,
+        "roster": {
+          "S": {
+            "ja": 0,
+            "nej": 106,
+            "avstar": 0,
+            "franvarande": 0
+          },
+          "SD": {
+            "ja": 69,
+            "nej": 0,
+            "avstar": 0,
+            "franvarande": 1
+          },
+          "C": {
+            "ja": 24,
+            "nej": 0,
+            "avstar": 0,
+            "franvarande": 0
+          },
+          "M": {
+            "ja": 65,
+            "nej": 0,
+            "avstar": 0,
+            "franvarande": 1
+          },
+          "MP": {
+            "ja": 0,
+            "nej": 18,
+            "avstar": 0,
+            "franvarande": 0
+          },
+          "L": {
+            "ja": 16,
+            "nej": 0,
+            "avstar": 0,
+            "franvarande": 0
+          },
+          "KD": {
+            "ja": 19,
+            "nej": 0,
+            "avstar": 0,
+            "franvarande": 0
+          },
+          "-": {
+            "ja": 5,
+            "nej": 1,
+            "avstar": 3,
+            "franvarande": 0
+          },
+          "V": {
+            "ja": 0,
+            "nej": 0,
+            "avstar": 21,
+            "franvarande": 0
+          }
+        }
+      }
+    ]
+  },
+  {
+    "dok_id": "HD01CU33",
+    "titel": "Förbud mot kusinäktenskap och äktenskap mellan andra nära släktingar",
+    "utskott": "CU",
+    "nummer": 33,
+    "datum": "2026-05-26",
+    "rm": "2025/26",
+    "kort_sammanfattning": "Kusinäktenskap och äktenskap där en person är släkt i rakt nedstigande led med den andras syskon förbjuds.\nUtländska kusinäktenskap erkänns som huvudregel inte i Sverige.\nHalvsyskon och syskon genom adoption kan inte längre få tillstånd att gifta sig.",
+    "roster": {},
+    "tags": [
+      "JORDBRUK"
+    ],
+    "status": "NY",
+    "passed": true,
+    "delvoterings": []
+  },
+  {
+    "dok_id": "HD01CU36",
+    "titel": "Lag om avgift för områdessamverkan",
+    "utskott": "CU",
+    "nummer": 36,
+    "datum": "2026-05-26",
+    "rm": "2025/26",
+    "kort_sammanfattning": "En ny lag ger de som bedriver områdessamverkan rätt att ta ut en avgift från berörda fastighetsägare för att täcka kostnader.\nAvgiften får endast täcka kostnader för åtgärder som syftar till att förebygga brott, skapa trygghet och stärka områdets attraktivitet och lokala näringsliv, och som inte omfattas av statens eller kommunens ansvar.\nFastighetsägare till en- eller tvåbostadshus och tillhörande komplementbyggnader är undantagna från avgiftsskyldigheten.\nKommunen ska godkänna samverkanshuvudmannen, vilket kräver att huvudmannen företräder en kvalificerad majoritet av de berörda fastighetsägarna.",
+    "roster": {
+      "S": {
+        "ja": 2,
+        "nej": 104,
+        "avstar": 0,
+        "franvarande": 0
+      },
+      "SD": {
+        "ja": 69,
+        "nej": 0,
+        "avstar": 0,
+        "franvarande": 1
+      },
+      "C": {
+        "ja": 0,
+        "nej": 24,
+        "avstar": 0,
+        "franvarande": 0
+      },
+      "M": {
+        "ja": 65,
+        "nej": 0,
+        "avstar": 0,
+        "franvarande": 1
+      },
+      "MP": {
+        "ja": 0,
+        "nej": 18,
+        "avstar": 0,
+        "franvarande": 0
+      },
+      "L": {
+        "ja": 16,
+        "nej": 0,
+        "avstar": 0,
+        "franvarande": 0
+      },
+      "KD": {
+        "ja": 19,
+        "nej": 0,
+        "avstar": 0,
+        "franvarande": 0
+      },
+      "-": {
+        "ja": 5,
+        "nej": 4,
+        "avstar": 0,
+        "franvarande": 0
+      },
+      "V": {
+        "ja": 0,
+        "nej": 21,
+        "avstar": 0,
+        "franvarande": 0
+      }
+    },
+    "tags": [
+      "EKONOMI",
+      "BROTT"
+    ],
+    "status": "NY",
+    "passed": true,
+    "delvoterings": [
+      {
+        "punkt": "2",
+        "rubrik": "Andra åtgärder för trygghet i den byggda miljön",
+        "ja": 196,
+        "nej": 107,
+        "avstar": 41,
+        "franvarande": 5,
+        "roster": {
+          "S": {
+            "ja": 0,
+            "nej": 106,
+            "avstar": 0,
+            "franvarande": 0
+          },
+          "SD": {
+            "ja": 67,
+            "nej": 0,
+            "avstar": 0,
+            "franvarande": 3
+          },
+          "C": {
+            "ja": 23,
+            "nej": 0,
+            "avstar": 0,
+            "franvarande": 1
+          },
+          "M": {
+            "ja": 66,
+            "nej": 0,
+            "avstar": 0,
+            "franvarande": 0
+          },
+          "MP": {
+            "ja": 0,
+            "nej": 0,
+            "avstar": 18,
+            "franvarande": 0
+          },
+          "L": {
+            "ja": 16,
+            "nej": 0,
+            "avstar": 0,
+            "franvarande": 0
+          },
+          "KD": {
+            "ja": 19,
+            "nej": 0,
+            "avstar": 0,
+            "franvarande": 0
+          },
+          "-": {
+            "ja": 5,
+            "nej": 1,
+            "avstar": 3,
+            "franvarande": 0
+          },
+          "V": {
+            "ja": 0,
+            "nej": 0,
+            "avstar": 20,
+            "franvarande": 1
+          }
+        }
+      }
+    ]
+  },
+  {
+    "dok_id": "HD01CU39",
+    "titel": "Förenklade regler vid ändring av en byggnad",
+    "utskott": "CU",
+    "nummer": 39,
+    "datum": "2026-05-26",
+    "rm": "2025/26",
+    "kort_sammanfattning": "”Ombyggnad” i plan- och bygglagen ersätts med ”större byggnadsändring”, vilket definieras som en lov- eller anmälningspliktig ändring som innebär en stor ekonomisk investering och omfattande förnyelse av en betydande del av byggnaden.\nVid ändring av en byggnad ska utformningskrav och tekniska egenskapskrav gälla \"för det som ändras\", exempelvis krav på dörröppningens bredd vid dörrbygge mellan rum, men normalt inte på de anslutande rummen.\nKrav på tillgänglighet och användbarhet för personer med nedsatt rörelse- eller orienteringsförmåga gäller inte för bostäder som inreds på vindar eller i suterräng.",
+    "roster": {
+      "S": {
+        "ja": 0,
+        "nej": 106,
+        "avstar": 0,
+        "franvarande": 0
+      },
+      "SD": {
+        "ja": 69,
+        "nej": 0,
+        "avstar": 0,
+        "franvarande": 1
+      },
+      "C": {
+        "ja": 24,
+        "nej": 0,
+        "avstar": 0,
+        "franvarande": 0
+      },
+      "M": {
+        "ja": 64,
+        "nej": 0,
+        "avstar": 1,
+        "franvarande": 1
+      },
+      "MP": {
+        "ja": 0,
+        "nej": 18,
+        "avstar": 0,
+        "franvarande": 0
+      },
+      "L": {
+        "ja": 16,
+        "nej": 0,
+        "avstar": 0,
+        "franvarande": 0
+      },
+      "KD": {
+        "ja": 19,
+        "nej": 0,
+        "avstar": 0,
+        "franvarande": 0
+      },
+      "-": {
+        "ja": 5,
+        "nej": 4,
+        "avstar": 0,
+        "franvarande": 0
+      },
+      "V": {
+        "ja": 0,
+        "nej": 21,
+        "avstar": 0,
+        "franvarande": 0
+      }
+    },
+    "tags": [
+      "EKONOMI",
+      "JORDBRUK"
+    ],
+    "status": "ÄNDRAD",
+    "passed": true,
+    "delvoterings": [
+      {
+        "punkt": "2",
+        "rubrik": "Regeringens lagförslag i övrigt",
+        "ja": 326,
+        "nej": 21,
+        "avstar": 0,
+        "franvarande": 2,
+        "roster": {
+          "S": {
+            "ja": 106,
+            "nej": 0,
+            "avstar": 0,
+            "franvarande": 0
+          },
+          "SD": {
+            "ja": 69,
+            "nej": 0,
+            "avstar": 0,
+            "franvarande": 1
+          },
+          "C": {
+            "ja": 24,
+            "nej": 0,
+            "avstar": 0,
+            "franvarande": 0
+          },
+          "M": {
+            "ja": 65,
+            "nej": 0,
+            "avstar": 0,
+            "franvarande": 1
+          },
+          "MP": {
+            "ja": 0,
+            "nej": 18,
+            "avstar": 0,
+            "franvarande": 0
+          },
+          "L": {
+            "ja": 16,
+            "nej": 0,
+            "avstar": 0,
+            "franvarande": 0
+          },
+          "KD": {
+            "ja": 19,
+            "nej": 0,
+            "avstar": 0,
+            "franvarande": 0
+          },
+          "-": {
+            "ja": 6,
+            "nej": 3,
+            "avstar": 0,
+            "franvarande": 0
+          },
+          "V": {
+            "ja": 21,
+            "nej": 0,
+            "avstar": 0,
+            "franvarande": 0
+          }
+        }
+      }
+    ]
+  },
+  {
+    "dok_id": "HD01CU41",
+    "titel": "Undantag från krav enligt art- och habitatdirektivet vid vattenkraftens omprövning",
+    "utskott": "CU",
+    "nummer": 41,
+    "datum": "2026-05-26",
+    "rm": "2025/26",
+    "kort_sammanfattning": "Vid omprövning av vattenkraftverk och dammar för moderna miljövillkor kan kraven på miljöanpassning sänkas.\nRegeringen får utökat mandat att meddela föreskrifter om undantag från förbuden att försämra vattenmiljön och äventyra miljökvalitetsnormer.",
+    "roster": {
+      "S": {
+        "ja": 106,
+        "nej": 0,
+        "avstar": 0,
+        "franvarande": 0
+      },
+      "SD": {
+        "ja": 69,
+        "nej": 0,
+        "avstar": 0,
+        "franvarande": 1
+      },
+      "C": {
+        "ja": 24,
+        "nej": 0,
+        "avstar": 0,
+        "franvarande": 0
+      },
+      "M": {
+        "ja": 66,
+        "nej": 0,
+        "avstar": 0,
+        "franvarande": 0
+      },
+      "MP": {
+        "ja": 0,
+        "nej": 18,
+        "avstar": 0,
+        "franvarande": 0
+      },
+      "L": {
+        "ja": 16,
+        "nej": 0,
+        "avstar": 0,
+        "franvarande": 0
+      },
+      "KD": {
+        "ja": 19,
+        "nej": 0,
+        "avstar": 0,
+        "franvarande": 0
+      },
+      "-": {
+        "ja": 6,
+        "nej": 3,
+        "avstar": 0,
+        "franvarande": 0
+      },
+      "V": {
+        "ja": 0,
+        "nej": 21,
+        "avstar": 0,
+        "franvarande": 0
+      }
+    },
+    "tags": [
+      "MILJÖ",
+      "JORDBRUK"
+    ],
+    "status": "NY",
+    "passed": true,
+    "delvoterings": [
+      {
+        "punkt": "2",
+        "rubrik": "Uppföljning och återredovisning av de nya reglerna",
+        "ja": 217,
+        "nej": 107,
+        "avstar": 24,
+        "franvarande": 1,
+        "roster": {
+          "S": {
+            "ja": 0,
+            "nej": 106,
+            "avstar": 0,
+            "franvarande": 0
+          },
+          "SD": {
+            "ja": 69,
+            "nej": 0,
+            "avstar": 0,
+            "franvarande": 1
+          },
+          "C": {
+            "ja": 24,
+            "nej": 0,
+            "avstar": 0,
+            "franvarande": 0
+          },
+          "M": {
+            "ja": 66,
+            "nej": 0,
+            "avstar": 0,
+            "franvarande": 0
+          },
+          "MP": {
+            "ja": 18,
+            "nej": 0,
+            "avstar": 0,
+            "franvarande": 0
+          },
+          "L": {
+            "ja": 16,
+            "nej": 0,
+            "avstar": 0,
+            "franvarande": 0
+          },
+          "KD": {
+            "ja": 19,
+            "nej": 0,
+            "avstar": 0,
+            "franvarande": 0
+          },
+          "-": {
+            "ja": 5,
+            "nej": 1,
+            "avstar": 3,
+            "franvarande": 0
+          },
+          "V": {
+            "ja": 0,
+            "nej": 0,
+            "avstar": 21,
+            "franvarande": 0
+          }
+        }
+      },
+      {
+        "punkt": "3",
+        "rubrik": "Vattenkraftens förutsättningar",
+        "ja": 282,
+        "nej": 24,
+        "avstar": 42,
+        "franvarande": 1,
+        "roster": {
+          "S": {
+            "ja": 106,
+            "nej": 0,
+            "avstar": 0,
+            "franvarande": 0
+          },
+          "SD": {
+            "ja": 69,
+            "nej": 0,
+            "avstar": 0,
+            "franvarande": 1
+          },
+          "C": {
+            "ja": 0,
+            "nej": 24,
+            "avstar": 0,
+            "franvarande": 0
+          },
+          "M": {
+            "ja": 66,
+            "nej": 0,
+            "avstar": 0,
+            "franvarande": 0
+          },
+          "MP": {
+            "ja": 0,
+            "nej": 0,
+            "avstar": 18,
+            "franvarande": 0
+          },
+          "L": {
+            "ja": 16,
+            "nej": 0,
+            "avstar": 0,
+            "franvarande": 0
+          },
+          "KD": {
+            "ja": 19,
+            "nej": 0,
+            "avstar": 0,
+            "franvarande": 0
+          },
+          "-": {
+            "ja": 6,
+            "nej": 0,
+            "avstar": 3,
+            "franvarande": 0
+          },
+          "V": {
+            "ja": 0,
+            "nej": 0,
+            "avstar": 21,
+            "franvarande": 0
+          }
+        }
+      }
+    ]
+  },
+  {
+    "dok_id": "HD01FiU37",
+    "titel": "En ny funktion för operativ krishantering i den finansiella sektorn",
+    "utskott": "FiU",
+    "nummer": 37,
+    "datum": "2026-05-26",
+    "rm": "2025/26",
+    "kort_sammanfattning": "Riksbanken får ansvaret för att leda en ny funktion för operativ krishantering vid allvarliga driftsstörningar i det finansiella systemet.\nFunktionen ska inkludera Finansinspektionen, Riksgäldskontoret och vissa företag i den finansiella sektorn.\nMyndigheter och företag som deltar i funktionen ska dela nödvändig information med varandra.\nSekretess ska gälla för uppgifter om enskildas intressen i myndigheters medverkan i krishanteringsfunktionen.\nRiksbanken ska samverka med Finansinspektionen, Riksgäldskontoret, MSB och andra relevanta myndigheter i frågor om fredstida krissituationer och höjd beredskap.",
+    "roster": {},
+    "tags": [
+      "EKONOMI",
+      "UTBILDNING"
+    ],
+    "status": "NY",
+    "passed": true,
+    "delvoterings": []
+  },
+  {
+    "dok_id": "HD01FiU40",
+    "titel": "En starkare fondmarknad",
+    "utskott": "FiU",
+    "nummer": 40,
+    "datum": "2026-05-26",
+    "rm": "2025/26",
+    "kort_sammanfattning": "Kravet på inlösen av fondandelar gäller inte om de handlas på en multilateral handelsplattform (MTF).\nEn andelsklass i en värdepappersfond eller specialfond kan undantas från inlösenkravet om andelarna handlas på en reglerad marknad eller MTF.\nVärdepappersfonder ska vara öppna för inlösen minst två gånger per månad, men kan vara öppna en gång per månad om det är motiverat.\nFondbolag kan kräva att en fondandelsägare anmäler inlösen i förväg, dock högst 10 bankdagar före inlösendagen.\nFondbolag ska välja minst två likviditetshanteringsverktyg för varje värdepappersfond, anpassade efter fondens investeringsstrategi och likviditetsprofil.",
+    "roster": {},
+    "tags": [
+      "TRANSPORT"
+    ],
+    "status": "NY",
+    "passed": true,
+    "delvoterings": []
+  },
+  {
+    "dok_id": "HD01FiU43",
+    "titel": "Förbättrade förutsättningar för kommuner att motverka felaktiga utbetalningar från välfärdssystemen",
+    "utskott": "FiU",
+    "nummer": 43,
+    "datum": "2026-05-26",
+    "rm": "2025/26",
+    "kort_sammanfattning": "Kommuners utbetalningar av ekonomiska förmåner och stöd till enskilda kan bli föremål för Utbetalningsmyndighetens dataanalys och granskning.\nKommuner blir skyldiga att lämna uppgifter till Utbetalningsmyndigheten för dataanalyser och urval, samt kompletterande uppgifter vid fördjupad granskning.\nUtbetalningsmyndigheten ska underrätta kommunen om när en fördjupad granskning inleds, avslutas och om resultatet.",
+    "roster": {},
+    "tags": [
+      "EKONOMI",
+      "JORDBRUK"
+    ],
+    "status": "NY",
+    "passed": true,
+    "delvoterings": []
+  },
+  {
+    "dok_id": "HD01JuU28",
+    "titel": "Polisens användning av AI för ansiktsigenkänning i realtid",
+    "utskott": "JuU",
+    "nummer": 28,
+    "datum": "2026-05-26",
+    "rm": "2025/26",
+    "kort_sammanfattning": "Polismyndigheten får använda AI för ansiktsigenkänning i realtid för att lokalisera eller identifiera personer i specifika situationer.\nDetta gäller personer som misstänks vara utsatta för människorov, människohandel eller människoexploatering, eller som är försvunna och misstänks vara utsatta för brott.\nDet gäller även vid överhängande risk för allvarliga brott som hotar liv eller säkerhet, eller vid skälig misstanke om brott med minst fyra års fängelse i straffskalan, eller för att verkställa straffrättsliga påföljder för dömda för sådana brott.\nAnvändningen kräver tillstånd från åklagare eller domstol, men i brådskande fall kan den påbörjas utan tillstånd om ansökan görs inom 24 timmar.\nLagen träder i kraft den 1 juli 2026.",
+    "roster": {
+      "S": {
+        "ja": 106,
+        "nej": 0,
+        "avstar": 0,
+        "franvarande": 0
+      },
+      "SD": {
+        "ja": 69,
+        "nej": 0,
+        "avstar": 0,
+        "franvarande": 1
+      },
+      "C": {
+        "ja": 0,
+        "nej": 24,
+        "avstar": 0,
+        "franvarande": 0
+      },
+      "M": {
+        "ja": 64,
+        "nej": 0,
+        "avstar": 0,
+        "franvarande": 2
+      },
+      "MP": {
+        "ja": 18,
+        "nej": 0,
+        "avstar": 0,
+        "franvarande": 0
+      },
+      "L": {
+        "ja": 16,
+        "nej": 0,
+        "avstar": 0,
+        "franvarande": 0
+      },
+      "KD": {
+        "ja": 19,
+        "nej": 0,
+        "avstar": 0,
+        "franvarande": 0
+      },
+      "-": {
+        "ja": 6,
+        "nej": 3,
+        "avstar": 0,
+        "franvarande": 0
+      },
+      "V": {
+        "ja": 19,
+        "nej": 1,
+        "avstar": 0,
+        "franvarande": 1
+      }
+    },
+    "tags": [
+      "BROTT",
+      "FÖRSVAR"
+    ],
+    "status": "NY",
+    "passed": true,
+    "delvoterings": [
+      {
+        "punkt": "2",
+        "rubrik": "Tillståndsprövning, underrättelseskyldighet och integritetsskydd",
+        "ja": 305,
+        "nej": 39,
+        "avstar": 3,
+        "franvarande": 2,
+        "roster": {
+          "S": {
+            "ja": 106,
+            "nej": 0,
+            "avstar": 0,
+            "franvarande": 0
+          },
+          "SD": {
+            "ja": 69,
+            "nej": 0,
+            "avstar": 0,
+            "franvarande": 1
+          },
+          "C": {
+            "ja": 24,
+            "nej": 0,
+            "avstar": 0,
+            "franvarande": 0
+          },
+          "M": {
+            "ja": 65,
+            "nej": 0,
+            "avstar": 0,
+            "franvarande": 1
+          },
+          "MP": {
+            "ja": 0,
+            "nej": 18,
+            "avstar": 0,
+            "franvarande": 0
+          },
+          "L": {
+            "ja": 16,
+            "nej": 0,
+            "avstar": 0,
+            "franvarande": 0
+          },
+          "KD": {
+            "ja": 19,
+            "nej": 0,
+            "avstar": 0,
+            "franvarande": 0
+          },
+          "-": {
+            "ja": 6,
+            "nej": 0,
+            "avstar": 3,
+            "franvarande": 0
+          },
+          "V": {
+            "ja": 0,
+            "nej": 21,
+            "avstar": 0,
+            "franvarande": 0
+          }
+        }
+      },
+      {
+        "punkt": "3",
+        "rubrik": "Proportionalitet och misstankegrad",
+        "ja": 325,
+        "nej": 18,
+        "avstar": 3,
+        "franvarande": 3,
+        "roster": {
+          "S": {
+            "ja": 106,
+            "nej": 0,
+            "avstar": 0,
+            "franvarande": 0
+          },
+          "SD": {
+            "ja": 69,
+            "nej": 0,
+            "avstar": 0,
+            "franvarande": 1
+          },
+          "C": {
+            "ja": 24,
+            "nej": 0,
+            "avstar": 0,
+            "franvarande": 0
+          },
+          "M": {
+            "ja": 65,
+            "nej": 0,
+            "avstar": 0,
+            "franvarande": 1
+          },
+          "MP": {
+            "ja": 0,
+            "nej": 18,
+            "avstar": 0,
+            "franvarande": 0
+          },
+          "L": {
+            "ja": 16,
+            "nej": 0,
+            "avstar": 0,
+            "franvarande": 0
+          },
+          "KD": {
+            "ja": 19,
+            "nej": 0,
+            "avstar": 0,
+            "franvarande": 0
+          },
+          "-": {
+            "ja": 6,
+            "nej": 0,
+            "avstar": 3,
+            "franvarande": 0
+          },
+          "V": {
+            "ja": 20,
+            "nej": 0,
+            "avstar": 0,
+            "franvarande": 1
+          }
+        }
+      }
+    ]
+  },
+  {
+    "dok_id": "HD01JuU36",
+    "titel": "Utökade möjligheter att ingripa i säkerhetskänslig verksamhet",
+    "utskott": "JuU",
+    "nummer": 36,
+    "datum": "2026-05-26",
+    "rm": "2025/26",
+    "kort_sammanfattning": "Tillsynsmyndigheterna får utökade möjligheter att ingripa i avtals- och samarbetsförhållanden som innebär att säkerhetskänslig verksamhet exponeras.\nIngripandemöjligheterna utvidgas till att gälla även förfaranden som inte kräver säkerhetsskyddsavtal.\nEtt krav på anmälan av förfaranden införs, där utebliven anmälan kan leda till sanktionsavgift.\nTillsynsmyndigheterna får möjlighet att besluta om interimistiska förelägganden och utökade möjligheter att bedriva tillsyn hos andra aktörer än verksamhetsutövaren.\nTillsynsmyndigheterna får utökade möjligheter att förelägga en verksamhetsutövare att göra en särskild säkerhetsskyddsbedömning och lämplighetsprövning.",
+    "roster": {},
+    "tags": [
+      "EKONOMI",
+      "FÖRSVAR"
+    ],
+    "status": "NY",
+    "passed": true,
+    "delvoterings": []
+  },
+  {
+    "dok_id": "HD01JuU43",
+    "titel": "Stärkt lagstiftning mot hedersrelaterat våld och förtryck",
+    "utskott": "JuU",
+    "nummer": 43,
+    "datum": "2026-05-26",
+    "rm": "2025/26",
+    "kort_sammanfattning": "Brottet vilseledande till äktenskapsresa byter namn till äktenskapsresebrott och det straffbara området utvidgas.\nEtt nytt brott, äktenskapsresebrott mot barn, införs.\nFörsök till äktenskapsresebrott och äktenskapsresebrott mot barn kriminaliseras.\nStraffen för äktenskapstvång, barnäktenskapsbrott och äktenskapsresebrott skärps; minimistraffet för äktenskapstvång och barnäktenskapsbrott höjs till fängelse i sex månader och maximistraffet höjs till fängelse i sex år, straffskalan för äktenskapsresebrott skärps till fängelse i upp till fyra år.\nHemliga tvångsmedel får användas i utredningar om äktenskapstvång och barnäktenskapsbrott.\nFörbudet mot att erkänna otillåtna utländska äktenskap gäller utan undantag, vilket innebär att den nuvarande möjligheten till undantag tas bort.",
+    "roster": {},
+    "tags": [
+      "BROTT",
+      "BARN"
+    ],
+    "status": "NY",
+    "passed": true,
+    "delvoterings": []
+  },
+  {
+    "dok_id": "HD01MJU23",
+    "titel": "Förenklingar i jaktlagstiftningen",
+    "utskott": "MJU",
+    "nummer": 23,
+    "datum": "2026-05-26",
+    "rm": "2025/26",
+    "kort_sammanfattning": "Regeringen får utfärda föreskrifter om att vilt får fångas på annans mark för märkning, undersökning eller andra åtgärder för att skydda och bevara vilt.\nJakträttshavare får söka efter, spåra eller förfölja vilt för att avliva det av djurskyddsskäl.\nJakt på allmänt vatten tillåts efter anmälan.\nSäljakt i Sveriges ekonomiska zon tillåts efter anmälan.\nEn ny sekretessbestämmelse införs för att skydda identiteten på personer i ärenden om jakt på stora rovdjur och ersättning för rovdjursskador.",
+    "roster": {
+      "S": {
+        "ja": 106,
+        "nej": 0,
+        "avstar": 0,
+        "franvarande": 0
+      },
+      "SD": {
+        "ja": 69,
+        "nej": 0,
+        "avstar": 0,
+        "franvarande": 1
+      },
+      "C": {
+        "ja": 24,
+        "nej": 0,
+        "avstar": 0,
+        "franvarande": 0
+      },
+      "M": {
+        "ja": 65,
+        "nej": 0,
+        "avstar": 0,
+        "franvarande": 1
+      },
+      "MP": {
+        "ja": 0,
+        "nej": 18,
+        "avstar": 0,
+        "franvarande": 0
+      },
+      "L": {
+        "ja": 16,
+        "nej": 0,
+        "avstar": 0,
+        "franvarande": 0
+      },
+      "KD": {
+        "ja": 19,
+        "nej": 0,
+        "avstar": 0,
+        "franvarande": 0
+      },
+      "-": {
+        "ja": 6,
+        "nej": 3,
+        "avstar": 0,
+        "franvarande": 0
+      },
+      "V": {
+        "ja": 0,
+        "nej": 21,
+        "avstar": 0,
+        "franvarande": 0
+      }
+    },
+    "tags": [
+      "EKONOMI",
+      "JORDBRUK"
+    ],
+    "status": "NY",
+    "passed": true,
+    "delvoterings": []
+  },
+  {
+    "dok_id": "HD01MJU25",
+    "titel": "Beredskapslager i livsmedelskedjan",
+    "utskott": "MJU",
+    "nummer": 25,
+    "datum": "2026-05-26",
+    "rm": "2025/26",
+    "kort_sammanfattning": "En ny lag om beredskapslager av varor i livsmedelskedjan införs för att säkerställa tillgången till livsmedel i krig, krigsfara eller vid allvarlig brist.\nLagen träder i kraft den 1 juli 2026.\nEn ändring i offentlighets- och sekretesslagen görs också.",
+    "roster": {},
+    "tags": [
+      "FÖRSVAR",
+      "JORDBRUK"
+    ],
+    "status": "NY",
+    "passed": true,
+    "delvoterings": [
+      {
+        "punkt": "2",
+        "rubrik": "Livsmedelsberedskap och hållbarhet",
+        "ja": 303,
+        "nej": 42,
+        "avstar": 0,
+        "franvarande": 4,
+        "roster": {
+          "S": {
+            "ja": 105,
+            "nej": 0,
+            "avstar": 0,
+            "franvarande": 1
+          },
+          "SD": {
+            "ja": 69,
+            "nej": 0,
+            "avstar": 0,
+            "franvarande": 1
+          },
+          "C": {
+            "ja": 24,
+            "nej": 0,
+            "avstar": 0,
+            "franvarande": 0
+          },
+          "M": {
+            "ja": 65,
+            "nej": 0,
+            "avstar": 0,
+            "franvarande": 1
+          },
+          "MP": {
+            "ja": 0,
+            "nej": 18,
+            "avstar": 0,
+            "franvarande": 0
+          },
+          "L": {
+            "ja": 16,
+            "nej": 0,
+            "avstar": 0,
+            "franvarande": 0
+          },
+          "KD": {
+            "ja": 18,
+            "nej": 0,
+            "avstar": 0,
+            "franvarande": 1
+          },
+          "-": {
+            "ja": 6,
+            "nej": 3,
+            "avstar": 0,
+            "franvarande": 0
+          },
+          "V": {
+            "ja": 0,
+            "nej": 21,
+            "avstar": 0,
+            "franvarande": 0
+          }
+        }
+      }
+    ]
+  },
+  {
+    "dok_id": "HD01MJU26",
+    "titel": "Föreskrifter om förbud mot användning och innehav av vissa läkemedel för djur",
+    "utskott": "MJU",
+    "nummer": 26,
+    "datum": "2026-05-26",
+    "rm": "2025/26",
+    "kort_sammanfattning": "Regeringen eller den myndighet som regeringen bestämmer får meddela föreskrifter om begränsningar eller förbud mot att använda eller inneha ämnen med hormonell verkan och andra ämnen som kan lämna hälsofarliga restsubstanser.\nFöreskrifterna gäller djurhållare och personal inom djurens hälso- och sjukvård och ska vara nödvändiga för att uppfylla Sveriges skyldigheter enligt EU-rätten.",
+    "roster": {},
+    "tags": [
+      "HÄLSA",
+      "JORDBRUK"
+    ],
+    "status": "NY",
+    "passed": true,
+    "delvoterings": []
+  },
+  {
+    "dok_id": "HD01SfU26",
+    "titel": "Bidragsspärr och sanktionsavgift i socialförsäkringen",
+    "utskott": "SfU",
+    "nummer": 26,
+    "datum": "2026-05-26",
+    "rm": "2025/26",
+    "kort_sammanfattning": "En sanktionsavgift införs för de som orsakat felaktig eller för hög ersättning från socialförsäkringen eller statligt tandvårdsstöd. Avgiften är 25% av återbetalningsbeloppet, dock minst 4% av prisbasbeloppet.\nSkyldigheten att anmäla brott enligt bidragsbrottslagen begränsas till misstanke om grovt bidragsbrott eller om det finns särskilda skäl.\nEn bidragsspärr införs, vilket innebär att en person under en viss tid kan nekas rätt till en förmån om de medvetet eller av grov vårdslöshet lämnat oriktiga uppgifter. Spärren gäller minst 3 månader och högst 3 år.",
+    "roster": {
+      "S": {
+        "ja": 106,
+        "nej": 0,
+        "avstar": 0,
+        "franvarande": 0
+      },
+      "SD": {
+        "ja": 69,
+        "nej": 0,
+        "avstar": 0,
+        "franvarande": 1
+      },
+      "C": {
+        "ja": 24,
+        "nej": 0,
+        "avstar": 0,
+        "franvarande": 0
+      },
+      "M": {
+        "ja": 65,
+        "nej": 0,
+        "avstar": 0,
+        "franvarande": 1
+      },
+      "MP": {
+        "ja": 0,
+        "nej": 18,
+        "avstar": 0,
+        "franvarande": 0
+      },
+      "L": {
+        "ja": 16,
+        "nej": 0,
+        "avstar": 0,
+        "franvarande": 0
+      },
+      "KD": {
+        "ja": 19,
+        "nej": 0,
+        "avstar": 0,
+        "franvarande": 0
+      },
+      "-": {
+        "ja": 6,
+        "nej": 3,
+        "avstar": 0,
+        "franvarande": 0
+      },
+      "V": {
+        "ja": 0,
+        "nej": 21,
+        "avstar": 0,
+        "franvarande": 0
+      }
+    },
+    "tags": [
+      "EKONOMI",
+      "HÄLSA"
+    ],
+    "status": "NY",
+    "passed": true,
+    "delvoterings": []
+  },
+  {
+    "dok_id": "HD01SkU28",
+    "titel": "Sänkt alkoholskatt för alkoholvaror från oberoende småproducenter",
+    "utskott": "SkU",
+    "nummer": 28,
+    "datum": "2026-05-26",
+    "rm": "2025/26",
+    "kort_sammanfattning": "Ett system införs med nedsatt alkoholskatt för småproducenter av alkoholhaltiga drycker.\nNedsättningen gäller producenter med en årsproduktion på högst 100 000 liter vin, 1,5 miljoner liter andra jästa drycker, 25 000 liter mellanklassprodukter eller 1 000 liter ren alkohol (etylalkohol).\nProducenterna delas in i fem kategorier baserat på årsproduktion, där den lägsta kategorin får 50% skattenedsättning, vilken sedan minskar med 10 procentenheter per kategori.\nFör andra jästa drycker gäller nedsättningen endast drycker framställda genom jäsning av frukter, bär, grönsaker, honung löst i vatten eller juice från dessa, med begränsningar för tillsatt alkohol.",
+    "roster": {},
+    "tags": [
+      "EKONOMI",
+      "JORDBRUK"
+    ],
+    "status": "NY",
+    "passed": true,
+    "delvoterings": []
+  },
+  {
+    "dok_id": "HD01SoU29",
+    "titel": "Aktivitetskrav för mottagare av försörjningsstöd",
+    "utskott": "SoU",
+    "nummer": 29,
+    "datum": "2026-05-26",
+    "rm": "2025/26",
+    "kort_sammanfattning": "Socialnämnden blir skyldig att tillhandahålla aktiviteter för de som fått försörjningsstöd i minst tre sammanhängande månader.\nAktiviteterna ska öka förmågan att få arbete, förbättra språkkunskaper, underlätta arbetssökande eller vara arbetsplatsförlagda.\nDeltagandet anpassas efter individens förmåga.\nInspektionen för vård och omsorg kan besluta om sanktionsavgift för kommuner med systematiska brister.\nReglerna om aktivitetskrav börjar gälla 1 juli 2026, men tillämpas först på försörjningsstöd för oktober 2026.\nSanktionsavgifter för kommunerna träder i kraft 1 juli 2027.",
+    "roster": {
+      "S": {
+        "ja": 106,
+        "nej": 0,
+        "avstar": 0,
+        "franvarande": 0
+      },
+      "SD": {
+        "ja": 69,
+        "nej": 0,
+        "avstar": 0,
+        "franvarande": 1
+      },
+      "C": {
+        "ja": 24,
+        "nej": 0,
+        "avstar": 0,
+        "franvarande": 0
+      },
+      "M": {
+        "ja": 65,
+        "nej": 0,
+        "avstar": 0,
+        "franvarande": 1
+      },
+      "MP": {
+        "ja": 18,
+        "nej": 0,
+        "avstar": 0,
+        "franvarande": 0
+      },
+      "L": {
+        "ja": 16,
+        "nej": 0,
+        "avstar": 0,
+        "franvarande": 0
+      },
+      "KD": {
+        "ja": 19,
+        "nej": 0,
+        "avstar": 0,
+        "franvarande": 0
+      },
+      "-": {
+        "ja": 6,
+        "nej": 3,
+        "avstar": 0,
+        "franvarande": 0
+      },
+      "V": {
+        "ja": 0,
+        "nej": 21,
+        "avstar": 0,
+        "franvarande": 0
+      }
+    },
+    "tags": [
+      "EKONOMI",
+      "HÄLSA"
+    ],
+    "status": "NY",
+    "passed": true,
+    "delvoterings": []
+  },
+  {
+    "dok_id": "HD01SoU30",
+    "titel": "Reformerat försörjningsstöd - bidragstak och ökade möjligheter till arbete",
+    "utskott": "SoU",
+    "nummer": 30,
+    "datum": "2026-05-26",
+    "rm": "2025/26",
+    "kort_sammanfattning": "Riksnormen för försörjningsstöd moderniseras genom att baseras på prisundersökningar av hushålls baskonsumtion och dagstidning tas bort som kostnadspost.\nFör hushåll med fler än tre barn under 21 år begränsas försörjningsstödet, med möjlighet till undantag vid synnerliga skäl.\nFörsörjningsstöd för boendekostnader vid andrahandsuthyrning kräver godkännande av uthyrningen.\nEkonomiskt bistånd ges endast till personer som vistas lagligt i Sverige.\nPersoner med nedsatt arbetsförmåga på grund av sjukdom måste lämna läkarintyg för att få försörjningsstöd och kan behöva delta i arbetslivsinriktad rehabilitering.",
+    "roster": {
+      "S": {
+        "ja": 0,
+        "nej": 106,
+        "avstar": 0,
+        "franvarande": 0
+      },
+      "SD": {
+        "ja": 69,
+        "nej": 0,
+        "avstar": 0,
+        "franvarande": 1
+      },
+      "C": {
+        "ja": 24,
+        "nej": 0,
+        "avstar": 0,
+        "franvarande": 0
+      },
+      "M": {
+        "ja": 65,
+        "nej": 0,
+        "avstar": 0,
+        "franvarande": 1
+      },
+      "MP": {
+        "ja": 0,
+        "nej": 0,
+        "avstar": 18,
+        "franvarande": 0
+      },
+      "L": {
+        "ja": 16,
+        "nej": 0,
+        "avstar": 0,
+        "franvarande": 0
+      },
+      "KD": {
+        "ja": 19,
+        "nej": 0,
+        "avstar": 0,
+        "franvarande": 0
+      },
+      "-": {
+        "ja": 5,
+        "nej": 1,
+        "avstar": 3,
+        "franvarande": 0
+      },
+      "V": {
+        "ja": 0,
+        "nej": 0,
+        "avstar": 21,
+        "franvarande": 0
+      }
+    },
+    "tags": [
+      "EKONOMI",
+      "HÄLSA"
+    ],
+    "status": "NY",
+    "passed": true,
+    "delvoterings": []
+  },
+  {
+    "dok_id": "HD01SoU31",
+    "titel": "En nationell utredningsfunktion för att förebygga suicid",
+    "utskott": "SoU",
+    "nummer": 31,
+    "datum": "2026-05-26",
+    "rm": "2025/26",
+    "kort_sammanfattning": "En ny utredningsmyndighet inrättas för att utreda suicidfall bland barn och vissa vuxna.\nMyndigheten ska klarlägga omständigheter och analysera åtgärder som kan förebygga suicid.\nNärstående ska få möjlighet att bidra med uppgifter till utredningen.\nVissa myndigheter och yrkesverksamma blir skyldiga att lämna uppgifter till utredningen.\nVissa statliga myndigheter ska bistå utredningsmyndigheten med experter.",
+    "roster": {},
+    "tags": [
+      "BARN"
+    ],
+    "status": "NY",
+    "passed": true,
+    "delvoterings": [
+      {
+        "punkt": "2",
+        "rubrik": "Suicid bland barn och unga vuxna",
+        "ja": 281,
+        "nej": 66,
+        "avstar": 0,
+        "franvarande": 2,
+        "roster": {
+          "S": {
+            "ja": 106,
+            "nej": 0,
+            "avstar": 0,
+            "franvarande": 0
+          },
+          "SD": {
+            "ja": 69,
+            "nej": 0,
+            "avstar": 0,
+            "franvarande": 1
+          },
+          "C": {
+            "ja": 0,
+            "nej": 24,
+            "avstar": 0,
+            "franvarande": 0
+          },
+          "M": {
+            "ja": 65,
+            "nej": 0,
+            "avstar": 0,
+            "franvarande": 1
+          },
+          "MP": {
+            "ja": 0,
+            "nej": 18,
+            "avstar": 0,
+            "franvarande": 0
+          },
+          "L": {
+            "ja": 16,
+            "nej": 0,
+            "avstar": 0,
+            "franvarande": 0
+          },
+          "KD": {
+            "ja": 19,
+            "nej": 0,
+            "avstar": 0,
+            "franvarande": 0
+          },
+          "-": {
+            "ja": 6,
+            "nej": 3,
+            "avstar": 0,
+            "franvarande": 0
+          },
+          "V": {
+            "ja": 0,
+            "nej": 21,
+            "avstar": 0,
+            "franvarande": 0
+          }
+        }
+      }
+    ]
+  },
+  {
+    "dok_id": "HD01UU13",
+    "titel": "Interparlamentariska unionen",
+    "utskott": "UU",
+    "nummer": 13,
+    "datum": "2026-05-26",
+    "rm": "2025/26",
+    "kort_sammanfattning": "Riksdagen noterar redogörelsen för riksdagens delegations arbete i Interparlamentariska unionen (IPU) under 2025, där fokus låg på Rysslands krig mot Ukraina, kriget mellan Israel och Hamas, samt frågor om mänskliga rättigheter, terrorism, adoptioner, jämställdhet, hållbarhet och vetenskap.",
+    "roster": {},
+    "tags": [
+      "MILJÖ",
+      "ARBETE"
+    ],
+    "status": "NY",
+    "passed": true,
+    "delvoterings": []
+  },
+  {
+    "dok_id": "HD01UbU20",
+    "titel": "Offentlighetsprincipen med lättnadsregler för enskilda mindre huvudmän i skolväsendet",
+    "utskott": "UbU",
+    "nummer": 20,
+    "datum": "2026-05-26",
+    "rm": "2025/26",
+    "kort_sammanfattning": "Rätten att ta del av allmänna handlingar gäller hos juridiska personer som är enskilda huvudmän inom skolväsendet och dessa jämställs med myndigheter vid tillämpning av offentlighets- och sekretesslagen.\nArkivlagens regler för kommunala myndigheters arkiv gäller för berörda enskilda huvudmän.\nMindre huvudmän får tillämpa lättnader i hanteringen och bevarandet av allmänna handlingar.\nLättnadsreglerna tillämpas under de första två åren efter införandet på samtliga enskilda huvudmän inom skolväsendet.\nMindre huvudmän ska som huvudregel bevara allmänna handlingar i minst sju år.",
+    "roster": {
+      "S": {
+        "ja": 106,
+        "nej": 0,
+        "avstar": 0,
+        "franvarande": 0
+      },
+      "SD": {
+        "ja": 69,
+        "nej": 0,
+        "avstar": 0,
+        "franvarande": 1
+      },
+      "C": {
+        "ja": 24,
+        "nej": 0,
+        "avstar": 0,
+        "franvarande": 0
+      },
+      "M": {
+        "ja": 65,
+        "nej": 0,
+        "avstar": 0,
+        "franvarande": 1
+      },
+      "MP": {
+        "ja": 0,
+        "nej": 18,
+        "avstar": 0,
+        "franvarande": 0
+      },
+      "L": {
+        "ja": 16,
+        "nej": 0,
+        "avstar": 0,
+        "franvarande": 0
+      },
+      "KD": {
+        "ja": 19,
+        "nej": 0,
+        "avstar": 0,
+        "franvarande": 0
+      },
+      "-": {
+        "ja": 6,
+        "nej": 3,
+        "avstar": 0,
+        "franvarande": 0
+      },
+      "V": {
+        "ja": 0,
+        "nej": 21,
+        "avstar": 0,
+        "franvarande": 0
+      }
+    },
+    "tags": [
+      "JORDBRUK"
+    ],
+    "status": "NY",
+    "passed": true,
+    "delvoterings": [
+      {
+        "punkt": "2",
+        "rubrik": "Lättnadsregler för enskilda mindre huvudmän",
+        "ja": 200,
+        "nej": 107,
+        "avstar": 40,
+        "franvarande": 2,
+        "roster": {
+          "S": {
+            "ja": 0,
+            "nej": 106,
+            "avstar": 0,
+            "franvarande": 0
+          },
+          "SD": {
+            "ja": 69,
+            "nej": 0,
+            "avstar": 0,
+            "franvarande": 1
+          },
+          "C": {
+            "ja": 24,
+            "nej": 0,
+            "avstar": 0,
+            "franvarande": 0
+          },
+          "M": {
+            "ja": 65,
+            "nej": 0,
+            "avstar": 0,
+            "franvarande": 1
+          },
+          "MP": {
+            "ja": 0,
+            "nej": 0,
+            "avstar": 18,
+            "franvarande": 0
+          },
+          "L": {
+            "ja": 16,
+            "nej": 0,
+            "avstar": 0,
+            "franvarande": 0
+          },
+          "KD": {
+            "ja": 19,
+            "nej": 0,
+            "avstar": 0,
+            "franvarande": 0
+          },
+          "-": {
+            "ja": 5,
+            "nej": 1,
+            "avstar": 3,
+            "franvarande": 0
+          },
+          "V": {
+            "ja": 2,
+            "nej": 0,
+            "avstar": 19,
+            "franvarande": 0
+          }
+        }
+      },
+      {
+        "punkt": "3",
+        "rubrik": "Offentlighetsprincipens omfattning",
+        "ja": 198,
+        "nej": 149,
+        "avstar": 0,
+        "franvarande": 2,
+        "roster": {
+          "S": {
+            "ja": 0,
+            "nej": 106,
+            "avstar": 0,
+            "franvarande": 0
+          },
+          "SD": {
+            "ja": 69,
+            "nej": 0,
+            "avstar": 0,
+            "franvarande": 1
+          },
+          "C": {
+            "ja": 24,
+            "nej": 0,
+            "avstar": 0,
+            "franvarande": 0
+          },
+          "M": {
+            "ja": 65,
+            "nej": 0,
+            "avstar": 0,
+            "franvarande": 1
+          },
+          "MP": {
+            "ja": 0,
+            "nej": 18,
+            "avstar": 0,
+            "franvarande": 0
+          },
+          "L": {
+            "ja": 16,
+            "nej": 0,
+            "avstar": 0,
+            "franvarande": 0
+          },
+          "KD": {
+            "ja": 19,
+            "nej": 0,
+            "avstar": 0,
+            "franvarande": 0
+          },
+          "-": {
+            "ja": 5,
+            "nej": 4,
+            "avstar": 0,
+            "franvarande": 0
+          },
+          "V": {
+            "ja": 0,
+            "nej": 21,
+            "avstar": 0,
+            "franvarande": 0
+          }
+        }
+      }
+    ]
+  },
+  {
+    "dok_id": "HD01UbU28",
+    "titel": "Legitimation och behörighet i den tioåriga grundskolan",
+    "utskott": "UbU",
+    "nummer": 28,
+    "datum": "2026-05-26",
+    "rm": "2025/26",
+    "kort_sammanfattning": "Regeringen får möjlighet att ändra eller utöka lärares och förskollärares behörighet utan ansökan till Skolverket, om det underlättar för dem och är en följd av ändringar i skollagen.\nRegeringen kan även bestämma att en lärares eller förskollärares tillfälliga behörighet inte behöver anges på legitimationen.",
+    "roster": {},
+    "tags": [
+      "UTBILDNING",
+      "JORDBRUK"
+    ],
+    "status": "NY",
+    "passed": true,
+    "delvoterings": []
+  },
+  {
+    "dok_id": "HD01CU24",
+    "titel": "Effektiv och säker byggprocess",
+    "utskott": "CU",
+    "nummer": 24,
+    "datum": "2026-05-20",
+    "rm": "2025/26",
+    "kort_sammanfattning": "Begreppet certifierat byggprojekteringsföretag ändras till byggbedömare.\nKontrollplanen delas upp i två planer: en för kontroll och en för avfall.\nEn kontrollansvarig får inte kontrollera sitt eget projekteringsarbete.\nByggnadsnämnden kan ingripa mot en byggbedömare som inte uppfyller sina skyldigheter med ett åtgärdsföreläggande.\nFörvaltningsuppgifter som innefattar myndighetsutövning kan överlåtas till utländska organ.",
+    "roster": {},
+    "tags": [
+      "ARBETE",
+      "JORDBRUK"
+    ],
+    "status": "NY",
+    "passed": true,
+    "delvoterings": [
+      {
+        "punkt": "2",
+        "rubrik": "Lagförslaget i övrigt",
+        "ja": 221,
+        "nej": 128,
+        "avstar": 0,
+        "franvarande": 0,
+        "roster": {
+          "S": {
+            "ja": 0,
+            "nej": 106,
+            "avstar": 0,
+            "franvarande": 0
+          },
+          "SD": {
+            "ja": 70,
+            "nej": 0,
+            "avstar": 0,
+            "franvarande": 0
+          },
+          "C": {
+            "ja": 24,
+            "nej": 0,
+            "avstar": 0,
+            "franvarande": 0
+          },
+          "M": {
+            "ja": 66,
+            "nej": 0,
+            "avstar": 0,
+            "franvarande": 0
+          },
+          "MP": {
+            "ja": 0,
+            "nej": 18,
+            "avstar": 0,
+            "franvarande": 0
+          },
+          "L": {
+            "ja": 16,
+            "nej": 0,
+            "avstar": 0,
+            "franvarande": 0
+          },
+          "KD": {
+            "ja": 19,
+            "nej": 0,
+            "avstar": 0,
+            "franvarande": 0
+          },
+          "-": {
+            "ja": 5,
+            "nej": 4,
+            "avstar": 0,
+            "franvarande": 0
+          },
+          "V": {
+            "ja": 21,
+            "nej": 0,
+            "avstar": 0,
+            "franvarande": 0
+          }
+        }
+      }
+    ]
+  },
+  {
+    "dok_id": "HD01CU30",
+    "titel": "Nytt mål för effektiv energianvändning och genomförande av det omarbetade direktivet om byggnaders energiprestanda",
+    "utskott": "CU",
+    "nummer": 30,
+    "datum": "2026-05-20",
+    "rm": "2025/26",
+    "kort_sammanfattning": "Kravet på energideklaration utökas till att gälla ombyggnader som berör en betydande del av klimatskärmen.\nEnergirenoveringsplaner införs.\nDet tekniska egenskapskravet om laddning av elfordon ändras till att avse hållbar mobilitet.",
+    "roster": {
+      "S": {
+        "ja": 0,
+        "nej": 106,
+        "avstar": 0,
+        "franvarande": 0
+      },
+      "SD": {
+        "ja": 70,
+        "nej": 0,
+        "avstar": 0,
+        "franvarande": 0
+      },
+      "C": {
+        "ja": 1,
+        "nej": 23,
+        "avstar": 0,
+        "franvarande": 0
+      },
+      "M": {
+        "ja": 65,
+        "nej": 0,
+        "avstar": 0,
+        "franvarande": 1
+      },
+      "MP": {
+        "ja": 0,
+        "nej": 18,
+        "avstar": 0,
+        "franvarande": 0
+      },
+      "L": {
+        "ja": 16,
+        "nej": 0,
+        "avstar": 0,
+        "franvarande": 0
+      },
+      "KD": {
+        "ja": 19,
+        "nej": 0,
+        "avstar": 0,
+        "franvarande": 0
+      },
+      "-": {
+        "ja": 5,
+        "nej": 4,
+        "avstar": 0,
+        "franvarande": 0
+      },
+      "V": {
+        "ja": 0,
+        "nej": 21,
+        "avstar": 0,
+        "franvarande": 0
+      }
+    },
+    "tags": [
+      "MILJÖ",
+      "TRANSPORT"
+    ],
+    "status": "NY",
+    "passed": true,
+    "delvoterings": []
+  },
+  {
+    "dok_id": "HD01CU31",
+    "titel": "En mer flexibel hyresmarknad",
+    "utskott": "CU",
+    "nummer": 31,
+    "datum": "2026-05-20",
+    "rm": "2025/26",
+    "kort_sammanfattning": "En ny privatuthyrningslag införs för att förenkla reglerna för privatpersoner som hyr ut sin bostad.\nDet blir möjligt att hyra ut sin bostadsrätt i andra hand i större utsträckning, och att en lägenhet tidigare varit uthyrd beaktas endast om den hyrts ut i betydande omfattning.\nRegler införs för att möta företags behov av bostäder till personal (företagsbostäder) och för att underlätta boendeformen delningsbostäder genom blockhyra.\nErsättningen till hyresförmedlare höjs.\nRegler om prövningstillstånd i mål om återbetalning av hyra införs för att effektivisera processen.",
+    "roster": {
+      "S": {
+        "ja": 105,
+        "nej": 1,
+        "avstar": 0,
+        "franvarande": 0
+      },
+      "SD": {
+        "ja": 70,
+        "nej": 0,
+        "avstar": 0,
+        "franvarande": 0
+      },
+      "C": {
+        "ja": 24,
+        "nej": 0,
+        "avstar": 0,
+        "franvarande": 0
+      },
+      "M": {
+        "ja": 65,
+        "nej": 0,
+        "avstar": 0,
+        "franvarande": 1
+      },
+      "MP": {
+        "ja": 18,
+        "nej": 0,
+        "avstar": 0,
+        "franvarande": 0
+      },
+      "L": {
+        "ja": 16,
+        "nej": 0,
+        "avstar": 0,
+        "franvarande": 0
+      },
+      "KD": {
+        "ja": 19,
+        "nej": 0,
+        "avstar": 0,
+        "franvarande": 0
+      },
+      "-": {
+        "ja": 6,
+        "nej": 3,
+        "avstar": 0,
+        "franvarande": 0
+      },
+      "V": {
+        "ja": 0,
+        "nej": 21,
+        "avstar": 0,
+        "franvarande": 0
+      }
+    },
+    "tags": [
+      "BOSTAD",
+      "DIGITALT"
+    ],
+    "status": "NY",
+    "passed": true,
+    "delvoterings": [
+      {
+        "punkt": "2",
+        "rubrik": "Utökade möjligheter för bostadsrättshavare att upplåta sin lägenhet i andra hand",
+        "ja": 199,
+        "nej": 149,
+        "avstar": 0,
+        "franvarande": 1,
+        "roster": {
+          "S": {
+            "ja": 0,
+            "nej": 106,
+            "avstar": 0,
+            "franvarande": 0
+          },
+          "SD": {
+            "ja": 70,
+            "nej": 0,
+            "avstar": 0,
+            "franvarande": 0
+          },
+          "C": {
+            "ja": 24,
+            "nej": 0,
+            "avstar": 0,
+            "franvarande": 0
+          },
+          "M": {
+            "ja": 65,
+            "nej": 0,
+            "avstar": 0,
+            "franvarande": 1
+          },
+          "MP": {
+            "ja": 0,
+            "nej": 18,
+            "avstar": 0,
+            "franvarande": 0
+          },
+          "L": {
+            "ja": 16,
+            "nej": 0,
+            "avstar": 0,
+            "franvarande": 0
+          },
+          "KD": {
+            "ja": 19,
+            "nej": 0,
+            "avstar": 0,
+            "franvarande": 0
+          },
+          "-": {
+            "ja": 5,
+            "nej": 4,
+            "avstar": 0,
+            "franvarande": 0
+          },
+          "V": {
+            "ja": 0,
+            "nej": 21,
+            "avstar": 0,
+            "franvarande": 0
+          }
+        }
+      },
+      {
+        "punkt": "3",
+        "rubrik": "En ny modell för blockhyra",
+        "ja": 199,
+        "nej": 149,
+        "avstar": 0,
+        "franvarande": 1,
+        "roster": {
+          "S": {
+            "ja": 0,
+            "nej": 106,
+            "avstar": 0,
+            "franvarande": 0
+          },
+          "SD": {
+            "ja": 70,
+            "nej": 0,
+            "avstar": 0,
+            "franvarande": 0
+          },
+          "C": {
+            "ja": 24,
+            "nej": 0,
+            "avstar": 0,
+            "franvarande": 0
+          },
+          "M": {
+            "ja": 65,
+            "nej": 0,
+            "avstar": 0,
+            "franvarande": 1
+          },
+          "MP": {
+            "ja": 0,
+            "nej": 18,
+            "avstar": 0,
+            "franvarande": 0
+          },
+          "L": {
+            "ja": 16,
+            "nej": 0,
+            "avstar": 0,
+            "franvarande": 0
+          },
+          "KD": {
+            "ja": 19,
+            "nej": 0,
+            "avstar": 0,
+            "franvarande": 0
+          },
+          "-": {
+            "ja": 5,
+            "nej": 4,
+            "avstar": 0,
+            "franvarande": 0
+          },
+          "V": {
+            "ja": 0,
+            "nej": 21,
+            "avstar": 0,
+            "franvarande": 0
+          }
+        }
+      }
+    ]
+  },
+  {
+    "dok_id": "HD01CU34",
+    "titel": "Ändamålsenliga utmätningsregler och utökad distansutmätning",
+    "utskott": "CU",
+    "nummer": 34,
+    "datum": "2026-05-20",
+    "rm": "2025/26",
+    "kort_sammanfattning": "Reglerna för biträde vid utmätning på distans utökas till fler brottsbekämpande myndigheter.\nFast egendom och bostadsrätter ska behandlas lika vid utmätning, vilket innebär att fast egendom kan säljas via e-auktion och bostadsrätter under hand av exempelvis fastighetsmäklare.\nKronofogdemyndighetens skyldighet att beakta proportionalitetsprincipen och principen om barnets bästa skrivs in i utsökningsbalken.\nProportioneringsprincipen lagfästs i utsökningsbalken, vilket innebär att en makes eller sambos inkomst ska beaktas vid beräkningen av gäldenärens förbehållsbelopp vid löneutmätning.",
+    "roster": {
+      "S": {
+        "ja": 0,
+        "nej": 106,
+        "avstar": 0,
+        "franvarande": 0
+      },
+      "SD": {
+        "ja": 70,
+        "nej": 0,
+        "avstar": 0,
+        "franvarande": 0
+      },
+      "C": {
+        "ja": 24,
+        "nej": 0,
+        "avstar": 0,
+        "franvarande": 0
+      },
+      "M": {
+        "ja": 65,
+        "nej": 0,
+        "avstar": 0,
+        "franvarande": 1
+      },
+      "MP": {
+        "ja": 0,
+        "nej": 18,
+        "avstar": 0,
+        "franvarande": 0
+      },
+      "L": {
+        "ja": 16,
+        "nej": 0,
+        "avstar": 0,
+        "franvarande": 0
+      },
+      "KD": {
+        "ja": 19,
+        "nej": 0,
+        "avstar": 0,
+        "franvarande": 0
+      },
+      "-": {
+        "ja": 5,
+        "nej": 4,
+        "avstar": 0,
+        "franvarande": 0
+      },
+      "V": {
+        "ja": 21,
+        "nej": 0,
+        "avstar": 0,
+        "franvarande": 0
+      }
+    },
+    "tags": [
+      "EKONOMI",
+      "BROTT"
+    ],
+    "status": "NY",
+    "passed": true,
+    "delvoterings": []
+  },
+  {
+    "dok_id": "HD01CU35",
+    "titel": "Nya regler om aktier på MTF-plattformar",
+    "utskott": "CU",
+    "nummer": 35,
+    "datum": "2026-05-20",
+    "rm": "2025/26",
+    "kort_sammanfattning": "En MTF-plattformsoperatör får inte vägra ett bolag att handla aktier på plattformen för att bolaget har aktier med olika röstvärden.\nEn särskild majoritetsregel införs för bolagsstämmobeslut om aktiers röstvärden när aktierna tas upp till handel på en MTF-plattform och så länge de handlas där.\nEtt aktiebolag som ansöker om att få ta upp sina aktier till handel på en MTF-plattform ska informera om bolagets aktiestruktur om det finns aktier med olika röstvärden eller om befintliga röstvärdesskillnader ändras.\nEn börs eller ett värdepappersinstitut som driver en MTF-plattform ska säkerställa att aktier i bolag med olika röstvärden identifieras tydligt.\nReglerna om försäljning av överskjutande aktier vid sammanläggning eller uppdelning av aktier gäller även aktier som handlas på en MTF-plattform.\nMöjligheten för publika aktiebolag att förvärva och överlåta egna aktier gäller även för bolag vars aktier är upptagna till handel på en MTF-plattform.",
+    "roster": {},
+    "tags": [
+      "TRANSPORT"
+    ],
+    "status": "NY",
+    "passed": true,
+    "delvoterings": []
+  },
+  {
+    "dok_id": "HD01FiU31",
+    "titel": "Riksrevisionens rapport om statens fastighetsförvaltning",
+    "utskott": "FiU",
+    "nummer": 31,
+    "datum": "2026-05-20",
+    "rm": "2025/26",
+    "kort_sammanfattning": "Riksrevisionen har granskat Statens fastighetsverks (SFV) förvaltning av marknadshyres- och bidragsfastigheter som hyrs ut som lokaler och funnit att förvaltningen till stora delar bedrivs effektivt, men att det finns brister i både SFV:s förvaltning och regeringens styrning.\nRegeringen har tillfälligt ökat anslaget för de kulturhistoriskt värdefulla fastigheter som SFV förvaltar och som inte kan bära sina egna kostnader, men Riksrevisionen anser att detta inte kommer att lösa den finansiella situationen med bidragsfastigheterna på sikt.\nEnligt Riksrevisionen saknas det en långsiktig styrning och uppföljning av SFV:s kulturmiljöuppdrag och det bedrivs inte något aktivt arbete med att undersöka möjliga strategiska kompletteringar i enlighet med kulturfastighetsstrategin.",
+    "roster": {},
+    "tags": [
+      "MILJÖ",
+      "EKONOMI"
+    ],
+    "status": "NY",
+    "passed": true,
+    "delvoterings": [
+      {
+        "punkt": "2",
+        "rubrik": "De statliga kulturfastigheterna",
+        "ja": 306,
+        "nej": 43,
+        "avstar": 0,
+        "franvarande": 0,
+        "roster": {
+          "S": {
+            "ja": 106,
+            "nej": 0,
+            "avstar": 0,
+            "franvarande": 0
+          },
+          "SD": {
+            "ja": 70,
+            "nej": 0,
+            "avstar": 0,
+            "franvarande": 0
+          },
+          "C": {
+            "ja": 23,
+            "nej": 1,
+            "avstar": 0,
+            "franvarande": 0
+          },
+          "M": {
+            "ja": 66,
+            "nej": 0,
+            "avstar": 0,
+            "franvarande": 0
+          },
+          "MP": {
+            "ja": 0,
+            "nej": 18,
+            "avstar": 0,
+            "franvarande": 0
+          },
+          "L": {
+            "ja": 16,
+            "nej": 0,
+            "avstar": 0,
+            "franvarande": 0
+          },
+          "KD": {
+            "ja": 19,
+            "nej": 0,
+            "avstar": 0,
+            "franvarande": 0
+          },
+          "-": {
+            "ja": 6,
+            "nej": 3,
+            "avstar": 0,
+            "franvarande": 0
+          },
+          "V": {
+            "ja": 0,
+            "nej": 21,
+            "avstar": 0,
+            "franvarande": 0
+          }
+        }
+      }
+    ]
+  },
+  {
+    "dok_id": "HD01FiU38",
+    "titel": "Nya regler för att främja central clearing av OTC-derivat i EU",
+    "utskott": "FiU",
+    "nummer": 38,
+    "datum": "2026-05-20",
+    "rm": "2025/26",
+    "kort_sammanfattning": "Finansinspektionen ska i fler fall besluta om särskild avgift vid överträdelser av EU-förordningen om OTC-derivat.\nSekretessreglering ska gälla hos regeringen för uppgifter som tas emot från myndigheter som deltar i tillsynskollegium under krissituationer.\nBegränsningen av en värdepappersfonds exponering mot en motpart vid derivatinstrumenttransaktioner ska gälla alla derivatinstrument som inte clearas centralt, inte bara OTC-derivat.",
+    "roster": {},
+    "tags": [
+      "EKONOMI",
+      "JORDBRUK"
+    ],
+    "status": "NY",
+    "passed": true,
+    "delvoterings": []
+  },
+  {
+    "dok_id": "HD01FiU44",
+    "titel": "En europeisk gemensam åtkomstpunkt för finansiell och hållbarhetsrelaterad information",
+    "utskott": "FiU",
+    "nummer": 44,
+    "datum": "2026-05-20",
+    "rm": "2025/26",
+    "kort_sammanfattning": "Företag måste lämna finansiell och hållbarhetsrelaterad information till en europeisk gemensam åtkomstpunkt (Esap) för centraliserad tillgång.\nEtt tjänstepensionsföretag ska lämna information om sin aktieinvesteringsstrategi och överenskommelser med kapitalförvaltare.\nFöretag i finansiella konglomerat ska årligen offentliggöra och lämna en beskrivning av sin ledningsstruktur och organisation till Finansinspektionen.\nRegeringen eller en myndighet kan utfärda föreskrifter om hur och när information ska lämnas, inklusive metadata, för hållbarhetsrapporter och granskningsberättelser från tredjelandsföretag.",
+    "roster": {},
+    "tags": [
+      "MILJÖ",
+      "EKONOMI"
+    ],
+    "status": "NY",
+    "passed": true,
+    "delvoterings": []
+  },
+  {
+    "dok_id": "HD01JuU32",
+    "titel": "Stärkt säkerhet vid allmänna sammankomster och offentliga tillställningar",
+    "utskott": "JuU",
+    "nummer": 32,
+    "datum": "2026-05-20",
+    "rm": "2025/26",
+    "kort_sammanfattning": "Polismyndigheten får större möjligheter att ändra tid eller plats för en allmän sammankomst.\nPolismyndigheten kan i vissa fall förbjuda en allmän sammankomst på en viss tid eller plats istället för att förbjuda den helt.\nEn allmän sammankomst eller offentlig tillställning kan ställas in med hänsyn till säkerheten för människors liv eller hälsa.\nPolismyndigheten får utökade befogenheter att ingripa mot personer som stör ordningen och inte följer beslut.",
+    "roster": {},
+    "tags": [
+      "HÄLSA",
+      "BROTT"
+    ],
+    "status": "NY",
+    "passed": true,
+    "delvoterings": []
+  },
+  {
+    "dok_id": "HD01JuU34",
+    "titel": "Nordisk verkställighet i brottmål",
+    "utskott": "JuU",
+    "nummer": 34,
+    "datum": "2026-05-20",
+    "rm": "2025/26",
+    "kort_sammanfattning": "Lagen om samarbete med Danmark, Finland, Island och Norge angående verkställighet av straff m.m. ersätts med en ny lag om nordisk verkställighet i brottmål.\nTillämpningsområdet utökas till att omfatta frivårdspåföljder som innefattar samhällstjänst.\nKriminalvårdens och domstolarnas handläggning av ärenden om överförande av verkställigheten av fängelsestraff ska ske skyndsamt.\nEtt beslut om överförande av verkställigheten av ett fängelsestraff får laga kraft direkt om den dömde samtyckt till överföringen.\nDen dömde kan lämna en förklaring om att han eller hon avstår från att överklaga ett sådant beslut eller fullfölja överklagandet (nöjdförklaring).\nÖverklaganden prövas framöver av allmän domstol.",
+    "roster": {},
+    "tags": [
+      "HÄLSA",
+      "BROTT"
+    ],
+    "status": "NY",
+    "passed": true,
+    "delvoterings": []
+  },
+  {
+    "dok_id": "HD01JuU39",
+    "titel": "En särskild straffbestämmelse för psykiskt våld",
+    "utskott": "JuU",
+    "nummer": 39,
+    "datum": "2026-05-20",
+    "rm": "2025/26",
+    "kort_sammanfattning": "Ett nytt brott, psykiskt våld, införs i brottsbalken, vilket innebär att upprepade kränkningar som beskyllningar, nedsättande uttalanden, förödmjukande beteende, otillbörliga hot, tvång eller övervakning, som allvarligt kan skada självkänslan, blir straffbara.\nÄven varaktig otillbörlig övervakning som allvarligt kan skada självkänslan blir straffbar.\nStraffet för psykiskt våld blir fängelse i högst fyra år.\nPsykiskt våld kan ingå som en del av brotten barnfridsbrott, grov fridskränkning, grov kvinnofridskränkning, olaga förföljelse och hedersförtryck.\nÄven förolämpning kan ingå som en del av brotten grov fridskränkning, grov kvinnofridskränkning, olaga förföljelse och hedersförtryck.\nLagändringarna träder i kraft den 1 juli 2026.",
+    "roster": {},
+    "tags": [
+      "HÄLSA",
+      "BROTT"
+    ],
+    "status": "NY",
+    "passed": true,
+    "delvoterings": [
+      {
+        "punkt": "2",
+        "rubrik": "Ekonomiskt våld",
+        "ja": 221,
+        "nej": 128,
+        "avstar": 0,
+        "franvarande": 0,
+        "roster": {
+          "S": {
+            "ja": 0,
+            "nej": 106,
+            "avstar": 0,
+            "franvarande": 0
+          },
+          "SD": {
+            "ja": 70,
+            "nej": 0,
+            "avstar": 0,
+            "franvarande": 0
+          },
+          "C": {
+            "ja": 24,
+            "nej": 0,
+            "avstar": 0,
+            "franvarande": 0
+          },
+          "M": {
+            "ja": 66,
+            "nej": 0,
+            "avstar": 0,
+            "franvarande": 0
+          },
+          "MP": {
+            "ja": 0,
+            "nej": 18,
+            "avstar": 0,
+            "franvarande": 0
+          },
+          "L": {
+            "ja": 16,
+            "nej": 0,
+            "avstar": 0,
+            "franvarande": 0
+          },
+          "KD": {
+            "ja": 19,
+            "nej": 0,
+            "avstar": 0,
+            "franvarande": 0
+          },
+          "-": {
+            "ja": 5,
+            "nej": 4,
+            "avstar": 0,
+            "franvarande": 0
+          },
+          "V": {
+            "ja": 21,
+            "nej": 0,
+            "avstar": 0,
+            "franvarande": 0
+          }
+        }
+      },
+      {
+        "punkt": "3",
+        "rubrik": "Omvändelseförsök",
+        "ja": 177,
+        "nej": 172,
+        "avstar": 0,
+        "franvarande": 0,
+        "roster": {
+          "S": {
+            "ja": 1,
+            "nej": 105,
+            "avstar": 0,
+            "franvarande": 0
+          },
+          "SD": {
+            "ja": 70,
+            "nej": 0,
+            "avstar": 0,
+            "franvarande": 0
+          },
+          "C": {
+            "ja": 0,
+            "nej": 24,
+            "avstar": 0,
+            "franvarande": 0
+          },
+          "M": {
+            "ja": 66,
+            "nej": 0,
+            "avstar": 0,
+            "franvarande": 0
+          },
+          "MP": {
+            "ja": 0,
+            "nej": 18,
+            "avstar": 0,
+            "franvarande": 0
+          },
+          "L": {
+            "ja": 16,
+            "nej": 0,
+            "avstar": 0,
+            "franvarande": 0
+          },
+          "KD": {
+            "ja": 19,
+            "nej": 0,
+            "avstar": 0,
+            "franvarande": 0
+          },
+          "-": {
+            "ja": 5,
+            "nej": 4,
+            "avstar": 0,
+            "franvarande": 0
+          },
+          "V": {
+            "ja": 0,
+            "nej": 21,
+            "avstar": 0,
+            "franvarande": 0
+          }
+        }
+      },
+      {
+        "punkt": "4",
+        "rubrik": "Utbildning och uppföljning",
+        "ja": 220,
+        "nej": 111,
+        "avstar": 18,
+        "franvarande": 0,
+        "roster": {
+          "S": {
+            "ja": 0,
+            "nej": 106,
+            "avstar": 0,
+            "franvarande": 0
+          },
+          "SD": {
+            "ja": 70,
+            "nej": 0,
+            "avstar": 0,
+            "franvarande": 0
+          },
+          "C": {
+            "ja": 24,
+            "nej": 0,
+            "avstar": 0,
+            "franvarande": 0
+          },
+          "M": {
+            "ja": 66,
+            "nej": 0,
+            "avstar": 0,
+            "franvarande": 0
+          },
+          "MP": {
+            "ja": 0,
+            "nej": 0,
+            "avstar": 18,
+            "franvarande": 0
+          },
+          "L": {
+            "ja": 16,
+            "nej": 0,
+            "avstar": 0,
+            "franvarande": 0
+          },
+          "KD": {
+            "ja": 19,
+            "nej": 0,
+            "avstar": 0,
+            "franvarande": 0
+          },
+          "-": {
+            "ja": 5,
+            "nej": 4,
+            "avstar": 0,
+            "franvarande": 0
+          },
+          "V": {
+            "ja": 20,
+            "nej": 1,
+            "avstar": 0,
+            "franvarande": 0
+          }
+        }
+      }
+    ]
+  },
+  {
+    "dok_id": "HD01JuU46",
+    "titel": "Redogörelse för verksamheten inom den gemensamma parlamentariska kontrollgruppen för Europol och riksdagsdelegationens arbete under 2025",
+    "utskott": "JuU",
+    "nummer": 46,
+    "datum": "2026-05-20",
+    "rm": "2025/26",
+    "kort_sammanfattning": "Riksdagen lägger redogörelsen för verksamheten inom den gemensamma parlamentariska kontrollgruppen för Europol och riksdagsdelegationens arbete under 2025 till handlingarna.",
+    "roster": {},
+    "tags": [
+      "ARBETE",
+      "JORDBRUK"
+    ],
+    "status": "NY",
+    "passed": true,
+    "delvoterings": []
+  },
+  {
+    "dok_id": "HD01KU34",
+    "titel": "En grundlagsskyddad aborträtt samt utökade möjligheter att begränsa föreningsfriheten och rätten till medborgarskap",
+    "utskott": "KU",
+    "nummer": 34,
+    "datum": "2026-05-20",
+    "rm": "2025/26",
+    "kort_sammanfattning": "Rätten till abort skrivs in i regeringsformen som en grundläggande fri- och rättighet.\nDet blir möjligt att återkalla svenskt medborgarskap från personer med dubbelt medborgarskap som fått sitt medborgarskap genom falska uppgifter eller dömts för brott som skadar Sveriges intressen.\nMöjligheten att begränsa föreningsfriheten utökas för sammanslutningar som ägnar sig åt allvarlig brottslighet för ekonomisk vinning.",
+    "roster": {
+      "S": {
+        "ja": 106,
+        "nej": 0,
+        "avstar": 0,
+        "franvarande": 0
+      },
+      "SD": {
+        "ja": 70,
+        "nej": 0,
+        "avstar": 0,
+        "franvarande": 0
+      },
+      "C": {
+        "ja": 0,
+        "nej": 0,
+        "avstar": 24,
+        "franvarande": 0
+      },
+      "M": {
+        "ja": 65,
+        "nej": 0,
+        "avstar": 0,
+        "franvarande": 1
+      },
+      "MP": {
+        "ja": 0,
+        "nej": 0,
+        "avstar": 18,
+        "franvarande": 0
+      },
+      "L": {
+        "ja": 16,
+        "nej": 0,
+        "avstar": 0,
+        "franvarande": 0
+      },
+      "KD": {
+        "ja": 19,
+        "nej": 0,
+        "avstar": 0,
+        "franvarande": 0
+      },
+      "-": {
+        "ja": 6,
+        "nej": 3,
+        "avstar": 0,
+        "franvarande": 0
+      },
+      "V": {
+        "ja": 0,
+        "nej": 20,
+        "avstar": 0,
+        "franvarande": 1
+      }
+    },
+    "tags": [
+      "EKONOMI",
+      "BROTT"
+    ],
+    "status": "NY",
+    "passed": true,
+    "delvoterings": []
+  },
+  {
+    "dok_id": "HD01KU35",
+    "titel": "Bättre förutsättningar för digitala kommunala sammanträden och förbättrad kontroll och uppföljning av privata utförare i kommuner och regioner",
+    "utskott": "KU",
+    "nummer": 35,
+    "datum": "2026-05-20",
+    "rm": "2025/26",
+    "kort_sammanfattning": "Ordföranden får en utpekad roll att säkerställa vem som deltar i fullmäktige- och nämndsammanträden på distans och att de som medverkar på distans kan följa sammanträdet och delta i behandlingen av ärendena.\nFullmäktiges presidium får inte delta på distans.\nFullmäktige beslutar i vilken utsträckning samtliga ledamöter i en nämnd får eller ska delta i nämndens sammanträden på distans.\nKommun- eller regionstyrelsens uppsiktsplikt omfattar även övriga nämnders kontroll och uppföljning av kommunala angelägenheter som lämnats över till privata utförare.\nStyrelsen ska varje år rapportera till fullmäktige om övriga nämnders kontroll och uppföljning av sådana överlämnade angelägenheter.",
+    "roster": {},
+    "tags": [
+      "DIGITALT",
+      "JORDBRUK"
+    ],
+    "status": "NY",
+    "passed": true,
+    "delvoterings": []
+  },
+  {
+    "dok_id": "HD01KU43",
+    "titel": "En ny lag om riksdagens medalj",
+    "utskott": "KU",
+    "nummer": 43,
+    "datum": "2026-05-20",
+    "rm": "2025/26",
+    "kort_sammanfattning": "En ny lag om riksdagens medalj införs och ersätter den nuvarande lagen.\nEn ersättare som tjänstgjort som ledamot kan nu tilldelas medalj av talmannen på samma villkor som ordinarie ledamöter.\nDet som gäller för en ledamot som varit utskottsordförande gäller även för en ledamot som varit ordförande i EU-nämnden.",
+    "roster": {},
+    "tags": [
+      "DIGITALT",
+      "JORDBRUK"
+    ],
+    "status": "NY",
+    "passed": true,
+    "delvoterings": []
+  },
+  {
+    "dok_id": "HD01NU21",
+    "titel": "Hela Sverige ska fungera - politik för starkare landsbygder",
+    "utskott": "NU",
+    "nummer": 21,
+    "datum": "2026-05-20",
+    "rm": "2025/26",
+    "kort_sammanfattning": "Regioners samrådsskyldighet förtydligas i lagen om regionalt utvecklingsansvar och ska omfatta företrädare för organisationer inom det civila samhället och enskilda utbildningsanordnare inom högskoleområdet.\nLagen får även en hänvisning till lagen om nationella minoriteter och minoritetsspråk.\nLagändringen träder i kraft 1 juli 2026.",
+    "roster": {},
+    "tags": [
+      "UTBILDNING",
+      "TRANSPORT"
+    ],
+    "status": "NY",
+    "passed": true,
+    "delvoterings": [
+      {
+        "punkt": "2",
+        "rubrik": "Ett starkt lokalsamhälle och en effektiv landsbygdspolitik",
+        "ja": 175,
+        "nej": 107,
+        "avstar": 66,
+        "franvarande": 1,
+        "roster": {
+          "S": {
+            "ja": 0,
+            "nej": 106,
+            "avstar": 0,
+            "franvarande": 0
+          },
+          "SD": {
+            "ja": 70,
+            "nej": 0,
+            "avstar": 0,
+            "franvarande": 0
+          },
+          "C": {
+            "ja": 0,
+            "nej": 0,
+            "avstar": 24,
+            "franvarande": 0
+          },
+          "M": {
+            "ja": 65,
+            "nej": 0,
+            "avstar": 0,
+            "franvarande": 1
+          },
+          "MP": {
+            "ja": 0,
+            "nej": 0,
+            "avstar": 18,
+            "franvarande": 0
+          },
+          "L": {
+            "ja": 16,
+            "nej": 0,
+            "avstar": 0,
+            "franvarande": 0
+          },
+          "KD": {
+            "ja": 19,
+            "nej": 0,
+            "avstar": 0,
+            "franvarande": 0
+          },
+          "-": {
+            "ja": 5,
+            "nej": 1,
+            "avstar": 3,
+            "franvarande": 0
+          },
+          "V": {
+            "ja": 0,
+            "nej": 0,
+            "avstar": 21,
+            "franvarande": 0
+          }
+        }
+      },
+      {
+        "punkt": "3",
+        "rubrik": "Civilsamhällets organisationer",
+        "ja": 175,
+        "nej": 173,
+        "avstar": 0,
+        "franvarande": 1,
+        "roster": {
+          "S": {
+            "ja": 0,
+            "nej": 106,
+            "avstar": 0,
+            "franvarande": 0
+          },
+          "SD": {
+            "ja": 70,
+            "nej": 0,
+            "avstar": 0,
+            "franvarande": 0
+          },
+          "C": {
+            "ja": 0,
+            "nej": 24,
+            "avstar": 0,
+            "franvarande": 0
+          },
+          "M": {
+            "ja": 65,
+            "nej": 0,
+            "avstar": 0,
+            "franvarande": 1
+          },
+          "MP": {
+            "ja": 0,
+            "nej": 18,
+            "avstar": 0,
+            "franvarande": 0
+          },
+          "L": {
+            "ja": 16,
+            "nej": 0,
+            "avstar": 0,
+            "franvarande": 0
+          },
+          "KD": {
+            "ja": 19,
+            "nej": 0,
+            "avstar": 0,
+            "franvarande": 0
+          },
+          "-": {
+            "ja": 5,
+            "nej": 4,
+            "avstar": 0,
+            "franvarande": 0
+          },
+          "V": {
+            "ja": 0,
+            "nej": 21,
+            "avstar": 0,
+            "franvarande": 0
+          }
+        }
+      }
+    ]
+  },
+  {
+    "dok_id": "HD01SfU21",
+    "titel": "Kvalificering till socialförsäkringen",
+    "utskott": "SfU",
+    "nummer": 21,
+    "datum": "2026-05-20",
+    "rm": "2025/26",
+    "kort_sammanfattning": "För att få vissa bosättningsbaserade socialförsäkringsförmåner krävs kvalificering genom fem års bosättning i Sverige under en femtonårsperiod, eller bosättning kombinerat med arbete under viss tid med en viss inkomstnivå.\nKvalificering genom arbete kan ske genom att uppfylla en högre inkomstnivå efter sex månader eller en lägre nivå efter tolv månader.\nFörmåner som omfattas är föräldrapenning (grund- och lägstanivå), barnbidrag (inklusive flerbarnstillägg), omvårdnadsbidrag, sjuk- och aktivitetsersättning (garanti-, merkostnadsersättning), äldreförsörjningsstöd, bostadsbidrag och bostadstillägg.\nLaglig vistelse i Sverige krävs för att anses bosatt i landet och omfattas av den bosättningsbaserade försäkringen.",
+    "roster": {
+      "S": {
+        "ja": 0,
+        "nej": 106,
+        "avstar": 0,
+        "franvarande": 0
+      },
+      "SD": {
+        "ja": 70,
+        "nej": 0,
+        "avstar": 0,
+        "franvarande": 0
+      },
+      "C": {
+        "ja": 24,
+        "nej": 0,
+        "avstar": 0,
+        "franvarande": 0
+      },
+      "M": {
+        "ja": 66,
+        "nej": 0,
+        "avstar": 0,
+        "franvarande": 0
+      },
+      "MP": {
+        "ja": 0,
+        "nej": 0,
+        "avstar": 18,
+        "franvarande": 0
+      },
+      "L": {
+        "ja": 16,
+        "nej": 0,
+        "avstar": 0,
+        "franvarande": 0
+      },
+      "KD": {
+        "ja": 19,
+        "nej": 0,
+        "avstar": 0,
+        "franvarande": 0
+      },
+      "-": {
+        "ja": 5,
+        "nej": 1,
+        "avstar": 3,
+        "franvarande": 0
+      },
+      "V": {
+        "ja": 0,
+        "nej": 0,
+        "avstar": 21,
+        "franvarande": 0
+      }
+    },
+    "tags": [
+      "EKONOMI",
+      "HÄLSA"
+    ],
+    "status": "NY",
+    "passed": true,
+    "delvoterings": [
+      {
+        "punkt": "2",
+        "rubrik": "Undantag för kvalificering och kompensation till kommunerna",
+        "ja": 302,
+        "nej": 24,
+        "avstar": 23,
+        "franvarande": 0,
+        "roster": {
+          "S": {
+            "ja": 106,
+            "nej": 0,
+            "avstar": 0,
+            "franvarande": 0
+          },
+          "SD": {
+            "ja": 70,
+            "nej": 0,
+            "avstar": 0,
+            "franvarande": 0
+          },
+          "C": {
+            "ja": 0,
+            "nej": 24,
+            "avstar": 0,
+            "franvarande": 0
+          },
+          "M": {
+            "ja": 66,
+            "nej": 0,
+            "avstar": 0,
+            "franvarande": 0
+          },
+          "MP": {
+            "ja": 18,
+            "nej": 0,
+            "avstar": 0,
+            "franvarande": 0
+          },
+          "L": {
+            "ja": 16,
+            "nej": 0,
+            "avstar": 0,
+            "franvarande": 0
+          },
+          "KD": {
+            "ja": 19,
+            "nej": 0,
+            "avstar": 0,
+            "franvarande": 0
+          },
+          "-": {
+            "ja": 6,
+            "nej": 0,
+            "avstar": 3,
+            "franvarande": 0
+          },
+          "V": {
+            "ja": 1,
+            "nej": 0,
+            "avstar": 20,
+            "franvarande": 0
+          }
+        }
+      }
+    ]
+  },
+  {
+    "dok_id": "HD01SfU24",
+    "titel": "Ett mer träffsäkert och korrekt bostadsbidrag",
+    "utskott": "SfU",
+    "nummer": 24,
+    "datum": "2026-05-20",
+    "rm": "2025/26",
+    "kort_sammanfattning": "Bostadsbidrag beräknas månadsvis baserat på inkomstuppgifter från arbetsgivardeklarationer.\nDen bidragsgrundande inkomsten motsvarar den genomsnittliga månadsinkomsten under de tre första månaderna av en fyra-månadersperiod före bidragsmånaden.\nOm det saknas uppgifter i arbetsgivardeklarationer, exempelvis vid näringsverksamhet, beräknas bostadsbidraget fortsatt årligen.\nBostadsbidrag i månadssystemet räknas om vid ändrad inkomst som påverkar bidragets storlek.",
+    "roster": {},
+    "tags": [
+      "EKONOMI",
+      "BOSTAD"
+    ],
+    "status": "NY",
+    "passed": true,
+    "delvoterings": []
+  },
+  {
+    "dok_id": "HD01SkU25",
+    "titel": "Sänkt mervärdesskatt på tillträde till danstillställningar",
+    "utskott": "SkU",
+    "nummer": 25,
+    "datum": "2026-05-20",
+    "rm": "2025/26",
+    "kort_sammanfattning": "Mervärdesskatten på tillträde till danstillställningar sänks från 25 procent till 6 procent.\nEn felaktig hänvisning i lagen om skatt på energi rättas.",
+    "roster": {},
+    "tags": [
+      "MILJÖ",
+      "EKONOMI"
+    ],
+    "status": "NY",
+    "passed": true,
+    "delvoterings": []
+  },
+  {
+    "dok_id": "HD01SkU26",
+    "titel": "Ett undantag i kupongskattelagen för utländska stater",
+    "utskott": "SkU",
+    "nummer": 26,
+    "datum": "2026-05-20",
+    "rm": "2025/26",
+    "kort_sammanfattning": "Utländska stater och deras motsvarigheter till svenska regioner, kommuner eller kommunalförbund behöver inte betala kupongskatt på utdelningar från svenska aktiebolag, europabolag eller fonder.\nDetta gäller stater inom EES eller de som har avtal om informationsutbyte med Sverige.\nLagändringen träder i kraft 1 juli 2026.",
+    "roster": {},
+    "tags": [
+      "EKONOMI",
+      "JORDBRUK"
+    ],
+    "status": "NY",
+    "passed": true,
+    "delvoterings": [
+      {
+        "punkt": "2",
+        "rubrik": "Uppföljning och konsekvensanalys",
+        "ja": 200,
+        "nej": 149,
+        "avstar": 0,
+        "franvarande": 0,
+        "roster": {
+          "S": {
+            "ja": 0,
+            "nej": 106,
+            "avstar": 0,
+            "franvarande": 0
+          },
+          "SD": {
+            "ja": 70,
+            "nej": 0,
+            "avstar": 0,
+            "franvarande": 0
+          },
+          "C": {
+            "ja": 24,
+            "nej": 0,
+            "avstar": 0,
+            "franvarande": 0
+          },
+          "M": {
+            "ja": 66,
+            "nej": 0,
+            "avstar": 0,
+            "franvarande": 0
+          },
+          "MP": {
+            "ja": 0,
+            "nej": 18,
+            "avstar": 0,
+            "franvarande": 0
+          },
+          "L": {
+            "ja": 16,
+            "nej": 0,
+            "avstar": 0,
+            "franvarande": 0
+          },
+          "KD": {
+            "ja": 19,
+            "nej": 0,
+            "avstar": 0,
+            "franvarande": 0
+          },
+          "-": {
+            "ja": 5,
+            "nej": 4,
+            "avstar": 0,
+            "franvarande": 0
+          },
+          "V": {
+            "ja": 0,
+            "nej": 21,
+            "avstar": 0,
+            "franvarande": 0
+          }
+        }
+      }
+    ]
+  },
+  {
+    "dok_id": "HD01SkU27",
+    "titel": "Författningsändringar med anledning av övertagande av uppgift inom eurovinjettsamarbetet",
+    "utskott": "SkU",
+    "nummer": 27,
+    "datum": "2026-05-20",
+    "rm": "2025/26",
+    "kort_sammanfattning": "Beräkningsreglerna för återbetalning av vägavgift för utländska fordon ändras så att beloppet att återbetala räknas från och med dagen efter att ansökan om återbetalning kom in.\nBeloppet per dag att återbetala beräknas inte längre som 1/360 av tillämplig årsavgift.\nÖverklagandeförbudet för beslut om återbetalning av vägavgift för utländska fordon tas bort.\nFörvaltningslagens bestämmelser om överklagande ska tillämpas för samtliga beslut om återbetalning av vägavgift för utländska fordon.\nSekretess gäller för uppgifter om enskildas personliga eller ekonomiska förhållanden i verksamhet som avser bestämmande av vägavgift för utländska fordon, dock inte för själva beslutet om avgiften.",
+    "roster": {},
+    "tags": [
+      "EKONOMI",
+      "ARBETE"
+    ],
+    "status": "NY",
+    "passed": true,
+    "delvoterings": []
+  },
+  {
+    "dok_id": "HD01SoU25",
+    "titel": "Stärkta insatser för äldre och för de som vårdar eller stöder närstående",
+    "utskott": "SoU",
+    "nummer": 25,
+    "datum": "2026-05-20",
+    "rm": "2025/26",
+    "kort_sammanfattning": "Den som bor i särskilt boende för äldre erbjuds en fast omsorgskontakt, om behov inte uppenbart saknas.\nSocialnämnden ska erbjuda information, vägledning och en stödkontakt till de som vårdar eller stöder en närstående.\nSocialnämndens ansvar för barn som behöver stöd för att en närstående är allvarligt sjuk eller avlider tydliggörs.\nVårdgivare och vårdpersonal får ett tydligare ansvar att stödja barn när en förälder eller annan vuxen i hemmet är allvarligt sjuk eller avlider, eller när ett syskon är allvarligt sjukt.\nAvlösarservice enligt LSS behöver inte längre utföras i hemmet.",
+    "roster": {},
+    "tags": [
+      "HÄLSA",
+      "TRANSPORT"
+    ],
+    "status": "NY",
+    "passed": true,
+    "delvoterings": [
+      {
+        "punkt": "2",
+        "rubrik": "Kompetensförsörjning",
+        "ja": 218,
+        "nej": 131,
+        "avstar": 0,
+        "franvarande": 0,
+        "roster": {
+          "S": {
+            "ja": 0,
+            "nej": 106,
+            "avstar": 0,
+            "franvarande": 0
+          },
+          "SD": {
+            "ja": 70,
+            "nej": 0,
+            "avstar": 0,
+            "franvarande": 0
+          },
+          "C": {
+            "ja": 24,
+            "nej": 0,
+            "avstar": 0,
+            "franvarande": 0
+          },
+          "M": {
+            "ja": 66,
+            "nej": 0,
+            "avstar": 0,
+            "franvarande": 0
+          },
+          "MP": {
+            "ja": 18,
+            "nej": 0,
+            "avstar": 0,
+            "franvarande": 0
+          },
+          "L": {
+            "ja": 16,
+            "nej": 0,
+            "avstar": 0,
+            "franvarande": 0
+          },
+          "KD": {
+            "ja": 19,
+            "nej": 0,
+            "avstar": 0,
+            "franvarande": 0
+          },
+          "-": {
+            "ja": 5,
+            "nej": 4,
+            "avstar": 0,
+            "franvarande": 0
+          },
+          "V": {
+            "ja": 0,
+            "nej": 21,
+            "avstar": 0,
+            "franvarande": 0
+          }
+        }
+      }
+    ]
+  },
+  {
+    "dok_id": "HD01SoU27",
+    "titel": "En lag om socialdataregister",
+    "utskott": "SoU",
+    "nummer": 27,
+    "datum": "2026-05-20",
+    "rm": "2025/26",
+    "kort_sammanfattning": "Socialstyrelsen får utökade möjligheter att behandla personuppgifter i ett socialdataregister.\nVerksamheter inom socialtjänsten och LSS blir skyldiga att lämna uppgifter till Socialstyrelsen för registret.\nEn övergångsbestämmelse införs i socialtjänstlagen gällande mål om särskild avgift.",
+    "roster": {},
+    "tags": [
+      "EKONOMI"
+    ],
+    "status": "NY",
+    "passed": true,
+    "delvoterings": []
+  },
+  {
+    "dok_id": "HD01SoU36",
+    "titel": "Bättre förutsättningar att sända ut statlig personal",
+    "utskott": "SoU",
+    "nummer": 36,
+    "datum": "2026-05-20",
+    "rm": "2025/26",
+    "kort_sammanfattning": "Vaccinationer för medföljande familjemedlemmar till statligt anställda utomlands blir skattefria, förutsatt att vaccinationen krävs på grund av utlandsvistelsen.\nPersonal som anställs av Regeringskansliet, Försvarsmakten och Sida för att tjänstgöra utomlands, samt deras familjer, omfattas av regionernas ansvar för hälso- och sjukvård samt tandvård, även om de inte är bosatta i Sverige. Den region där personen senast var bosatt ansvarar för vården. Undantaget är personal som omfattas av lagen om Försvarsmaktens personal vid internationella militära insatser.\nDenna personal omfattas även av vårdgarantin.",
+    "roster": {},
+    "tags": [
+      "EKONOMI",
+      "HÄLSA"
+    ],
+    "status": "NY",
+    "passed": true,
+    "delvoterings": []
+  },
+  {
     "dok_id": "HD01SoU33",
     "titel": "Slopat matkrav för serveringstillstånd",
     "utskott": "SoU",
@@ -2935,6 +6925,23 @@
     ],
     "status": "NY",
     "passed": true
+  },
+  {
+    "dok_id": "HD01KU10",
+    "titel": "Granskning av statsrådens tjänsteutövning och regeringsärendenas handläggning",
+    "utskott": "KU",
+    "nummer": 10,
+    "datum": "2026-01-21",
+    "rm": "2025/26",
+    "kort_sammanfattning": "Konstitutionsutskottet (KU) har granskat statsrådens tjänsteutövning och regeringsärendenas handläggning under 2023.\nGranskningen omfattar bland annat hanteringen av regeringskansliets organisation, statsrådens ansvar, och efterlevnaden av relevanta lagar och förordningar.",
+    "roster": {},
+    "tags": [
+      "UTBILDNING",
+      "JORDBRUK"
+    ],
+    "status": "NY",
+    "passed": true,
+    "delvoterings": []
   },
   {
     "dok_id": "HD01AU5",

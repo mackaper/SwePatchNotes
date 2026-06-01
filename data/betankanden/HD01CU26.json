@@ -1,0 +1,86 @@
+{
+  "dok_id": "HD01CU26",
+  "titel": "En ny konsumentkreditlag",
+  "utskott": "CU",
+  "nummer": 26,
+  "datum": "2026-05-27",
+  "rm": "2025/26",
+  "kort_sammanfattning": "En ny konsumentkreditlag införs för att stärka konsumentskyddet och anpassa lagstiftningen till den senaste utvecklingen.\nFler näringsidkare som lämnar eller förmedlar krediter ska stå under tillsyn och efterleva krav på tillräcklig kunskap och kompetens genom ett nytt tillståndskrav.\nReglerna för kreditprövning skärps för att motverka överskuldsättning.\nEn mindre rättelse görs i lagen om elektronisk kommunikation, där ett kommatecken och orden ”eller sluten ungdomsvård” tas bort i 9 kap. 33 § första stycket 1.",
+  "bakgrund": "Regeringen föreslår en ny konsumentkreditlag för att genomföra ett EU-direktiv om konsumentkrediter och stärka konsumentskyddet.",
+  "beslut": "Riksdagen antar regeringens förslag till en ny konsumentkreditlag och övriga lagändringar med en mindre rättelse i lagen om elektronisk kommunikation.",
+  "roster": {},
+  "tags": [
+    "HÄLSA",
+    "JORDBRUK"
+  ],
+  "status": "NY",
+  "passed": true,
+  "dokument_url": "https://www.riksdagen.se/sv/dokument-och-lagar/dokument/betankande/_HD01CU26",
+  "voteringar": [],
+  "delvoterings": [
+    {
+      "punkt": "2",
+      "rubrik": "Ränteskillnadsersättning",
+      "ja": 321,
+      "nej": 25,
+      "avstar": 2,
+      "franvarande": 1,
+      "roster": {
+        "S": {
+          "ja": 106,
+          "nej": 0,
+          "avstar": 0,
+          "franvarande": 0
+        },
+        "SD": {
+          "ja": 70,
+          "nej": 0,
+          "avstar": 0,
+          "franvarande": 0
+        },
+        "C": {
+          "ja": 0,
+          "nej": 24,
+          "avstar": 0,
+          "franvarande": 0
+        },
+        "M": {
+          "ja": 66,
+          "nej": 0,
+          "avstar": 0,
+          "franvarande": 0
+        },
+        "MP": {
+          "ja": 17,
+          "nej": 1,
+          "avstar": 0,
+          "franvarande": 0
+        },
+        "L": {
+          "ja": 16,
+          "nej": 0,
+          "avstar": 0,
+          "franvarande": 0
+        },
+        "KD": {
+          "ja": 19,
+          "nej": 0,
+          "avstar": 0,
+          "franvarande": 0
+        },
+        "-": {
+          "ja": 6,
+          "nej": 0,
+          "avstar": 2,
+          "franvarande": 1
+        },
+        "V": {
+          "ja": 21,
+          "nej": 0,
+          "avstar": 0,
+          "franvarande": 0
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,140 @@
+{
+  "dok_id": "HD01CU30",
+  "titel": "Nytt mål för effektiv energianvändning och genomförande av det omarbetade direktivet om byggnaders energiprestanda",
+  "utskott": "CU",
+  "nummer": 30,
+  "datum": "2026-05-20",
+  "rm": "2025/26",
+  "kort_sammanfattning": "Kravet på energideklaration utökas till att gälla ombyggnader som berör en betydande del av klimatskärmen.\nEnergirenoveringsplaner införs.\nDet tekniska egenskapskravet om laddning av elfordon ändras till att avse hållbar mobilitet.",
+  "bakgrund": "Regeringen föreslår lagändringar baserade på ett EU-direktiv för att effektivisera energianvändningen i byggnader.",
+  "beslut": "Riksdagen godkänner regeringens förslag till nytt mål för effektiv energianvändning och regeringens lagförslag.",
+  "roster": {
+    "S": {
+      "ja": 0,
+      "nej": 106,
+      "avstar": 0,
+      "franvarande": 0
+    },
+    "SD": {
+      "ja": 70,
+      "nej": 0,
+      "avstar": 0,
+      "franvarande": 0
+    },
+    "C": {
+      "ja": 1,
+      "nej": 23,
+      "avstar": 0,
+      "franvarande": 0
+    },
+    "M": {
+      "ja": 65,
+      "nej": 0,
+      "avstar": 0,
+      "franvarande": 1
+    },
+    "MP": {
+      "ja": 0,
+      "nej": 18,
+      "avstar": 0,
+      "franvarande": 0
+    },
+    "L": {
+      "ja": 16,
+      "nej": 0,
+      "avstar": 0,
+      "franvarande": 0
+    },
+    "KD": {
+      "ja": 19,
+      "nej": 0,
+      "avstar": 0,
+      "franvarande": 0
+    },
+    "-": {
+      "ja": 5,
+      "nej": 4,
+      "avstar": 0,
+      "franvarande": 0
+    },
+    "V": {
+      "ja": 0,
+      "nej": 21,
+      "avstar": 0,
+      "franvarande": 0
+    }
+  },
+  "tags": [
+    "MILJÖ",
+    "TRANSPORT"
+  ],
+  "status": "NY",
+  "passed": true,
+  "dokument_url": "https://www.riksdagen.se/sv/dokument-och-lagar/dokument/betankande/_HD01CU30",
+  "voteringar": [
+    {
+      "party": "S",
+      "ja": 0,
+      "nej": 106,
+      "avstar": 0,
+      "franvarande": 0
+    },
+    {
+      "party": "SD",
+      "ja": 70,
+      "nej": 0,
+      "avstar": 0,
+      "franvarande": 0
+    },
+    {
+      "party": "C",
+      "ja": 1,
+      "nej": 23,
+      "avstar": 0,
+      "franvarande": 0
+    },
+    {
+      "party": "M",
+      "ja": 65,
+      "nej": 0,
+      "avstar": 0,
+      "franvarande": 1
+    },
+    {
+      "party": "MP",
+      "ja": 0,
+      "nej": 18,
+      "avstar": 0,
+      "franvarande": 0
+    },
+    {
+      "party": "L",
+      "ja": 16,
+      "nej": 0,
+      "avstar": 0,
+      "franvarande": 0
+    },
+    {
+      "party": "KD",
+      "ja": 19,
+      "nej": 0,
+      "avstar": 0,
+      "franvarande": 0
+    },
+    {
+      "party": "-",
+      "ja": 5,
+      "nej": 4,
+      "avstar": 0,
+      "franvarande": 0
+    },
+    {
+      "party": "V",
+      "ja": 0,
+      "nej": 21,
+      "avstar": 0,
+      "franvarande": 0
+    }
+  ],
+  "delvoterings": []
+}

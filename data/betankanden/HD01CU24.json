@@ -1,0 +1,86 @@
+{
+  "dok_id": "HD01CU24",
+  "titel": "Effektiv och säker byggprocess",
+  "utskott": "CU",
+  "nummer": 24,
+  "datum": "2026-05-20",
+  "rm": "2025/26",
+  "kort_sammanfattning": "Begreppet certifierat byggprojekteringsföretag ändras till byggbedömare.\nKontrollplanen delas upp i två planer: en för kontroll och en för avfall.\nEn kontrollansvarig får inte kontrollera sitt eget projekteringsarbete.\nByggnadsnämnden kan ingripa mot en byggbedömare som inte uppfyller sina skyldigheter med ett åtgärdsföreläggande.\nFörvaltningsuppgifter som innefattar myndighetsutövning kan överlåtas till utländska organ.",
+  "bakgrund": "Regeringen föreslår ändringar i plan- och bygglagen för att utveckla reformen med certifierade byggprojekteringsföretag och förstärka kontrollen av tekniska egenskapskrav vid byggande och förvaltning.",
+  "beslut": "Riksdagen antar regeringens förslag till ändringar i plan- och bygglagen, vilket innebär en vidareutveckling av systemet med certifierade byggprojekteringsföretag och en förstärkning av kontrollen vid byggande och förvaltning.",
+  "roster": {},
+  "tags": [
+    "ARBETE",
+    "JORDBRUK"
+  ],
+  "status": "NY",
+  "passed": true,
+  "dokument_url": "https://www.riksdagen.se/sv/dokument-och-lagar/dokument/betankande/_HD01CU24",
+  "voteringar": [],
+  "delvoterings": [
+    {
+      "punkt": "2",
+      "rubrik": "Lagförslaget i övrigt",
+      "ja": 221,
+      "nej": 128,
+      "avstar": 0,
+      "franvarande": 0,
+      "roster": {
+        "S": {
+          "ja": 0,
+          "nej": 106,
+          "avstar": 0,
+          "franvarande": 0
+        },
+        "SD": {
+          "ja": 70,
+          "nej": 0,
+          "avstar": 0,
+          "franvarande": 0
+        },
+        "C": {
+          "ja": 24,
+          "nej": 0,
+          "avstar": 0,
+          "franvarande": 0
+        },
+        "M": {
+          "ja": 66,
+          "nej": 0,
+          "avstar": 0,
+          "franvarande": 0
+        },
+        "MP": {
+          "ja": 0,
+          "nej": 18,
+          "avstar": 0,
+          "franvarande": 0
+        },
+        "L": {
+          "ja": 16,
+          "nej": 0,
+          "avstar": 0,
+          "franvarande": 0
+        },
+        "KD": {
+          "ja": 19,
+          "nej": 0,
+          "avstar": 0,
+          "franvarande": 0
+        },
+        "-": {
+          "ja": 5,
+          "nej": 4,
+          "avstar": 0,
+          "franvarande": 0
+        },
+        "V": {
+          "ja": 21,
+          "nej": 0,
+          "avstar": 0,
+          "franvarande": 0
+        }
+      }
+    }
+  ]
+}

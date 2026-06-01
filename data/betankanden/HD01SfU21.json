@@ -1,0 +1,205 @@
+{
+  "dok_id": "HD01SfU21",
+  "titel": "Kvalificering till socialförsäkringen",
+  "utskott": "SfU",
+  "nummer": 21,
+  "datum": "2026-05-20",
+  "rm": "2025/26",
+  "kort_sammanfattning": "För att få vissa bosättningsbaserade socialförsäkringsförmåner krävs kvalificering genom fem års bosättning i Sverige under en femtonårsperiod, eller bosättning kombinerat med arbete under viss tid med en viss inkomstnivå.\nKvalificering genom arbete kan ske genom att uppfylla en högre inkomstnivå efter sex månader eller en lägre nivå efter tolv månader.\nFörmåner som omfattas är föräldrapenning (grund- och lägstanivå), barnbidrag (inklusive flerbarnstillägg), omvårdnadsbidrag, sjuk- och aktivitetsersättning (garanti-, merkostnadsersättning), äldreförsörjningsstöd, bostadsbidrag och bostadstillägg.\nLaglig vistelse i Sverige krävs för att anses bosatt i landet och omfattas av den bosättningsbaserade försäkringen.",
+  "bakgrund": "Regeringen anser att det är viktigt att de som får tillgång till bosättningsbaserade förmåner har en stark anknytning till Sverige och bidrar till samhället genom arbete, samt att begränsa tillgången till förmånerna för att motverka att de utgör tilldragningsfaktorer för migranter.",
+  "beslut": "Riksdagen antar regeringens förslag om ändringar i socialförsäkringsbalken gällande kvalificering till socialförsäkringen och krav på laglig vistelse.",
+  "roster": {
+    "S": {
+      "ja": 0,
+      "nej": 106,
+      "avstar": 0,
+      "franvarande": 0
+    },
+    "SD": {
+      "ja": 70,
+      "nej": 0,
+      "avstar": 0,
+      "franvarande": 0
+    },
+    "C": {
+      "ja": 24,
+      "nej": 0,
+      "avstar": 0,
+      "franvarande": 0
+    },
+    "M": {
+      "ja": 66,
+      "nej": 0,
+      "avstar": 0,
+      "franvarande": 0
+    },
+    "MP": {
+      "ja": 0,
+      "nej": 0,
+      "avstar": 18,
+      "franvarande": 0
+    },
+    "L": {
+      "ja": 16,
+      "nej": 0,
+      "avstar": 0,
+      "franvarande": 0
+    },
+    "KD": {
+      "ja": 19,
+      "nej": 0,
+      "avstar": 0,
+      "franvarande": 0
+    },
+    "-": {
+      "ja": 5,
+      "nej": 1,
+      "avstar": 3,
+      "franvarande": 0
+    },
+    "V": {
+      "ja": 0,
+      "nej": 0,
+      "avstar": 21,
+      "franvarande": 0
+    }
+  },
+  "tags": [
+    "EKONOMI",
+    "HÄLSA"
+  ],
+  "status": "NY",
+  "passed": true,
+  "dokument_url": "https://www.riksdagen.se/sv/dokument-och-lagar/dokument/betankande/_HD01SfU21",
+  "voteringar": [
+    {
+      "party": "S",
+      "ja": 0,
+      "nej": 106,
+      "avstar": 0,
+      "franvarande": 0
+    },
+    {
+      "party": "SD",
+      "ja": 70,
+      "nej": 0,
+      "avstar": 0,
+      "franvarande": 0
+    },
+    {
+      "party": "C",
+      "ja": 24,
+      "nej": 0,
+      "avstar": 0,
+      "franvarande": 0
+    },
+    {
+      "party": "M",
+      "ja": 66,
+      "nej": 0,
+      "avstar": 0,
+      "franvarande": 0
+    },
+    {
+      "party": "MP",
+      "ja": 0,
+      "nej": 0,
+      "avstar": 18,
+      "franvarande": 0
+    },
+    {
+      "party": "L",
+      "ja": 16,
+      "nej": 0,
+      "avstar": 0,
+      "franvarande": 0
+    },
+    {
+      "party": "KD",
+      "ja": 19,
+      "nej": 0,
+      "avstar": 0,
+      "franvarande": 0
+    },
+    {
+      "party": "-",
+      "ja": 5,
+      "nej": 1,
+      "avstar": 3,
+      "franvarande": 0
+    },
+    {
+      "party": "V",
+      "ja": 0,
+      "nej": 0,
+      "avstar": 21,
+      "franvarande": 0
+    }
+  ],
+  "delvoterings": [
+    {
+      "punkt": "2",
+      "rubrik": "Undantag för kvalificering och kompensation till kommunerna",
+      "ja": 302,
+      "nej": 24,
+      "avstar": 23,
+      "franvarande": 0,
+      "roster": {
+        "S": {
+          "ja": 106,
+          "nej": 0,
+          "avstar": 0,
+          "franvarande": 0
+        },
+        "SD": {
+          "ja": 70,
+          "nej": 0,
+          "avstar": 0,
+          "franvarande": 0
+        },
+        "C": {
+          "ja": 0,
+          "nej": 24,
+          "avstar": 0,
+          "franvarande": 0
+        },
+        "M": {
+          "ja": 66,
+          "nej": 0,
+          "avstar": 0,
+          "franvarande": 0
+        },
+        "MP": {
+          "ja": 18,
+          "nej": 0,
+          "avstar": 0,
+          "franvarande": 0
+        },
+        "L": {
+          "ja": 16,
+          "nej": 0,
+          "avstar": 0,
+          "franvarande": 0
+        },
+        "KD": {
+          "ja": 19,
+          "nej": 0,
+          "avstar": 0,
+          "franvarande": 0
+        },
+        "-": {
+          "ja": 6,
+          "nej": 0,
+          "avstar": 3,
+          "franvarande": 0
+        },
+        "V": {
+          "ja": 1,
+          "nej": 0,
+          "avstar": 20,
+          "franvarande": 0
+        }
+      }
+    }
+  ]
+}

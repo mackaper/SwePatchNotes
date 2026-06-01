@@ -1,0 +1,205 @@
+{
+  "dok_id": "HD01CU36",
+  "titel": "Lag om avgift för områdessamverkan",
+  "utskott": "CU",
+  "nummer": 36,
+  "datum": "2026-05-26",
+  "rm": "2025/26",
+  "kort_sammanfattning": "En ny lag ger de som bedriver områdessamverkan rätt att ta ut en avgift från berörda fastighetsägare för att täcka kostnader.\nAvgiften får endast täcka kostnader för åtgärder som syftar till att förebygga brott, skapa trygghet och stärka områdets attraktivitet och lokala näringsliv, och som inte omfattas av statens eller kommunens ansvar.\nFastighetsägare till en- eller tvåbostadshus och tillhörande komplementbyggnader är undantagna från avgiftsskyldigheten.\nKommunen ska godkänna samverkanshuvudmannen, vilket kräver att huvudmannen företräder en kvalificerad majoritet av de berörda fastighetsägarna.",
+  "bakgrund": "Regeringen anser att det behövs en lag för att fördela kostnaderna för områdessamverkan rättvist mellan alla fastighetsägare som drar nytta av den, även de som inte aktivt deltar.",
+  "beslut": "Riksdagen antar regeringens förslag till lag om avgift för områdessamverkan, som träder i kraft den 1 augusti 2026.",
+  "roster": {
+    "S": {
+      "ja": 2,
+      "nej": 104,
+      "avstar": 0,
+      "franvarande": 0
+    },
+    "SD": {
+      "ja": 69,
+      "nej": 0,
+      "avstar": 0,
+      "franvarande": 1
+    },
+    "C": {
+      "ja": 0,
+      "nej": 24,
+      "avstar": 0,
+      "franvarande": 0
+    },
+    "M": {
+      "ja": 65,
+      "nej": 0,
+      "avstar": 0,
+      "franvarande": 1
+    },
+    "MP": {
+      "ja": 0,
+      "nej": 18,
+      "avstar": 0,
+      "franvarande": 0
+    },
+    "L": {
+      "ja": 16,
+      "nej": 0,
+      "avstar": 0,
+      "franvarande": 0
+    },
+    "KD": {
+      "ja": 19,
+      "nej": 0,
+      "avstar": 0,
+      "franvarande": 0
+    },
+    "-": {
+      "ja": 5,
+      "nej": 4,
+      "avstar": 0,
+      "franvarande": 0
+    },
+    "V": {
+      "ja": 0,
+      "nej": 21,
+      "avstar": 0,
+      "franvarande": 0
+    }
+  },
+  "tags": [
+    "EKONOMI",
+    "BROTT"
+  ],
+  "status": "NY",
+  "passed": true,
+  "dokument_url": "https://www.riksdagen.se/sv/dokument-och-lagar/dokument/betankande/_HD01CU36",
+  "voteringar": [
+    {
+      "party": "S",
+      "ja": 2,
+      "nej": 104,
+      "avstar": 0,
+      "franvarande": 0
+    },
+    {
+      "party": "SD",
+      "ja": 69,
+      "nej": 0,
+      "avstar": 0,
+      "franvarande": 1
+    },
+    {
+      "party": "C",
+      "ja": 0,
+      "nej": 24,
+      "avstar": 0,
+      "franvarande": 0
+    },
+    {
+      "party": "M",
+      "ja": 65,
+      "nej": 0,
+      "avstar": 0,
+      "franvarande": 1
+    },
+    {
+      "party": "MP",
+      "ja": 0,
+      "nej": 18,
+      "avstar": 0,
+      "franvarande": 0
+    },
+    {
+      "party": "L",
+      "ja": 16,
+      "nej": 0,
+      "avstar": 0,
+      "franvarande": 0
+    },
+    {
+      "party": "KD",
+      "ja": 19,
+      "nej": 0,
+      "avstar": 0,
+      "franvarande": 0
+    },
+    {
+      "party": "-",
+      "ja": 5,
+      "nej": 4,
+      "avstar": 0,
+      "franvarande": 0
+    },
+    {
+      "party": "V",
+      "ja": 0,
+      "nej": 21,
+      "avstar": 0,
+      "franvarande": 0
+    }
+  ],
+  "delvoterings": [
+    {
+      "punkt": "2",
+      "rubrik": "Andra åtgärder för trygghet i den byggda miljön",
+      "ja": 196,
+      "nej": 107,
+      "avstar": 41,
+      "franvarande": 5,
+      "roster": {
+        "S": {
+          "ja": 0,
+          "nej": 106,
+          "avstar": 0,
+          "franvarande": 0
+        },
+        "SD": {
+          "ja": 67,
+          "nej": 0,
+          "avstar": 0,
+          "franvarande": 3
+        },
+        "C": {
+          "ja": 23,
+          "nej": 0,
+          "avstar": 0,
+          "franvarande": 1
+        },
+        "M": {
+          "ja": 66,
+          "nej": 0,
+          "avstar": 0,
+          "franvarande": 0
+        },
+        "MP": {
+          "ja": 0,
+          "nej": 0,
+          "avstar": 18,
+          "franvarande": 0
+        },
+        "L": {
+          "ja": 16,
+          "nej": 0,
+          "avstar": 0,
+          "franvarande": 0
+        },
+        "KD": {
+          "ja": 19,
+          "nej": 0,
+          "avstar": 0,
+          "franvarande": 0
+        },
+        "-": {
+          "ja": 5,
+          "nej": 1,
+          "avstar": 3,
+          "franvarande": 0
+        },
+        "V": {
+          "ja": 0,
+          "nej": 0,
+          "avstar": 20,
+          "franvarande": 1
+        }
+      }
+    }
+  ]
+}

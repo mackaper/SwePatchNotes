@@ -1,0 +1,140 @@
+{
+  "dok_id": "HD01SoU30",
+  "titel": "Reformerat försörjningsstöd - bidragstak och ökade möjligheter till arbete",
+  "utskott": "SoU",
+  "nummer": 30,
+  "datum": "2026-05-26",
+  "rm": "2025/26",
+  "kort_sammanfattning": "Riksnormen för försörjningsstöd moderniseras genom att baseras på prisundersökningar av hushålls baskonsumtion och dagstidning tas bort som kostnadspost.\nFör hushåll med fler än tre barn under 21 år begränsas försörjningsstödet, med möjlighet till undantag vid synnerliga skäl.\nFörsörjningsstöd för boendekostnader vid andrahandsuthyrning kräver godkännande av uthyrningen.\nEkonomiskt bistånd ges endast till personer som vistas lagligt i Sverige.\nPersoner med nedsatt arbetsförmåga på grund av sjukdom måste lämna läkarintyg för att få försörjningsstöd och kan behöva delta i arbetslivsinriktad rehabilitering.",
+  "bakgrund": "Regeringen har föreslagit ändringar i socialtjänstlagen för att reformera försörjningsstödet, inklusive ett bidragstak och åtgärder för att öka möjligheterna till arbete.",
+  "beslut": "Riksdagen antar regeringens förslag till ändringar i socialtjänstlagen med en mindre redaktionell ändring.",
+  "roster": {
+    "S": {
+      "ja": 0,
+      "nej": 106,
+      "avstar": 0,
+      "franvarande": 0
+    },
+    "SD": {
+      "ja": 69,
+      "nej": 0,
+      "avstar": 0,
+      "franvarande": 1
+    },
+    "C": {
+      "ja": 24,
+      "nej": 0,
+      "avstar": 0,
+      "franvarande": 0
+    },
+    "M": {
+      "ja": 65,
+      "nej": 0,
+      "avstar": 0,
+      "franvarande": 1
+    },
+    "MP": {
+      "ja": 0,
+      "nej": 0,
+      "avstar": 18,
+      "franvarande": 0
+    },
+    "L": {
+      "ja": 16,
+      "nej": 0,
+      "avstar": 0,
+      "franvarande": 0
+    },
+    "KD": {
+      "ja": 19,
+      "nej": 0,
+      "avstar": 0,
+      "franvarande": 0
+    },
+    "-": {
+      "ja": 5,
+      "nej": 1,
+      "avstar": 3,
+      "franvarande": 0
+    },
+    "V": {
+      "ja": 0,
+      "nej": 0,
+      "avstar": 21,
+      "franvarande": 0
+    }
+  },
+  "tags": [
+    "EKONOMI",
+    "HÄLSA"
+  ],
+  "status": "NY",
+  "passed": true,
+  "dokument_url": "https://www.riksdagen.se/sv/dokument-och-lagar/dokument/betankande/_HD01SoU30",
+  "voteringar": [
+    {
+      "party": "S",
+      "ja": 0,
+      "nej": 106,
+      "avstar": 0,
+      "franvarande": 0
+    },
+    {
+      "party": "SD",
+      "ja": 69,
+      "nej": 0,
+      "avstar": 0,
+      "franvarande": 1
+    },
+    {
+      "party": "C",
+      "ja": 24,
+      "nej": 0,
+      "avstar": 0,
+      "franvarande": 0
+    },
+    {
+      "party": "M",
+      "ja": 65,
+      "nej": 0,
+      "avstar": 0,
+      "franvarande": 1
+    },
+    {
+      "party": "MP",
+      "ja": 0,
+      "nej": 0,
+      "avstar": 18,
+      "franvarande": 0
+    },
+    {
+      "party": "L",
+      "ja": 16,
+      "nej": 0,
+      "avstar": 0,
+      "franvarande": 0
+    },
+    {
+      "party": "KD",
+      "ja": 19,
+      "nej": 0,
+      "avstar": 0,
+      "franvarande": 0
+    },
+    {
+      "party": "-",
+      "ja": 5,
+      "nej": 1,
+      "avstar": 3,
+      "franvarande": 0
+    },
+    {
+      "party": "V",
+      "ja": 0,
+      "nej": 0,
+      "avstar": 21,
+      "franvarande": 0
+    }
+  ],
+  "delvoterings": []
+}

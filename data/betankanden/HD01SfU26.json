@@ -1,0 +1,140 @@
+{
+  "dok_id": "HD01SfU26",
+  "titel": "Bidragsspärr och sanktionsavgift i socialförsäkringen",
+  "utskott": "SfU",
+  "nummer": 26,
+  "datum": "2026-05-26",
+  "rm": "2025/26",
+  "kort_sammanfattning": "En sanktionsavgift införs för de som orsakat felaktig eller för hög ersättning från socialförsäkringen eller statligt tandvårdsstöd. Avgiften är 25% av återbetalningsbeloppet, dock minst 4% av prisbasbeloppet.\nSkyldigheten att anmäla brott enligt bidragsbrottslagen begränsas till misstanke om grovt bidragsbrott eller om det finns särskilda skäl.\nEn bidragsspärr införs, vilket innebär att en person under en viss tid kan nekas rätt till en förmån om de medvetet eller av grov vårdslöshet lämnat oriktiga uppgifter. Spärren gäller minst 3 månader och högst 3 år.",
+  "bakgrund": "Regeringen vill införa administrativa sanktioner inom socialförsäkringen för att motverka felaktiga utbetalningar och missbruk av systemet.",
+  "beslut": "Riksdagen godkänner regeringens förslag om att införa bidragsspärr och sanktionsavgift i socialförsäkringen.",
+  "roster": {
+    "S": {
+      "ja": 106,
+      "nej": 0,
+      "avstar": 0,
+      "franvarande": 0
+    },
+    "SD": {
+      "ja": 69,
+      "nej": 0,
+      "avstar": 0,
+      "franvarande": 1
+    },
+    "C": {
+      "ja": 24,
+      "nej": 0,
+      "avstar": 0,
+      "franvarande": 0
+    },
+    "M": {
+      "ja": 65,
+      "nej": 0,
+      "avstar": 0,
+      "franvarande": 1
+    },
+    "MP": {
+      "ja": 0,
+      "nej": 18,
+      "avstar": 0,
+      "franvarande": 0
+    },
+    "L": {
+      "ja": 16,
+      "nej": 0,
+      "avstar": 0,
+      "franvarande": 0
+    },
+    "KD": {
+      "ja": 19,
+      "nej": 0,
+      "avstar": 0,
+      "franvarande": 0
+    },
+    "-": {
+      "ja": 6,
+      "nej": 3,
+      "avstar": 0,
+      "franvarande": 0
+    },
+    "V": {
+      "ja": 0,
+      "nej": 21,
+      "avstar": 0,
+      "franvarande": 0
+    }
+  },
+  "tags": [
+    "EKONOMI",
+    "HÄLSA"
+  ],
+  "status": "NY",
+  "passed": true,
+  "dokument_url": "https://www.riksdagen.se/sv/dokument-och-lagar/dokument/betankande/_HD01SfU26",
+  "voteringar": [
+    {
+      "party": "S",
+      "ja": 106,
+      "nej": 0,
+      "avstar": 0,
+      "franvarande": 0
+    },
+    {
+      "party": "SD",
+      "ja": 69,
+      "nej": 0,
+      "avstar": 0,
+      "franvarande": 1
+    },
+    {
+      "party": "C",
+      "ja": 24,
+      "nej": 0,
+      "avstar": 0,
+      "franvarande": 0
+    },
+    {
+      "party": "M",
+      "ja": 65,
+      "nej": 0,
+      "avstar": 0,
+      "franvarande": 1
+    },
+    {
+      "party": "MP",
+      "ja": 0,
+      "nej": 18,
+      "avstar": 0,
+      "franvarande": 0
+    },
+    {
+      "party": "L",
+      "ja": 16,
+      "nej": 0,
+      "avstar": 0,
+      "franvarande": 0
+    },
+    {
+      "party": "KD",
+      "ja": 19,
+      "nej": 0,
+      "avstar": 0,
+      "franvarande": 0
+    },
+    {
+      "party": "-",
+      "ja": 6,
+      "nej": 3,
+      "avstar": 0,
+      "franvarande": 0
+    },
+    {
+      "party": "V",
+      "ja": 0,
+      "nej": 21,
+      "avstar": 0,
+      "franvarande": 0
+    }
+  ],
+  "delvoterings": []
+}

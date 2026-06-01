@@ -1,0 +1,205 @@
+{
+  "dok_id": "HD01CU32",
+  "titel": "Lag om hyrköp av bostad",
+  "utskott": "CU",
+  "nummer": 32,
+  "datum": "2026-05-26",
+  "rm": "2025/26",
+  "kort_sammanfattning": "En ny lag om hyrköp av bostad införs, som reglerar avtal där en person hyr en bostad med rätt att köpa den inom en viss tid.\nLagen syftar till att underlätta för personer som inte har tillräckligt med sparade pengar för att köpa en bostad direkt.\nHyrköpsavtalet ska ange priset för bostaden eller hur priset ska beräknas, och optionen att köpa bostaden ska vara tidsbegränsad.\nBesittningsskyddet som normalt gäller för hyresgäster gäller inte vid hyrköpsavtal, men andra hyresrättsliga regler som uppsägning och underhåll gäller.\nSäljaren har informationsplikt gentemot köparen både före och under avtalets löptid.",
+  "bakgrund": "Regeringen vill skapa ett tryggt regelsystem för hyrköp av bostäder för att göra det möjligt för fler att äga sitt boende.",
+  "beslut": "Riksdagen antar regeringens förslag till lag om hyrköp av bostad samt lagändringar gällande ägarlägenheter.",
+  "roster": {
+    "S": {
+      "ja": 0,
+      "nej": 106,
+      "avstar": 0,
+      "franvarande": 0
+    },
+    "SD": {
+      "ja": 69,
+      "nej": 0,
+      "avstar": 0,
+      "franvarande": 1
+    },
+    "C": {
+      "ja": 24,
+      "nej": 0,
+      "avstar": 0,
+      "franvarande": 0
+    },
+    "M": {
+      "ja": 65,
+      "nej": 0,
+      "avstar": 0,
+      "franvarande": 1
+    },
+    "MP": {
+      "ja": 0,
+      "nej": 18,
+      "avstar": 0,
+      "franvarande": 0
+    },
+    "L": {
+      "ja": 16,
+      "nej": 0,
+      "avstar": 0,
+      "franvarande": 0
+    },
+    "KD": {
+      "ja": 19,
+      "nej": 0,
+      "avstar": 0,
+      "franvarande": 0
+    },
+    "-": {
+      "ja": 5,
+      "nej": 1,
+      "avstar": 3,
+      "franvarande": 0
+    },
+    "V": {
+      "ja": 0,
+      "nej": 0,
+      "avstar": 21,
+      "franvarande": 0
+    }
+  },
+  "tags": [
+    "EKONOMI",
+    "BOSTAD"
+  ],
+  "status": "NY",
+  "passed": true,
+  "dokument_url": "https://www.riksdagen.se/sv/dokument-och-lagar/dokument/betankande/_HD01CU32",
+  "voteringar": [
+    {
+      "party": "S",
+      "ja": 0,
+      "nej": 106,
+      "avstar": 0,
+      "franvarande": 0
+    },
+    {
+      "party": "SD",
+      "ja": 69,
+      "nej": 0,
+      "avstar": 0,
+      "franvarande": 1
+    },
+    {
+      "party": "C",
+      "ja": 24,
+      "nej": 0,
+      "avstar": 0,
+      "franvarande": 0
+    },
+    {
+      "party": "M",
+      "ja": 65,
+      "nej": 0,
+      "avstar": 0,
+      "franvarande": 1
+    },
+    {
+      "party": "MP",
+      "ja": 0,
+      "nej": 18,
+      "avstar": 0,
+      "franvarande": 0
+    },
+    {
+      "party": "L",
+      "ja": 16,
+      "nej": 0,
+      "avstar": 0,
+      "franvarande": 0
+    },
+    {
+      "party": "KD",
+      "ja": 19,
+      "nej": 0,
+      "avstar": 0,
+      "franvarande": 0
+    },
+    {
+      "party": "-",
+      "ja": 5,
+      "nej": 1,
+      "avstar": 3,
+      "franvarande": 0
+    },
+    {
+      "party": "V",
+      "ja": 0,
+      "nej": 0,
+      "avstar": 21,
+      "franvarande": 0
+    }
+  ],
+  "delvoterings": [
+    {
+      "punkt": "2",
+      "rubrik": "Lagstiftningens framtida utformning",
+      "ja": 198,
+      "nej": 125,
+      "avstar": 24,
+      "franvarande": 2,
+      "roster": {
+        "S": {
+          "ja": 0,
+          "nej": 106,
+          "avstar": 0,
+          "franvarande": 0
+        },
+        "SD": {
+          "ja": 69,
+          "nej": 0,
+          "avstar": 0,
+          "franvarande": 1
+        },
+        "C": {
+          "ja": 24,
+          "nej": 0,
+          "avstar": 0,
+          "franvarande": 0
+        },
+        "M": {
+          "ja": 65,
+          "nej": 0,
+          "avstar": 0,
+          "franvarande": 1
+        },
+        "MP": {
+          "ja": 0,
+          "nej": 18,
+          "avstar": 0,
+          "franvarande": 0
+        },
+        "L": {
+          "ja": 16,
+          "nej": 0,
+          "avstar": 0,
+          "franvarande": 0
+        },
+        "KD": {
+          "ja": 19,
+          "nej": 0,
+          "avstar": 0,
+          "franvarande": 0
+        },
+        "-": {
+          "ja": 5,
+          "nej": 1,
+          "avstar": 3,
+          "franvarande": 0
+        },
+        "V": {
+          "ja": 0,
+          "nej": 0,
+          "avstar": 21,
+          "franvarande": 0
+        }
+      }
+    }
+  ]
+}

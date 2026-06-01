@@ -1,0 +1,140 @@
+{
+  "dok_id": "HD01KU34",
+  "titel": "En grundlagsskyddad aborträtt samt utökade möjligheter att begränsa föreningsfriheten och rätten till medborgarskap",
+  "utskott": "KU",
+  "nummer": 34,
+  "datum": "2026-05-20",
+  "rm": "2025/26",
+  "kort_sammanfattning": "Rätten till abort skrivs in i regeringsformen som en grundläggande fri- och rättighet.\nDet blir möjligt att återkalla svenskt medborgarskap från personer med dubbelt medborgarskap som fått sitt medborgarskap genom falska uppgifter eller dömts för brott som skadar Sveriges intressen.\nMöjligheten att begränsa föreningsfriheten utökas för sammanslutningar som ägnar sig åt allvarlig brottslighet för ekonomisk vinning.",
+  "bakgrund": "Regeringen har föreslagit ändringar i regeringsformen för att stärka skyddet för grundläggande fri- och rättigheter, samt för att motverka brottslighet och skydda Sveriges intressen.",
+  "beslut": "Riksdagen föreslås anta regeringens förslag till lagändringar i regeringsformen, med ikraftträdande den 1 januari 2027.",
+  "roster": {
+    "S": {
+      "ja": 106,
+      "nej": 0,
+      "avstar": 0,
+      "franvarande": 0
+    },
+    "SD": {
+      "ja": 70,
+      "nej": 0,
+      "avstar": 0,
+      "franvarande": 0
+    },
+    "C": {
+      "ja": 0,
+      "nej": 0,
+      "avstar": 24,
+      "franvarande": 0
+    },
+    "M": {
+      "ja": 65,
+      "nej": 0,
+      "avstar": 0,
+      "franvarande": 1
+    },
+    "MP": {
+      "ja": 0,
+      "nej": 0,
+      "avstar": 18,
+      "franvarande": 0
+    },
+    "L": {
+      "ja": 16,
+      "nej": 0,
+      "avstar": 0,
+      "franvarande": 0
+    },
+    "KD": {
+      "ja": 19,
+      "nej": 0,
+      "avstar": 0,
+      "franvarande": 0
+    },
+    "-": {
+      "ja": 6,
+      "nej": 3,
+      "avstar": 0,
+      "franvarande": 0
+    },
+    "V": {
+      "ja": 0,
+      "nej": 20,
+      "avstar": 0,
+      "franvarande": 1
+    }
+  },
+  "tags": [
+    "EKONOMI",
+    "BROTT"
+  ],
+  "status": "NY",
+  "passed": true,
+  "dokument_url": "https://www.riksdagen.se/sv/dokument-och-lagar/dokument/betankande/_HD01KU34",
+  "voteringar": [
+    {
+      "party": "S",
+      "ja": 106,
+      "nej": 0,
+      "avstar": 0,
+      "franvarande": 0
+    },
+    {
+      "party": "SD",
+      "ja": 70,
+      "nej": 0,
+      "avstar": 0,
+      "franvarande": 0
+    },
+    {
+      "party": "C",
+      "ja": 0,
+      "nej": 0,
+      "avstar": 24,
+      "franvarande": 0
+    },
+    {
+      "party": "M",
+      "ja": 65,
+      "nej": 0,
+      "avstar": 0,
+      "franvarande": 1
+    },
+    {
+      "party": "MP",
+      "ja": 0,
+      "nej": 0,
+      "avstar": 18,
+      "franvarande": 0
+    },
+    {
+      "party": "L",
+      "ja": 16,
+      "nej": 0,
+      "avstar": 0,
+      "franvarande": 0
+    },
+    {
+      "party": "KD",
+      "ja": 19,
+      "nej": 0,
+      "avstar": 0,
+      "franvarande": 0
+    },
+    {
+      "party": "-",
+      "ja": 6,
+      "nej": 3,
+      "avstar": 0,
+      "franvarande": 0
+    },
+    {
+      "party": "V",
+      "ja": 0,
+      "nej": 20,
+      "avstar": 0,
+      "franvarande": 1
+    }
+  ],
+  "delvoterings": []
+}

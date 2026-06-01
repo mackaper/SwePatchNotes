@@ -1,0 +1,86 @@
+{
+  "dok_id": "HD01FiU31",
+  "titel": "Riksrevisionens rapport om statens fastighetsförvaltning",
+  "utskott": "FiU",
+  "nummer": 31,
+  "datum": "2026-05-20",
+  "rm": "2025/26",
+  "kort_sammanfattning": "Riksrevisionen har granskat Statens fastighetsverks (SFV) förvaltning av marknadshyres- och bidragsfastigheter som hyrs ut som lokaler och funnit att förvaltningen till stora delar bedrivs effektivt, men att det finns brister i både SFV:s förvaltning och regeringens styrning.\nRegeringen har tillfälligt ökat anslaget för de kulturhistoriskt värdefulla fastigheter som SFV förvaltar och som inte kan bära sina egna kostnader, men Riksrevisionen anser att detta inte kommer att lösa den finansiella situationen med bidragsfastigheterna på sikt.\nEnligt Riksrevisionen saknas det en långsiktig styrning och uppföljning av SFV:s kulturmiljöuppdrag och det bedrivs inte något aktivt arbete med att undersöka möjliga strategiska kompletteringar i enlighet med kulturfastighetsstrategin.",
+  "bakgrund": "Riksrevisionen har granskat Statens fastighetsverks fastighetsförvaltning och lämnat rekommendationer till regeringen.",
+  "beslut": "Finansutskottet föreslår att riksdagen lägger skrivelsen till handlingarna och avslår motionsyrkandena.",
+  "roster": {},
+  "tags": [
+    "MILJÖ",
+    "EKONOMI"
+  ],
+  "status": "NY",
+  "passed": true,
+  "dokument_url": "https://www.riksdagen.se/sv/dokument-och-lagar/dokument/betankande/_HD01FiU31",
+  "voteringar": [],
+  "delvoterings": [
+    {
+      "punkt": "2",
+      "rubrik": "De statliga kulturfastigheterna",
+      "ja": 306,
+      "nej": 43,
+      "avstar": 0,
+      "franvarande": 0,
+      "roster": {
+        "S": {
+          "ja": 106,
+          "nej": 0,
+          "avstar": 0,
+          "franvarande": 0
+        },
+        "SD": {
+          "ja": 70,
+          "nej": 0,
+          "avstar": 0,
+          "franvarande": 0
+        },
+        "C": {
+          "ja": 23,
+          "nej": 1,
+          "avstar": 0,
+          "franvarande": 0
+        },
+        "M": {
+          "ja": 66,
+          "nej": 0,
+          "avstar": 0,
+          "franvarande": 0
+        },
+        "MP": {
+          "ja": 0,
+          "nej": 18,
+          "avstar": 0,
+          "franvarande": 0
+        },
+        "L": {
+          "ja": 16,
+          "nej": 0,
+          "avstar": 0,
+          "franvarande": 0
+        },
+        "KD": {
+          "ja": 19,
+          "nej": 0,
+          "avstar": 0,
+          "franvarande": 0
+        },
+        "-": {
+          "ja": 6,
+          "nej": 3,
+          "avstar": 0,
+          "franvarande": 0
+        },
+        "V": {
+          "ja": 0,
+          "nej": 21,
+          "avstar": 0,
+          "franvarande": 0
+        }
+      }
+    }
+  ]
+}

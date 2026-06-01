@@ -1,0 +1,205 @@
+{
+  "dok_id": "HD01CU39",
+  "titel": "Förenklade regler vid ändring av en byggnad",
+  "utskott": "CU",
+  "nummer": 39,
+  "datum": "2026-05-26",
+  "rm": "2025/26",
+  "kort_sammanfattning": "”Ombyggnad” i plan- och bygglagen ersätts med ”större byggnadsändring”, vilket definieras som en lov- eller anmälningspliktig ändring som innebär en stor ekonomisk investering och omfattande förnyelse av en betydande del av byggnaden.\nVid ändring av en byggnad ska utformningskrav och tekniska egenskapskrav gälla \"för det som ändras\", exempelvis krav på dörröppningens bredd vid dörrbygge mellan rum, men normalt inte på de anslutande rummen.\nKrav på tillgänglighet och användbarhet för personer med nedsatt rörelse- eller orienteringsförmåga gäller inte för bostäder som inreds på vindar eller i suterräng.",
+  "bakgrund": "Regelverket om ombyggnad i plan- och bygglagen uppfattas som svårt att överblicka och förstå, vilket motiverar förenklingar och lättnader.",
+  "beslut": "Riksdagen godkänner regeringens förslag om ändringar i plan- och bygglagen.",
+  "roster": {
+    "S": {
+      "ja": 0,
+      "nej": 106,
+      "avstar": 0,
+      "franvarande": 0
+    },
+    "SD": {
+      "ja": 69,
+      "nej": 0,
+      "avstar": 0,
+      "franvarande": 1
+    },
+    "C": {
+      "ja": 24,
+      "nej": 0,
+      "avstar": 0,
+      "franvarande": 0
+    },
+    "M": {
+      "ja": 64,
+      "nej": 0,
+      "avstar": 1,
+      "franvarande": 1
+    },
+    "MP": {
+      "ja": 0,
+      "nej": 18,
+      "avstar": 0,
+      "franvarande": 0
+    },
+    "L": {
+      "ja": 16,
+      "nej": 0,
+      "avstar": 0,
+      "franvarande": 0
+    },
+    "KD": {
+      "ja": 19,
+      "nej": 0,
+      "avstar": 0,
+      "franvarande": 0
+    },
+    "-": {
+      "ja": 5,
+      "nej": 4,
+      "avstar": 0,
+      "franvarande": 0
+    },
+    "V": {
+      "ja": 0,
+      "nej": 21,
+      "avstar": 0,
+      "franvarande": 0
+    }
+  },
+  "tags": [
+    "EKONOMI",
+    "JORDBRUK"
+  ],
+  "status": "ÄNDRAD",
+  "passed": true,
+  "dokument_url": "https://www.riksdagen.se/sv/dokument-och-lagar/dokument/betankande/_HD01CU39",
+  "voteringar": [
+    {
+      "party": "S",
+      "ja": 0,
+      "nej": 106,
+      "avstar": 0,
+      "franvarande": 0
+    },
+    {
+      "party": "SD",
+      "ja": 69,
+      "nej": 0,
+      "avstar": 0,
+      "franvarande": 1
+    },
+    {
+      "party": "C",
+      "ja": 24,
+      "nej": 0,
+      "avstar": 0,
+      "franvarande": 0
+    },
+    {
+      "party": "M",
+      "ja": 64,
+      "nej": 0,
+      "avstar": 1,
+      "franvarande": 1
+    },
+    {
+      "party": "MP",
+      "ja": 0,
+      "nej": 18,
+      "avstar": 0,
+      "franvarande": 0
+    },
+    {
+      "party": "L",
+      "ja": 16,
+      "nej": 0,
+      "avstar": 0,
+      "franvarande": 0
+    },
+    {
+      "party": "KD",
+      "ja": 19,
+      "nej": 0,
+      "avstar": 0,
+      "franvarande": 0
+    },
+    {
+      "party": "-",
+      "ja": 5,
+      "nej": 4,
+      "avstar": 0,
+      "franvarande": 0
+    },
+    {
+      "party": "V",
+      "ja": 0,
+      "nej": 21,
+      "avstar": 0,
+      "franvarande": 0
+    }
+  ],
+  "delvoterings": [
+    {
+      "punkt": "2",
+      "rubrik": "Regeringens lagförslag i övrigt",
+      "ja": 326,
+      "nej": 21,
+      "avstar": 0,
+      "franvarande": 2,
+      "roster": {
+        "S": {
+          "ja": 106,
+          "nej": 0,
+          "avstar": 0,
+          "franvarande": 0
+        },
+        "SD": {
+          "ja": 69,
+          "nej": 0,
+          "avstar": 0,
+          "franvarande": 1
+        },
+        "C": {
+          "ja": 24,
+          "nej": 0,
+          "avstar": 0,
+          "franvarande": 0
+        },
+        "M": {
+          "ja": 65,
+          "nej": 0,
+          "avstar": 0,
+          "franvarande": 1
+        },
+        "MP": {
+          "ja": 0,
+          "nej": 18,
+          "avstar": 0,
+          "franvarande": 0
+        },
+        "L": {
+          "ja": 16,
+          "nej": 0,
+          "avstar": 0,
+          "franvarande": 0
+        },
+        "KD": {
+          "ja": 19,
+          "nej": 0,
+          "avstar": 0,
+          "franvarande": 0
+        },
+        "-": {
+          "ja": 6,
+          "nej": 3,
+          "avstar": 0,
+          "franvarande": 0
+        },
+        "V": {
+          "ja": 21,
+          "nej": 0,
+          "avstar": 0,
+          "franvarande": 0
+        }
+      }
+    }
+  ]
+}

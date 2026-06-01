@@ -1,0 +1,214 @@
+{
+  "dok_id": "HD01JuU39",
+  "titel": "En särskild straffbestämmelse för psykiskt våld",
+  "utskott": "JuU",
+  "nummer": 39,
+  "datum": "2026-05-20",
+  "rm": "2025/26",
+  "kort_sammanfattning": "Ett nytt brott, psykiskt våld, införs i brottsbalken, vilket innebär att upprepade kränkningar som beskyllningar, nedsättande uttalanden, förödmjukande beteende, otillbörliga hot, tvång eller övervakning, som allvarligt kan skada självkänslan, blir straffbara.\nÄven varaktig otillbörlig övervakning som allvarligt kan skada självkänslan blir straffbar.\nStraffet för psykiskt våld blir fängelse i högst fyra år.\nPsykiskt våld kan ingå som en del av brotten barnfridsbrott, grov fridskränkning, grov kvinnofridskränkning, olaga förföljelse och hedersförtryck.\nÄven förolämpning kan ingå som en del av brotten grov fridskränkning, grov kvinnofridskränkning, olaga förföljelse och hedersförtryck.\nLagändringarna träder i kraft den 1 juli 2026.",
+  "bakgrund": "Regeringen anser att psykiskt våld är ett allvarligt samhällsproblem, ofta en del av mäns våld mot kvinnor, våld i nära relationer och hedersrelaterat våld, och att ett starkt straffrättsligt skydd behövs.",
+  "beslut": "Riksdagen antar regeringens förslag om en särskild straffbestämmelse för psykiskt våld.",
+  "roster": {},
+  "tags": [
+    "HÄLSA",
+    "BROTT"
+  ],
+  "status": "NY",
+  "passed": true,
+  "dokument_url": "https://www.riksdagen.se/sv/dokument-och-lagar/dokument/betankande/_HD01JuU39",
+  "voteringar": [],
+  "delvoterings": [
+    {
+      "punkt": "2",
+      "rubrik": "Ekonomiskt våld",
+      "ja": 221,
+      "nej": 128,
+      "avstar": 0,
+      "franvarande": 0,
+      "roster": {
+        "S": {
+          "ja": 0,
+          "nej": 106,
+          "avstar": 0,
+          "franvarande": 0
+        },
+        "SD": {
+          "ja": 70,
+          "nej": 0,
+          "avstar": 0,
+          "franvarande": 0
+        },
+        "C": {
+          "ja": 24,
+          "nej": 0,
+          "avstar": 0,
+          "franvarande": 0
+        },
+        "M": {
+          "ja": 66,
+          "nej": 0,
+          "avstar": 0,
+          "franvarande": 0
+        },
+        "MP": {
+          "ja": 0,
+          "nej": 18,
+          "avstar": 0,
+          "franvarande": 0
+        },
+        "L": {
+          "ja": 16,
+          "nej": 0,
+          "avstar": 0,
+          "franvarande": 0
+        },
+        "KD": {
+          "ja": 19,
+          "nej": 0,
+          "avstar": 0,
+          "franvarande": 0
+        },
+        "-": {
+          "ja": 5,
+          "nej": 4,
+          "avstar": 0,
+          "franvarande": 0
+        },
+        "V": {
+          "ja": 21,
+          "nej": 0,
+          "avstar": 0,
+          "franvarande": 0
+        }
+      }
+    },
+    {
+      "punkt": "3",
+      "rubrik": "Omvändelseförsök",
+      "ja": 177,
+      "nej": 172,
+      "avstar": 0,
+      "franvarande": 0,
+      "roster": {
+        "S": {
+          "ja": 1,
+          "nej": 105,
+          "avstar": 0,
+          "franvarande": 0
+        },
+        "SD": {
+          "ja": 70,
+          "nej": 0,
+          "avstar": 0,
+          "franvarande": 0
+        },
+        "C": {
+          "ja": 0,
+          "nej": 24,
+          "avstar": 0,
+          "franvarande": 0
+        },
+        "M": {
+          "ja": 66,
+          "nej": 0,
+          "avstar": 0,
+          "franvarande": 0
+        },
+        "MP": {
+          "ja": 0,
+          "nej": 18,
+          "avstar": 0,
+          "franvarande": 0
+        },
+        "L": {
+          "ja": 16,
+          "nej": 0,
+          "avstar": 0,
+          "franvarande": 0
+        },
+        "KD": {
+          "ja": 19,
+          "nej": 0,
+          "avstar": 0,
+          "franvarande": 0
+        },
+        "-": {
+          "ja": 5,
+          "nej": 4,
+          "avstar": 0,
+          "franvarande": 0
+        },
+        "V": {
+          "ja": 0,
+          "nej": 21,
+          "avstar": 0,
+          "franvarande": 0
+        }
+      }
+    },
+    {
+      "punkt": "4",
+      "rubrik": "Utbildning och uppföljning",
+      "ja": 220,
+      "nej": 111,
+      "avstar": 18,
+      "franvarande": 0,
+      "roster": {
+        "S": {
+          "ja": 0,
+          "nej": 106,
+          "avstar": 0,
+          "franvarande": 0
+        },
+        "SD": {
+          "ja": 70,
+          "nej": 0,
+          "avstar": 0,
+          "franvarande": 0
+        },
+        "C": {
+          "ja": 24,
+          "nej": 0,
+          "avstar": 0,
+          "franvarande": 0
+        },
+        "M": {
+          "ja": 66,
+          "nej": 0,
+          "avstar": 0,
+          "franvarande": 0
+        },
+        "MP": {
+          "ja": 0,
+          "nej": 0,
+          "avstar": 18,
+          "franvarande": 0
+        },
+        "L": {
+          "ja": 16,
+          "nej": 0,
+          "avstar": 0,
+          "franvarande": 0
+        },
+        "KD": {
+          "ja": 19,
+          "nej": 0,
+          "avstar": 0,
+          "franvarande": 0
+        },
+        "-": {
+          "ja": 5,
+          "nej": 4,
+          "avstar": 0,
+          "franvarande": 0
+        },
+        "V": {
+          "ja": 20,
+          "nej": 1,
+          "avstar": 0,
+          "franvarande": 0
+        }
+      }
+    }
+  ]
+}

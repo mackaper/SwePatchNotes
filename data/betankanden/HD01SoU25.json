@@ -1,0 +1,86 @@
+{
+  "dok_id": "HD01SoU25",
+  "titel": "Stärkta insatser för äldre och för de som vårdar eller stöder närstående",
+  "utskott": "SoU",
+  "nummer": 25,
+  "datum": "2026-05-20",
+  "rm": "2025/26",
+  "kort_sammanfattning": "Den som bor i särskilt boende för äldre erbjuds en fast omsorgskontakt, om behov inte uppenbart saknas.\nSocialnämnden ska erbjuda information, vägledning och en stödkontakt till de som vårdar eller stöder en närstående.\nSocialnämndens ansvar för barn som behöver stöd för att en närstående är allvarligt sjuk eller avlider tydliggörs.\nVårdgivare och vårdpersonal får ett tydligare ansvar att stödja barn när en förälder eller annan vuxen i hemmet är allvarligt sjuk eller avlider, eller när ett syskon är allvarligt sjukt.\nAvlösarservice enligt LSS behöver inte längre utföras i hemmet.",
+  "bakgrund": "Regeringen har föreslagit ändringar i flera lagar för att stärka stödet till äldre, närståendevårdare och barn i utsatta situationer.",
+  "beslut": "Riksdagen har beslutat att godkänna regeringens förslag till ändringar i socialtjänstlagen, hälso- och sjukvårdslagen, patientsäkerhetslagen och lagen om stöd och service till vissa funktionshindrade.",
+  "roster": {},
+  "tags": [
+    "HÄLSA",
+    "TRANSPORT"
+  ],
+  "status": "NY",
+  "passed": true,
+  "dokument_url": "https://www.riksdagen.se/sv/dokument-och-lagar/dokument/betankande/_HD01SoU25",
+  "voteringar": [],
+  "delvoterings": [
+    {
+      "punkt": "2",
+      "rubrik": "Kompetensförsörjning",
+      "ja": 218,
+      "nej": 131,
+      "avstar": 0,
+      "franvarande": 0,
+      "roster": {
+        "S": {
+          "ja": 0,
+          "nej": 106,
+          "avstar": 0,
+          "franvarande": 0
+        },
+        "SD": {
+          "ja": 70,
+          "nej": 0,
+          "avstar": 0,
+          "franvarande": 0
+        },
+        "C": {
+          "ja": 24,
+          "nej": 0,
+          "avstar": 0,
+          "franvarande": 0
+        },
+        "M": {
+          "ja": 66,
+          "nej": 0,
+          "avstar": 0,
+          "franvarande": 0
+        },
+        "MP": {
+          "ja": 18,
+          "nej": 0,
+          "avstar": 0,
+          "franvarande": 0
+        },
+        "L": {
+          "ja": 16,
+          "nej": 0,
+          "avstar": 0,
+          "franvarande": 0
+        },
+        "KD": {
+          "ja": 19,
+          "nej": 0,
+          "avstar": 0,
+          "franvarande": 0
+        },
+        "-": {
+          "ja": 5,
+          "nej": 4,
+          "avstar": 0,
+          "franvarande": 0
+        },
+        "V": {
+          "ja": 0,
+          "nej": 21,
+          "avstar": 0,
+          "franvarande": 0
+        }
+      }
+    }
+  ]
+}
