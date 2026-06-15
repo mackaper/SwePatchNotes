@@ -1,0 +1,139 @@
+{
+  "dok_id": "HD01FiU21",
+  "titel": "Vårändringsbudget för 2026",
+  "utskott": "FiU",
+  "nummer": 21,
+  "datum": "2026-06-09",
+  "rm": "2025/26",
+  "kort_sammanfattning": "",
+  "bakgrund": "",
+  "beslut": "",
+  "roster": {
+    "S": {
+      "ja": 0,
+      "nej": 106,
+      "avstar": 0,
+      "franvarande": 0
+    },
+    "SD": {
+      "ja": 68,
+      "nej": 0,
+      "avstar": 0,
+      "franvarande": 2
+    },
+    "C": {
+      "ja": 0,
+      "nej": 0,
+      "avstar": 24,
+      "franvarande": 0
+    },
+    "M": {
+      "ja": 66,
+      "nej": 0,
+      "avstar": 0,
+      "franvarande": 0
+    },
+    "MP": {
+      "ja": 0,
+      "nej": 0,
+      "avstar": 18,
+      "franvarande": 0
+    },
+    "L": {
+      "ja": 16,
+      "nej": 0,
+      "avstar": 0,
+      "franvarande": 0
+    },
+    "KD": {
+      "ja": 19,
+      "nej": 0,
+      "avstar": 0,
+      "franvarande": 0
+    },
+    "-": {
+      "ja": 5,
+      "nej": 1,
+      "avstar": 3,
+      "franvarande": 0
+    },
+    "V": {
+      "ja": 0,
+      "nej": 0,
+      "avstar": 21,
+      "franvarande": 0
+    }
+  },
+  "tags": [
+    "EKONOMI"
+  ],
+  "status": "NY",
+  "passed": true,
+  "dokument_url": "https://www.riksdagen.se/sv/dokument-och-lagar/dokument/betankande/_HD01FiU21",
+  "voteringar": [
+    {
+      "party": "S",
+      "ja": 0,
+      "nej": 106,
+      "avstar": 0,
+      "franvarande": 0
+    },
+    {
+      "party": "SD",
+      "ja": 68,
+      "nej": 0,
+      "avstar": 0,
+      "franvarande": 2
+    },
+    {
+      "party": "C",
+      "ja": 0,
+      "nej": 0,
+      "avstar": 24,
+      "franvarande": 0
+    },
+    {
+      "party": "M",
+      "ja": 66,
+      "nej": 0,
+      "avstar": 0,
+      "franvarande": 0
+    },
+    {
+      "party": "MP",
+      "ja": 0,
+      "nej": 0,
+      "avstar": 18,
+      "franvarande": 0
+    },
+    {
+      "party": "L",
+      "ja": 16,
+      "nej": 0,
+      "avstar": 0,
+      "franvarande": 0
+    },
+    {
+      "party": "KD",
+      "ja": 19,
+      "nej": 0,
+      "avstar": 0,
+      "franvarande": 0
+    },
+    {
+      "party": "-",
+      "ja": 5,
+      "nej": 1,
+      "avstar": 3,
+      "franvarande": 0
+    },
+    {
+      "party": "V",
+      "ja": 0,
+      "nej": 0,
+      "avstar": 21,
+      "franvarande": 0
+    }
+  ],
+  "delvoterings": []
+}

@@ -1,0 +1,204 @@
+{
+  "dok_id": "HD01UU18",
+  "titel": "Ett modernt och anpassat regelverk för krigsmateriel",
+  "utskott": "UU",
+  "nummer": 18,
+  "datum": "2026-06-09",
+  "rm": "2025/26",
+  "kort_sammanfattning": "",
+  "bakgrund": "",
+  "beslut": "",
+  "roster": {
+    "S": {
+      "ja": 106,
+      "nej": 0,
+      "avstar": 0,
+      "franvarande": 0
+    },
+    "SD": {
+      "ja": 68,
+      "nej": 0,
+      "avstar": 0,
+      "franvarande": 2
+    },
+    "C": {
+      "ja": 23,
+      "nej": 0,
+      "avstar": 0,
+      "franvarande": 1
+    },
+    "M": {
+      "ja": 65,
+      "nej": 0,
+      "avstar": 0,
+      "franvarande": 1
+    },
+    "MP": {
+      "ja": 0,
+      "nej": 0,
+      "avstar": 18,
+      "franvarande": 0
+    },
+    "L": {
+      "ja": 16,
+      "nej": 0,
+      "avstar": 0,
+      "franvarande": 0
+    },
+    "KD": {
+      "ja": 18,
+      "nej": 0,
+      "avstar": 0,
+      "franvarande": 1
+    },
+    "-": {
+      "ja": 5,
+      "nej": 3,
+      "avstar": 1,
+      "franvarande": 0
+    },
+    "V": {
+      "ja": 0,
+      "nej": 20,
+      "avstar": 0,
+      "franvarande": 1
+    }
+  },
+  "tags": [
+    "FÖRSVAR"
+  ],
+  "status": "NY",
+  "passed": true,
+  "dokument_url": "https://www.riksdagen.se/sv/dokument-och-lagar/dokument/betankande/_HD01UU18",
+  "voteringar": [
+    {
+      "party": "S",
+      "ja": 106,
+      "nej": 0,
+      "avstar": 0,
+      "franvarande": 0
+    },
+    {
+      "party": "SD",
+      "ja": 68,
+      "nej": 0,
+      "avstar": 0,
+      "franvarande": 2
+    },
+    {
+      "party": "C",
+      "ja": 23,
+      "nej": 0,
+      "avstar": 0,
+      "franvarande": 1
+    },
+    {
+      "party": "M",
+      "ja": 65,
+      "nej": 0,
+      "avstar": 0,
+      "franvarande": 1
+    },
+    {
+      "party": "MP",
+      "ja": 0,
+      "nej": 0,
+      "avstar": 18,
+      "franvarande": 0
+    },
+    {
+      "party": "L",
+      "ja": 16,
+      "nej": 0,
+      "avstar": 0,
+      "franvarande": 0
+    },
+    {
+      "party": "KD",
+      "ja": 18,
+      "nej": 0,
+      "avstar": 0,
+      "franvarande": 1
+    },
+    {
+      "party": "-",
+      "ja": 5,
+      "nej": 3,
+      "avstar": 1,
+      "franvarande": 0
+    },
+    {
+      "party": "V",
+      "ja": 0,
+      "nej": 20,
+      "avstar": 0,
+      "franvarande": 1
+    }
+  ],
+  "delvoterings": [
+    {
+      "punkt": "2",
+      "rubrik": "Sveriges anslutning till avtalet om exportkontroll",
+      "ja": 299,
+      "nej": 42,
+      "avstar": 1,
+      "franvarande": 7,
+      "roster": {
+        "S": {
+          "ja": 106,
+          "nej": 0,
+          "avstar": 0,
+          "franvarande": 0
+        },
+        "SD": {
+          "ja": 68,
+          "nej": 0,
+          "avstar": 0,
+          "franvarande": 2
+        },
+        "C": {
+          "ja": 23,
+          "nej": 0,
+          "avstar": 0,
+          "franvarande": 1
+        },
+        "M": {
+          "ja": 64,
+          "nej": 0,
+          "avstar": 0,
+          "franvarande": 2
+        },
+        "MP": {
+          "ja": 0,
+          "nej": 18,
+          "avstar": 0,
+          "franvarande": 0
+        },
+        "L": {
+          "ja": 16,
+          "nej": 0,
+          "avstar": 0,
+          "franvarande": 0
+        },
+        "KD": {
+          "ja": 18,
+          "nej": 0,
+          "avstar": 0,
+          "franvarande": 1
+        },
+        "-": {
+          "ja": 4,
+          "nej": 4,
+          "avstar": 1,
+          "franvarande": 0
+        },
+        "V": {
+          "ja": 0,
+          "nej": 20,
+          "avstar": 0,
+          "franvarande": 1
+        }
+      }
+    }
+  ]
+}

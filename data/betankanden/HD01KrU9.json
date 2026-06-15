@@ -1,0 +1,83 @@
+{
+  "dok_id": "HD01KrU9",
+  "titel": "Attraktiva platser - bredare genomslag för politiken för arkitektur, form och design",
+  "utskott": "KrU",
+  "nummer": 9,
+  "datum": "2026-06-03",
+  "rm": "2025/26",
+  "kort_sammanfattning": "",
+  "bakgrund": "",
+  "beslut": "",
+  "roster": {},
+  "tags": [],
+  "status": "NY",
+  "passed": true,
+  "dokument_url": "https://www.riksdagen.se/sv/dokument-och-lagar/dokument/betankande/_HD01KrU9",
+  "voteringar": [],
+  "delvoterings": [
+    {
+      "punkt": "2",
+      "rubrik": "Inriktningen för politiken för arkitektur, form och design",
+      "ja": 306,
+      "nej": 42,
+      "avstar": 0,
+      "franvarande": 1,
+      "roster": {
+        "S": {
+          "ja": 106,
+          "nej": 0,
+          "avstar": 0,
+          "franvarande": 0
+        },
+        "SD": {
+          "ja": 70,
+          "nej": 0,
+          "avstar": 0,
+          "franvarande": 0
+        },
+        "C": {
+          "ja": 23,
+          "nej": 0,
+          "avstar": 0,
+          "franvarande": 1
+        },
+        "M": {
+          "ja": 66,
+          "nej": 0,
+          "avstar": 0,
+          "franvarande": 0
+        },
+        "MP": {
+          "ja": 0,
+          "nej": 18,
+          "avstar": 0,
+          "franvarande": 0
+        },
+        "L": {
+          "ja": 16,
+          "nej": 0,
+          "avstar": 0,
+          "franvarande": 0
+        },
+        "KD": {
+          "ja": 19,
+          "nej": 0,
+          "avstar": 0,
+          "franvarande": 0
+        },
+        "-": {
+          "ja": 6,
+          "nej": 3,
+          "avstar": 0,
+          "franvarande": 0
+        },
+        "V": {
+          "ja": 0,
+          "nej": 21,
+          "avstar": 0,
+          "franvarande": 0
+        }
+      }
+    }
+  ]
+}

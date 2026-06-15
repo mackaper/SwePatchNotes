@@ -1,0 +1,137 @@
+{
+  "dok_id": "HD01UU17",
+  "titel": "Humanitärt bistånd",
+  "utskott": "UU",
+  "nummer": 17,
+  "datum": "2026-06-10",
+  "rm": "2025/26",
+  "kort_sammanfattning": "",
+  "bakgrund": "",
+  "beslut": "",
+  "roster": {
+    "S": {
+      "ja": 82,
+      "nej": 82,
+      "avstar": 0,
+      "franvarande": 2
+    },
+    "SD": {
+      "ja": 88,
+      "nej": 0,
+      "avstar": 0,
+      "franvarande": 2
+    },
+    "C": {
+      "ja": 0,
+      "nej": 0,
+      "avstar": 32,
+      "franvarande": 0
+    },
+    "M": {
+      "ja": 96,
+      "nej": 0,
+      "avstar": 0,
+      "franvarande": 0
+    },
+    "MP": {
+      "ja": 0,
+      "nej": 10,
+      "avstar": 10,
+      "franvarande": 0
+    },
+    "L": {
+      "ja": 22,
+      "nej": 0,
+      "avstar": 0,
+      "franvarande": 0
+    },
+    "KD": {
+      "ja": 28,
+      "nej": 0,
+      "avstar": 0,
+      "franvarande": 0
+    },
+    "-": {
+      "ja": 4,
+      "nej": 5,
+      "avstar": 5,
+      "franvarande": 0
+    },
+    "V": {
+      "ja": 0,
+      "nej": 16,
+      "avstar": 16,
+      "franvarande": 0
+    }
+  },
+  "tags": [],
+  "status": "NY",
+  "passed": true,
+  "dokument_url": "https://www.riksdagen.se/sv/dokument-och-lagar/dokument/betankande/_HD01UU17",
+  "voteringar": [
+    {
+      "party": "S",
+      "ja": 82,
+      "nej": 82,
+      "avstar": 0,
+      "franvarande": 2
+    },
+    {
+      "party": "SD",
+      "ja": 88,
+      "nej": 0,
+      "avstar": 0,
+      "franvarande": 2
+    },
+    {
+      "party": "C",
+      "ja": 0,
+      "nej": 0,
+      "avstar": 32,
+      "franvarande": 0
+    },
+    {
+      "party": "M",
+      "ja": 96,
+      "nej": 0,
+      "avstar": 0,
+      "franvarande": 0
+    },
+    {
+      "party": "MP",
+      "ja": 0,
+      "nej": 10,
+      "avstar": 10,
+      "franvarande": 0
+    },
+    {
+      "party": "L",
+      "ja": 22,
+      "nej": 0,
+      "avstar": 0,
+      "franvarande": 0
+    },
+    {
+      "party": "KD",
+      "ja": 28,
+      "nej": 0,
+      "avstar": 0,
+      "franvarande": 0
+    },
+    {
+      "party": "-",
+      "ja": 4,
+      "nej": 5,
+      "avstar": 5,
+      "franvarande": 0
+    },
+    {
+      "party": "V",
+      "ja": 0,
+      "nej": 16,
+      "avstar": 16,
+      "franvarande": 0
+    }
+  ],
+  "delvoterings": []
+}

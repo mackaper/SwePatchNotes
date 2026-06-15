@@ -1,0 +1,204 @@
+{
+  "dok_id": "HD01UU19",
+  "titel": "Verksamheten i Nato 2025",
+  "utskott": "UU",
+  "nummer": 19,
+  "datum": "2026-06-03",
+  "rm": "2025/26",
+  "kort_sammanfattning": "",
+  "bakgrund": "",
+  "beslut": "",
+  "roster": {
+    "S": {
+      "ja": 106,
+      "nej": 0,
+      "avstar": 0,
+      "franvarande": 0
+    },
+    "SD": {
+      "ja": 70,
+      "nej": 0,
+      "avstar": 0,
+      "franvarande": 0
+    },
+    "C": {
+      "ja": 23,
+      "nej": 0,
+      "avstar": 0,
+      "franvarande": 1
+    },
+    "M": {
+      "ja": 66,
+      "nej": 0,
+      "avstar": 0,
+      "franvarande": 0
+    },
+    "MP": {
+      "ja": 0,
+      "nej": 18,
+      "avstar": 0,
+      "franvarande": 0
+    },
+    "L": {
+      "ja": 16,
+      "nej": 0,
+      "avstar": 0,
+      "franvarande": 0
+    },
+    "KD": {
+      "ja": 19,
+      "nej": 0,
+      "avstar": 0,
+      "franvarande": 0
+    },
+    "-": {
+      "ja": 6,
+      "nej": 0,
+      "avstar": 3,
+      "franvarande": 0
+    },
+    "V": {
+      "ja": 21,
+      "nej": 0,
+      "avstar": 0,
+      "franvarande": 0
+    }
+  },
+  "tags": [
+    "FÖRSVAR"
+  ],
+  "status": "NY",
+  "passed": true,
+  "dokument_url": "https://www.riksdagen.se/sv/dokument-och-lagar/dokument/betankande/_HD01UU19",
+  "voteringar": [
+    {
+      "party": "S",
+      "ja": 106,
+      "nej": 0,
+      "avstar": 0,
+      "franvarande": 0
+    },
+    {
+      "party": "SD",
+      "ja": 70,
+      "nej": 0,
+      "avstar": 0,
+      "franvarande": 0
+    },
+    {
+      "party": "C",
+      "ja": 23,
+      "nej": 0,
+      "avstar": 0,
+      "franvarande": 1
+    },
+    {
+      "party": "M",
+      "ja": 66,
+      "nej": 0,
+      "avstar": 0,
+      "franvarande": 0
+    },
+    {
+      "party": "MP",
+      "ja": 0,
+      "nej": 18,
+      "avstar": 0,
+      "franvarande": 0
+    },
+    {
+      "party": "L",
+      "ja": 16,
+      "nej": 0,
+      "avstar": 0,
+      "franvarande": 0
+    },
+    {
+      "party": "KD",
+      "ja": 19,
+      "nej": 0,
+      "avstar": 0,
+      "franvarande": 0
+    },
+    {
+      "party": "-",
+      "ja": 6,
+      "nej": 0,
+      "avstar": 3,
+      "franvarande": 0
+    },
+    {
+      "party": "V",
+      "ja": 21,
+      "nej": 0,
+      "avstar": 0,
+      "franvarande": 0
+    }
+  ],
+  "delvoterings": [
+    {
+      "punkt": "2",
+      "rubrik": "Centrum för demokratisk resiliens",
+      "ja": 323,
+      "nej": 21,
+      "avstar": 3,
+      "franvarande": 2,
+      "roster": {
+        "S": {
+          "ja": 106,
+          "nej": 0,
+          "avstar": 0,
+          "franvarande": 0
+        },
+        "SD": {
+          "ja": 70,
+          "nej": 0,
+          "avstar": 0,
+          "franvarande": 0
+        },
+        "C": {
+          "ja": 23,
+          "nej": 0,
+          "avstar": 0,
+          "franvarande": 1
+        },
+        "M": {
+          "ja": 66,
+          "nej": 0,
+          "avstar": 0,
+          "franvarande": 0
+        },
+        "MP": {
+          "ja": 17,
+          "nej": 0,
+          "avstar": 0,
+          "franvarande": 1
+        },
+        "L": {
+          "ja": 16,
+          "nej": 0,
+          "avstar": 0,
+          "franvarande": 0
+        },
+        "KD": {
+          "ja": 19,
+          "nej": 0,
+          "avstar": 0,
+          "franvarande": 0
+        },
+        "-": {
+          "ja": 6,
+          "nej": 0,
+          "avstar": 3,
+          "franvarande": 0
+        },
+        "V": {
+          "ja": 0,
+          "nej": 21,
+          "avstar": 0,
+          "franvarande": 0
+        }
+      }
+    }
+  ]
+}

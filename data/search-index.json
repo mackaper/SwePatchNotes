@@ -1,5 +1,4021 @@
 [
   {
+    "dok_id": "HD01SkU29",
+    "titel": "Förbättrade regler för svensk tonnagebeskattning",
+    "utskott": "SkU",
+    "nummer": 29,
+    "datum": "2026-06-11",
+    "rm": "2025/26",
+    "kort_sammanfattning": "",
+    "roster": {},
+    "tags": [
+      "EKONOMI"
+    ],
+    "status": "NY",
+    "passed": true,
+    "delvoterings": [
+      {
+        "punkt": "2",
+        "rubrik": "Koncernintern uthyrning",
+        "ja": 175,
+        "nej": 168,
+        "avstar": 0,
+        "franvarande": 6,
+        "roster": {
+          "S": {
+            "ja": 0,
+            "nej": 104,
+            "avstar": 0,
+            "franvarande": 2
+          },
+          "SD": {
+            "ja": 70,
+            "nej": 0,
+            "avstar": 0,
+            "franvarande": 0
+          },
+          "C": {
+            "ja": 0,
+            "nej": 23,
+            "avstar": 0,
+            "franvarande": 1
+          },
+          "M": {
+            "ja": 66,
+            "nej": 0,
+            "avstar": 0,
+            "franvarande": 0
+          },
+          "MP": {
+            "ja": 0,
+            "nej": 17,
+            "avstar": 0,
+            "franvarande": 1
+          },
+          "L": {
+            "ja": 16,
+            "nej": 0,
+            "avstar": 0,
+            "franvarande": 0
+          },
+          "KD": {
+            "ja": 19,
+            "nej": 0,
+            "avstar": 0,
+            "franvarande": 0
+          },
+          "-": {
+            "ja": 4,
+            "nej": 4,
+            "avstar": 0,
+            "franvarande": 1
+          },
+          "V": {
+            "ja": 0,
+            "nej": 20,
+            "avstar": 0,
+            "franvarande": 1
+          }
+        }
+      }
+    ]
+  },
+  {
+    "dok_id": "HD01SkU35",
+    "titel": "Vissa justeringar i inkomstskattelagen med anledning av förändrade ersättningar för nyanlända invandrare",
+    "utskott": "SkU",
+    "nummer": 35,
+    "datum": "2026-06-11",
+    "rm": "2025/26",
+    "kort_sammanfattning": "",
+    "roster": {},
+    "tags": [
+      "EKONOMI",
+      "JORDBRUK"
+    ],
+    "status": "ÄNDRAD",
+    "passed": true,
+    "delvoterings": []
+  },
+  {
+    "dok_id": "HD01TU17",
+    "titel": "Nya regler mot bedrägerier och annat vilseledande genom elektroniska kommunikationstjänster",
+    "utskott": "TU",
+    "nummer": 17,
+    "datum": "2026-06-11",
+    "rm": "2025/26",
+    "kort_sammanfattning": "",
+    "roster": {},
+    "tags": [
+      "JORDBRUK"
+    ],
+    "status": "NY",
+    "passed": true,
+    "delvoterings": []
+  },
+  {
+    "dok_id": "HD01TU18",
+    "titel": "Interoperabilitet vid datadelning inom den offentliga förvaltningen",
+    "utskott": "TU",
+    "nummer": 18,
+    "datum": "2026-06-11",
+    "rm": "2025/26",
+    "kort_sammanfattning": "",
+    "roster": {},
+    "tags": [
+      "TRANSPORT"
+    ],
+    "status": "NY",
+    "passed": true,
+    "delvoterings": []
+  },
+  {
+    "dok_id": "HD01TU19",
+    "titel": "Ny lag om kommunal hamnverksamhet",
+    "utskott": "TU",
+    "nummer": 19,
+    "datum": "2026-06-11",
+    "rm": "2025/26",
+    "kort_sammanfattning": "",
+    "roster": {
+      "S": {
+        "ja": 0,
+        "nej": 104,
+        "avstar": 0,
+        "franvarande": 2
+      },
+      "SD": {
+        "ja": 70,
+        "nej": 0,
+        "avstar": 0,
+        "franvarande": 0
+      },
+      "C": {
+        "ja": 23,
+        "nej": 0,
+        "avstar": 0,
+        "franvarande": 1
+      },
+      "M": {
+        "ja": 66,
+        "nej": 0,
+        "avstar": 0,
+        "franvarande": 0
+      },
+      "MP": {
+        "ja": 0,
+        "nej": 17,
+        "avstar": 0,
+        "franvarande": 1
+      },
+      "L": {
+        "ja": 16,
+        "nej": 0,
+        "avstar": 0,
+        "franvarande": 0
+      },
+      "KD": {
+        "ja": 19,
+        "nej": 0,
+        "avstar": 0,
+        "franvarande": 0
+      },
+      "-": {
+        "ja": 4,
+        "nej": 4,
+        "avstar": 0,
+        "franvarande": 1
+      },
+      "V": {
+        "ja": 0,
+        "nej": 21,
+        "avstar": 0,
+        "franvarande": 0
+      }
+    },
+    "tags": [
+      "JORDBRUK"
+    ],
+    "status": "NY",
+    "passed": true,
+    "delvoterings": [
+      {
+        "punkt": "2",
+        "rubrik": "Önskemål om ytterligare utredning",
+        "ja": 320,
+        "nej": 24,
+        "avstar": 0,
+        "franvarande": 5,
+        "roster": {
+          "S": {
+            "ja": 104,
+            "nej": 0,
+            "avstar": 0,
+            "franvarande": 2
+          },
+          "SD": {
+            "ja": 70,
+            "nej": 0,
+            "avstar": 0,
+            "franvarande": 0
+          },
+          "C": {
+            "ja": 23,
+            "nej": 0,
+            "avstar": 0,
+            "franvarande": 1
+          },
+          "M": {
+            "ja": 66,
+            "nej": 0,
+            "avstar": 0,
+            "franvarande": 0
+          },
+          "MP": {
+            "ja": 17,
+            "nej": 0,
+            "avstar": 0,
+            "franvarande": 1
+          },
+          "L": {
+            "ja": 16,
+            "nej": 0,
+            "avstar": 0,
+            "franvarande": 0
+          },
+          "KD": {
+            "ja": 19,
+            "nej": 0,
+            "avstar": 0,
+            "franvarande": 0
+          },
+          "-": {
+            "ja": 5,
+            "nej": 3,
+            "avstar": 0,
+            "franvarande": 1
+          },
+          "V": {
+            "ja": 0,
+            "nej": 21,
+            "avstar": 0,
+            "franvarande": 0
+          }
+        }
+      }
+    ]
+  },
+  {
+    "dok_id": "HD01UU20",
+    "titel": "Sveriges tillträde till konventionen om inrättande av en internationell skadeståndskommission för Ukraina",
+    "utskott": "UU",
+    "nummer": 20,
+    "datum": "2026-06-11",
+    "rm": "2025/26",
+    "kort_sammanfattning": "",
+    "roster": {},
+    "tags": [
+      "JORDBRUK"
+    ],
+    "status": "NY",
+    "passed": true,
+    "delvoterings": []
+  },
+  {
+    "dok_id": "HD01UU21",
+    "titel": "Sveriges anslutning till den utvidgade partiella överenskommelsen för den särskilda tribunalen för aggressionsbrottet mot Ukraina",
+    "utskott": "UU",
+    "nummer": 21,
+    "datum": "2026-06-11",
+    "rm": "2025/26",
+    "kort_sammanfattning": "",
+    "roster": {},
+    "tags": [
+      "BROTT",
+      "JORDBRUK"
+    ],
+    "status": "NY",
+    "passed": true,
+    "delvoterings": []
+  },
+  {
+    "dok_id": "HD01KU17",
+    "titel": "Riksrevisionens årsredovisning för 2025",
+    "utskott": "KU",
+    "nummer": 17,
+    "datum": "2026-06-10",
+    "rm": "2025/26",
+    "kort_sammanfattning": "",
+    "roster": {},
+    "tags": [],
+    "status": "NY",
+    "passed": true,
+    "delvoterings": []
+  },
+  {
+    "dok_id": "HD01KU37",
+    "titel": "Koncentration av viss länsstyrelseverksamhet",
+    "utskott": "KU",
+    "nummer": 37,
+    "datum": "2026-06-10",
+    "rm": "2025/26",
+    "kort_sammanfattning": "",
+    "roster": {},
+    "tags": [
+      "JORDBRUK"
+    ],
+    "status": "NY",
+    "passed": true,
+    "delvoterings": []
+  },
+  {
+    "dok_id": "HD01KU38",
+    "titel": "Den parlamentariska processen med ledamoten i fokus",
+    "utskott": "KU",
+    "nummer": 38,
+    "datum": "2026-06-10",
+    "rm": "2025/26",
+    "kort_sammanfattning": "",
+    "roster": {},
+    "tags": [],
+    "status": "NY",
+    "passed": true,
+    "delvoterings": []
+  },
+  {
+    "dok_id": "HD01KU40",
+    "titel": "Verksamhetsredogörelser för riksdagens nämnder",
+    "utskott": "KU",
+    "nummer": 40,
+    "datum": "2026-06-10",
+    "rm": "2025/26",
+    "kort_sammanfattning": "",
+    "roster": {},
+    "tags": [],
+    "status": "NY",
+    "passed": true,
+    "delvoterings": []
+  },
+  {
+    "dok_id": "HD01KU41",
+    "titel": "Kommittéberättelse - kommittéernas verksamhet under 2025 m.m.",
+    "utskott": "KU",
+    "nummer": 41,
+    "datum": "2026-06-10",
+    "rm": "2025/26",
+    "kort_sammanfattning": "",
+    "roster": {},
+    "tags": [
+      "JORDBRUK"
+    ],
+    "status": "NY",
+    "passed": true,
+    "delvoterings": []
+  },
+  {
+    "dok_id": "HD01UU17",
+    "titel": "Humanitärt bistånd",
+    "utskott": "UU",
+    "nummer": 17,
+    "datum": "2026-06-10",
+    "rm": "2025/26",
+    "kort_sammanfattning": "",
+    "roster": {
+      "S": {
+        "ja": 82,
+        "nej": 82,
+        "avstar": 0,
+        "franvarande": 2
+      },
+      "SD": {
+        "ja": 88,
+        "nej": 0,
+        "avstar": 0,
+        "franvarande": 2
+      },
+      "C": {
+        "ja": 0,
+        "nej": 0,
+        "avstar": 32,
+        "franvarande": 0
+      },
+      "M": {
+        "ja": 96,
+        "nej": 0,
+        "avstar": 0,
+        "franvarande": 0
+      },
+      "MP": {
+        "ja": 0,
+        "nej": 10,
+        "avstar": 10,
+        "franvarande": 0
+      },
+      "L": {
+        "ja": 22,
+        "nej": 0,
+        "avstar": 0,
+        "franvarande": 0
+      },
+      "KD": {
+        "ja": 28,
+        "nej": 0,
+        "avstar": 0,
+        "franvarande": 0
+      },
+      "-": {
+        "ja": 4,
+        "nej": 5,
+        "avstar": 5,
+        "franvarande": 0
+      },
+      "V": {
+        "ja": 0,
+        "nej": 16,
+        "avstar": 16,
+        "franvarande": 0
+      }
+    },
+    "tags": [],
+    "status": "NY",
+    "passed": true,
+    "delvoterings": []
+  },
+  {
+    "dok_id": "HD01UU22",
+    "titel": "Avtal om fördjupat partnerskap och samarbete mellan Europeiska unionen och dess medlemsstater, å ena sidan, och Republiken Uzbekistan, å andra sidan",
+    "utskott": "UU",
+    "nummer": 22,
+    "datum": "2026-06-10",
+    "rm": "2025/26",
+    "kort_sammanfattning": "",
+    "roster": {},
+    "tags": [
+      "ARBETE"
+    ],
+    "status": "NY",
+    "passed": true,
+    "delvoterings": [
+      {
+        "punkt": "2",
+        "rubrik": "Demokrati, mänskliga rättigheter och rättsstatens principer",
+        "ja": 321,
+        "nej": 21,
+        "avstar": 1,
+        "franvarande": 6,
+        "roster": {
+          "S": {
+            "ja": 105,
+            "nej": 0,
+            "avstar": 0,
+            "franvarande": 1
+          },
+          "SD": {
+            "ja": 68,
+            "nej": 0,
+            "avstar": 0,
+            "franvarande": 2
+          },
+          "C": {
+            "ja": 21,
+            "nej": 0,
+            "avstar": 0,
+            "franvarande": 3
+          },
+          "M": {
+            "ja": 66,
+            "nej": 0,
+            "avstar": 0,
+            "franvarande": 0
+          },
+          "MP": {
+            "ja": 0,
+            "nej": 18,
+            "avstar": 0,
+            "franvarande": 0
+          },
+          "L": {
+            "ja": 16,
+            "nej": 0,
+            "avstar": 0,
+            "franvarande": 0
+          },
+          "KD": {
+            "ja": 19,
+            "nej": 0,
+            "avstar": 0,
+            "franvarande": 0
+          },
+          "-": {
+            "ja": 5,
+            "nej": 3,
+            "avstar": 1,
+            "franvarande": 0
+          },
+          "V": {
+            "ja": 21,
+            "nej": 0,
+            "avstar": 0,
+            "franvarande": 0
+          }
+        }
+      }
+    ]
+  },
+  {
+    "dok_id": "HD01UU23",
+    "titel": "Avtal om fördjupat partnerskap och samarbete mellan Europeiska unionen och dess medlemsstater, å ena sidan, och Republiken Kirgizistan, å andra sidan",
+    "utskott": "UU",
+    "nummer": 23,
+    "datum": "2026-06-10",
+    "rm": "2025/26",
+    "kort_sammanfattning": "",
+    "roster": {
+      "S": {
+        "ja": 105,
+        "nej": 0,
+        "avstar": 0,
+        "franvarande": 1
+      },
+      "SD": {
+        "ja": 69,
+        "nej": 0,
+        "avstar": 0,
+        "franvarande": 1
+      },
+      "C": {
+        "ja": 22,
+        "nej": 0,
+        "avstar": 0,
+        "franvarande": 2
+      },
+      "M": {
+        "ja": 66,
+        "nej": 0,
+        "avstar": 0,
+        "franvarande": 0
+      },
+      "MP": {
+        "ja": 0,
+        "nej": 18,
+        "avstar": 0,
+        "franvarande": 0
+      },
+      "L": {
+        "ja": 16,
+        "nej": 0,
+        "avstar": 0,
+        "franvarande": 0
+      },
+      "KD": {
+        "ja": 19,
+        "nej": 0,
+        "avstar": 0,
+        "franvarande": 0
+      },
+      "-": {
+        "ja": 5,
+        "nej": 3,
+        "avstar": 1,
+        "franvarande": 0
+      },
+      "V": {
+        "ja": 21,
+        "nej": 0,
+        "avstar": 0,
+        "franvarande": 0
+      }
+    },
+    "tags": [
+      "ARBETE"
+    ],
+    "status": "NY",
+    "passed": true,
+    "delvoterings": []
+  },
+  {
+    "dok_id": "HD01CU43",
+    "titel": "Riksrevisionens rapport om statens insatser för trygga bostadsaffärer",
+    "utskott": "CU",
+    "nummer": 43,
+    "datum": "2026-06-09",
+    "rm": "2025/26",
+    "kort_sammanfattning": "",
+    "roster": {},
+    "tags": [
+      "BOSTAD"
+    ],
+    "status": "NY",
+    "passed": true,
+    "delvoterings": []
+  },
+  {
+    "dok_id": "HD01FiU20",
+    "titel": "Riktlinjer för den ekonomiska politiken och budgetpolitiken",
+    "utskott": "FiU",
+    "nummer": 20,
+    "datum": "2026-06-09",
+    "rm": "2025/26",
+    "kort_sammanfattning": "",
+    "roster": {
+      "S": {
+        "ja": 0,
+        "nej": 105,
+        "avstar": 0,
+        "franvarande": 1
+      },
+      "SD": {
+        "ja": 68,
+        "nej": 0,
+        "avstar": 0,
+        "franvarande": 2
+      },
+      "C": {
+        "ja": 0,
+        "nej": 0,
+        "avstar": 24,
+        "franvarande": 0
+      },
+      "M": {
+        "ja": 66,
+        "nej": 0,
+        "avstar": 0,
+        "franvarande": 0
+      },
+      "MP": {
+        "ja": 0,
+        "nej": 0,
+        "avstar": 18,
+        "franvarande": 0
+      },
+      "L": {
+        "ja": 16,
+        "nej": 0,
+        "avstar": 0,
+        "franvarande": 0
+      },
+      "KD": {
+        "ja": 19,
+        "nej": 0,
+        "avstar": 0,
+        "franvarande": 0
+      },
+      "-": {
+        "ja": 5,
+        "nej": 1,
+        "avstar": 3,
+        "franvarande": 0
+      },
+      "V": {
+        "ja": 0,
+        "nej": 0,
+        "avstar": 21,
+        "franvarande": 0
+      }
+    },
+    "tags": [
+      "EKONOMI",
+      "JORDBRUK"
+    ],
+    "status": "NY",
+    "passed": true,
+    "delvoterings": [
+      {
+        "punkt": "2",
+        "rubrik": "Riksrevisionens rapport om tillämpningen av det finanspolitiska ramverket 2025",
+        "ja": 302,
+        "nej": 24,
+        "avstar": 20,
+        "franvarande": 3,
+        "roster": {
+          "S": {
+            "ja": 106,
+            "nej": 0,
+            "avstar": 0,
+            "franvarande": 0
+          },
+          "SD": {
+            "ja": 68,
+            "nej": 0,
+            "avstar": 0,
+            "franvarande": 2
+          },
+          "C": {
+            "ja": 0,
+            "nej": 24,
+            "avstar": 0,
+            "franvarande": 0
+          },
+          "M": {
+            "ja": 66,
+            "nej": 0,
+            "avstar": 0,
+            "franvarande": 0
+          },
+          "MP": {
+            "ja": 18,
+            "nej": 0,
+            "avstar": 0,
+            "franvarande": 0
+          },
+          "L": {
+            "ja": 16,
+            "nej": 0,
+            "avstar": 0,
+            "franvarande": 0
+          },
+          "KD": {
+            "ja": 19,
+            "nej": 0,
+            "avstar": 0,
+            "franvarande": 0
+          },
+          "-": {
+            "ja": 6,
+            "nej": 0,
+            "avstar": 3,
+            "franvarande": 0
+          },
+          "V": {
+            "ja": 3,
+            "nej": 0,
+            "avstar": 17,
+            "franvarande": 1
+          }
+        }
+      }
+    ]
+  },
+  {
+    "dok_id": "HD01FiU21",
+    "titel": "Vårändringsbudget för 2026",
+    "utskott": "FiU",
+    "nummer": 21,
+    "datum": "2026-06-09",
+    "rm": "2025/26",
+    "kort_sammanfattning": "",
+    "roster": {
+      "S": {
+        "ja": 0,
+        "nej": 106,
+        "avstar": 0,
+        "franvarande": 0
+      },
+      "SD": {
+        "ja": 68,
+        "nej": 0,
+        "avstar": 0,
+        "franvarande": 2
+      },
+      "C": {
+        "ja": 0,
+        "nej": 0,
+        "avstar": 24,
+        "franvarande": 0
+      },
+      "M": {
+        "ja": 66,
+        "nej": 0,
+        "avstar": 0,
+        "franvarande": 0
+      },
+      "MP": {
+        "ja": 0,
+        "nej": 0,
+        "avstar": 18,
+        "franvarande": 0
+      },
+      "L": {
+        "ja": 16,
+        "nej": 0,
+        "avstar": 0,
+        "franvarande": 0
+      },
+      "KD": {
+        "ja": 19,
+        "nej": 0,
+        "avstar": 0,
+        "franvarande": 0
+      },
+      "-": {
+        "ja": 5,
+        "nej": 1,
+        "avstar": 3,
+        "franvarande": 0
+      },
+      "V": {
+        "ja": 0,
+        "nej": 0,
+        "avstar": 21,
+        "franvarande": 0
+      }
+    },
+    "tags": [
+      "EKONOMI"
+    ],
+    "status": "NY",
+    "passed": true,
+    "delvoterings": []
+  },
+  {
+    "dok_id": "HD01FiU30",
+    "titel": "Årsredovisning för staten 2025",
+    "utskott": "FiU",
+    "nummer": 30,
+    "datum": "2026-06-09",
+    "rm": "2025/26",
+    "kort_sammanfattning": "",
+    "roster": {},
+    "tags": [],
+    "status": "NY",
+    "passed": true,
+    "delvoterings": []
+  },
+  {
+    "dok_id": "HD01FöU15",
+    "titel": "Lagändringar för ett stärkt nationellt cybersäkerhetscenter",
+    "utskott": "FöU",
+    "nummer": 15,
+    "datum": "2026-06-09",
+    "rm": "2025/26",
+    "kort_sammanfattning": "",
+    "roster": {},
+    "tags": [
+      "FÖRSVAR",
+      "DIGITALT"
+    ],
+    "status": "NY",
+    "passed": true,
+    "delvoterings": []
+  },
+  {
+    "dok_id": "HD01NU20",
+    "titel": "Vindkraft i kommuner",
+    "utskott": "NU",
+    "nummer": 20,
+    "datum": "2026-06-09",
+    "rm": "2025/26",
+    "kort_sammanfattning": "",
+    "roster": {},
+    "tags": [
+      "JORDBRUK"
+    ],
+    "status": "NY",
+    "passed": true,
+    "delvoterings": [
+      {
+        "punkt": "2",
+        "rubrik": "Hanteringen av vindkraftsersättningen",
+        "ja": 172,
+        "nej": 148,
+        "avstar": 23,
+        "franvarande": 6,
+        "roster": {
+          "S": {
+            "ja": 0,
+            "nej": 106,
+            "avstar": 0,
+            "franvarande": 0
+          },
+          "SD": {
+            "ja": 68,
+            "nej": 0,
+            "avstar": 0,
+            "franvarande": 2
+          },
+          "C": {
+            "ja": 0,
+            "nej": 23,
+            "avstar": 0,
+            "franvarande": 1
+          },
+          "M": {
+            "ja": 65,
+            "nej": 0,
+            "avstar": 0,
+            "franvarande": 1
+          },
+          "MP": {
+            "ja": 0,
+            "nej": 18,
+            "avstar": 0,
+            "franvarande": 0
+          },
+          "L": {
+            "ja": 16,
+            "nej": 0,
+            "avstar": 0,
+            "franvarande": 0
+          },
+          "KD": {
+            "ja": 18,
+            "nej": 0,
+            "avstar": 0,
+            "franvarande": 1
+          },
+          "-": {
+            "ja": 5,
+            "nej": 1,
+            "avstar": 3,
+            "franvarande": 0
+          },
+          "V": {
+            "ja": 0,
+            "nej": 0,
+            "avstar": 20,
+            "franvarande": 1
+          }
+        }
+      }
+    ]
+  },
+  {
+    "dok_id": "HD01NU23",
+    "titel": "Privatkopieringsersättning",
+    "utskott": "NU",
+    "nummer": 23,
+    "datum": "2026-06-09",
+    "rm": "2025/26",
+    "kort_sammanfattning": "",
+    "roster": {
+      "S": {
+        "ja": 106,
+        "nej": 0,
+        "avstar": 0,
+        "franvarande": 0
+      },
+      "SD": {
+        "ja": 68,
+        "nej": 0,
+        "avstar": 0,
+        "franvarande": 2
+      },
+      "C": {
+        "ja": 0,
+        "nej": 23,
+        "avstar": 0,
+        "franvarande": 1
+      },
+      "M": {
+        "ja": 65,
+        "nej": 0,
+        "avstar": 0,
+        "franvarande": 1
+      },
+      "MP": {
+        "ja": 18,
+        "nej": 0,
+        "avstar": 0,
+        "franvarande": 0
+      },
+      "L": {
+        "ja": 16,
+        "nej": 0,
+        "avstar": 0,
+        "franvarande": 0
+      },
+      "KD": {
+        "ja": 18,
+        "nej": 0,
+        "avstar": 0,
+        "franvarande": 1
+      },
+      "-": {
+        "ja": 9,
+        "nej": 0,
+        "avstar": 0,
+        "franvarande": 0
+      },
+      "V": {
+        "ja": 20,
+        "nej": 0,
+        "avstar": 0,
+        "franvarande": 1
+      }
+    },
+    "tags": [
+      "JORDBRUK"
+    ],
+    "status": "NY",
+    "passed": true,
+    "delvoterings": [
+      {
+        "punkt": "2",
+        "rubrik": "Övrigt om privatkopieringsersättning",
+        "ja": 295,
+        "nej": 23,
+        "avstar": 23,
+        "franvarande": 8,
+        "roster": {
+          "S": {
+            "ja": 105,
+            "nej": 0,
+            "avstar": 0,
+            "franvarande": 1
+          },
+          "SD": {
+            "ja": 68,
+            "nej": 0,
+            "avstar": 0,
+            "franvarande": 2
+          },
+          "C": {
+            "ja": 0,
+            "nej": 0,
+            "avstar": 23,
+            "franvarande": 1
+          },
+          "M": {
+            "ja": 65,
+            "nej": 0,
+            "avstar": 0,
+            "franvarande": 1
+          },
+          "MP": {
+            "ja": 17,
+            "nej": 0,
+            "avstar": 0,
+            "franvarande": 1
+          },
+          "L": {
+            "ja": 16,
+            "nej": 0,
+            "avstar": 0,
+            "franvarande": 0
+          },
+          "KD": {
+            "ja": 18,
+            "nej": 0,
+            "avstar": 0,
+            "franvarande": 1
+          },
+          "-": {
+            "ja": 6,
+            "nej": 3,
+            "avstar": 0,
+            "franvarande": 0
+          },
+          "V": {
+            "ja": 0,
+            "nej": 20,
+            "avstar": 0,
+            "franvarande": 1
+          }
+        }
+      },
+      {
+        "punkt": "3",
+        "rubrik": "Allmänt om immaterialrättsliga frågor",
+        "ja": 190,
+        "nej": 130,
+        "avstar": 23,
+        "franvarande": 6,
+        "roster": {
+          "S": {
+            "ja": 0,
+            "nej": 106,
+            "avstar": 0,
+            "franvarande": 0
+          },
+          "SD": {
+            "ja": 68,
+            "nej": 0,
+            "avstar": 0,
+            "franvarande": 2
+          },
+          "C": {
+            "ja": 0,
+            "nej": 0,
+            "avstar": 23,
+            "franvarande": 1
+          },
+          "M": {
+            "ja": 65,
+            "nej": 0,
+            "avstar": 0,
+            "franvarande": 1
+          },
+          "MP": {
+            "ja": 18,
+            "nej": 0,
+            "avstar": 0,
+            "franvarande": 0
+          },
+          "L": {
+            "ja": 16,
+            "nej": 0,
+            "avstar": 0,
+            "franvarande": 0
+          },
+          "KD": {
+            "ja": 18,
+            "nej": 0,
+            "avstar": 0,
+            "franvarande": 1
+          },
+          "-": {
+            "ja": 5,
+            "nej": 4,
+            "avstar": 0,
+            "franvarande": 0
+          },
+          "V": {
+            "ja": 0,
+            "nej": 20,
+            "avstar": 0,
+            "franvarande": 1
+          }
+        }
+      }
+    ]
+  },
+  {
+    "dok_id": "HD01SfU30",
+    "titel": "Utmönstring av permanent uppehållstillstånd och anpassning av svensk rätt till EU:s migrations- och asylpakt",
+    "utskott": "SfU",
+    "nummer": 30,
+    "datum": "2026-06-09",
+    "rm": "2025/26",
+    "kort_sammanfattning": "",
+    "roster": {
+      "S": {
+        "ja": 106,
+        "nej": 0,
+        "avstar": 0,
+        "franvarande": 0
+      },
+      "SD": {
+        "ja": 68,
+        "nej": 0,
+        "avstar": 0,
+        "franvarande": 2
+      },
+      "C": {
+        "ja": 23,
+        "nej": 0,
+        "avstar": 0,
+        "franvarande": 1
+      },
+      "M": {
+        "ja": 65,
+        "nej": 0,
+        "avstar": 0,
+        "franvarande": 1
+      },
+      "MP": {
+        "ja": 0,
+        "nej": 18,
+        "avstar": 0,
+        "franvarande": 0
+      },
+      "L": {
+        "ja": 16,
+        "nej": 0,
+        "avstar": 0,
+        "franvarande": 0
+      },
+      "KD": {
+        "ja": 18,
+        "nej": 0,
+        "avstar": 0,
+        "franvarande": 1
+      },
+      "-": {
+        "ja": 5,
+        "nej": 4,
+        "avstar": 0,
+        "franvarande": 0
+      },
+      "V": {
+        "ja": 0,
+        "nej": 20,
+        "avstar": 0,
+        "franvarande": 1
+      }
+    },
+    "tags": [
+      "MIGRATION"
+    ],
+    "status": "NY",
+    "passed": true,
+    "delvoterings": [
+      {
+        "punkt": "2",
+        "rubrik": "Alternativ till permanent uppehållstillstånd",
+        "ja": 190,
+        "nej": 107,
+        "avstar": 45,
+        "franvarande": 7,
+        "roster": {
+          "S": {
+            "ja": 0,
+            "nej": 106,
+            "avstar": 0,
+            "franvarande": 0
+          },
+          "SD": {
+            "ja": 68,
+            "nej": 0,
+            "avstar": 0,
+            "franvarande": 2
+          },
+          "C": {
+            "ja": 0,
+            "nej": 0,
+            "avstar": 22,
+            "franvarande": 2
+          },
+          "M": {
+            "ja": 65,
+            "nej": 0,
+            "avstar": 0,
+            "franvarande": 1
+          },
+          "MP": {
+            "ja": 18,
+            "nej": 0,
+            "avstar": 0,
+            "franvarande": 0
+          },
+          "L": {
+            "ja": 16,
+            "nej": 0,
+            "avstar": 0,
+            "franvarande": 0
+          },
+          "KD": {
+            "ja": 18,
+            "nej": 0,
+            "avstar": 0,
+            "franvarande": 1
+          },
+          "-": {
+            "ja": 5,
+            "nej": 1,
+            "avstar": 3,
+            "franvarande": 0
+          },
+          "V": {
+            "ja": 0,
+            "nej": 0,
+            "avstar": 20,
+            "franvarande": 1
+          }
+        }
+      },
+      {
+        "punkt": "3",
+        "rubrik": "Rätten till offentligt biträde",
+        "ja": 172,
+        "nej": 171,
+        "avstar": 0,
+        "franvarande": 6,
+        "roster": {
+          "S": {
+            "ja": 0,
+            "nej": 106,
+            "avstar": 0,
+            "franvarande": 0
+          },
+          "SD": {
+            "ja": 68,
+            "nej": 0,
+            "avstar": 0,
+            "franvarande": 2
+          },
+          "C": {
+            "ja": 0,
+            "nej": 23,
+            "avstar": 0,
+            "franvarande": 1
+          },
+          "M": {
+            "ja": 65,
+            "nej": 0,
+            "avstar": 0,
+            "franvarande": 1
+          },
+          "MP": {
+            "ja": 0,
+            "nej": 18,
+            "avstar": 0,
+            "franvarande": 0
+          },
+          "L": {
+            "ja": 16,
+            "nej": 0,
+            "avstar": 0,
+            "franvarande": 0
+          },
+          "KD": {
+            "ja": 18,
+            "nej": 0,
+            "avstar": 0,
+            "franvarande": 1
+          },
+          "-": {
+            "ja": 5,
+            "nej": 4,
+            "avstar": 0,
+            "franvarande": 0
+          },
+          "V": {
+            "ja": 0,
+            "nej": 20,
+            "avstar": 0,
+            "franvarande": 1
+          }
+        }
+      }
+    ]
+  },
+  {
+    "dok_id": "HD01SkU34",
+    "titel": "Redovisning av skatteutgifter 2026",
+    "utskott": "SkU",
+    "nummer": 34,
+    "datum": "2026-06-09",
+    "rm": "2025/26",
+    "kort_sammanfattning": "",
+    "roster": {},
+    "tags": [
+      "EKONOMI"
+    ],
+    "status": "NY",
+    "passed": true,
+    "delvoterings": []
+  },
+  {
+    "dok_id": "HD01SoU28",
+    "titel": "Riksrevisionens rapport om Inspektionen för vård och omsorgs hantering av enskildas klagomål på hälso- och sjukvården",
+    "utskott": "SoU",
+    "nummer": 28,
+    "datum": "2026-06-09",
+    "rm": "2025/26",
+    "kort_sammanfattning": "",
+    "roster": {},
+    "tags": [
+      "HÄLSA"
+    ],
+    "status": "NY",
+    "passed": true,
+    "delvoterings": []
+  },
+  {
+    "dok_id": "HD01SoU32",
+    "titel": "Stärkt medicinsk kompetens i kommunal hälso- och sjukvård",
+    "utskott": "SoU",
+    "nummer": 32,
+    "datum": "2026-06-09",
+    "rm": "2025/26",
+    "kort_sammanfattning": "",
+    "roster": {
+      "S": {
+        "ja": 106,
+        "nej": 0,
+        "avstar": 0,
+        "franvarande": 0
+      },
+      "SD": {
+        "ja": 68,
+        "nej": 0,
+        "avstar": 0,
+        "franvarande": 2
+      },
+      "C": {
+        "ja": 23,
+        "nej": 0,
+        "avstar": 0,
+        "franvarande": 1
+      },
+      "M": {
+        "ja": 65,
+        "nej": 0,
+        "avstar": 0,
+        "franvarande": 1
+      },
+      "MP": {
+        "ja": 18,
+        "nej": 0,
+        "avstar": 0,
+        "franvarande": 0
+      },
+      "L": {
+        "ja": 16,
+        "nej": 0,
+        "avstar": 0,
+        "franvarande": 0
+      },
+      "KD": {
+        "ja": 18,
+        "nej": 0,
+        "avstar": 0,
+        "franvarande": 1
+      },
+      "-": {
+        "ja": 6,
+        "nej": 3,
+        "avstar": 0,
+        "franvarande": 0
+      },
+      "V": {
+        "ja": 0,
+        "nej": 20,
+        "avstar": 0,
+        "franvarande": 1
+      }
+    },
+    "tags": [
+      "HÄLSA",
+      "JORDBRUK"
+    ],
+    "status": "NY",
+    "passed": true,
+    "delvoterings": [
+      {
+        "punkt": "2",
+        "rubrik": "Regeringens lagförslag",
+        "ja": 174,
+        "nej": 173,
+        "avstar": 0,
+        "franvarande": 2,
+        "roster": {
+          "S": {
+            "ja": 0,
+            "nej": 106,
+            "avstar": 0,
+            "franvarande": 0
+          },
+          "SD": {
+            "ja": 68,
+            "nej": 0,
+            "avstar": 0,
+            "franvarande": 2
+          },
+          "C": {
+            "ja": 0,
+            "nej": 24,
+            "avstar": 0,
+            "franvarande": 0
+          },
+          "M": {
+            "ja": 66,
+            "nej": 0,
+            "avstar": 0,
+            "franvarande": 0
+          },
+          "MP": {
+            "ja": 0,
+            "nej": 18,
+            "avstar": 0,
+            "franvarande": 0
+          },
+          "L": {
+            "ja": 16,
+            "nej": 0,
+            "avstar": 0,
+            "franvarande": 0
+          },
+          "KD": {
+            "ja": 19,
+            "nej": 0,
+            "avstar": 0,
+            "franvarande": 0
+          },
+          "-": {
+            "ja": 5,
+            "nej": 4,
+            "avstar": 0,
+            "franvarande": 0
+          },
+          "V": {
+            "ja": 0,
+            "nej": 21,
+            "avstar": 0,
+            "franvarande": 0
+          }
+        }
+      }
+    ]
+  },
+  {
+    "dok_id": "HD01UU10",
+    "titel": "Verksamheten i Europeiska unionen under 2025",
+    "utskott": "UU",
+    "nummer": 10,
+    "datum": "2026-06-09",
+    "rm": "2025/26",
+    "kort_sammanfattning": "",
+    "roster": {
+      "S": {
+        "ja": 1,
+        "nej": 0,
+        "avstar": 105,
+        "franvarande": 0
+      },
+      "SD": {
+        "ja": 68,
+        "nej": 0,
+        "avstar": 0,
+        "franvarande": 2
+      },
+      "C": {
+        "ja": 0,
+        "nej": 23,
+        "avstar": 0,
+        "franvarande": 1
+      },
+      "M": {
+        "ja": 64,
+        "nej": 0,
+        "avstar": 0,
+        "franvarande": 2
+      },
+      "MP": {
+        "ja": 18,
+        "nej": 0,
+        "avstar": 0,
+        "franvarande": 0
+      },
+      "L": {
+        "ja": 16,
+        "nej": 0,
+        "avstar": 0,
+        "franvarande": 0
+      },
+      "KD": {
+        "ja": 18,
+        "nej": 0,
+        "avstar": 0,
+        "franvarande": 1
+      },
+      "-": {
+        "ja": 5,
+        "nej": 0,
+        "avstar": 4,
+        "franvarande": 0
+      },
+      "V": {
+        "ja": 0,
+        "nej": 0,
+        "avstar": 20,
+        "franvarande": 1
+      }
+    },
+    "tags": [],
+    "status": "NY",
+    "passed": true,
+    "delvoterings": [
+      {
+        "punkt": "2",
+        "rubrik": "Utrikespolitik",
+        "ja": 189,
+        "nej": 23,
+        "avstar": 130,
+        "franvarande": 7,
+        "roster": {
+          "S": {
+            "ja": 0,
+            "nej": 0,
+            "avstar": 106,
+            "franvarande": 0
+          },
+          "SD": {
+            "ja": 68,
+            "nej": 0,
+            "avstar": 0,
+            "franvarande": 2
+          },
+          "C": {
+            "ja": 0,
+            "nej": 0,
+            "avstar": 23,
+            "franvarande": 1
+          },
+          "M": {
+            "ja": 64,
+            "nej": 0,
+            "avstar": 0,
+            "franvarande": 2
+          },
+          "MP": {
+            "ja": 18,
+            "nej": 0,
+            "avstar": 0,
+            "franvarande": 0
+          },
+          "L": {
+            "ja": 16,
+            "nej": 0,
+            "avstar": 0,
+            "franvarande": 0
+          },
+          "KD": {
+            "ja": 18,
+            "nej": 0,
+            "avstar": 0,
+            "franvarande": 1
+          },
+          "-": {
+            "ja": 5,
+            "nej": 3,
+            "avstar": 1,
+            "franvarande": 0
+          },
+          "V": {
+            "ja": 0,
+            "nej": 20,
+            "avstar": 0,
+            "franvarande": 1
+          }
+        }
+      },
+      {
+        "punkt": "3",
+        "rubrik": "Sanktioner",
+        "ja": 172,
+        "nej": 107,
+        "avstar": 64,
+        "franvarande": 6,
+        "roster": {
+          "S": {
+            "ja": 0,
+            "nej": 106,
+            "avstar": 0,
+            "franvarande": 0
+          },
+          "SD": {
+            "ja": 68,
+            "nej": 0,
+            "avstar": 0,
+            "franvarande": 2
+          },
+          "C": {
+            "ja": 0,
+            "nej": 0,
+            "avstar": 23,
+            "franvarande": 1
+          },
+          "M": {
+            "ja": 65,
+            "nej": 0,
+            "avstar": 0,
+            "franvarande": 1
+          },
+          "MP": {
+            "ja": 0,
+            "nej": 0,
+            "avstar": 18,
+            "franvarande": 0
+          },
+          "L": {
+            "ja": 16,
+            "nej": 0,
+            "avstar": 0,
+            "franvarande": 0
+          },
+          "KD": {
+            "ja": 18,
+            "nej": 0,
+            "avstar": 0,
+            "franvarande": 1
+          },
+          "-": {
+            "ja": 5,
+            "nej": 1,
+            "avstar": 3,
+            "franvarande": 0
+          },
+          "V": {
+            "ja": 0,
+            "nej": 0,
+            "avstar": 20,
+            "franvarande": 1
+          }
+        }
+      }
+    ]
+  },
+  {
+    "dok_id": "HD01UU18",
+    "titel": "Ett modernt och anpassat regelverk för krigsmateriel",
+    "utskott": "UU",
+    "nummer": 18,
+    "datum": "2026-06-09",
+    "rm": "2025/26",
+    "kort_sammanfattning": "",
+    "roster": {
+      "S": {
+        "ja": 106,
+        "nej": 0,
+        "avstar": 0,
+        "franvarande": 0
+      },
+      "SD": {
+        "ja": 68,
+        "nej": 0,
+        "avstar": 0,
+        "franvarande": 2
+      },
+      "C": {
+        "ja": 23,
+        "nej": 0,
+        "avstar": 0,
+        "franvarande": 1
+      },
+      "M": {
+        "ja": 65,
+        "nej": 0,
+        "avstar": 0,
+        "franvarande": 1
+      },
+      "MP": {
+        "ja": 0,
+        "nej": 0,
+        "avstar": 18,
+        "franvarande": 0
+      },
+      "L": {
+        "ja": 16,
+        "nej": 0,
+        "avstar": 0,
+        "franvarande": 0
+      },
+      "KD": {
+        "ja": 18,
+        "nej": 0,
+        "avstar": 0,
+        "franvarande": 1
+      },
+      "-": {
+        "ja": 5,
+        "nej": 3,
+        "avstar": 1,
+        "franvarande": 0
+      },
+      "V": {
+        "ja": 0,
+        "nej": 20,
+        "avstar": 0,
+        "franvarande": 1
+      }
+    },
+    "tags": [
+      "FÖRSVAR"
+    ],
+    "status": "NY",
+    "passed": true,
+    "delvoterings": [
+      {
+        "punkt": "2",
+        "rubrik": "Sveriges anslutning till avtalet om exportkontroll",
+        "ja": 299,
+        "nej": 42,
+        "avstar": 1,
+        "franvarande": 7,
+        "roster": {
+          "S": {
+            "ja": 106,
+            "nej": 0,
+            "avstar": 0,
+            "franvarande": 0
+          },
+          "SD": {
+            "ja": 68,
+            "nej": 0,
+            "avstar": 0,
+            "franvarande": 2
+          },
+          "C": {
+            "ja": 23,
+            "nej": 0,
+            "avstar": 0,
+            "franvarande": 1
+          },
+          "M": {
+            "ja": 64,
+            "nej": 0,
+            "avstar": 0,
+            "franvarande": 2
+          },
+          "MP": {
+            "ja": 0,
+            "nej": 18,
+            "avstar": 0,
+            "franvarande": 0
+          },
+          "L": {
+            "ja": 16,
+            "nej": 0,
+            "avstar": 0,
+            "franvarande": 0
+          },
+          "KD": {
+            "ja": 18,
+            "nej": 0,
+            "avstar": 0,
+            "franvarande": 1
+          },
+          "-": {
+            "ja": 4,
+            "nej": 4,
+            "avstar": 1,
+            "franvarande": 0
+          },
+          "V": {
+            "ja": 0,
+            "nej": 20,
+            "avstar": 0,
+            "franvarande": 1
+          }
+        }
+      }
+    ]
+  },
+  {
+    "dok_id": "HD01UU9",
+    "titel": "Strategisk exportkontroll 2025 - krigsmateriel och produkter med dubbla användningsområden",
+    "utskott": "UU",
+    "nummer": 9,
+    "datum": "2026-06-09",
+    "rm": "2025/26",
+    "kort_sammanfattning": "",
+    "roster": {},
+    "tags": [
+      "FÖRSVAR",
+      "JORDBRUK"
+    ],
+    "status": "NY",
+    "passed": true,
+    "delvoterings": [
+      {
+        "punkt": "2",
+        "rubrik": "Tillämpning av regelverket",
+        "ja": 195,
+        "nej": 108,
+        "avstar": 40,
+        "franvarande": 6,
+        "roster": {
+          "S": {
+            "ja": 0,
+            "nej": 106,
+            "avstar": 0,
+            "franvarande": 0
+          },
+          "SD": {
+            "ja": 68,
+            "nej": 0,
+            "avstar": 0,
+            "franvarande": 2
+          },
+          "C": {
+            "ja": 23,
+            "nej": 0,
+            "avstar": 0,
+            "franvarande": 1
+          },
+          "M": {
+            "ja": 65,
+            "nej": 0,
+            "avstar": 0,
+            "franvarande": 1
+          },
+          "MP": {
+            "ja": 0,
+            "nej": 0,
+            "avstar": 18,
+            "franvarande": 0
+          },
+          "L": {
+            "ja": 16,
+            "nej": 0,
+            "avstar": 0,
+            "franvarande": 0
+          },
+          "KD": {
+            "ja": 18,
+            "nej": 0,
+            "avstar": 0,
+            "franvarande": 1
+          },
+          "-": {
+            "ja": 5,
+            "nej": 1,
+            "avstar": 3,
+            "franvarande": 0
+          },
+          "V": {
+            "ja": 0,
+            "nej": 1,
+            "avstar": 19,
+            "franvarande": 1
+          }
+        }
+      },
+      {
+        "punkt": "3",
+        "rubrik": "Skrivelsens framtida utformning",
+        "ja": 321,
+        "nej": 21,
+        "avstar": 1,
+        "franvarande": 6,
+        "roster": {
+          "S": {
+            "ja": 106,
+            "nej": 0,
+            "avstar": 0,
+            "franvarande": 0
+          },
+          "SD": {
+            "ja": 68,
+            "nej": 0,
+            "avstar": 0,
+            "franvarande": 2
+          },
+          "C": {
+            "ja": 23,
+            "nej": 0,
+            "avstar": 0,
+            "franvarande": 1
+          },
+          "M": {
+            "ja": 65,
+            "nej": 0,
+            "avstar": 0,
+            "franvarande": 1
+          },
+          "MP": {
+            "ja": 0,
+            "nej": 18,
+            "avstar": 0,
+            "franvarande": 0
+          },
+          "L": {
+            "ja": 16,
+            "nej": 0,
+            "avstar": 0,
+            "franvarande": 0
+          },
+          "KD": {
+            "ja": 18,
+            "nej": 0,
+            "avstar": 0,
+            "franvarande": 1
+          },
+          "-": {
+            "ja": 5,
+            "nej": 3,
+            "avstar": 1,
+            "franvarande": 0
+          },
+          "V": {
+            "ja": 20,
+            "nej": 0,
+            "avstar": 0,
+            "franvarande": 1
+          }
+        }
+      }
+    ]
+  },
+  {
+    "dok_id": "HD01UbU18",
+    "titel": "Stiftelsen Riksbankens Jubileumsfonds verksamhet och årsredovisning 2025",
+    "utskott": "UbU",
+    "nummer": 18,
+    "datum": "2026-06-09",
+    "rm": "2025/26",
+    "kort_sammanfattning": "",
+    "roster": {},
+    "tags": [
+      "TRANSPORT"
+    ],
+    "status": "NY",
+    "passed": true,
+    "delvoterings": []
+  },
+  {
+    "dok_id": "HD01UbU25",
+    "titel": "Tid för undervisningsuppdraget",
+    "utskott": "UbU",
+    "nummer": 25,
+    "datum": "2026-06-09",
+    "rm": "2025/26",
+    "kort_sammanfattning": "",
+    "roster": {},
+    "tags": [],
+    "status": "NY",
+    "passed": true,
+    "delvoterings": [
+      {
+        "punkt": "2",
+        "rubrik": "Dialog med arbetsmarknadens parter",
+        "ja": 192,
+        "nej": 148,
+        "avstar": 3,
+        "franvarande": 6,
+        "roster": {
+          "S": {
+            "ja": 0,
+            "nej": 106,
+            "avstar": 0,
+            "franvarande": 0
+          },
+          "SD": {
+            "ja": 68,
+            "nej": 0,
+            "avstar": 0,
+            "franvarande": 2
+          },
+          "C": {
+            "ja": 0,
+            "nej": 23,
+            "avstar": 0,
+            "franvarande": 1
+          },
+          "M": {
+            "ja": 65,
+            "nej": 0,
+            "avstar": 0,
+            "franvarande": 1
+          },
+          "MP": {
+            "ja": 0,
+            "nej": 18,
+            "avstar": 0,
+            "franvarande": 0
+          },
+          "L": {
+            "ja": 16,
+            "nej": 0,
+            "avstar": 0,
+            "franvarande": 0
+          },
+          "KD": {
+            "ja": 18,
+            "nej": 0,
+            "avstar": 0,
+            "franvarande": 1
+          },
+          "-": {
+            "ja": 5,
+            "nej": 1,
+            "avstar": 3,
+            "franvarande": 0
+          },
+          "V": {
+            "ja": 20,
+            "nej": 0,
+            "avstar": 0,
+            "franvarande": 1
+          }
+        }
+      },
+      {
+        "punkt": "3",
+        "rubrik": "Ekonomiska konsekvenser",
+        "ja": 172,
+        "nej": 171,
+        "avstar": 0,
+        "franvarande": 6,
+        "roster": {
+          "S": {
+            "ja": 0,
+            "nej": 106,
+            "avstar": 0,
+            "franvarande": 0
+          },
+          "SD": {
+            "ja": 68,
+            "nej": 0,
+            "avstar": 0,
+            "franvarande": 2
+          },
+          "C": {
+            "ja": 0,
+            "nej": 23,
+            "avstar": 0,
+            "franvarande": 1
+          },
+          "M": {
+            "ja": 65,
+            "nej": 0,
+            "avstar": 0,
+            "franvarande": 1
+          },
+          "MP": {
+            "ja": 0,
+            "nej": 18,
+            "avstar": 0,
+            "franvarande": 0
+          },
+          "L": {
+            "ja": 16,
+            "nej": 0,
+            "avstar": 0,
+            "franvarande": 0
+          },
+          "KD": {
+            "ja": 18,
+            "nej": 0,
+            "avstar": 0,
+            "franvarande": 1
+          },
+          "-": {
+            "ja": 5,
+            "nej": 4,
+            "avstar": 0,
+            "franvarande": 0
+          },
+          "V": {
+            "ja": 0,
+            "nej": 20,
+            "avstar": 0,
+            "franvarande": 1
+          }
+        }
+      },
+      {
+        "punkt": "4",
+        "rubrik": "Konsekvenser för lärarbristen",
+        "ja": 192,
+        "nej": 151,
+        "avstar": 0,
+        "franvarande": 6,
+        "roster": {
+          "S": {
+            "ja": 0,
+            "nej": 106,
+            "avstar": 0,
+            "franvarande": 0
+          },
+          "SD": {
+            "ja": 68,
+            "nej": 0,
+            "avstar": 0,
+            "franvarande": 2
+          },
+          "C": {
+            "ja": 0,
+            "nej": 23,
+            "avstar": 0,
+            "franvarande": 1
+          },
+          "M": {
+            "ja": 65,
+            "nej": 0,
+            "avstar": 0,
+            "franvarande": 1
+          },
+          "MP": {
+            "ja": 0,
+            "nej": 18,
+            "avstar": 0,
+            "franvarande": 0
+          },
+          "L": {
+            "ja": 16,
+            "nej": 0,
+            "avstar": 0,
+            "franvarande": 0
+          },
+          "KD": {
+            "ja": 18,
+            "nej": 0,
+            "avstar": 0,
+            "franvarande": 1
+          },
+          "-": {
+            "ja": 5,
+            "nej": 4,
+            "avstar": 0,
+            "franvarande": 0
+          },
+          "V": {
+            "ja": 20,
+            "nej": 0,
+            "avstar": 0,
+            "franvarande": 1
+          }
+        }
+      }
+    ]
+  },
+  {
+    "dok_id": "HD01UbU26",
+    "titel": "Ett likvärdigt betygssystem",
+    "utskott": "UbU",
+    "nummer": 26,
+    "datum": "2026-06-09",
+    "rm": "2025/26",
+    "kort_sammanfattning": "",
+    "roster": {},
+    "tags": [],
+    "status": "NY",
+    "passed": true,
+    "delvoterings": [
+      {
+        "punkt": "2",
+        "rubrik": "Urval till vidare studier",
+        "ja": 297,
+        "nej": 24,
+        "avstar": 22,
+        "franvarande": 6,
+        "roster": {
+          "S": {
+            "ja": 106,
+            "nej": 0,
+            "avstar": 0,
+            "franvarande": 0
+          },
+          "SD": {
+            "ja": 68,
+            "nej": 0,
+            "avstar": 0,
+            "franvarande": 2
+          },
+          "C": {
+            "ja": 0,
+            "nej": 23,
+            "avstar": 0,
+            "franvarande": 1
+          },
+          "M": {
+            "ja": 65,
+            "nej": 0,
+            "avstar": 0,
+            "franvarande": 1
+          },
+          "MP": {
+            "ja": 0,
+            "nej": 0,
+            "avstar": 18,
+            "franvarande": 0
+          },
+          "L": {
+            "ja": 16,
+            "nej": 0,
+            "avstar": 0,
+            "franvarande": 0
+          },
+          "KD": {
+            "ja": 18,
+            "nej": 0,
+            "avstar": 0,
+            "franvarande": 1
+          },
+          "-": {
+            "ja": 6,
+            "nej": 0,
+            "avstar": 3,
+            "franvarande": 0
+          },
+          "V": {
+            "ja": 18,
+            "nej": 1,
+            "avstar": 1,
+            "franvarande": 1
+          }
+        }
+      }
+    ]
+  },
+  {
+    "dok_id": "HD01UFöU3",
+    "titel": "Svenskt bidrag till Natos framskjutna närvaro i Finland",
+    "utskott": "UFöU",
+    "nummer": 3,
+    "datum": "2026-06-04",
+    "rm": "2025/26",
+    "kort_sammanfattning": "",
+    "roster": {
+      "S": {
+        "ja": 106,
+        "nej": 0,
+        "avstar": 0,
+        "franvarande": 0
+      },
+      "SD": {
+        "ja": 70,
+        "nej": 0,
+        "avstar": 0,
+        "franvarande": 0
+      },
+      "C": {
+        "ja": 24,
+        "nej": 0,
+        "avstar": 0,
+        "franvarande": 0
+      },
+      "M": {
+        "ja": 66,
+        "nej": 0,
+        "avstar": 0,
+        "franvarande": 0
+      },
+      "MP": {
+        "ja": 18,
+        "nej": 0,
+        "avstar": 0,
+        "franvarande": 0
+      },
+      "L": {
+        "ja": 16,
+        "nej": 0,
+        "avstar": 0,
+        "franvarande": 0
+      },
+      "KD": {
+        "ja": 19,
+        "nej": 0,
+        "avstar": 0,
+        "franvarande": 0
+      },
+      "-": {
+        "ja": 4,
+        "nej": 5,
+        "avstar": 0,
+        "franvarande": 0
+      },
+      "V": {
+        "ja": 21,
+        "nej": 0,
+        "avstar": 0,
+        "franvarande": 0
+      }
+    },
+    "tags": [
+      "EKONOMI",
+      "FÖRSVAR"
+    ],
+    "status": "NY",
+    "passed": true,
+    "delvoterings": []
+  },
+  {
+    "dok_id": "HD01CU38",
+    "titel": "Ersättningsregler med brottsoffret i fokus",
+    "utskott": "CU",
+    "nummer": 38,
+    "datum": "2026-06-03",
+    "rm": "2025/26",
+    "kort_sammanfattning": "",
+    "roster": {
+      "S": {
+        "ja": 106,
+        "nej": 0,
+        "avstar": 0,
+        "franvarande": 0
+      },
+      "SD": {
+        "ja": 70,
+        "nej": 0,
+        "avstar": 0,
+        "franvarande": 0
+      },
+      "C": {
+        "ja": 23,
+        "nej": 0,
+        "avstar": 0,
+        "franvarande": 1
+      },
+      "M": {
+        "ja": 66,
+        "nej": 0,
+        "avstar": 0,
+        "franvarande": 0
+      },
+      "MP": {
+        "ja": 0,
+        "nej": 18,
+        "avstar": 0,
+        "franvarande": 0
+      },
+      "L": {
+        "ja": 16,
+        "nej": 0,
+        "avstar": 0,
+        "franvarande": 0
+      },
+      "KD": {
+        "ja": 19,
+        "nej": 0,
+        "avstar": 0,
+        "franvarande": 0
+      },
+      "-": {
+        "ja": 6,
+        "nej": 3,
+        "avstar": 0,
+        "franvarande": 0
+      },
+      "V": {
+        "ja": 0,
+        "nej": 21,
+        "avstar": 0,
+        "franvarande": 0
+      }
+    },
+    "tags": [
+      "BROTT"
+    ],
+    "status": "NY",
+    "passed": true,
+    "delvoterings": [
+      {
+        "punkt": "2",
+        "rubrik": "En särskild brottsofferlag",
+        "ja": 177,
+        "nej": 171,
+        "avstar": 0,
+        "franvarande": 1,
+        "roster": {
+          "S": {
+            "ja": 1,
+            "nej": 105,
+            "avstar": 0,
+            "franvarande": 0
+          },
+          "SD": {
+            "ja": 70,
+            "nej": 0,
+            "avstar": 0,
+            "franvarande": 0
+          },
+          "C": {
+            "ja": 0,
+            "nej": 23,
+            "avstar": 0,
+            "franvarande": 1
+          },
+          "M": {
+            "ja": 66,
+            "nej": 0,
+            "avstar": 0,
+            "franvarande": 0
+          },
+          "MP": {
+            "ja": 0,
+            "nej": 18,
+            "avstar": 0,
+            "franvarande": 0
+          },
+          "L": {
+            "ja": 16,
+            "nej": 0,
+            "avstar": 0,
+            "franvarande": 0
+          },
+          "KD": {
+            "ja": 19,
+            "nej": 0,
+            "avstar": 0,
+            "franvarande": 0
+          },
+          "-": {
+            "ja": 5,
+            "nej": 4,
+            "avstar": 0,
+            "franvarande": 0
+          },
+          "V": {
+            "ja": 0,
+            "nej": 21,
+            "avstar": 0,
+            "franvarande": 0
+          }
+        }
+      },
+      {
+        "punkt": "3",
+        "rubrik": "Utvärdering av lagstiftningen",
+        "ja": 219,
+        "nej": 110,
+        "avstar": 19,
+        "franvarande": 1,
+        "roster": {
+          "S": {
+            "ja": 0,
+            "nej": 106,
+            "avstar": 0,
+            "franvarande": 0
+          },
+          "SD": {
+            "ja": 70,
+            "nej": 0,
+            "avstar": 0,
+            "franvarande": 0
+          },
+          "C": {
+            "ja": 23,
+            "nej": 0,
+            "avstar": 0,
+            "franvarande": 1
+          },
+          "M": {
+            "ja": 66,
+            "nej": 0,
+            "avstar": 0,
+            "franvarande": 0
+          },
+          "MP": {
+            "ja": 18,
+            "nej": 0,
+            "avstar": 0,
+            "franvarande": 0
+          },
+          "L": {
+            "ja": 16,
+            "nej": 0,
+            "avstar": 0,
+            "franvarande": 0
+          },
+          "KD": {
+            "ja": 19,
+            "nej": 0,
+            "avstar": 0,
+            "franvarande": 0
+          },
+          "-": {
+            "ja": 5,
+            "nej": 4,
+            "avstar": 0,
+            "franvarande": 0
+          },
+          "V": {
+            "ja": 2,
+            "nej": 0,
+            "avstar": 19,
+            "franvarande": 0
+          }
+        }
+      }
+    ]
+  },
+  {
+    "dok_id": "HD01FiU41",
+    "titel": "EU:s bankpaket",
+    "utskott": "FiU",
+    "nummer": 41,
+    "datum": "2026-06-03",
+    "rm": "2025/26",
+    "kort_sammanfattning": "",
+    "roster": {},
+    "tags": [],
+    "status": "NY",
+    "passed": true,
+    "delvoterings": []
+  },
+  {
+    "dok_id": "HD01FöU16",
+    "titel": "Ändrade regler om tillstånd och tillsyn för Totalförsvarets forskningsinstitut",
+    "utskott": "FöU",
+    "nummer": 16,
+    "datum": "2026-06-03",
+    "rm": "2025/26",
+    "kort_sammanfattning": "",
+    "roster": {},
+    "tags": [
+      "UTBILDNING",
+      "FÖRSVAR"
+    ],
+    "status": "NY",
+    "passed": true,
+    "delvoterings": []
+  },
+  {
+    "dok_id": "HD01FöU17",
+    "titel": "Sveriges militära stöd till Ukraina",
+    "utskott": "FöU",
+    "nummer": 17,
+    "datum": "2026-06-03",
+    "rm": "2025/26",
+    "kort_sammanfattning": "",
+    "roster": {},
+    "tags": [
+      "FÖRSVAR"
+    ],
+    "status": "NY",
+    "passed": true,
+    "delvoterings": [
+      {
+        "punkt": "2",
+        "rubrik": "Beroendet av amerikansk krigsmateriel",
+        "ja": 323,
+        "nej": 21,
+        "avstar": 4,
+        "franvarande": 1,
+        "roster": {
+          "S": {
+            "ja": 106,
+            "nej": 0,
+            "avstar": 0,
+            "franvarande": 0
+          },
+          "SD": {
+            "ja": 70,
+            "nej": 0,
+            "avstar": 0,
+            "franvarande": 0
+          },
+          "C": {
+            "ja": 23,
+            "nej": 0,
+            "avstar": 0,
+            "franvarande": 1
+          },
+          "M": {
+            "ja": 66,
+            "nej": 0,
+            "avstar": 0,
+            "franvarande": 0
+          },
+          "MP": {
+            "ja": 18,
+            "nej": 0,
+            "avstar": 0,
+            "franvarande": 0
+          },
+          "L": {
+            "ja": 16,
+            "nej": 0,
+            "avstar": 0,
+            "franvarande": 0
+          },
+          "KD": {
+            "ja": 19,
+            "nej": 0,
+            "avstar": 0,
+            "franvarande": 0
+          },
+          "-": {
+            "ja": 5,
+            "nej": 0,
+            "avstar": 4,
+            "franvarande": 0
+          },
+          "V": {
+            "ja": 0,
+            "nej": 21,
+            "avstar": 0,
+            "franvarande": 0
+          }
+        }
+      }
+    ]
+  },
+  {
+    "dok_id": "HD01FöU18",
+    "titel": "Signalspaning i försvarsunderrättelseverksamhet - en modern och ändamålsenlig lagstiftning",
+    "utskott": "FöU",
+    "nummer": 18,
+    "datum": "2026-06-03",
+    "rm": "2025/26",
+    "kort_sammanfattning": "",
+    "roster": {},
+    "tags": [
+      "FÖRSVAR"
+    ],
+    "status": "NY",
+    "passed": true,
+    "delvoterings": []
+  },
+  {
+    "dok_id": "HD01JuU33",
+    "titel": "Effektivare gränsöverskridande inhämtning av elektroniska bevis",
+    "utskott": "JuU",
+    "nummer": 33,
+    "datum": "2026-06-03",
+    "rm": "2025/26",
+    "kort_sammanfattning": "",
+    "roster": {},
+    "tags": [],
+    "status": "NY",
+    "passed": true,
+    "delvoterings": []
+  },
+  {
+    "dok_id": "HD01JuU35",
+    "titel": "Tillfällig verkställighet av svenska fängelsestraff utomlands",
+    "utskott": "JuU",
+    "nummer": 35,
+    "datum": "2026-06-03",
+    "rm": "2025/26",
+    "kort_sammanfattning": "",
+    "roster": {},
+    "tags": [
+      "BROTT"
+    ],
+    "status": "NY",
+    "passed": true,
+    "delvoterings": [
+      {
+        "punkt": "2",
+        "rubrik": "Lagförslaget",
+        "ja": 304,
+        "nej": 44,
+        "avstar": 0,
+        "franvarande": 1,
+        "roster": {
+          "S": {
+            "ja": 105,
+            "nej": 1,
+            "avstar": 0,
+            "franvarande": 0
+          },
+          "SD": {
+            "ja": 70,
+            "nej": 0,
+            "avstar": 0,
+            "franvarande": 0
+          },
+          "C": {
+            "ja": 23,
+            "nej": 0,
+            "avstar": 0,
+            "franvarande": 1
+          },
+          "M": {
+            "ja": 66,
+            "nej": 0,
+            "avstar": 0,
+            "franvarande": 0
+          },
+          "MP": {
+            "ja": 0,
+            "nej": 18,
+            "avstar": 0,
+            "franvarande": 0
+          },
+          "L": {
+            "ja": 16,
+            "nej": 0,
+            "avstar": 0,
+            "franvarande": 0
+          },
+          "KD": {
+            "ja": 19,
+            "nej": 0,
+            "avstar": 0,
+            "franvarande": 0
+          },
+          "-": {
+            "ja": 5,
+            "nej": 4,
+            "avstar": 0,
+            "franvarande": 0
+          },
+          "V": {
+            "ja": 0,
+            "nej": 21,
+            "avstar": 0,
+            "franvarande": 0
+          }
+        }
+      }
+    ]
+  },
+  {
+    "dok_id": "HD01JuU37",
+    "titel": "Bättre möjligheter att utreda brott av unga lagöverträdare och några andra processrättsliga frågor",
+    "utskott": "JuU",
+    "nummer": 37,
+    "datum": "2026-06-03",
+    "rm": "2025/26",
+    "kort_sammanfattning": "",
+    "roster": {
+      "S": {
+        "ja": 106,
+        "nej": 0,
+        "avstar": 0,
+        "franvarande": 0
+      },
+      "SD": {
+        "ja": 70,
+        "nej": 0,
+        "avstar": 0,
+        "franvarande": 0
+      },
+      "C": {
+        "ja": 23,
+        "nej": 0,
+        "avstar": 0,
+        "franvarande": 1
+      },
+      "M": {
+        "ja": 66,
+        "nej": 0,
+        "avstar": 0,
+        "franvarande": 0
+      },
+      "MP": {
+        "ja": 0,
+        "nej": 18,
+        "avstar": 0,
+        "franvarande": 0
+      },
+      "L": {
+        "ja": 16,
+        "nej": 0,
+        "avstar": 0,
+        "franvarande": 0
+      },
+      "KD": {
+        "ja": 19,
+        "nej": 0,
+        "avstar": 0,
+        "franvarande": 0
+      },
+      "-": {
+        "ja": 6,
+        "nej": 0,
+        "avstar": 3,
+        "franvarande": 0
+      },
+      "V": {
+        "ja": 21,
+        "nej": 0,
+        "avstar": 0,
+        "franvarande": 0
+      }
+    },
+    "tags": [
+      "BROTT",
+      "BARN"
+    ],
+    "status": "NY",
+    "passed": true,
+    "delvoterings": []
+  },
+  {
+    "dok_id": "HD01JuU38",
+    "titel": "Ett förstärkt samhällsskydd och tydligare reaktioner vid återfall i brott",
+    "utskott": "JuU",
+    "nummer": 38,
+    "datum": "2026-06-03",
+    "rm": "2025/26",
+    "kort_sammanfattning": "",
+    "roster": {
+      "S": {
+        "ja": 106,
+        "nej": 0,
+        "avstar": 0,
+        "franvarande": 0
+      },
+      "SD": {
+        "ja": 70,
+        "nej": 0,
+        "avstar": 0,
+        "franvarande": 0
+      },
+      "C": {
+        "ja": 23,
+        "nej": 0,
+        "avstar": 0,
+        "franvarande": 1
+      },
+      "M": {
+        "ja": 66,
+        "nej": 0,
+        "avstar": 0,
+        "franvarande": 0
+      },
+      "MP": {
+        "ja": 0,
+        "nej": 18,
+        "avstar": 0,
+        "franvarande": 0
+      },
+      "L": {
+        "ja": 16,
+        "nej": 0,
+        "avstar": 0,
+        "franvarande": 0
+      },
+      "KD": {
+        "ja": 19,
+        "nej": 0,
+        "avstar": 0,
+        "franvarande": 0
+      },
+      "-": {
+        "ja": 6,
+        "nej": 3,
+        "avstar": 0,
+        "franvarande": 0
+      },
+      "V": {
+        "ja": 21,
+        "nej": 0,
+        "avstar": 0,
+        "franvarande": 0
+      }
+    },
+    "tags": [
+      "BROTT"
+    ],
+    "status": "NY",
+    "passed": true,
+    "delvoterings": []
+  },
+  {
+    "dok_id": "HD01KrU9",
+    "titel": "Attraktiva platser - bredare genomslag för politiken för arkitektur, form och design",
+    "utskott": "KrU",
+    "nummer": 9,
+    "datum": "2026-06-03",
+    "rm": "2025/26",
+    "kort_sammanfattning": "",
+    "roster": {},
+    "tags": [],
+    "status": "NY",
+    "passed": true,
+    "delvoterings": [
+      {
+        "punkt": "2",
+        "rubrik": "Inriktningen för politiken för arkitektur, form och design",
+        "ja": 306,
+        "nej": 42,
+        "avstar": 0,
+        "franvarande": 1,
+        "roster": {
+          "S": {
+            "ja": 106,
+            "nej": 0,
+            "avstar": 0,
+            "franvarande": 0
+          },
+          "SD": {
+            "ja": 70,
+            "nej": 0,
+            "avstar": 0,
+            "franvarande": 0
+          },
+          "C": {
+            "ja": 23,
+            "nej": 0,
+            "avstar": 0,
+            "franvarande": 1
+          },
+          "M": {
+            "ja": 66,
+            "nej": 0,
+            "avstar": 0,
+            "franvarande": 0
+          },
+          "MP": {
+            "ja": 0,
+            "nej": 18,
+            "avstar": 0,
+            "franvarande": 0
+          },
+          "L": {
+            "ja": 16,
+            "nej": 0,
+            "avstar": 0,
+            "franvarande": 0
+          },
+          "KD": {
+            "ja": 19,
+            "nej": 0,
+            "avstar": 0,
+            "franvarande": 0
+          },
+          "-": {
+            "ja": 6,
+            "nej": 3,
+            "avstar": 0,
+            "franvarande": 0
+          },
+          "V": {
+            "ja": 0,
+            "nej": 21,
+            "avstar": 0,
+            "franvarande": 0
+          }
+        }
+      }
+    ]
+  },
+  {
+    "dok_id": "HD01MJU22",
+    "titel": "Riksrevisionens rapport om internationella klimatinsatser",
+    "utskott": "MJU",
+    "nummer": 22,
+    "datum": "2026-06-03",
+    "rm": "2025/26",
+    "kort_sammanfattning": "",
+    "roster": {
+      "S": {
+        "ja": 0,
+        "nej": 106,
+        "avstar": 0,
+        "franvarande": 0
+      },
+      "SD": {
+        "ja": 70,
+        "nej": 0,
+        "avstar": 0,
+        "franvarande": 0
+      },
+      "C": {
+        "ja": 0,
+        "nej": 0,
+        "avstar": 23,
+        "franvarande": 1
+      },
+      "M": {
+        "ja": 66,
+        "nej": 0,
+        "avstar": 0,
+        "franvarande": 0
+      },
+      "MP": {
+        "ja": 18,
+        "nej": 0,
+        "avstar": 0,
+        "franvarande": 0
+      },
+      "L": {
+        "ja": 16,
+        "nej": 0,
+        "avstar": 0,
+        "franvarande": 0
+      },
+      "KD": {
+        "ja": 19,
+        "nej": 0,
+        "avstar": 0,
+        "franvarande": 0
+      },
+      "-": {
+        "ja": 5,
+        "nej": 1,
+        "avstar": 3,
+        "franvarande": 0
+      },
+      "V": {
+        "ja": 0,
+        "nej": 0,
+        "avstar": 21,
+        "franvarande": 0
+      }
+    },
+    "tags": [
+      "MILJÖ"
+    ],
+    "status": "NY",
+    "passed": true,
+    "delvoterings": []
+  },
+  {
+    "dok_id": "HD01MJU27",
+    "titel": "Stärkt kontroll av fusk i livsmedelskedjan",
+    "utskott": "MJU",
+    "nummer": 27,
+    "datum": "2026-06-03",
+    "rm": "2025/26",
+    "kort_sammanfattning": "",
+    "roster": {},
+    "tags": [
+      "JORDBRUK"
+    ],
+    "status": "NY",
+    "passed": true,
+    "delvoterings": [
+      {
+        "punkt": "2",
+        "rubrik": "Straff och sanktionsavgifter",
+        "ja": 198,
+        "nej": 149,
+        "avstar": 0,
+        "franvarande": 2,
+        "roster": {
+          "S": {
+            "ja": 0,
+            "nej": 106,
+            "avstar": 0,
+            "franvarande": 0
+          },
+          "SD": {
+            "ja": 70,
+            "nej": 0,
+            "avstar": 0,
+            "franvarande": 0
+          },
+          "C": {
+            "ja": 23,
+            "nej": 0,
+            "avstar": 0,
+            "franvarande": 1
+          },
+          "M": {
+            "ja": 66,
+            "nej": 0,
+            "avstar": 0,
+            "franvarande": 0
+          },
+          "MP": {
+            "ja": 0,
+            "nej": 18,
+            "avstar": 0,
+            "franvarande": 0
+          },
+          "L": {
+            "ja": 16,
+            "nej": 0,
+            "avstar": 0,
+            "franvarande": 0
+          },
+          "KD": {
+            "ja": 18,
+            "nej": 0,
+            "avstar": 0,
+            "franvarande": 1
+          },
+          "-": {
+            "ja": 5,
+            "nej": 4,
+            "avstar": 0,
+            "franvarande": 0
+          },
+          "V": {
+            "ja": 0,
+            "nej": 21,
+            "avstar": 0,
+            "franvarande": 0
+          }
+        }
+      }
+    ]
+  },
+  {
+    "dok_id": "HD01SfU35",
+    "titel": "En ny mottagandelag",
+    "utskott": "SfU",
+    "nummer": 35,
+    "datum": "2026-06-03",
+    "rm": "2025/26",
+    "kort_sammanfattning": "",
+    "roster": {
+      "S": {
+        "ja": 106,
+        "nej": 0,
+        "avstar": 0,
+        "franvarande": 0
+      },
+      "SD": {
+        "ja": 70,
+        "nej": 0,
+        "avstar": 0,
+        "franvarande": 0
+      },
+      "C": {
+        "ja": 23,
+        "nej": 0,
+        "avstar": 0,
+        "franvarande": 1
+      },
+      "M": {
+        "ja": 66,
+        "nej": 0,
+        "avstar": 0,
+        "franvarande": 0
+      },
+      "MP": {
+        "ja": 0,
+        "nej": 18,
+        "avstar": 0,
+        "franvarande": 0
+      },
+      "L": {
+        "ja": 16,
+        "nej": 0,
+        "avstar": 0,
+        "franvarande": 0
+      },
+      "KD": {
+        "ja": 19,
+        "nej": 0,
+        "avstar": 0,
+        "franvarande": 0
+      },
+      "-": {
+        "ja": 6,
+        "nej": 3,
+        "avstar": 0,
+        "franvarande": 0
+      },
+      "V": {
+        "ja": 0,
+        "nej": 21,
+        "avstar": 0,
+        "franvarande": 0
+      }
+    },
+    "tags": [],
+    "status": "NY",
+    "passed": true,
+    "delvoterings": [
+      {
+        "punkt": "2",
+        "rubrik": "Undantag från krav på arbetstillstånd",
+        "ja": 176,
+        "nej": 172,
+        "avstar": 0,
+        "franvarande": 1,
+        "roster": {
+          "S": {
+            "ja": 0,
+            "nej": 106,
+            "avstar": 0,
+            "franvarande": 0
+          },
+          "SD": {
+            "ja": 70,
+            "nej": 0,
+            "avstar": 0,
+            "franvarande": 0
+          },
+          "C": {
+            "ja": 0,
+            "nej": 23,
+            "avstar": 0,
+            "franvarande": 1
+          },
+          "M": {
+            "ja": 66,
+            "nej": 0,
+            "avstar": 0,
+            "franvarande": 0
+          },
+          "MP": {
+            "ja": 0,
+            "nej": 18,
+            "avstar": 0,
+            "franvarande": 0
+          },
+          "L": {
+            "ja": 16,
+            "nej": 0,
+            "avstar": 0,
+            "franvarande": 0
+          },
+          "KD": {
+            "ja": 19,
+            "nej": 0,
+            "avstar": 0,
+            "franvarande": 0
+          },
+          "-": {
+            "ja": 5,
+            "nej": 4,
+            "avstar": 0,
+            "franvarande": 0
+          },
+          "V": {
+            "ja": 0,
+            "nej": 21,
+            "avstar": 0,
+            "franvarande": 0
+          }
+        }
+      }
+    ]
+  },
+  {
+    "dok_id": "HD01UU11",
+    "titel": "Organisationen för säkerhet och  samarbete i Europa (OSSE)",
+    "utskott": "UU",
+    "nummer": 11,
+    "datum": "2026-06-03",
+    "rm": "2025/26",
+    "kort_sammanfattning": "",
+    "roster": {},
+    "tags": [
+      "ARBETE",
+      "FÖRSVAR"
+    ],
+    "status": "NY",
+    "passed": true,
+    "delvoterings": []
+  },
+  {
+    "dok_id": "HD01UU12",
+    "titel": "Europarådet",
+    "utskott": "UU",
+    "nummer": 12,
+    "datum": "2026-06-03",
+    "rm": "2025/26",
+    "kort_sammanfattning": "",
+    "roster": {},
+    "tags": [],
+    "status": "NY",
+    "passed": true,
+    "delvoterings": []
+  },
+  {
+    "dok_id": "HD01UU19",
+    "titel": "Verksamheten i Nato 2025",
+    "utskott": "UU",
+    "nummer": 19,
+    "datum": "2026-06-03",
+    "rm": "2025/26",
+    "kort_sammanfattning": "",
+    "roster": {
+      "S": {
+        "ja": 106,
+        "nej": 0,
+        "avstar": 0,
+        "franvarande": 0
+      },
+      "SD": {
+        "ja": 70,
+        "nej": 0,
+        "avstar": 0,
+        "franvarande": 0
+      },
+      "C": {
+        "ja": 23,
+        "nej": 0,
+        "avstar": 0,
+        "franvarande": 1
+      },
+      "M": {
+        "ja": 66,
+        "nej": 0,
+        "avstar": 0,
+        "franvarande": 0
+      },
+      "MP": {
+        "ja": 0,
+        "nej": 18,
+        "avstar": 0,
+        "franvarande": 0
+      },
+      "L": {
+        "ja": 16,
+        "nej": 0,
+        "avstar": 0,
+        "franvarande": 0
+      },
+      "KD": {
+        "ja": 19,
+        "nej": 0,
+        "avstar": 0,
+        "franvarande": 0
+      },
+      "-": {
+        "ja": 6,
+        "nej": 0,
+        "avstar": 3,
+        "franvarande": 0
+      },
+      "V": {
+        "ja": 21,
+        "nej": 0,
+        "avstar": 0,
+        "franvarande": 0
+      }
+    },
+    "tags": [
+      "FÖRSVAR"
+    ],
+    "status": "NY",
+    "passed": true,
+    "delvoterings": [
+      {
+        "punkt": "2",
+        "rubrik": "Centrum för demokratisk resiliens",
+        "ja": 323,
+        "nej": 21,
+        "avstar": 3,
+        "franvarande": 2,
+        "roster": {
+          "S": {
+            "ja": 106,
+            "nej": 0,
+            "avstar": 0,
+            "franvarande": 0
+          },
+          "SD": {
+            "ja": 70,
+            "nej": 0,
+            "avstar": 0,
+            "franvarande": 0
+          },
+          "C": {
+            "ja": 23,
+            "nej": 0,
+            "avstar": 0,
+            "franvarande": 1
+          },
+          "M": {
+            "ja": 66,
+            "nej": 0,
+            "avstar": 0,
+            "franvarande": 0
+          },
+          "MP": {
+            "ja": 17,
+            "nej": 0,
+            "avstar": 0,
+            "franvarande": 1
+          },
+          "L": {
+            "ja": 16,
+            "nej": 0,
+            "avstar": 0,
+            "franvarande": 0
+          },
+          "KD": {
+            "ja": 19,
+            "nej": 0,
+            "avstar": 0,
+            "franvarande": 0
+          },
+          "-": {
+            "ja": 6,
+            "nej": 0,
+            "avstar": 3,
+            "franvarande": 0
+          },
+          "V": {
+            "ja": 0,
+            "nej": 21,
+            "avstar": 0,
+            "franvarande": 0
+          }
+        }
+      }
+    ]
+  },
+  {
+    "dok_id": "HD01UbU19",
+    "titel": "Riksrevisionens rapport om utbildning på vetenskaplig grund",
+    "utskott": "UbU",
+    "nummer": 19,
+    "datum": "2026-06-03",
+    "rm": "2025/26",
+    "kort_sammanfattning": "",
+    "roster": {
+      "S": {
+        "ja": 0,
+        "nej": 106,
+        "avstar": 0,
+        "franvarande": 0
+      },
+      "SD": {
+        "ja": 70,
+        "nej": 0,
+        "avstar": 0,
+        "franvarande": 0
+      },
+      "C": {
+        "ja": 0,
+        "nej": 23,
+        "avstar": 0,
+        "franvarande": 1
+      },
+      "M": {
+        "ja": 66,
+        "nej": 0,
+        "avstar": 0,
+        "franvarande": 0
+      },
+      "MP": {
+        "ja": 0,
+        "nej": 18,
+        "avstar": 0,
+        "franvarande": 0
+      },
+      "L": {
+        "ja": 16,
+        "nej": 0,
+        "avstar": 0,
+        "franvarande": 0
+      },
+      "KD": {
+        "ja": 19,
+        "nej": 0,
+        "avstar": 0,
+        "franvarande": 0
+      },
+      "-": {
+        "ja": 5,
+        "nej": 4,
+        "avstar": 0,
+        "franvarande": 0
+      },
+      "V": {
+        "ja": 0,
+        "nej": 21,
+        "avstar": 0,
+        "franvarande": 0
+      }
+    },
+    "tags": [
+      "UTBILDNING",
+      "TRANSPORT"
+    ],
+    "status": "NY",
+    "passed": true,
+    "delvoterings": []
+  },
+  {
+    "dok_id": "HD01UbU22",
+    "titel": "Bättre förutsättningar för trygghet och studiero i skolan",
+    "utskott": "UbU",
+    "nummer": 22,
+    "datum": "2026-06-03",
+    "rm": "2025/26",
+    "kort_sammanfattning": "",
+    "roster": {
+      "S": {
+        "ja": 106,
+        "nej": 0,
+        "avstar": 0,
+        "franvarande": 0
+      },
+      "SD": {
+        "ja": 69,
+        "nej": 0,
+        "avstar": 0,
+        "franvarande": 1
+      },
+      "C": {
+        "ja": 23,
+        "nej": 0,
+        "avstar": 0,
+        "franvarande": 1
+      },
+      "M": {
+        "ja": 66,
+        "nej": 0,
+        "avstar": 0,
+        "franvarande": 0
+      },
+      "MP": {
+        "ja": 18,
+        "nej": 0,
+        "avstar": 0,
+        "franvarande": 0
+      },
+      "L": {
+        "ja": 16,
+        "nej": 0,
+        "avstar": 0,
+        "franvarande": 0
+      },
+      "KD": {
+        "ja": 19,
+        "nej": 0,
+        "avstar": 0,
+        "franvarande": 0
+      },
+      "-": {
+        "ja": 6,
+        "nej": 3,
+        "avstar": 0,
+        "franvarande": 0
+      },
+      "V": {
+        "ja": 0,
+        "nej": 21,
+        "avstar": 0,
+        "franvarande": 0
+      }
+    },
+    "tags": [
+      "UTBILDNING",
+      "JORDBRUK"
+    ],
+    "status": "NY",
+    "passed": true,
+    "delvoterings": [
+      {
+        "punkt": "2",
+        "rubrik": "Dokumentationskrav vid utvisning ur undervisningslokalen och kvarsittning",
+        "ja": 282,
+        "nej": 64,
+        "avstar": 0,
+        "franvarande": 3,
+        "roster": {
+          "S": {
+            "ja": 106,
+            "nej": 0,
+            "avstar": 0,
+            "franvarande": 0
+          },
+          "SD": {
+            "ja": 69,
+            "nej": 0,
+            "avstar": 0,
+            "franvarande": 1
+          },
+          "C": {
+            "ja": 0,
+            "nej": 23,
+            "avstar": 0,
+            "franvarande": 1
+          },
+          "M": {
+            "ja": 66,
+            "nej": 0,
+            "avstar": 0,
+            "franvarande": 0
+          },
+          "MP": {
+            "ja": 0,
+            "nej": 17,
+            "avstar": 0,
+            "franvarande": 1
+          },
+          "L": {
+            "ja": 16,
+            "nej": 0,
+            "avstar": 0,
+            "franvarande": 0
+          },
+          "KD": {
+            "ja": 19,
+            "nej": 0,
+            "avstar": 0,
+            "franvarande": 0
+          },
+          "-": {
+            "ja": 6,
+            "nej": 3,
+            "avstar": 0,
+            "franvarande": 0
+          },
+          "V": {
+            "ja": 0,
+            "nej": 21,
+            "avstar": 0,
+            "franvarande": 0
+          }
+        }
+      }
+    ]
+  },
+  {
+    "dok_id": "HD01UbU23",
+    "titel": "Nya läroplaner - för en stark kunskapsskola",
+    "utskott": "UbU",
+    "nummer": 23,
+    "datum": "2026-06-03",
+    "rm": "2025/26",
+    "kort_sammanfattning": "",
+    "roster": {},
+    "tags": [
+      "UTBILDNING",
+      "JORDBRUK"
+    ],
+    "status": "NY",
+    "passed": true,
+    "delvoterings": [
+      {
+        "punkt": "2",
+        "rubrik": "Utbildningens syfte",
+        "ja": 326,
+        "nej": 22,
+        "avstar": 0,
+        "franvarande": 1,
+        "roster": {
+          "S": {
+            "ja": 105,
+            "nej": 1,
+            "avstar": 0,
+            "franvarande": 0
+          },
+          "SD": {
+            "ja": 70,
+            "nej": 0,
+            "avstar": 0,
+            "franvarande": 0
+          },
+          "C": {
+            "ja": 23,
+            "nej": 0,
+            "avstar": 0,
+            "franvarande": 1
+          },
+          "M": {
+            "ja": 66,
+            "nej": 0,
+            "avstar": 0,
+            "franvarande": 0
+          },
+          "MP": {
+            "ja": 0,
+            "nej": 18,
+            "avstar": 0,
+            "franvarande": 0
+          },
+          "L": {
+            "ja": 16,
+            "nej": 0,
+            "avstar": 0,
+            "franvarande": 0
+          },
+          "KD": {
+            "ja": 19,
+            "nej": 0,
+            "avstar": 0,
+            "franvarande": 0
+          },
+          "-": {
+            "ja": 6,
+            "nej": 3,
+            "avstar": 0,
+            "franvarande": 0
+          },
+          "V": {
+            "ja": 21,
+            "nej": 0,
+            "avstar": 0,
+            "franvarande": 0
+          }
+        }
+      },
+      {
+        "punkt": "3",
+        "rubrik": "Elevinflytande",
+        "ja": 177,
+        "nej": 171,
+        "avstar": 0,
+        "franvarande": 1,
+        "roster": {
+          "S": {
+            "ja": 0,
+            "nej": 106,
+            "avstar": 0,
+            "franvarande": 0
+          },
+          "SD": {
+            "ja": 70,
+            "nej": 0,
+            "avstar": 0,
+            "franvarande": 0
+          },
+          "C": {
+            "ja": 1,
+            "nej": 22,
+            "avstar": 0,
+            "franvarande": 1
+          },
+          "M": {
+            "ja": 66,
+            "nej": 0,
+            "avstar": 0,
+            "franvarande": 0
+          },
+          "MP": {
+            "ja": 0,
+            "nej": 18,
+            "avstar": 0,
+            "franvarande": 0
+          },
+          "L": {
+            "ja": 16,
+            "nej": 0,
+            "avstar": 0,
+            "franvarande": 0
+          },
+          "KD": {
+            "ja": 19,
+            "nej": 0,
+            "avstar": 0,
+            "franvarande": 0
+          },
+          "-": {
+            "ja": 5,
+            "nej": 4,
+            "avstar": 0,
+            "franvarande": 0
+          },
+          "V": {
+            "ja": 0,
+            "nej": 21,
+            "avstar": 0,
+            "franvarande": 0
+          }
+        }
+      }
+    ]
+  },
+  {
+    "dok_id": "HD01UbU24",
+    "titel": "Förbättrat stöd i skolan",
+    "utskott": "UbU",
+    "nummer": 24,
+    "datum": "2026-06-03",
+    "rm": "2025/26",
+    "kort_sammanfattning": "",
+    "roster": {},
+    "tags": [
+      "UTBILDNING",
+      "JORDBRUK"
+    ],
+    "status": "NY",
+    "passed": true,
+    "delvoterings": [
+      {
+        "punkt": "2",
+        "rubrik": "Stödet till eleverna i skolan",
+        "ja": 199,
+        "nej": 18,
+        "avstar": 130,
+        "franvarande": 2,
+        "roster": {
+          "S": {
+            "ja": 0,
+            "nej": 0,
+            "avstar": 105,
+            "franvarande": 1
+          },
+          "SD": {
+            "ja": 70,
+            "nej": 0,
+            "avstar": 0,
+            "franvarande": 0
+          },
+          "C": {
+            "ja": 23,
+            "nej": 0,
+            "avstar": 0,
+            "franvarande": 1
+          },
+          "M": {
+            "ja": 66,
+            "nej": 0,
+            "avstar": 0,
+            "franvarande": 0
+          },
+          "MP": {
+            "ja": 0,
+            "nej": 18,
+            "avstar": 0,
+            "franvarande": 0
+          },
+          "L": {
+            "ja": 16,
+            "nej": 0,
+            "avstar": 0,
+            "franvarande": 0
+          },
+          "KD": {
+            "ja": 19,
+            "nej": 0,
+            "avstar": 0,
+            "franvarande": 0
+          },
+          "-": {
+            "ja": 5,
+            "nej": 0,
+            "avstar": 4,
+            "franvarande": 0
+          },
+          "V": {
+            "ja": 0,
+            "nej": 0,
+            "avstar": 21,
+            "franvarande": 0
+          }
+        }
+      },
+      {
+        "punkt": "3",
+        "rubrik": "Stödet till eleverna inom kommunal vuxenutbildning",
+        "ja": 199,
+        "nej": 149,
+        "avstar": 0,
+        "franvarande": 1,
+        "roster": {
+          "S": {
+            "ja": 0,
+            "nej": 106,
+            "avstar": 0,
+            "franvarande": 0
+          },
+          "SD": {
+            "ja": 70,
+            "nej": 0,
+            "avstar": 0,
+            "franvarande": 0
+          },
+          "C": {
+            "ja": 23,
+            "nej": 0,
+            "avstar": 0,
+            "franvarande": 1
+          },
+          "M": {
+            "ja": 66,
+            "nej": 0,
+            "avstar": 0,
+            "franvarande": 0
+          },
+          "MP": {
+            "ja": 0,
+            "nej": 18,
+            "avstar": 0,
+            "franvarande": 0
+          },
+          "L": {
+            "ja": 16,
+            "nej": 0,
+            "avstar": 0,
+            "franvarande": 0
+          },
+          "KD": {
+            "ja": 19,
+            "nej": 0,
+            "avstar": 0,
+            "franvarande": 0
+          },
+          "-": {
+            "ja": 5,
+            "nej": 4,
+            "avstar": 0,
+            "franvarande": 0
+          },
+          "V": {
+            "ja": 0,
+            "nej": 21,
+            "avstar": 0,
+            "franvarande": 0
+          }
+        }
+      },
+      {
+        "punkt": "4",
+        "rubrik": "Tillgången till behöriga lärare, speciallärare och specialpedagoger",
+        "ja": 303,
+        "nej": 23,
+        "avstar": 22,
+        "franvarande": 1,
+        "roster": {
+          "S": {
+            "ja": 105,
+            "nej": 0,
+            "avstar": 1,
+            "franvarande": 0
+          },
+          "SD": {
+            "ja": 70,
+            "nej": 0,
+            "avstar": 0,
+            "franvarande": 0
+          },
+          "C": {
+            "ja": 0,
+            "nej": 23,
+            "avstar": 0,
+            "franvarande": 1
+          },
+          "M": {
+            "ja": 66,
+            "nej": 0,
+            "avstar": 0,
+            "franvarande": 0
+          },
+          "MP": {
+            "ja": 0,
+            "nej": 0,
+            "avstar": 18,
+            "franvarande": 0
+          },
+          "L": {
+            "ja": 16,
+            "nej": 0,
+            "avstar": 0,
+            "franvarande": 0
+          },
+          "KD": {
+            "ja": 19,
+            "nej": 0,
+            "avstar": 0,
+            "franvarande": 0
+          },
+          "-": {
+            "ja": 6,
+            "nej": 0,
+            "avstar": 3,
+            "franvarande": 0
+          },
+          "V": {
+            "ja": 21,
+            "nej": 0,
+            "avstar": 0,
+            "franvarande": 0
+          }
+        }
+      }
+    ]
+  },
+  {
     "dok_id": "HD01CU26",
     "titel": "En ny konsumentkreditlag",
     "utskott": "CU",

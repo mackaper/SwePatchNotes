@@ -1,0 +1,85 @@
+{
+  "dok_id": "HD01JuU35",
+  "titel": "Tillfällig verkställighet av svenska fängelsestraff utomlands",
+  "utskott": "JuU",
+  "nummer": 35,
+  "datum": "2026-06-03",
+  "rm": "2025/26",
+  "kort_sammanfattning": "",
+  "bakgrund": "",
+  "beslut": "",
+  "roster": {},
+  "tags": [
+    "BROTT"
+  ],
+  "status": "NY",
+  "passed": true,
+  "dokument_url": "https://www.riksdagen.se/sv/dokument-och-lagar/dokument/betankande/_HD01JuU35",
+  "voteringar": [],
+  "delvoterings": [
+    {
+      "punkt": "2",
+      "rubrik": "Lagförslaget",
+      "ja": 304,
+      "nej": 44,
+      "avstar": 0,
+      "franvarande": 1,
+      "roster": {
+        "S": {
+          "ja": 105,
+          "nej": 1,
+          "avstar": 0,
+          "franvarande": 0
+        },
+        "SD": {
+          "ja": 70,
+          "nej": 0,
+          "avstar": 0,
+          "franvarande": 0
+        },
+        "C": {
+          "ja": 23,
+          "nej": 0,
+          "avstar": 0,
+          "franvarande": 1
+        },
+        "M": {
+          "ja": 66,
+          "nej": 0,
+          "avstar": 0,
+          "franvarande": 0
+        },
+        "MP": {
+          "ja": 0,
+          "nej": 18,
+          "avstar": 0,
+          "franvarande": 0
+        },
+        "L": {
+          "ja": 16,
+          "nej": 0,
+          "avstar": 0,
+          "franvarande": 0
+        },
+        "KD": {
+          "ja": 19,
+          "nej": 0,
+          "avstar": 0,
+          "franvarande": 0
+        },
+        "-": {
+          "ja": 5,
+          "nej": 4,
+          "avstar": 0,
+          "franvarande": 0
+        },
+        "V": {
+          "ja": 0,
+          "nej": 21,
+          "avstar": 0,
+          "franvarande": 0
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,211 @@
+{
+  "dok_id": "HD01UbU25",
+  "titel": "Tid för undervisningsuppdraget",
+  "utskott": "UbU",
+  "nummer": 25,
+  "datum": "2026-06-09",
+  "rm": "2025/26",
+  "kort_sammanfattning": "",
+  "bakgrund": "",
+  "beslut": "",
+  "roster": {},
+  "tags": [],
+  "status": "NY",
+  "passed": true,
+  "dokument_url": "https://www.riksdagen.se/sv/dokument-och-lagar/dokument/betankande/_HD01UbU25",
+  "voteringar": [],
+  "delvoterings": [
+    {
+      "punkt": "2",
+      "rubrik": "Dialog med arbetsmarknadens parter",
+      "ja": 192,
+      "nej": 148,
+      "avstar": 3,
+      "franvarande": 6,
+      "roster": {
+        "S": {
+          "ja": 0,
+          "nej": 106,
+          "avstar": 0,
+          "franvarande": 0
+        },
+        "SD": {
+          "ja": 68,
+          "nej": 0,
+          "avstar": 0,
+          "franvarande": 2
+        },
+        "C": {
+          "ja": 0,
+          "nej": 23,
+          "avstar": 0,
+          "franvarande": 1
+        },
+        "M": {
+          "ja": 65,
+          "nej": 0,
+          "avstar": 0,
+          "franvarande": 1
+        },
+        "MP": {
+          "ja": 0,
+          "nej": 18,
+          "avstar": 0,
+          "franvarande": 0
+        },
+        "L": {
+          "ja": 16,
+          "nej": 0,
+          "avstar": 0,
+          "franvarande": 0
+        },
+        "KD": {
+          "ja": 18,
+          "nej": 0,
+          "avstar": 0,
+          "franvarande": 1
+        },
+        "-": {
+          "ja": 5,
+          "nej": 1,
+          "avstar": 3,
+          "franvarande": 0
+        },
+        "V": {
+          "ja": 20,
+          "nej": 0,
+          "avstar": 0,
+          "franvarande": 1
+        }
+      }
+    },
+    {
+      "punkt": "3",
+      "rubrik": "Ekonomiska konsekvenser",
+      "ja": 172,
+      "nej": 171,
+      "avstar": 0,
+      "franvarande": 6,
+      "roster": {
+        "S": {
+          "ja": 0,
+          "nej": 106,
+          "avstar": 0,
+          "franvarande": 0
+        },
+        "SD": {
+          "ja": 68,
+          "nej": 0,
+          "avstar": 0,
+          "franvarande": 2
+        },
+        "C": {
+          "ja": 0,
+          "nej": 23,
+          "avstar": 0,
+          "franvarande": 1
+        },
+        "M": {
+          "ja": 65,
+          "nej": 0,
+          "avstar": 0,
+          "franvarande": 1
+        },
+        "MP": {
+          "ja": 0,
+          "nej": 18,
+          "avstar": 0,
+          "franvarande": 0
+        },
+        "L": {
+          "ja": 16,
+          "nej": 0,
+          "avstar": 0,
+          "franvarande": 0
+        },
+        "KD": {
+          "ja": 18,
+          "nej": 0,
+          "avstar": 0,
+          "franvarande": 1
+        },
+        "-": {
+          "ja": 5,
+          "nej": 4,
+          "avstar": 0,
+          "franvarande": 0
+        },
+        "V": {
+          "ja": 0,
+          "nej": 20,
+          "avstar": 0,
+          "franvarande": 1
+        }
+      }
+    },
+    {
+      "punkt": "4",
+      "rubrik": "Konsekvenser för lärarbristen",
+      "ja": 192,
+      "nej": 151,
+      "avstar": 0,
+      "franvarande": 6,
+      "roster": {
+        "S": {
+          "ja": 0,
+          "nej": 106,
+          "avstar": 0,
+          "franvarande": 0
+        },
+        "SD": {
+          "ja": 68,
+          "nej": 0,
+          "avstar": 0,
+          "franvarande": 2
+        },
+        "C": {
+          "ja": 0,
+          "nej": 23,
+          "avstar": 0,
+          "franvarande": 1
+        },
+        "M": {
+          "ja": 65,
+          "nej": 0,
+          "avstar": 0,
+          "franvarande": 1
+        },
+        "MP": {
+          "ja": 0,
+          "nej": 18,
+          "avstar": 0,
+          "franvarande": 0
+        },
+        "L": {
+          "ja": 16,
+          "nej": 0,
+          "avstar": 0,
+          "franvarande": 0
+        },
+        "KD": {
+          "ja": 18,
+          "nej": 0,
+          "avstar": 0,
+          "franvarande": 1
+        },
+        "-": {
+          "ja": 5,
+          "nej": 4,
+          "avstar": 0,
+          "franvarande": 0
+        },
+        "V": {
+          "ja": 20,
+          "nej": 0,
+          "avstar": 0,
+          "franvarande": 1
+        }
+      }
+    }
+  ]
+}
