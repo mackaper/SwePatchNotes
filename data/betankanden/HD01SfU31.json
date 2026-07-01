@@ -1,0 +1,266 @@
+{
+  "dok_id": "HD01SfU31",
+  "titel": "Skärpta regler om uppsikt och förvar",
+  "utskott": "SfU",
+  "nummer": 31,
+  "datum": "2026-06-15",
+  "rm": "2025/26",
+  "kort_sammanfattning": "",
+  "bakgrund": "",
+  "beslut": "",
+  "roster": {
+    "S": {
+      "ja": 0,
+      "nej": 105,
+      "avstar": 0,
+      "franvarande": 1
+    },
+    "SD": {
+      "ja": 70,
+      "nej": 0,
+      "avstar": 0,
+      "franvarande": 0
+    },
+    "C": {
+      "ja": 0,
+      "nej": 24,
+      "avstar": 0,
+      "franvarande": 0
+    },
+    "M": {
+      "ja": 66,
+      "nej": 0,
+      "avstar": 0,
+      "franvarande": 0
+    },
+    "MP": {
+      "ja": 0,
+      "nej": 18,
+      "avstar": 0,
+      "franvarande": 0
+    },
+    "L": {
+      "ja": 16,
+      "nej": 0,
+      "avstar": 0,
+      "franvarande": 0
+    },
+    "KD": {
+      "ja": 19,
+      "nej": 0,
+      "avstar": 0,
+      "franvarande": 0
+    },
+    "-": {
+      "ja": 4,
+      "nej": 4,
+      "avstar": 0,
+      "franvarande": 1
+    },
+    "V": {
+      "ja": 0,
+      "nej": 21,
+      "avstar": 0,
+      "franvarande": 0
+    }
+  },
+  "tags": [],
+  "status": "NY",
+  "passed": true,
+  "dokument_url": "https://www.riksdagen.se/sv/dokument-och-lagar/dokument/betankande/_HD01SfU31",
+  "voteringar": [
+    {
+      "party": "S",
+      "ja": 0,
+      "nej": 105,
+      "avstar": 0,
+      "franvarande": 1
+    },
+    {
+      "party": "SD",
+      "ja": 70,
+      "nej": 0,
+      "avstar": 0,
+      "franvarande": 0
+    },
+    {
+      "party": "C",
+      "ja": 0,
+      "nej": 24,
+      "avstar": 0,
+      "franvarande": 0
+    },
+    {
+      "party": "M",
+      "ja": 66,
+      "nej": 0,
+      "avstar": 0,
+      "franvarande": 0
+    },
+    {
+      "party": "MP",
+      "ja": 0,
+      "nej": 18,
+      "avstar": 0,
+      "franvarande": 0
+    },
+    {
+      "party": "L",
+      "ja": 16,
+      "nej": 0,
+      "avstar": 0,
+      "franvarande": 0
+    },
+    {
+      "party": "KD",
+      "ja": 19,
+      "nej": 0,
+      "avstar": 0,
+      "franvarande": 0
+    },
+    {
+      "party": "-",
+      "ja": 4,
+      "nej": 4,
+      "avstar": 0,
+      "franvarande": 1
+    },
+    {
+      "party": "V",
+      "ja": 0,
+      "nej": 21,
+      "avstar": 0,
+      "franvarande": 0
+    }
+  ],
+  "delvoterings": [
+    {
+      "punkt": "2",
+      "rubrik": "Översyn",
+      "ja": 304,
+      "nej": 41,
+      "avstar": 0,
+      "franvarande": 4,
+      "roster": {
+        "S": {
+          "ja": 105,
+          "nej": 0,
+          "avstar": 0,
+          "franvarande": 1
+        },
+        "SD": {
+          "ja": 70,
+          "nej": 0,
+          "avstar": 0,
+          "franvarande": 0
+        },
+        "C": {
+          "ja": 24,
+          "nej": 0,
+          "avstar": 0,
+          "franvarande": 0
+        },
+        "M": {
+          "ja": 66,
+          "nej": 0,
+          "avstar": 0,
+          "franvarande": 0
+        },
+        "MP": {
+          "ja": 0,
+          "nej": 18,
+          "avstar": 0,
+          "franvarande": 0
+        },
+        "L": {
+          "ja": 16,
+          "nej": 0,
+          "avstar": 0,
+          "franvarande": 0
+        },
+        "KD": {
+          "ja": 19,
+          "nej": 0,
+          "avstar": 0,
+          "franvarande": 0
+        },
+        "-": {
+          "ja": 4,
+          "nej": 3,
+          "avstar": 0,
+          "franvarande": 2
+        },
+        "V": {
+          "ja": 0,
+          "nej": 20,
+          "avstar": 0,
+          "franvarande": 1
+        }
+      }
+    },
+    {
+      "punkt": "3",
+      "rubrik": "Barn och andra utsatta personer",
+      "ja": 279,
+      "nej": 65,
+      "avstar": 2,
+      "franvarande": 3,
+      "roster": {
+        "S": {
+          "ja": 105,
+          "nej": 0,
+          "avstar": 0,
+          "franvarande": 1
+        },
+        "SD": {
+          "ja": 70,
+          "nej": 0,
+          "avstar": 0,
+          "franvarande": 0
+        },
+        "C": {
+          "ja": 0,
+          "nej": 24,
+          "avstar": 0,
+          "franvarande": 0
+        },
+        "M": {
+          "ja": 66,
+          "nej": 0,
+          "avstar": 0,
+          "franvarande": 0
+        },
+        "MP": {
+          "ja": 0,
+          "nej": 18,
+          "avstar": 0,
+          "franvarande": 0
+        },
+        "L": {
+          "ja": 16,
+          "nej": 0,
+          "avstar": 0,
+          "franvarande": 0
+        },
+        "KD": {
+          "ja": 19,
+          "nej": 0,
+          "avstar": 0,
+          "franvarande": 0
+        },
+        "-": {
+          "ja": 3,
+          "nej": 2,
+          "avstar": 2,
+          "franvarande": 2
+        },
+        "V": {
+          "ja": 0,
+          "nej": 21,
+          "avstar": 0,
+          "franvarande": 0
+        }
+      }
+    }
+  ]
+}

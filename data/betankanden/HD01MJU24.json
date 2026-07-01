@@ -1,0 +1,85 @@
+{
+  "dok_id": "HD01MJU24",
+  "titel": "Ny myndighet för miljöprövning",
+  "utskott": "MJU",
+  "nummer": 24,
+  "datum": "2026-06-15",
+  "rm": "2025/26",
+  "kort_sammanfattning": "",
+  "bakgrund": "",
+  "beslut": "",
+  "roster": {},
+  "tags": [
+    "MILJÖ"
+  ],
+  "status": "NY",
+  "passed": true,
+  "dokument_url": "https://www.riksdagen.se/sv/dokument-och-lagar/dokument/betankande/_HD01MJU24",
+  "voteringar": [],
+  "delvoterings": [
+    {
+      "punkt": "2",
+      "rubrik": "Ny myndighet för miljöprövning",
+      "ja": 322,
+      "nej": 24,
+      "avstar": 0,
+      "franvarande": 3,
+      "roster": {
+        "S": {
+          "ja": 105,
+          "nej": 0,
+          "avstar": 0,
+          "franvarande": 1
+        },
+        "SD": {
+          "ja": 70,
+          "nej": 0,
+          "avstar": 0,
+          "franvarande": 0
+        },
+        "C": {
+          "ja": 24,
+          "nej": 0,
+          "avstar": 0,
+          "franvarande": 0
+        },
+        "M": {
+          "ja": 66,
+          "nej": 0,
+          "avstar": 0,
+          "franvarande": 0
+        },
+        "MP": {
+          "ja": 18,
+          "nej": 0,
+          "avstar": 0,
+          "franvarande": 0
+        },
+        "L": {
+          "ja": 16,
+          "nej": 0,
+          "avstar": 0,
+          "franvarande": 0
+        },
+        "KD": {
+          "ja": 19,
+          "nej": 0,
+          "avstar": 0,
+          "franvarande": 0
+        },
+        "-": {
+          "ja": 4,
+          "nej": 3,
+          "avstar": 0,
+          "franvarande": 2
+        },
+        "V": {
+          "ja": 0,
+          "nej": 21,
+          "avstar": 0,
+          "franvarande": 0
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,86 @@
+{
+  "dok_id": "HD01UbU31",
+  "titel": "En mer ändamålsenlig reglering av etikprövning av forskning som avser människor",
+  "utskott": "UbU",
+  "nummer": 31,
+  "datum": "2026-06-17",
+  "rm": "2025/26",
+  "kort_sammanfattning": "",
+  "bakgrund": "",
+  "beslut": "",
+  "roster": {},
+  "tags": [
+    "UTBILDNING",
+    "JORDBRUK"
+  ],
+  "status": "NY",
+  "passed": true,
+  "dokument_url": "https://www.riksdagen.se/sv/dokument-och-lagar/dokument/betankande/_HD01UbU31",
+  "voteringar": [],
+  "delvoterings": [
+    {
+      "punkt": "2",
+      "rubrik": "Etikprövningslagens framtida utformning",
+      "ja": 320,
+      "nej": 27,
+      "avstar": 0,
+      "franvarande": 2,
+      "roster": {
+        "S": {
+          "ja": 105,
+          "nej": 0,
+          "avstar": 0,
+          "franvarande": 1
+        },
+        "SD": {
+          "ja": 70,
+          "nej": 0,
+          "avstar": 0,
+          "franvarande": 0
+        },
+        "C": {
+          "ja": 0,
+          "nej": 24,
+          "avstar": 0,
+          "franvarande": 0
+        },
+        "M": {
+          "ja": 66,
+          "nej": 0,
+          "avstar": 0,
+          "franvarande": 0
+        },
+        "MP": {
+          "ja": 18,
+          "nej": 0,
+          "avstar": 0,
+          "franvarande": 0
+        },
+        "L": {
+          "ja": 16,
+          "nej": 0,
+          "avstar": 0,
+          "franvarande": 0
+        },
+        "KD": {
+          "ja": 19,
+          "nej": 0,
+          "avstar": 0,
+          "franvarande": 0
+        },
+        "-": {
+          "ja": 5,
+          "nej": 3,
+          "avstar": 0,
+          "franvarande": 1
+        },
+        "V": {
+          "ja": 21,
+          "nej": 0,
+          "avstar": 0,
+          "franvarande": 0
+        }
+      }
+    }
+  ]
+}

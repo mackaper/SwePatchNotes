@@ -1,0 +1,137 @@
+{
+  "dok_id": "HD01AU14",
+  "titel": "Tidsbegränsat boende för vissa nyanlända invandrare - en ny lag om bosättning",
+  "utskott": "AU",
+  "nummer": 14,
+  "datum": "2026-06-15",
+  "rm": "2025/26",
+  "kort_sammanfattning": "",
+  "bakgrund": "",
+  "beslut": "",
+  "roster": {
+    "S": {
+      "ja": 0,
+      "nej": 105,
+      "avstar": 0,
+      "franvarande": 1
+    },
+    "SD": {
+      "ja": 70,
+      "nej": 0,
+      "avstar": 0,
+      "franvarande": 0
+    },
+    "C": {
+      "ja": 24,
+      "nej": 0,
+      "avstar": 0,
+      "franvarande": 0
+    },
+    "M": {
+      "ja": 66,
+      "nej": 0,
+      "avstar": 0,
+      "franvarande": 0
+    },
+    "MP": {
+      "ja": 0,
+      "nej": 0,
+      "avstar": 18,
+      "franvarande": 0
+    },
+    "L": {
+      "ja": 16,
+      "nej": 0,
+      "avstar": 0,
+      "franvarande": 0
+    },
+    "KD": {
+      "ja": 19,
+      "nej": 0,
+      "avstar": 0,
+      "franvarande": 0
+    },
+    "-": {
+      "ja": 3,
+      "nej": 1,
+      "avstar": 3,
+      "franvarande": 2
+    },
+    "V": {
+      "ja": 0,
+      "nej": 0,
+      "avstar": 21,
+      "franvarande": 0
+    }
+  },
+  "tags": [],
+  "status": "NY",
+  "passed": true,
+  "dokument_url": "https://www.riksdagen.se/sv/dokument-och-lagar/dokument/betankande/_HD01AU14",
+  "voteringar": [
+    {
+      "party": "S",
+      "ja": 0,
+      "nej": 105,
+      "avstar": 0,
+      "franvarande": 1
+    },
+    {
+      "party": "SD",
+      "ja": 70,
+      "nej": 0,
+      "avstar": 0,
+      "franvarande": 0
+    },
+    {
+      "party": "C",
+      "ja": 24,
+      "nej": 0,
+      "avstar": 0,
+      "franvarande": 0
+    },
+    {
+      "party": "M",
+      "ja": 66,
+      "nej": 0,
+      "avstar": 0,
+      "franvarande": 0
+    },
+    {
+      "party": "MP",
+      "ja": 0,
+      "nej": 0,
+      "avstar": 18,
+      "franvarande": 0
+    },
+    {
+      "party": "L",
+      "ja": 16,
+      "nej": 0,
+      "avstar": 0,
+      "franvarande": 0
+    },
+    {
+      "party": "KD",
+      "ja": 19,
+      "nej": 0,
+      "avstar": 0,
+      "franvarande": 0
+    },
+    {
+      "party": "-",
+      "ja": 3,
+      "nej": 1,
+      "avstar": 3,
+      "franvarande": 2
+    },
+    {
+      "party": "V",
+      "ja": 0,
+      "nej": 0,
+      "avstar": 21,
+      "franvarande": 0
+    }
+  ],
+  "delvoterings": []
+}
