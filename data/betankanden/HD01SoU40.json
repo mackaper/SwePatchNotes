@@ -1,0 +1,205 @@
+{
+  "dok_id": "HD01SoU40",
+  "titel": "Skyldighet att betala för tandvård - nya regler för vissa utlänningar",
+  "utskott": "SoU",
+  "nummer": 40,
+  "datum": "2026-08-13",
+  "rm": "2025/26",
+  "kort_sammanfattning": "Kunde inte generera sammanfattning.",
+  "bakgrund": "",
+  "beslut": "",
+  "roster": {
+    "S": {
+      "ja": 105,
+      "nej": 0,
+      "avstar": 0,
+      "franvarande": 1
+    },
+    "SD": {
+      "ja": 70,
+      "nej": 0,
+      "avstar": 0,
+      "franvarande": 0
+    },
+    "C": {
+      "ja": 0,
+      "nej": 23,
+      "avstar": 0,
+      "franvarande": 1
+    },
+    "M": {
+      "ja": 66,
+      "nej": 0,
+      "avstar": 0,
+      "franvarande": 0
+    },
+    "MP": {
+      "ja": 0,
+      "nej": 18,
+      "avstar": 0,
+      "franvarande": 0
+    },
+    "L": {
+      "ja": 16,
+      "nej": 0,
+      "avstar": 0,
+      "franvarande": 0
+    },
+    "KD": {
+      "ja": 19,
+      "nej": 0,
+      "avstar": 0,
+      "franvarande": 0
+    },
+    "-": {
+      "ja": 5,
+      "nej": 4,
+      "avstar": 0,
+      "franvarande": 0
+    },
+    "V": {
+      "ja": 0,
+      "nej": 21,
+      "avstar": 0,
+      "franvarande": 0
+    }
+  },
+  "tags": [
+    "HÄLSA",
+    "MIGRATION"
+  ],
+  "status": "NY",
+  "passed": true,
+  "dokument_url": "https://www.riksdagen.se/sv/dokument-och-lagar/dokument/betankande/_HD01SoU40",
+  "voteringar": [
+    {
+      "party": "S",
+      "ja": 105,
+      "nej": 0,
+      "avstar": 0,
+      "franvarande": 1
+    },
+    {
+      "party": "SD",
+      "ja": 70,
+      "nej": 0,
+      "avstar": 0,
+      "franvarande": 0
+    },
+    {
+      "party": "C",
+      "ja": 0,
+      "nej": 23,
+      "avstar": 0,
+      "franvarande": 1
+    },
+    {
+      "party": "M",
+      "ja": 66,
+      "nej": 0,
+      "avstar": 0,
+      "franvarande": 0
+    },
+    {
+      "party": "MP",
+      "ja": 0,
+      "nej": 18,
+      "avstar": 0,
+      "franvarande": 0
+    },
+    {
+      "party": "L",
+      "ja": 16,
+      "nej": 0,
+      "avstar": 0,
+      "franvarande": 0
+    },
+    {
+      "party": "KD",
+      "ja": 19,
+      "nej": 0,
+      "avstar": 0,
+      "franvarande": 0
+    },
+    {
+      "party": "-",
+      "ja": 5,
+      "nej": 4,
+      "avstar": 0,
+      "franvarande": 0
+    },
+    {
+      "party": "V",
+      "ja": 0,
+      "nej": 21,
+      "avstar": 0,
+      "franvarande": 0
+    }
+  ],
+  "delvoterings": [
+    {
+      "punkt": "2",
+      "rubrik": "Frågor om tillstånd",
+      "ja": 320,
+      "nej": 23,
+      "avstar": 4,
+      "franvarande": 2,
+      "roster": {
+        "S": {
+          "ja": 105,
+          "nej": 0,
+          "avstar": 0,
+          "franvarande": 1
+        },
+        "SD": {
+          "ja": 70,
+          "nej": 0,
+          "avstar": 0,
+          "franvarande": 0
+        },
+        "C": {
+          "ja": 0,
+          "nej": 23,
+          "avstar": 0,
+          "franvarande": 1
+        },
+        "M": {
+          "ja": 66,
+          "nej": 0,
+          "avstar": 0,
+          "franvarande": 0
+        },
+        "MP": {
+          "ja": 18,
+          "nej": 0,
+          "avstar": 0,
+          "franvarande": 0
+        },
+        "L": {
+          "ja": 16,
+          "nej": 0,
+          "avstar": 0,
+          "franvarande": 0
+        },
+        "KD": {
+          "ja": 19,
+          "nej": 0,
+          "avstar": 0,
+          "franvarande": 0
+        },
+        "-": {
+          "ja": 6,
+          "nej": 0,
+          "avstar": 3,
+          "franvarande": 0
+        },
+        "V": {
+          "ja": 20,
+          "nej": 0,
+          "avstar": 1,
+          "franvarande": 0
+        }
+      }
+    }
+  ]
+}

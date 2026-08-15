@@ -1,0 +1,86 @@
+{
+  "dok_id": "HD01SoU38",
+  "titel": "För barns rättigheter och trygghet - en ny lag om omhändertagande för vård av barn och unga",
+  "utskott": "SoU",
+  "nummer": 38,
+  "datum": "2026-08-13",
+  "rm": "2025/26",
+  "kort_sammanfattning": "Kunde inte generera sammanfattning.",
+  "bakgrund": "",
+  "beslut": "",
+  "roster": {},
+  "tags": [
+    "HÄLSA",
+    "BARN"
+  ],
+  "status": "NY",
+  "passed": true,
+  "dokument_url": "https://www.riksdagen.se/sv/dokument-och-lagar/dokument/betankande/_HD01SoU38",
+  "voteringar": [],
+  "delvoterings": [
+    {
+      "punkt": "2",
+      "rubrik": "Krav på samtycke från barn som fyllt 15 år",
+      "ja": 176,
+      "nej": 171,
+      "avstar": 0,
+      "franvarande": 2,
+      "roster": {
+        "S": {
+          "ja": 0,
+          "nej": 105,
+          "avstar": 0,
+          "franvarande": 1
+        },
+        "SD": {
+          "ja": 70,
+          "nej": 0,
+          "avstar": 0,
+          "franvarande": 0
+        },
+        "C": {
+          "ja": 0,
+          "nej": 23,
+          "avstar": 0,
+          "franvarande": 1
+        },
+        "M": {
+          "ja": 66,
+          "nej": 0,
+          "avstar": 0,
+          "franvarande": 0
+        },
+        "MP": {
+          "ja": 0,
+          "nej": 18,
+          "avstar": 0,
+          "franvarande": 0
+        },
+        "L": {
+          "ja": 16,
+          "nej": 0,
+          "avstar": 0,
+          "franvarande": 0
+        },
+        "KD": {
+          "ja": 19,
+          "nej": 0,
+          "avstar": 0,
+          "franvarande": 0
+        },
+        "-": {
+          "ja": 5,
+          "nej": 4,
+          "avstar": 0,
+          "franvarande": 0
+        },
+        "V": {
+          "ja": 0,
+          "nej": 21,
+          "avstar": 0,
+          "franvarande": 0
+        }
+      }
+    }
+  ]
+}

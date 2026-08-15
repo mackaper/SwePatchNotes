@@ -1,0 +1,149 @@
+{
+  "dok_id": "HD01UbU30",
+  "titel": "Skärpta villkor för friskolesektorn",
+  "utskott": "UbU",
+  "nummer": 30,
+  "datum": "2026-08-13",
+  "rm": "2025/26",
+  "kort_sammanfattning": "Kunde inte generera sammanfattning.",
+  "bakgrund": "",
+  "beslut": "",
+  "roster": {},
+  "tags": [
+    "JORDBRUK"
+  ],
+  "status": "NY",
+  "passed": true,
+  "dokument_url": "https://www.riksdagen.se/sv/dokument-och-lagar/dokument/betankande/_HD01UbU30",
+  "voteringar": [],
+  "delvoterings": [
+    {
+      "punkt": "2",
+      "rubrik": "Förbud mot vinstutdelning",
+      "ja": 199,
+      "nej": 148,
+      "avstar": 0,
+      "franvarande": 2,
+      "roster": {
+        "S": {
+          "ja": 0,
+          "nej": 105,
+          "avstar": 0,
+          "franvarande": 1
+        },
+        "SD": {
+          "ja": 70,
+          "nej": 0,
+          "avstar": 0,
+          "franvarande": 0
+        },
+        "C": {
+          "ja": 23,
+          "nej": 0,
+          "avstar": 0,
+          "franvarande": 1
+        },
+        "M": {
+          "ja": 66,
+          "nej": 0,
+          "avstar": 0,
+          "franvarande": 0
+        },
+        "MP": {
+          "ja": 0,
+          "nej": 18,
+          "avstar": 0,
+          "franvarande": 0
+        },
+        "L": {
+          "ja": 16,
+          "nej": 0,
+          "avstar": 0,
+          "franvarande": 0
+        },
+        "KD": {
+          "ja": 19,
+          "nej": 0,
+          "avstar": 0,
+          "franvarande": 0
+        },
+        "-": {
+          "ja": 5,
+          "nej": 4,
+          "avstar": 0,
+          "franvarande": 0
+        },
+        "V": {
+          "ja": 0,
+          "nej": 21,
+          "avstar": 0,
+          "franvarande": 0
+        }
+      }
+    },
+    {
+      "punkt": "3",
+      "rubrik": "Värdeöverföringsförbud utan begränsningar",
+      "ja": 215,
+      "nej": 131,
+      "avstar": 0,
+      "franvarande": 3,
+      "roster": {
+        "S": {
+          "ja": 0,
+          "nej": 105,
+          "avstar": 0,
+          "franvarande": 1
+        },
+        "SD": {
+          "ja": 70,
+          "nej": 0,
+          "avstar": 0,
+          "franvarande": 0
+        },
+        "C": {
+          "ja": 23,
+          "nej": 0,
+          "avstar": 0,
+          "franvarande": 1
+        },
+        "M": {
+          "ja": 66,
+          "nej": 0,
+          "avstar": 0,
+          "franvarande": 0
+        },
+        "MP": {
+          "ja": 17,
+          "nej": 1,
+          "avstar": 0,
+          "franvarande": 0
+        },
+        "L": {
+          "ja": 15,
+          "nej": 0,
+          "avstar": 0,
+          "franvarande": 1
+        },
+        "KD": {
+          "ja": 19,
+          "nej": 0,
+          "avstar": 0,
+          "franvarande": 0
+        },
+        "-": {
+          "ja": 5,
+          "nej": 4,
+          "avstar": 0,
+          "franvarande": 0
+        },
+        "V": {
+          "ja": 0,
+          "nej": 21,
+          "avstar": 0,
+          "franvarande": 0
+        }
+      }
+    }
+  ]
+}
