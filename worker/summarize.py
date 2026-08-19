@@ -32,32 +32,29 @@ Svara ALLTID i JSON med exakt dessa tre nycklar:
 
 
 def summarize(titel: str, text: str, dok_id: str) -> dict:
-    api_key = os.environ.get('GEMINI_API_KEY')
+    api_key = os.environ.get('OPENAI_API_KEY')
     if not api_key:
-        print(f"  No GEMINI_API_KEY — using Lorem ipsum for {dok_id}")
+        print(f"  No OPENAI_API_KEY — using Lorem ipsum for {dok_id}")
         return LOREM
 
-    from google import genai
-    from google.genai import types
+    from openai import OpenAI
 
-    client = genai.Client(api_key=api_key)
-    prompt = f"{SYSTEM_PROMPT}\n\nTitel: {titel}\n\nText:\n{text[:20000]}"
+    client = OpenAI(api_key=api_key)
+    prompt = f"Titel: {titel}\n\nText:\n{text[:20000]}"
 
     raw = ''
     for attempt in range(3):
         try:
-            response = client.models.generate_content(
-                model='gemini-2.0-flash',
-                contents=prompt,
-                config=types.GenerateContentConfig(temperature=0.2),
+            response = client.chat.completions.create(
+                model='gpt-5-nano',
+                messages=[
+                    {'role': 'system', 'content': SYSTEM_PROMPT},
+                    {'role': 'user', 'content': prompt},
+                ],
+                response_format={'type': 'json_object'},
             )
-            raw = response.text.strip()
-            if raw.startswith('```'):
-                parts = raw.split('```')
-                raw = parts[1]
-                if raw.startswith('json'):
-                    raw = raw[4:]
-            return json.loads(raw.strip())
+            raw = response.choices[0].message.content.strip()
+            return json.loads(raw)
         except Exception as e:
             err = str(e)
             if '429' in err or 'quota' in err.lower() or 'rate' in err.lower():

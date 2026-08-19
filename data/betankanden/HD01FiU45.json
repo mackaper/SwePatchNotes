@@ -5,9 +5,9 @@
   "nummer": 45,
   "datum": "2026-06-16",
   "rm": "2025/26",
-  "kort_sammanfattning": "",
-  "bakgrund": "",
-  "beslut": "",
+  "kort_sammanfattning": "SCB:s mikrosimuleringsmodell Fasit utökas med uppgifter om hushållssektorns skulder och skuldbetalningar.\nInsamlingen begränsas till uppgifter om skulder.\nÄndamålsbestämmelsen i Fasitlagen utökas så att uppgifterna får behandlas för simulering och beräkning av effekter av befintliga och nya regelverk samt för analys inom området.\nRegeringen får meddela föreskrifter om vilka skuldvariabler som ska samlas in.\nLagen träder i kraft den 1 augusti 2026.",
+  "bakgrund": "Hushållens skuldsättning ökar över tid och statistik behövs för att bedöma risker för individer och ekonomin. Samtidigt krävs skydd av integriteten och en tydlig laglig ram för hur uppgifter får användas.",
+  "beslut": "Riksdagen antar regeringens förslag till lagändring i lagen (2019:508) om behandling av personuppgifter i det fördelningsanalytiska statistiksystemet Fasit så att uppgifter om hushållssektorns skulder och skuldbetalningar får behandlas och användas enligt föreslagna villkor.",
   "roster": {
     "S": {
       "ja": 1,

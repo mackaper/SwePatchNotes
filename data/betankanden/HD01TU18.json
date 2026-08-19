@@ -5,9 +5,9 @@
   "nummer": 18,
   "datum": "2026-06-11",
   "rm": "2025/26",
-  "kort_sammanfattning": "",
-  "bakgrund": "",
-  "beslut": "",
+  "kort_sammanfattning": "En ny lag gäller för statliga myndigheter under regeringen, kommuner, regioner och kommunala bolag vid datadelning som sker återkommande eller i större omfattning, inklusive aktiebolag och handelsbolag där kommuner eller regioner utövar rättsligt bestämmande inflytande.\nRegeringen får meddela föreskrifter om att vissa aktörer undantas från lagens tillämpningsområde.\nRegeringen eller den myndighet regeringen bestämmer får meddela föreskrifter om interoperabilitetskrav för datadelning.\nInteroperabilitetskravet följs inte om det är olämpligt med hänsyn till Sveriges säkerhet eller om skyddet för cybersäkerhet eller personuppgifter inte kan upprätthållas, eller om kostnaderna uppenbart inte står i rimlig proportion till samhällsnyttan.\nLagen träder i kraft den 15 augusti 2026.",
+  "bakgrund": "Frågan behandlades eftersom behovet av samordnad interoperabilitet vid datadelning mellan offentliga aktörer bedöms stärka säkerhet, skydda personuppgifter och möjliggöra en mer kostnadseffektiv offentlig förvaltning. Propositionen föreslår en ny lag om interoperabilitetskrav för datadelning inom den offentliga förvaltningen.",
+  "beslut": "Riksdagen antar regeringens lagförslag till lag om interoperabilitetskrav för datadelning inom den offentliga förvaltningen.",
   "roster": {},
   "tags": [
     "TRANSPORT"

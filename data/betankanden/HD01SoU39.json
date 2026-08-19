@@ -5,9 +5,9 @@
   "nummer": 39,
   "datum": "2026-08-13",
   "rm": "2025/26",
-  "kort_sammanfattning": "Kunde inte generera sammanfattning.",
-  "bakgrund": "",
-  "beslut": "",
+  "kort_sammanfattning": "Socialnämnden får besluta om insatser till vårdnadshavare, barn och unga när insatserna inte kan ges på frivillig väg.\nEtt beslut om insatser till en vårdnadshavare får förenas med vite.\nEtt särskilt villkor för ett barn eller en ung person om att vistas i bostaden under vissa tider får förenas med elektronisk övervakning.\nPolisen får tillfälligt omhänderta ett barn eller en ung person som inte följer ett sådant särskilt villkor.\nFörälder kan få tillfällig föräldrapenning när han eller hon deltar i vissa insatser enligt socialtjänstlagen eller den nya lagen när samtycke saknas.",
+  "bakgrund": "Socialutskottet behandlar frågan för att stärka skyddet för barn och unga vid bristande medverkan i socialtjänsten och därmed förebygga att barn far illa. Förslagen omfattar en ny lag om insatser när samtycke saknas samt flera kompletterande lagändringar, bland annat i Polismyndighetens arbete och i socialförsäkringsbalken.",
+  "beslut": "Riksdagen antar regeringens lagförslag om insatser inom socialtjänsten när samtycke saknas samt lagändringar i Polismyndighetens behandling av personuppgifter enligt lagen om insatser inom socialtjänsten när samtycke saknas samt ändringar i socialförsäkringsbalken.",
   "roster": {
     "S": {
       "ja": 105,

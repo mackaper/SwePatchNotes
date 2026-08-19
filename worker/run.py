@@ -84,7 +84,8 @@ def main():
         failed = []
         for path in sorted(BETANKANDEN_DIR.glob('*.json')):
             detail = json.loads(path.read_text(encoding='utf-8'))
-            if FAILED_MARKER in detail.get('kort_sammanfattning', ''):
+            kort = detail.get('kort_sammanfattning', '')
+            if FAILED_MARKER in kort or not kort.strip():
                 failed.append(detail)
         print(f"Retrying {len(failed)} failed summaries")
         for detail in failed:
@@ -96,7 +97,7 @@ def main():
             time.sleep(20)
             text = get_document_text(dok_id)
             summary = summarize(detail['titel'], text, dok_id)
-            if FAILED_MARKER not in summary['kort']:
+            if summary['kort'].strip() and FAILED_MARKER not in summary['kort']:
                 detail['kort_sammanfattning'] = summary['kort']
                 detail['bakgrund'] = summary['bakgrund']
                 detail['beslut'] = summary['beslut']
