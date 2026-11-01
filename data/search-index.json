@@ -1,5 +1,73 @@
 [
   {
+    "dok_id": "HE01FiU12",
+    "titel": "Ändring i statens budget för 2026 - Bemyndigande om ekonomiska åtaganden för beräkningskraft",
+    "utskott": "FiU",
+    "nummer": 12,
+    "datum": "2026-10-21",
+    "rm": "2026/27",
+    "kort_sammanfattning": "Bemyndigande att ingå ekonomiska åtaganden i form av avtal om beräkningskraft kopplat till upphandlingen av AI-gigafabriker via Euro HPC JU.\nSveriges åtagande uppgår till upp till totalt 50 miljoner euro över fem år, med möjlighet till ytterligare frivilliga åtaganden.\nÅtagandet finansieras genom omprioriteringar inom tidigare beräknade anslag och inom befintliga förvaltningsanslag, med krav att medel omprioriteras i förhållande till budgetpropositionen för 2026.",
+    "roster": {},
+    "tags": [
+      "EKONOMI",
+      "JORDBRUK"
+    ],
+    "status": "ÄNDRAD",
+    "passed": true,
+    "delvoterings": []
+  },
+  {
+    "dok_id": "HE01JuU2",
+    "titel": "Hörande och tillfälligt överförande vid handläggning av en arresteringsorder",
+    "utskott": "JuU",
+    "nummer": 2,
+    "datum": "2026-10-21",
+    "rm": "2026/27",
+    "kort_sammanfattning": "När en arresteringsorder som avser lagföring utfärdas kan den eftersökte höras i den verkställande staten eller tillfälligt överföras till den utfärdande staten på begäran av den utfärdande myndigheten.\nOm den eftersökte har privilegier eller immunitet i Sverige räknas tidsfristerna för överlämnande fr.o.m. den dag tingsrätten får information om att privilegierna eller immuniteten upphört.\nSamtycke från den utfärdande staten krävs för att ett överlämnande för verkställighet av en frihetsberövande påföljd ska kunna vägras och påföljden ska istället verkställas i Sverige.\nLagändringarna träder i kraft den 1 december 2026.",
+    "roster": {},
+    "tags": [
+      "BROTT",
+      "TRANSPORT"
+    ],
+    "status": "NY",
+    "passed": true,
+    "delvoterings": []
+  },
+  {
+    "dok_id": "HE01NU8",
+    "titel": "Framtidssäkring av elräkningar i unionen",
+    "utskott": "NU",
+    "nummer": 8,
+    "datum": "2026-10-21",
+    "rm": "2026/27",
+    "kort_sammanfattning": "Tarifferna utformas kostnadsbaserade, transparenta och icke-diskriminerande och innehåller lokaliseringssignaler, kapacitetskomponenter och tidsdifferentierade komponenter.\nSärskilda tariffsystem får tillämpas för vissa kategorier av systemanvändare under vissa förutsättningar.\nKommissionen ges befogenhet att anta delegerade akter om en gemensam struktur och harmoniserade metoder för överförings- och distributionstariffer.\nMedlemsstaterna kan under vissa förutsättningar använda offentliga medel för att delvis täcka nätkostnader och därigenom minska de nätavgifter som tas ut av systemanvändarna.\nNya bestämmelser om smarta elnät, smarta mätarsystem och datautbyte införs.",
+    "roster": {},
+    "tags": [
+      "EKONOMI",
+      "JORDBRUK"
+    ],
+    "status": "NY",
+    "passed": true,
+    "delvoterings": []
+  },
+  {
+    "dok_id": "HE01SkU9",
+    "titel": "Subsidiaritetsprövning av kommissionens förslag till ändringar av direktiv vad gäller regelförenklingar på direktbeskattningens område",
+    "utskott": "SkU",
+    "nummer": 9,
+    "datum": "2026-10-21",
+    "rm": "2026/27",
+    "kort_sammanfattning": "Inför unionsgemensam miniminivå för avdrag för kostnader för forskning och utveckling i direktivet mot skatteundandraganden.\nHarmonisering av ränteavdragsbegränsningsreglerna i direktivet mot skatteundandraganden.\nUtökad källskattebefrielse genom slopade innehavskrav i moder- och dotterbolagsdirektivet.\nSlopade innehavskrav i ränte- och royaltydirektivet.",
+    "roster": {},
+    "tags": [
+      "EKONOMI",
+      "UTBILDNING"
+    ],
+    "status": "ÄNDRAD",
+    "passed": true,
+    "delvoterings": []
+  },
+  {
     "dok_id": "HD01JuU41",
     "titel": "Skärpta regler för unga lagöverträdare",
     "utskott": "JuU",
